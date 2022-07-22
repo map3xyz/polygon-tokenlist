@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a01b4e56-3be6-4524-b893-144d557fc10e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Dai - PoS",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

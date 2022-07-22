@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "668b6894-6d2d-46c4-8734-8784ebd23ff5",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Binance USD",
+  "spam": false,
+  "symbol": "BUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

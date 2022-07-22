@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "761726c3-9062-421c-ae96-e1608709d796",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x831753dd7087cac61ab5644b308642cc1c33dc13/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Quickswap",
+  "spam": false,
+  "symbol": "QUICK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

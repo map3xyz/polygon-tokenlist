@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3cc43f5e-ae5a-4255-9fe8-7a1596a033a7",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Ether - PoS",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

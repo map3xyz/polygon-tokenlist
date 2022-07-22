@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "38da11e4-db1c-4172-9f54-8f88ed9b4cb6",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "ChainLink Token",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
