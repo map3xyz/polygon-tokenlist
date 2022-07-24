@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c48e5661-7d7e-425e-8e4a-39dd89793648",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing SNX",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aSNX",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

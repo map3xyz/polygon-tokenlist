@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0a6e9f85-17e0-4bd8-8ed6-34f3876e27b5",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "TrueUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "TUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

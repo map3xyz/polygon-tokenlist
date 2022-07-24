@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4ebde18d-8482-4c4e-98f7-b8a620b51122",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing Uniswap",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aUNI",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

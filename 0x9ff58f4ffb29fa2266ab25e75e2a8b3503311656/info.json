@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "9dae13d5-09cc-4bb9-9c56-9d1b774f2e8f",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aWBTC.svg"
+    }
+  },
+  "name": "Aave interest bearing WBTC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aWBTC",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

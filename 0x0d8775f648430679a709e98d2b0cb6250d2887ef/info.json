@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bbb3d708-e1fb-4461-8b66-8772392d34b4",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Basic Attention Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "BAT",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xba3D9687Cf50fE253cd2e1cFeEdE1d6787344Ed5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "096490cc-9bb3-4a12-ba98-c2238ef98bd7",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aAAVE.svg"
+    }
+  },
+  "name": "Aave Interest bearing Aave Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aAAVE",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
