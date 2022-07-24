@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "cfca8c20-9775-4f96-8d53-7d5aae706474",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Telcoin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "TEL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

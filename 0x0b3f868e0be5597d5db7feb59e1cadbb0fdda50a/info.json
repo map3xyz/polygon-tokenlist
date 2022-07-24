@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "546b212b-d576-4aac-845d-29fc0273cfe7",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "SushiToken",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "SUSHI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
