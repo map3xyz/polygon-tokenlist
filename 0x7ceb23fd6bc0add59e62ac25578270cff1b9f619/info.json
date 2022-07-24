@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0dffd2d6-12a0-443a-bc33-299102deff73",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ether - PoS",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3d86d411-4339-417c-9c8c-3ae9047a9d46",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Quickswap",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "QUICK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
