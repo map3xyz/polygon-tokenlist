@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0bd7d1ae-ed0e-42f5-8040-028adeb62002",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentral Games",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

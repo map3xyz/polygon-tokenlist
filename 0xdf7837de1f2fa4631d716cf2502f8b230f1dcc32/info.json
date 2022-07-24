@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "e1adcc3c-c84f-4ed2-8305-726d95c3f1ed",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Telcoin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "TEL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

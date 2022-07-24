@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x0000000000000000000000000000000000001010",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d137a2b1-4811-4395-8a57-a08ccb86685d",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Matic Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "MATIC",
+  "tags": [
+    "plasma",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
