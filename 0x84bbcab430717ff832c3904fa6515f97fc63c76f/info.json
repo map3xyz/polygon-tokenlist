@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x84BBcaB430717ff832c3904fa6515f97fc63C76F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4e137326-b691-4a66-bbd4-a8f168c65144",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUNI%20sETH%20ETH.svg"
+    }
+  },
+  "name": "Aave Interest bearing UniSETHETH",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aUniSETHETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

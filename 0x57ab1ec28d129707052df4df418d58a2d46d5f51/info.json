@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fdf58328-9314-474f-b5c5-8ef0f2da58cf",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Synth sUSD",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "sUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

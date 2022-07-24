@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xBcca60bB61934080951369a648Fb03DF4F96263C",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "ccc5ff15-4ad0-4652-832e-2ac581952671",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aUSDC.svg"
+    }
+  },
+  "name": "Aave interest bearing USDC",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aUSDC",
+  "tags": [
+    "atokenv2",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

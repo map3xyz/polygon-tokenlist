@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9521a21c-0d28-42af-ad3f-8f319eea8f6a",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "MakerDAO",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "MKR",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

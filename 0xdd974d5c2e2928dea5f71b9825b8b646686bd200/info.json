@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fce8cd9d-f742-414a-ac5b-8877b38363e7",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Kyber Network Crystal",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "KNC",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a1f11120-aef5-4a29-b726-8de2357655a6",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aMANA.svg"
+    }
+  },
+  "name": "Aave interest bearing MANA",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aMANA",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

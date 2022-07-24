@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "c58ce464-b160-4b9e-9a30-72a0e9cfd3e0",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap DAI LP",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "UniDAIETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

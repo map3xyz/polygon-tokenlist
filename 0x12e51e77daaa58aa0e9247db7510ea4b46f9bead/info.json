@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "dbe30087-5cf8-400a-be85-b7245c0b2254",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing YFI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aYFI",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

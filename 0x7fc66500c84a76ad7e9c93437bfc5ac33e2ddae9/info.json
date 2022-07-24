@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1962d44e-4993-4aed-97f7-b11a157efd9b",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Token",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "AAVE",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e837551a-7972-47bb-8e42-f756efd6e920",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": "ipfs://QmaznB5PRhMC696u8yZuzN6Uwrnp7Zmfa5CydVUMvLJc9i/aMKR.svg"
+    }
+  },
+  "name": "Aave interest bearing MKR",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aMKR",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "263e5091-bee4-40e2-b8ba-479f4a98c456",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave interest bearing UNI",
+  "networkId": "ethereum",
+  "spam": false,
+  "symbol": "aUNI",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
