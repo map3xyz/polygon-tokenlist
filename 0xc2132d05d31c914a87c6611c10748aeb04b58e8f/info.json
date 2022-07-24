@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "cc91919e-0a99-467d-a63c-5a1876c02d5a",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tether USD",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

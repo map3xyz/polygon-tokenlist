@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "47a0d80c-d974-4c98-a35b-81ba4f9fd433",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "AAVE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "color": null,
+  "decimals": 6,
+  "description": [],
+  "id": "1481a91a-9e4f-4663-9867-9f0e715a6b0b",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDC",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "metaTx",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

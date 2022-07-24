@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cd38fde2-834c-4e59-8119-6b85b31a2f38",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aavegotchi GHST Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GHST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

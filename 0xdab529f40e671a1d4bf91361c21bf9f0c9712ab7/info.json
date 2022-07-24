@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5abf3fb6-5b78-4629-a6a1-401df1b4d353",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance USD",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
