@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "640c2748-72e3-44cc-a646-052a9737a5ba",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4e15361fd6b4bb609fa63c81a2be19d873717870/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Fantom",
+  "spam": false,
+  "symbol": "FTM",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

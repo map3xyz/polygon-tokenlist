@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8705e78c-f7d9-4f4e-ba3e-61b5cd9ec7d0",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdbdb4d16eda451d0503b854cf79d55697f90c8df/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Alchemix",
+  "spam": false,
+  "symbol": "ALCX",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

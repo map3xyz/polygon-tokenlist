@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4b1c3665-f9e9-49f3-9555-e9c84e2cb12a",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x2e9d63788249371f1dfc918a52f8d799f4a38c94/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Tokemak",
+  "spam": false,
+  "symbol": "TOKE",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

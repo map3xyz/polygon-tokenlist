@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "fca4960f-670e-4b83-bdce-2dfe0fbbcc23",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Bancor",
+  "spam": false,
+  "symbol": "BNT",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

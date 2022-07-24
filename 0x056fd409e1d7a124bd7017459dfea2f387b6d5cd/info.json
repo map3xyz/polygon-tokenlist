@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "12e8fe71-b615-4264-91c4-012acc082fdb",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "GeminiDollar",
+  "spam": false,
+  "symbol": "GUSD",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

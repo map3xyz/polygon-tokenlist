@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e131e366-0e03-4fce-92ed-9f78f2a4b4ac",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dai Stablecoin",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
