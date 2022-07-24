@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d810260d-5757-415e-9687-1be13f8ca5a2",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "UNI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

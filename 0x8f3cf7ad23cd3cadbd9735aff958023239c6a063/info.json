@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "10588c81-35f5-48dd-bf83-6189676dd66d",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Dai - PoS",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

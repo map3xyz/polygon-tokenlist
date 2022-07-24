@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "deeef596-a23c-43f6-8a20-968e7d543cf1",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Balancer",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BAL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
