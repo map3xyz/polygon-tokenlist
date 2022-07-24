@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "886f22c1-655a-426a-89e1-f4cd2679a94e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ChainLink Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
