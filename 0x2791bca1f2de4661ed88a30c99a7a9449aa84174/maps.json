@@ -1,0 +1,15 @@
+[
+    {
+        "fromAsset": "597c0c0d-dd22-4b7a-81bd-ce1e6656a10f",
+        "fromNetwork": "polygon",
+        "toAsset": "cb16073d-069f-4f8a-b87c-9a9af5e2c97e",
+        "toNetwork": "ethereum",
+        "type": "direct_issuance",
+        "verifications": [
+            {
+                "type" : "kleros-xdai",
+                "submission": "0xxxTODOOOO"
+            }
+        ]
+    }
+]
