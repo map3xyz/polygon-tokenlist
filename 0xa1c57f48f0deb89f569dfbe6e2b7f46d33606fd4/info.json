@@ -21,7 +21,7 @@
       "ipfs": null
     },
     "svg": {
-      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.svg",
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.svg",
       "ipfs": null
     }
   },
@@ -34,6 +34,7 @@
     "erc20",
     "swapable"
   ],
+  "type": "asset",
   "verifications": [],
   "version": "0.0.1"
 }
