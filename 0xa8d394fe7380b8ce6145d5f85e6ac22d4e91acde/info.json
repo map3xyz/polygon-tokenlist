@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xA8D394fE7380b8cE6145d5f85E6aC22d4E91ACDe",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "bb157d0d-de5c-40ec-994c-8630cab6abb9",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde",
+    "research": null,
+    "website": "https://www.paxos.com/busd/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance USD (Portal from BSC)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BUSDbs",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

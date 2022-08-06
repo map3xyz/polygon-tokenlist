@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.",
+      "verified": true
+    }
+  ],
+  "id": "f3575651-1c43-4e10-b6cc-9fef0bf59741",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+    "research": null,
+    "website": "https://www.mai.finance/",
+    "discord": "https://discord.com/invite/mQq55j65xJ",
+    "twitter": "https://twitter.com/0xLaoZi",
+    "coingecko": "https://coingecko.com/en/coins/qi-dao/",
+    "medium": "https://0xlaozi.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x580a84c73811e1839f75d86d75d88cca0c241ff4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Qi Dao",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "QI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

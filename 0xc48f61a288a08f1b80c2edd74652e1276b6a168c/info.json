@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GYSR is an open platform for on-chain incentives.",
+      "verified": true
+    }
+  ],
+  "id": "f2ab80a2-1cee-44f1-ab7c-ebd51e5f7e5d",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xc48f61a288a08f1b80c2edd74652e1276b6a168c",
+    "research": null,
+    "website": "https://gysr.io",
+    "github": "https://github.com/gysr-io",
+    "twitter": "https://twitter.com/gysr_io",
+    "telegram": "https://t.me/gysr_io",
+    "discord": "https://discord.com/invite/qjWa7JB",
+    "medium": "https://medium.com/gysr",
+    "blog": "https://gysr.substack.com",
+    "whitepaper": "https://resources.gysr.io/gysr_v2_whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gysr",
+    "coingecko": "https://coingecko.com/en/coins/geyser"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc48f61a288a08f1b80c2edd74652e1276b6a168c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GYSR",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GYSR",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

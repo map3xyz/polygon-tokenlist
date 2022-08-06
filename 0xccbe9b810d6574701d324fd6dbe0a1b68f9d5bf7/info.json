@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.",
+      "verified": true
+    }
+  ],
+  "id": "9e220926-d7cd-4207-94a5-00fc66f68f73",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7",
+    "research": null,
+    "website": "https://stacker.vc/polygon",
+    "discord": "https://discord.com/invite/hFNRy3t",
+    "twitter": "https://twitter.com/StackerVentures",
+    "coingecko": "https://coingecko.com/en/coins/stacker-ventures/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stacker-ventures/",
+    "github": "https://github.com/stacker-ventures",
+    "telegram": "https://t.me/StackerVentures"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": " Stacker Ventures Token (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "STACK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

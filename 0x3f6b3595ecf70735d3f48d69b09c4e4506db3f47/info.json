@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "GameStation is a decentralized multi-chain gaming launchpad and marketplace.",
+      "verified": true
+    }
+  ],
+  "id": "4904566b-6551-47cd-a467-334c7f3ac50b",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+    "research": null,
+    "website": "https://www.gamestation.io/",
+    "twitter": "https://twitter.com/gamestationio",
+    "telegram": "https://t.me/gamestationio_official",
+    "medium": "https://medium.com/gamestationio"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3f6b3595ecf70735d3f48d69b09c4e4506db3f47/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GameStation",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GAMER",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

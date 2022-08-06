@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "f9b5590b-4640-40aa-9672-b01e68b00031",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+    "research": null,
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9417669fbf23357d2774e9d421307bd5ea1006d2/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tether USD (Portal from Ethereum)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDTet",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
