@@ -1,6 +1,6 @@
 {
   "name": "@Map3/polygon-tokenlist",
-  "timestamp": "2022-07-24T09:16:53.267Z",
+  "timestamp": "2022-08-06T12:04:55.417Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -42,7 +42,6 @@
       "name": "Matic Token",
       "decimals": 18,
       "symbol": "MATIC",
-      "logoURI": "",
       "tags": [
         "plasma",
         "erc20",
@@ -54,7 +53,6 @@
       "name": "SushiToken",
       "decimals": 18,
       "symbol": "SUSHI",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -62,11 +60,17 @@
       ]
     },
     {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "Wrapped MATIC",
+      "decimals": 18,
+      "symbol": "WMATIC",
+      "tags": []
+    },
+    {
       "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
       "name": "Wrapped BTC",
       "decimals": 8,
       "symbol": "WBTC",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -79,7 +83,6 @@
       "name": "USD Coin",
       "decimals": 6,
       "symbol": "USDC",
-      "logoURI": "",
       "tags": [
         "pos",
         "stablecoin",
@@ -93,7 +96,6 @@
       "name": "Aavegotchi GHST Token",
       "decimals": 18,
       "symbol": "GHST",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -106,7 +108,6 @@
       "name": "ChainLink Token",
       "decimals": 18,
       "symbol": "LINK",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -119,7 +120,6 @@
       "name": "Ether - PoS",
       "decimals": 18,
       "symbol": "ETH",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -132,7 +132,6 @@
       "name": "Quickswap",
       "decimals": 18,
       "symbol": "QUICK",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20"
@@ -143,7 +142,6 @@
       "name": "Dai - PoS",
       "decimals": 18,
       "symbol": "DAI",
-      "logoURI": "",
       "tags": [
         "pos",
         "stablecoin",
@@ -157,7 +155,6 @@
       "name": "Balancer",
       "decimals": 18,
       "symbol": "BAL",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -169,7 +166,6 @@
       "name": "Decentraland MANA",
       "decimals": 18,
       "symbol": "MANA",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -181,7 +177,6 @@
       "name": "Uniswap",
       "decimals": 18,
       "symbol": "UNI",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -194,7 +189,6 @@
       "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
-      "logoURI": "",
       "tags": [
         "pos",
         "stablecoin",
@@ -208,7 +202,6 @@
       "name": "Aave",
       "decimals": 18,
       "symbol": "AAVE",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -221,7 +214,6 @@
       "name": "Binance USD",
       "decimals": 18,
       "symbol": "BUSD",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -233,7 +225,6 @@
       "name": "Telcoin",
       "decimals": 2,
       "symbol": "TEL",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
@@ -246,7 +237,6 @@
       "name": "Decentral Games",
       "decimals": 18,
       "symbol": "DG",
-      "logoURI": "",
       "tags": [
         "pos",
         "erc20",
