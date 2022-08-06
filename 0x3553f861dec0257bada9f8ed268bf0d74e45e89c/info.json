@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x3553f861dEc0257baDA9F8Ed268bf0D74e45E89C",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "b4b2be98-55e5-4d22-819c-08d362c24058",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x3553f861dec0257bada9f8ed268bf0d74e45e89c",
+    "research": null,
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3553f861dec0257bada9f8ed268bf0d74e45e89c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Tether USD (Portal from Solana)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDTso",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

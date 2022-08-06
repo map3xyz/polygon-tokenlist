@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
+  "color": null,
+  "decimals": 7,
+  "description": [
+    {
+      "locale": "en",
+      "value": "ISLAMICOIN A Cryptocurrency For The Global Muslim Community",
+      "verified": true
+    }
+  ],
+  "id": "fbcef5c6-4d4d-4e35-98f6-65eba4840c27",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x9c891326fd8b1a713974f73bb604677e1e63396d",
+    "research": null,
+    "website": "https://islamicoin.finance",
+    "twitter": "https://twitter.com/islamicoin",
+    "github": "https://github.com/islamiblockchain",
+    "telegram": "https://t.me/islamicoin1",
+    "telegramNews": "https://t.me/islamicoinchat",
+    "facebook": "https://facebook.com/islamicoin",
+    "sourceCode": "https://github.com/ISLAMIBLOCKCHAIN/ISLAMICOIN/blob/main/contracts/ISLAMICOIN.sol",
+    "whitepaper": "https://secureservercdn.net/160.153.137.40/mmc.19a.myftpupload.com/wp-content/uploads/2021/09/islamicoinE.pdf",
+    "youtube": "https://youtube.com/channel/UCPdg9Cx2g9DyTR_xD5S_lXA",
+    "medium": "https://medium.com/@islamicoin"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9c891326fd8b1a713974f73bb604677e1e63396d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ISLAMICOIN",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ISLAMI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

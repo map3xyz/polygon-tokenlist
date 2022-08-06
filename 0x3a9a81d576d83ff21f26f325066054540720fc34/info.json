@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x3a9A81d576d83FF21f26f325066054540720fC34",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+      "verified": true
+    }
+  ],
+  "id": "ba14ff01-0f23-4b4b-b25d-1dd8b0230a33",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x3a9A81d576d83FF21f26f325066054540720fC34",
+    "research": null,
+    "website": "https://streamr.network",
+    "twitter": "https://twitter.com/streamr",
+    "github": "https://github.com/streamr-dev",
+    "whitepaper": "https://streamr.network/network-whitepaper",
+    "blog": "https://blog.streamr.network",
+    "docs": "https://streamr.network/docs"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a9a81d576d83ff21f26f325066054540720fc34/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Streamr",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

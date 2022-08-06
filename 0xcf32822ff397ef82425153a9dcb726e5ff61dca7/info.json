@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
+      "verified": true
+    }
+  ],
+  "id": "2028ccaf-c768-4511-bc51-3cfe9673ad53",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+    "research": null,
+    "website": "https://token.gamee.com",
+    "discord": "https://discord.com/p5ZYTVJeQz",
+    "twitter": "https://twitter.com/GAMEEToken",
+    "coingecko": "https://coingecko.com/en/coins/gamee",
+    "medium": "https://gamee.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gamee/",
+    "telegram": "https://t.me/gameetoken"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xcf32822ff397ef82425153a9dcb726e5ff61dca7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "GAMEE Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GMEE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

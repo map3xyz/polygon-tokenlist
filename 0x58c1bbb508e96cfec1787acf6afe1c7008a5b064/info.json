@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "We Meme Business.",
+      "verified": true
+    }
+  ],
+  "id": "bd1bbc71-264f-4f44-b25a-997e894a3c2b",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064",
+    "research": null,
+    "website": "https://hogefinance.com",
+    "reddit": "https://reddit.com/r/hoge",
+    "discord": "https://discord.com/invite/hoge",
+    "twitter": "https://twitter.com/hogefinance",
+    "telegram": "https://t.me/hogefinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hoge-finance",
+    "coingecko": "https://coingecko.com/en/coins/hoge-finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x58c1bbb508e96cfec1787acf6afe1c7008a5b064/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Hoge Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "HOGE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

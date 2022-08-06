@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PolyWhale is a popular yield farm on Polygon that allows users to earn KRILL through yield farming, then stakes it in Nests to earn more tokens.",
+      "verified": true
+    }
+  ],
+  "id": "02078204-ea8f-40f2-8088-cf12a006f98d",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
+    "research": null,
+    "website": "https://polywhale.finance/",
+    "github": "https://github.com/polywhalefarm/contracts",
+    "twitter": "https://twitter.com/polywhalefi",
+    "telegram": "https://t.me/polywhale",
+    "medium": "https://medium.com/polywhale",
+    "coingecko": "https://coingecko.com/en/coins/polywhale"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Krill",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "Krill",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

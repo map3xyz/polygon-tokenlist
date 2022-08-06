@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x11CD37bb86F65419713f30673A480EA33c826872",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "6d1ec509-8d62-4e8b-ad2f-9c75cddd1055",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x11CD37bb86F65419713f30673A480EA33c826872",
+    "research": null,
+    "website": "https://ethereum.org/en/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x11cd37bb86f65419713f30673a480ea33c826872/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ether (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

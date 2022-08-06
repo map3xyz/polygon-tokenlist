@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wrapped Conceal ($wCCX) is just a representation of ₡CCX on any of the available bridged ecosystems — a tokenized ₡CCX. Exactly one $wCCX will always represent (or equal) one ₡CCX.",
+      "verified": true
+    }
+  ],
+  "id": "52522ae2-a902-4565-ac95-246e6ead46fb",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a",
+    "research": null,
+    "website": "https://conceal.network/",
+    "discord": "https://discord.com/invite/YbpHVSd",
+    "telegram": "https://t.me/concealnetworkusers",
+    "twitter": "https://twitter.com/ConcealNetwork",
+    "github": "https://github.com/sushiswap",
+    "medium": "https://concealnetwork.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/wrapped-conceal",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-conceal/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped CCX",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "wCCX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

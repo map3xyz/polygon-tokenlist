@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "UNCX is the governance token of the UniCrypt platform.",
+      "verified": true
+    }
+  ],
+  "id": "92b95094-738b-4210-89e9-353aaabbfc7d",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x9eecd634c7a934f752af0eb90dda9ecc262f199f",
+    "research": null,
+    "website": "https://unicrypt.network",
+    "twitter": "https://twitter.com/UNCX_token",
+    "medium": "https://unicrypt.medium.com/",
+    "telegram": "https://t.me/uncx_token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/uncx/",
+    "coingecko": "https://coingecko.com/en/coins/unicrypt",
+    "docs": "https://docs.unicrypt.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9eecd634c7a934f752af0eb90dda9ecc262f199f/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UniCrypt",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "UNCX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
