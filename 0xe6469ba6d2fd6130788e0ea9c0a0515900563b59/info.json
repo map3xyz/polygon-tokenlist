@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "46a9c8a0-c5b7-415e-934c-300e65dace5c",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+    "research": null,
+    "website": "https://wormholebridge.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe6469ba6d2fd6130788e0ea9c0a0515900563b59/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UST (Wormhole)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

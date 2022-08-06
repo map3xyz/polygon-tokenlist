@@ -1,0 +1,51 @@
+{
+  "active": true,
+  "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Decentralized asset management protocol connecting the world’s best investment managers with investors in a permissionless, trustless fashion.",
+      "verified": true
+    }
+  ],
+  "id": "95911822-8584-4153-9da4-b266c093eeaf",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+    "research": null,
+    "website": "https://www.dhedge.org/",
+    "twitter": "https://twitter.com/dHedgeOrg",
+    "github": "https://github.com/dhedge",
+    "telegram": "https://t.me/dhedge",
+    "telegramNews": "https://t.me/dhedge",
+    "blog": "https://dhedge.ghost.io/",
+    "docs": "https://docs.dhedge.org/",
+    "forum": "https://forum.dhedge.org/",
+    "discord": "https://discord.com/invite/BAWTbRA",
+    "medium": "https://medium.com/dhedge-org",
+    "youtube": "https://youtube.com/watch?v=OODm7tJspqk",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dhedge-dao/",
+    "coingecko": "https://coingecko.com/en/coins/dhedge-dao"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8c92e38eca8210f4fcbf17f0951b198dd7668292/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "dHEDGE DAO Token (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DHT",
+  "tags": [
+    "governance",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

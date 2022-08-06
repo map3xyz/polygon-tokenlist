@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0xBCD287ca1C614Ecd8c5Ca95bFf3c13c392192df5",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "AirNFTs is NFT marketplace built for multi-chain NFTs on BSC and Polygon and many more, where you can Mint, Trade, Earn with your NFTs.",
+      "verified": true
+    }
+  ],
+  "id": "b0be6ea8-f820-4bf2-b083-35d3110a0759",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xbcd287ca1c614ecd8c5ca95bff3c13c392192df5",
+    "research": null,
+    "website": "https://www.airnfts.com/",
+    "twitter": "https://twitter.com/airnfts",
+    "telegram": "https://t.me/joinchat/HKsQnSvxhfjjKGJe",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/airnfts/",
+    "discord": "https://discord.com/invite/TXjQUVWXx7"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xbcd287ca1c614ecd8c5ca95bff3c13c392192df5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AirNFT Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "AIRT",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

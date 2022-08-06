@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Daily COP is a stablecoin pegged to the Colombian Peso to make financial services accesible to everyone and let Colombians easily enter the crypto-space with a familiar and stable currency that will open a new world of knowledge and opportunities.",
+      "verified": true
+    }
+  ],
+  "id": "f1fa6709-0844-43a1-a1ae-ea237148affa",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+    "research": null,
+    "website": "https://dlycrypto.com/",
+    "twitter": "https://twitter.com/MiDailyWallet",
+    "github": "https://github.com/miDaily/Daily-COP",
+    "whitepaper": "https://dlycrypto.com/wp-content/uploads/2022/01/Whitepaper-daily.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/daily-cop/",
+    "coingecko": "https://coingecko.com/en/coins/daily-cop"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Daily COP",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DLYCOP",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
