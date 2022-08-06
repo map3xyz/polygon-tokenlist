@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Ariadne is a cross-chain DeFi marketplace that is lowering the fees to enter/exit farms on multiple blockchains and saves swaps and bridges costs for both EVM and non-EVM chains.",
+      "verified": true
+    }
+  ],
+  "id": "90c267e8-66ee-445f-86ba-3552dc62eb65",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA",
+    "research": null,
+    "website": "https://ariadne.finance",
+    "medium": "https://medium.com/ariadne-project",
+    "twitter": "https://twitter.com/ariadne_finance",
+    "telegram": "https://t.me/ariadne_finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ariadne/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xb6ebc3ca1741a8f37551e44a51ec00ad417b38ca/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ariadne",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ARDN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

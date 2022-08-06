@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "SpaceRat is a community-driven project built on Matic Network. Three functions occur during each trade: Reflection, LP Acquisition, & Burn.",
+      "verified": true
+    }
+  ],
+  "id": "9d2afe96-402c-42a8-8912-84497f7c9d6d",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4",
+    "research": null,
+    "website": "https://spacerat.finance/",
+    "discord": "https://discord.com/YcdXESeMzK",
+    "twitter": "https://twitter.com/spaceratmatic",
+    "coingecko": "https://coingecko.com/en/coins/spacerat/",
+    "medium": "https://spaceratpolygon.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/spacerat/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SpaceRat",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "SRAT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

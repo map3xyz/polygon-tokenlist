@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "High yield farms & pools on the Polygon Chain. Secure, experienced team and innovative farm features",
+      "verified": true
+    }
+  ],
+  "id": "3c107c3b-db6e-4185-a5e2-2403a880395c",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+    "research": null,
+    "website": "https://app.pearzap.com/",
+    "github": "https://github.com/pearzap",
+    "twitter": "https://twitter.com/pearzap",
+    "coingecko": "https://coingecko.com/en/coins/pear",
+    "medium": "https://pearzap.medium.com",
+    "telegram": "https://t.me/pearzap",
+    "youtube": "https://youtube.com/channel/UCF1dw4IcP_wsXGm4nM4kPqQ",
+    "docs": "https://doc.pearzap.com"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc8bcb58caef1be972c0b638b1dd8b0748fdc8a44/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PearZap Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PEAR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

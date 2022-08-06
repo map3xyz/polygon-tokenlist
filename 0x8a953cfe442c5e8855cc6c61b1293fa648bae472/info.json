@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PolyDoge is a digital currency with one of the most vibrant communities on the powerful Polygon Network.",
+      "verified": true
+    }
+  ],
+  "id": "07630067-01d5-444a-9d72-8aa70500d1e0",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+    "research": null,
+    "website": "https://polydoge.com",
+    "twitter": "https://twitter.com/polydoge",
+    "github": "https://github.com/polydoge",
+    "telegram": "https://t.me/polydoge",
+    "coingecko": "https://coingecko.com/en/coins/polydoge/",
+    "blog": "https://polydoge.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8a953cfe442c5e8855cc6c61b1293fa648bae472/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PolyDoge",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PolyDoge",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

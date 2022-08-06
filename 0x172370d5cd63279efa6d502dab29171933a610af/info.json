@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The main purposes of the Curve DAO token are to incentivise liquidity providers on the Curve Finance platform as well as getting as many users involved as possible in the governance of the protocol.",
+      "verified": true
+    }
+  ],
+  "id": "38824f47-3b06-4ae4-903b-904f009c06c7",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x172370d5cd63279efa6d502dab29171933a610af",
+    "research": null,
+    "website": "https://www.curve.fi/",
+    "github": "https://github.com/curvefi/curve-contract",
+    "twitter": "https://twitter.com/CurveFinance",
+    "telegram": "https://t.me/curvefi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/curve-dao-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x172370d5cd63279efa6d502dab29171933a610af/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CRV (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "CRV",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
