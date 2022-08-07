@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pay expenses, earn $PAY rewards with your crypto tokens in near-instant time. Start spending your tokens at cafe, restaurant and everywhere.",
+      "verified": true
+    }
+  ],
+  "id": "0bc60ed4-541b-48bd-abf8-19d6b7d1b50e",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+    "research": null,
+    "website": "https://www.paybolt.io/",
+    "telegram": "https://t.me/PayBolt",
+    "twitter": "https://twitter.com/PayBoltofficial",
+    "youtube": "https://youtube.com/c/PayBolt",
+    "facebook": "https://facebook.com/PayBolt",
+    "whitepaper": "https://file.paybolt.io/paybolt_whitepaper.pdf",
+    "github": "https://github.com/paybolt",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/paybolt/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe580074a10360404af3abfe2d524d5806d993ea3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PayBolt",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PAY",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

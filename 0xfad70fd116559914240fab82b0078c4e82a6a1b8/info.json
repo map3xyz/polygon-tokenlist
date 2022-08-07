@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Lead chain adoption by creating the lowest fee, highest rewarding AMM on the Polygon (MATIC) network.",
+      "verified": true
+    }
+  ],
+  "id": "bff359f4-1120-435c-b4a6-6349be95276f",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xfad70fd116559914240fab82b0078c4e82a6a1b8",
+    "research": null,
+    "website": "https://cremepieswap.finance",
+    "github": "https://github.com/CremePieSwap",
+    "twitter": "https://twitter.com/CremePieSwap",
+    "whitepaper": "https://docs.cremepieswap.finance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xfad70fd116559914240fab82b0078c4e82a6a1b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CremePieSwap",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "CPIE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pleasure Coin (NSFW) is an ERC-20 token on the Polygon chain that will be utilized within the Pleasure Network, an adult industry ecosystem that empowers individuals and businesses.",
+      "verified": true
+    }
+  ],
+  "id": "bcc1c379-a2c3-44a7-b22c-9129e823ee0e",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
+    "research": null,
+    "website": "https://pleasurecoin.com/",
+    "telegram": "https://t.me/pleasurecoin_crypto",
+    "discord": "https://discord.com/invite/GCHkdY6fnF",
+    "twitter": "https://twitter.com/Pleasure_coin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pleasure-coin/",
+    "coingecko": "https://coingecko.com/coins/pleasure-coin"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pleasure Coin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "NSFW",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

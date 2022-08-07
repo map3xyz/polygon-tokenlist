@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MAI (miMatic) is a stablecoin backed by collateral, and can only be minted with this collateral backing it. MAI is soft pegged to the USD, meaning that 1 MAI is around 1 USD.",
+      "verified": true
+    }
+  ],
+  "id": "9a3ca215-8feb-42ec-a306-bcec586f3c8b",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+    "research": null,
+    "website": "https://www.mai.finance/",
+    "coingecko": "https://coingecko.com/en/coins/mimatic/",
+    "twitter": "https://twitter.com/0xLaoZi",
+    "discord": "https://discord.com/invite/mQq55j65xJ",
+    "medium": "https://0xlaozi.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xa3fa99a148fa48d14ed51d610c367c61876997f1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "miMATIC",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "miMATIC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

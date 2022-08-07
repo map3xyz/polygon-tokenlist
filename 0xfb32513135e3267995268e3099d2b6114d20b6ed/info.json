@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xFB32513135e3267995268E3099d2B6114d20B6eD",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Coinerr make your payments easierr, make your world betterr, make your shopping saferr.",
+      "verified": true
+    }
+  ],
+  "id": "d306893a-c20b-4472-ba4c-286c18dba368",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xfb32513135e3267995268e3099d2b6114d20b6ed",
+    "research": null,
+    "website": "https://coinerr.io",
+    "twitter": "https://twitter.com/coinerr_err",
+    "telegram": "https://t.me/coinerr_ERR",
+    "whitepaper": "https://coinerr.io/papers/whitepaper.pdf",
+    "medium": "https://coinerr.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coinerr/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xfb32513135e3267995268e3099d2b6114d20b6ed/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Coinerr",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ERR",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
