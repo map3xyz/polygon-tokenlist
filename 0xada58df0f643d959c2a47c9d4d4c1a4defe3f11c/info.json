@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The most profitable and secure platform to entrust your digital assets. Absolutely safe with multi-layer encrypted protection.",
+      "verified": true
+    }
+  ],
+  "id": "52f00b29-17c9-4106-b404-e4c8b663bc3e",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
+    "research": null,
+    "website": "https://crypto.com/",
+    "twitter": "https://twitter.com/cryptocom",
+    "facebook": "https://facebook.com/CryptoComOfficial",
+    "telegram": "https://t.me/CryptoComOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/crypto-com-chain/",
+    "coingecko": "https://coingecko.com/en/coins/crypto-com-chain/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Crypto.com Coin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "CRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

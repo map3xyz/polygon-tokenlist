@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Wault Finance is a decentralized finance hub that connects all of the primary DeFi use-cases within one simple ecosystem, on the Binance Smart Chain. In short, an all-in-one DeFi Platform!We’ve built a protocol including 2 tokens – WAULTx and WEX – and some unique features such as: WaultSwap (AMM), Wault Launchpad (new project presales), Wault Locker (liquidity locks for new or established projects), Wault Farms (staking and farming) and many other great services.",
+      "verified": true
+    }
+  ],
+  "id": "e1ceb506-90f3-425c-b2f7-e212bea6f162",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x4c4bf319237d98a30a929a96112effa8da3510eb",
+    "research": null,
+    "website": "https://wault.finance",
+    "twitter": "https://twitter.com/Wault_Finance",
+    "github": "https://github.com/WaultFinance",
+    "telegram": "https://t.me/WaultFinance",
+    "coingecko": "https://coingecko.com/en/coins/waultswap-polygon/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4c4bf319237d98a30a929a96112effa8da3510eb/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WaultSwap Polygon",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WEXpoly",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

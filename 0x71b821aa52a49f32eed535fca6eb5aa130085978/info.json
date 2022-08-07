@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pure-mined neutral token.",
+      "verified": true
+    }
+  ],
+  "id": "b767cf3e-4b0b-4bdd-a5e0-f864a4798011",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x71b821aa52a49f32eed535fca6eb5aa130085978",
+    "research": null,
+    "website": "https://0xbitcoin.org/",
+    "github": "https://github.com/0xbitcoin",
+    "twitter": "https://twitter.com/0xbitcoin_ERC20",
+    "telegram": "https://t.me/QuickSwapDEX",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/0xbtc/",
+    "coingecko": "https://coingecko.com/en/coins/oxbitcoin/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x71b821aa52a49f32eed535fca6eb5aa130085978/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "0xBitcoin Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "0xBTC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

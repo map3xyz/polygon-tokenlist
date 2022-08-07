@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+  "color": null,
+  "decimals": 8,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "4983a3db-99f3-4834-b8b9-0acedfdaa87a",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+    "research": null,
+    "website": "https://www.wbtc.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5d49c278340655b56609fdf8976eb0612af3a0c3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped BTC (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WBTC",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Polyroll is a decentralized casino powered by Chainlink and Polygon. It claims to be provably fair, transparent and immutable games, anytime anywhere.",
+      "verified": true
+    }
+  ],
+  "id": "1c8f8009-ae2d-4d7f-8762-08673632158d",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
+    "research": null,
+    "website": "https://polyroll.org/",
+    "github": "https://github.com/polyroll",
+    "twitter": "https://twitter.com/PolyrollOrg",
+    "telegram": "https://t.me/polyroll",
+    "medium": "https://polyroll.medium.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc68e83a305b0fad69e264a1769a0a070f190d2d6/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Polyroll Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ROLL",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.",
+      "verified": true
+    }
+  ],
+  "id": "ea4bf96c-14c4-4fb3-948c-8fe33ed448c1",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+    "research": null,
+    "website": "https://www.routerprotocol.com/",
+    "github": "https://github.com/router-protocol",
+    "twitter": "https://twitter.com/routerprotocol",
+    "coingecko": "https://coingecko.com/en/coins/route/",
+    "medium": "https://routerprotocol.medium.com/",
+    "telegram": "https://t.me/routerprotocol"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Route",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ROUTE",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
