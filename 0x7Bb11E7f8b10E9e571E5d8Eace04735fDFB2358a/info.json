@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "73a96c9b-d4a9-46d4-b618-848a890cdc84",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+    "research": null,
+    "website": "https://www.avax.network/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AVAX (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "AVAX",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

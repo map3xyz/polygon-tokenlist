@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "address": "0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality",
+      "verified": true
+    }
+  ],
+  "id": "61ff0461-f21a-4566-9905-d0d3bf2f2df9",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30",
+    "research": null,
+    "website": "https://www.ovr.ai/",
+    "telegram": "https://t.me/OVRtheReality",
+    "twitter": "https://twitter.com/OVRtheReality",
+    "facebook": "https://facebook.com/OVRmetaverse/",
+    "telegramNews": "https://t.me/ovrannouncements",
+    "medium": "https://medium.com/ovrthereality",
+    "coingecko": "https://coingecko.com/en/coins/ovr",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ovr/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "OVR",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "OVR",
+  "tags": [
+    "nft"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

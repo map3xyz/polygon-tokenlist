@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
+      "verified": true
+    }
+  ],
+  "id": "f59f53e2-6546-4605-a615-79bf39dae57b",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+    "research": null,
+    "website": "https://deus.finance/",
+    "twitter": "https://twitter.com/DeusDao",
+    "telegram": "https://t.me/deusfinance",
+    "medium": "https://medium.com/@deusfinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEUS",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DEUS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

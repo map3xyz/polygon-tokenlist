@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Multi-chain Partial-Collateralized Stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "9f65f469-1dcf-4bae-8c84-ef94d6a962c8",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+    "research": null,
+    "website": "https://polygon.iron.finance",
+    "twitter": "https://twitter.com/ironfinance",
+    "github": "https://github.com/ironfinance",
+    "telegram": "https://t.me/ironfinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/iron-titanium-token/",
+    "coingecko": "https://coingecko.com/en/coins/iron-titanium-token/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IRON Titanium Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "TITAN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

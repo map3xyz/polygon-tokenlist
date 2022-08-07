@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Pegaxy Game Native Governance Token",
+      "verified": true
+    }
+  ],
+  "id": "c4ab50df-538d-47e2-b6ee-b6b10eba0a85",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+    "research": null,
+    "website": "https://pegaxy.io",
+    "twitter": "https://twitter.com/PegaxyOfficial",
+    "github": "https://github.com/Pegaxy",
+    "telegram": "https://t.me/pegaxyglobal",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pegaxy/",
+    "coingecko": "https://coingecko.com/en/coins/pegaxy-stone"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pegaxy",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PGX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

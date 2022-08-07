@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "a87605d9-189e-45fa-ba3e-2e2d27571d7c",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+    "research": null,
+    "website": "https://orion.money/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5E0294Af1732498C77F8dB015a2d52a76298542B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Orion Money (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ORION",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

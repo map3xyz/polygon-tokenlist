@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "PolyQuity is a decentralized borrowing protocol that allows users to draw interest-free loans against Matic used as collateral.",
+      "verified": true
+    }
+  ],
+  "id": "06fb5f35-3ff3-4232-bc07-d3bd959df5a1",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
+    "research": null,
+    "website": "https://app.polyquity.org/",
+    "github": "https://github.com/PolyQuity/contracts",
+    "twitter": "https://twitter.com/polyquity_org",
+    "coingecko": "https://coingecko.com/en/coins/polyquity/",
+    "medium": "https://medium.com/@polyquity",
+    "telegram": "https://t.me/polyquityorg"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PYQ",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PYQ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
