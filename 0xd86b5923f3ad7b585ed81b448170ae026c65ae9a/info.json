@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Multi-chain Partial-Collateralized Stablecoin",
+      "verified": true
+    }
+  ],
+  "id": "fd5be1fb-9970-4c2c-99b7-6ab64af834dc",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+    "research": null,
+    "website": "https://polygon.iron.finance/",
+    "github": "https://github.com/ironfinance",
+    "twitter": "https://twitter.com/ironfinance",
+    "telegram": "https://t.me/ironfinance",
+    "medium": "https://medium.com/@ironfinance"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd86b5923f3ad7b585ed81b448170ae026c65ae9a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "IRON Stablecoin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "IRON",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

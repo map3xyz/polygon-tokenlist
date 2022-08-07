@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x9cd6746665D9557e1B9a775819625711d0693439",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "4e9818e2-3c9f-4352-af39-6defd620a647",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x9cd6746665D9557e1B9a775819625711d0693439",
+    "research": null,
+    "website": "https://terra.money"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9cd6746665d9557e1b9a775819625711d0693439/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "LUNA (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "LUNA",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "e83ed44e-ac17-4551-bdbb-ce7d0168b344",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
+    "research": null,
+    "website": "https://solana.com/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd93f7e271cb87c23aaa73edc008a79646d1f9912/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "SOL (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

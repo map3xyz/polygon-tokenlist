@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x576Cf361711cd940CD9C397BB98C4C896cBd38De",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "cd36afe8-4377-4141-a5e2-da7ccf2f5898",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x576cf361711cd940cd9c397bb98c4c896cbd38de",
+    "research": null,
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x576cf361711cd940cd9c397bb98c4c896cbd38de/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin (Portal from Solana)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDCso",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

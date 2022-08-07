@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Bloktopia is a Skyscraper Metaverse built and Backed by Polygon.",
+      "verified": true
+    }
+  ],
+  "id": "1e434339-a7dd-45a8-aea6-e147621859be",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+    "research": null,
+    "website": "https://www.bloktopia.com/",
+    "telegram": "https://t.me/BloktopiaChat",
+    "twitter": "https://twitter.com/bloktopia",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bloktopia/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x229b1b6c23ff8953d663c4cbb519717e323a0a84/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "BLOK",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BLOK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}
