@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. IF is the governance and fee accrual token for the swap.",
+      "verified": true
+    }
+  ],
+  "id": "efcd2e88-e552-4717-8585-5433aae476f2",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+    "research": null,
+    "website": "https://impossible.finance",
+    "github": "https://github.com/impossiblefinance",
+    "twitter": "https://twitter.com/impossiblefi",
+    "blog": "https://medium.com/impossiblefinance",
+    "telegram": "https://t.me/ImpossibleFinance",
+    "coingecko": "https://coingecko.com/en/coins/impossible-finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xb0e1fc65c1a741b4662b813eb787d369b8614af1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Impossible Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "IF",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

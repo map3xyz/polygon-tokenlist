@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Value-oriented, economically sustainable hybrid yield aggregator on Polygon.",
+      "verified": true
+    }
+  ],
+  "id": "27e04172-6381-4c5c-acb8-c5c29e33f632",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x3a3df212b7aa91aa0402b9035b098891d276572b",
+    "research": null,
+    "website": "https://polycat.finance",
+    "twitter": "https://twitter.com/PolycatFinance",
+    "github": "https://github.com/polycatfi",
+    "telegram": "https://t.me/PolycatFinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/polycat-finance/",
+    "coingecko": "https://coingecko.com/en/coins/polycat-finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a3df212b7aa91aa0402b9035b098891d276572b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Fish",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "FISH",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

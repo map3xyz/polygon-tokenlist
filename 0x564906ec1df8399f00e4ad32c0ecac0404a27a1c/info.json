@@ -1,0 +1,49 @@
+{
+  "active": true,
+  "address": "0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "WALLET is the governance token of Ambire Wallet. It is also used as a user acquisition tool for marketing activities (referral program, rewards, etc.).",
+      "verified": true
+    }
+  ],
+  "id": "48bcc341-9190-400f-a7a0-580175d553fd",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c",
+    "research": null,
+    "website": "https://ambire.com",
+    "github": "https://github.com/AmbireTech/wallet",
+    "twitter": "https://twitter.com/AmbireWallet",
+    "blog": "https://ambire.medium.com",
+    "telegram": "https://t.me/AmbireOfficial",
+    "discord": "https://discord.com/invite/nMBGJsb",
+    "facebook": "https://facebook.com/AmbireAdEx",
+    "whitepaper": "https://ambire.notion.site/ambire/Ambire-Wallet-Whitepaper-d502e54caf584fe7a67f9b0a018cd10f",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ambire-wallet",
+    "coingecko": "https://coingecko.com/coins/ambire-wallet"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x564906ec1df8399f00e4ad32c0ecac0404a27a1c/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ambire Wallet",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WALLET",
+  "tags": [
+    "defi",
+    "governance",
+    "staking"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

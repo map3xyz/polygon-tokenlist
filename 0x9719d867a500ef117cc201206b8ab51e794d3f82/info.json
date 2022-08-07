@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "aTokens on Polygon are known as maTokens.",
+      "verified": true
+    }
+  ],
+  "id": "e8d53e4d-2619-4aa6-a1d3-47d598fcd6d0",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x9719d867a500ef117cc201206b8ab51e794d3f82",
+    "research": null,
+    "website": "https://www.aavegotchi.com/",
+    "discord": "https://discord.com/invite/NPwnWB6",
+    "twitter": "https://twitter.com/aavegotchi",
+    "coingecko": "https://coingecko.com/en/coins/matic-aave-usdc/",
+    "medium": "https://aavegotchi.medium.com/",
+    "telegram": "https://t.me/aavegotchi"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9719d867a500ef117cc201206b8ab51e794d3f82/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Matic Aave interest bearing USDC",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "maUSDC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

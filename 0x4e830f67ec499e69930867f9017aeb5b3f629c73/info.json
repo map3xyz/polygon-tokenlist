@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Multi-chain Derivatives Trading Protocol.",
+      "verified": true
+    }
+  ],
+  "id": "7361a4fc-bf2e-4d4a-8897-09628fc328c5",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+    "research": null,
+    "website": "https://www.oddz.fi/",
+    "telegram": "https://t.me/oddz_fi_announcements",
+    "twitter": "https://twitter.com/oddz_finance",
+    "facebook": "https://facebook.com/Oddz.fi",
+    "whitepaper": "https://docsend.com/view/mefxr8h3ymzuhwqk",
+    "github": "https://github.com/oddz-finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/oddz/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4e830f67ec499e69930867f9017aeb5b3f629c73/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Oddz",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
