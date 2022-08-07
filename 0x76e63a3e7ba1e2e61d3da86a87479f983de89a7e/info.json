@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Augury Finance is a financial ecosystem on the Polygon (MATIC) blockchain which focuses on trust, community ownership, and sustainable returns.",
+      "verified": true
+    }
+  ],
+  "id": "1e9f419d-07d7-4cb4-9085-a38817290976",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+    "research": null,
+    "website": "https://augury.finance/",
+    "github": "https://github.com/augury-finance/core",
+    "twitter": "https://twitter.com/AuguryFinance",
+    "telegram": "https://t.me/auguryfinance",
+    "medium": "https://auguryfinance.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/augury-finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Augury Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "OMEN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

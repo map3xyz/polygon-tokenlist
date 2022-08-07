@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "MurAll is a 2048x1024px digital mural that anyone can draw on without restriction. MurAll requires PAINT - a fixed supply token synonymous with real-life paint, which is burned in the painting transaction. Painting on MurAll also mints a MURALL NFT of the artwork for the artist to keep.",
+      "verified": true
+    }
+  ],
+  "id": "f02abccb-6150-4423-9158-14c275245114",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x7c28f627ea3aec8b882b51eb1935f66e5b875714",
+    "research": null,
+    "website": "https://murall.art",
+    "github": "https://github.com/murall-art",
+    "twitter": "https://twitter.com/MurAll_art",
+    "telegram": "https://t.me/MurALLart",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/murall/",
+    "coingecko": "https://coingecko.com/en/coins/murall"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7c28f627ea3aec8b882b51eb1935f66e5b875714/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Paint",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PAINT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

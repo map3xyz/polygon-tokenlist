@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "The Multichain Yield Optimizer",
+      "verified": true
+    }
+  ],
+  "id": "0781fd8e-27e9-4348-b7ab-bdc4bd1e8c0b",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0xFbdd194376de19a88118e84E279b977f165d01b8",
+    "research": null,
+    "website": "https://beefy.finance/",
+    "github": "https://github.com/beefyfinance",
+    "twitter": "https://twitter.com/beefyfinance",
+    "telegram": "https://t.me/beefyannouncement",
+    "coingecko": "https://coingecko.com/en/coins/beefy-finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/beefy-finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xfbdd194376de19a88118e84e279b977f165d01b8/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "beefy.finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BIFI",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
