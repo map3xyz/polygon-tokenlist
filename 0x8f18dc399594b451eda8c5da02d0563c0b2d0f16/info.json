@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+  "color": null,
+  "decimals": 9,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Moonwolf is a deflationary token on Matic / Polygon",
+      "verified": true
+    }
+  ],
+  "id": "e3dff6dc-b10f-4ae3-9262-72f6984850b3",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x8f18dc399594b451eda8c5da02d0563c0b2d0f16",
+    "research": null,
+    "website": "https://moonwolf.io",
+    "coingecko": "https://coingecko.com/en/coins/moonwolf-io/",
+    "twitter": "https://twitter.com/moonwolf_io",
+    "reddit": "https://reddit.com/r/Moonwolf_io/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f18dc399594b451eda8c5da02d0563c0b2d0f16/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "moonwolf.io",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WOLF",
+  "tags": [
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

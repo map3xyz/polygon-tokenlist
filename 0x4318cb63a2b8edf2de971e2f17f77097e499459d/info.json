@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4318CB63A2b8edf2De971E2F17F77097e499459D",
+  "color": null,
+  "decimals": 6,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Cross Chain Portal Bridged Token",
+      "verified": true
+    }
+  ],
+  "id": "06fc22da-1f50-411a-a33b-6a75013dea00",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x4318cb63a2b8edf2de971e2f17f77097e499459d",
+    "research": null,
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4318cb63a2b8edf2de971e2f17f77097e499459d/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin (Portal from Ethereum)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDCet",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
+  "color": null,
+  "decimals": 18,
+  "description": [
+    {
+      "locale": "en",
+      "value": "Gravity Finance is a suite of DeFi products on the Polygon Network.",
+      "verified": true
+    }
+  ],
+  "id": "ae0f344e-60c7-40d2-8b69-946fbbc7c449",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x874e178a2f3f3f9d34db862453cd756e7eab0381",
+    "research": null,
+    "website": "https://gravityfinance.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gravity-finance/",
+    "twitter": "https://twitter.com/Gravity_Finance",
+    "telegram": "https://t.me/gravityfinance",
+    "medium": "https://gravityfinance.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/gravity-finance/"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x874e178a2f3f3f9d34db862453cd756e7eab0381/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Gravity Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GFI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

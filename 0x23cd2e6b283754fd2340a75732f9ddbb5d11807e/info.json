@@ -1,0 +1,48 @@
+{
+  "active": true,
+  "address": "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
+  "color": null,
+  "decimals": 0,
+  "description": [
+    {
+      "locale": "en",
+      "value": "EverRise Staking NFTs are containers of Vote Escrowed (ve)EverRise weighted governance tokens. veRISE generates rewards from the auto-buyback with a market driven yield curve, based on the transaction volume of EverRise trades and veEverRise sales.",
+      "verified": true
+    }
+  ],
+  "id": "9137ccdc-410f-479b-9b3d-3ebb304f7a07",
+  "links": {
+    "explorer": "https://polygonscan.com/token/0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
+    "research": null,
+    "website": "https://www.everrise.com/",
+    "twitter": "https://twitter.com/everrise",
+    "telegram": "https://t.me/everriseofficial",
+    "youtube": "https://youtube.com/c/everriseofficial/",
+    "reddit": "https://reddit.com/r/EverRise",
+    "discord": "https://discord.com/invite/everrise",
+    "github": "https://github.com/everrise-ecosystem",
+    "facebook": "https://facebook.com/EverRiseToken"
+  },
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x23cd2e6b283754fd2340a75732f9ddbb5d11807e/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EverRise NFT Stakes",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "nftRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
