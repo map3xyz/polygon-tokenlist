@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a51794b-cd4e-4745-8f5d-ee42fe890450",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "AVAX (Portal)",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "AVAX",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3460ccc5-6e18-4d6f-9427-88a9e4803e5f",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": " Stacker Ventures Token (PoS)",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "STACK",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

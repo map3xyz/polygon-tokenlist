@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a32cae51-8869-46bf-8c64-9742d13b25a4",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Crypto.com Coin",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "CRO",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

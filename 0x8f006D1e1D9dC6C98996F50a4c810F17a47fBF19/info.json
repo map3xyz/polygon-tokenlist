@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ca9b6e18-6cdc-4e8a-b907-c50d982936d0",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pleasure Coin",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "NSFW",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

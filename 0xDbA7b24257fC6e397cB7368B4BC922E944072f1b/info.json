@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xDbA7b24257fC6e397cB7368B4BC922E944072f1b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5876aa43-dbdf-4397-861c-0ac4a80e6d44",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDbA7b24257fC6e397cB7368B4BC922E944072f1b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Vote-escrowed EverRise",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "veRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

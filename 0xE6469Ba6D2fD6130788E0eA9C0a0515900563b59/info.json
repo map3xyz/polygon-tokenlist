@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "aedc1857-2f84-45d2-806c-00941aa39f1e",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "UST (Wormhole)",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "UST",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

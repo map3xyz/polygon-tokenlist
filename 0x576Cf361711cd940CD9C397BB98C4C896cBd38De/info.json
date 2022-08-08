@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x576Cf361711cd940CD9C397BB98C4C896cBd38De",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "c3911650-4589-4bdb-8ddf-20504904e1e3",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x576Cf361711cd940CD9C397BB98C4C896cBd38De/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin (Portal from Solana)",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "USDCso",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

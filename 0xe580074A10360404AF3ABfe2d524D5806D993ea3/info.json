@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6169c77e-3d8d-4bb6-bb78-6f5e66e05477",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PayBolt",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "PAY",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

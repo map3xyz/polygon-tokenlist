@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "508878bc-5abd-4978-82c5-b44b80535466",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "UNI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

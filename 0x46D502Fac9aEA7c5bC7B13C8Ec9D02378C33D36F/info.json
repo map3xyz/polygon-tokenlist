@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3d43825-b00d-47b0-835f-aeda2469e612",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WolfSafePoorPeople",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "WSPP",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

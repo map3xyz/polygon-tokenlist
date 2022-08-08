@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xEAf631ac57F3CDDDd261770dD47F85066131a156",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "331be24a-04c8-4633-937f-e07b00350582",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xEAf631ac57F3CDDDd261770dD47F85066131a156/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Equalizer",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "EQZ",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

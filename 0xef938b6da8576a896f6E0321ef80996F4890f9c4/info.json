@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2664f1ad-6e52-48de-95b8-3034063c8136",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xef938b6da8576a896f6E0321ef80996F4890f9c4/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Decentral Games",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "DG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

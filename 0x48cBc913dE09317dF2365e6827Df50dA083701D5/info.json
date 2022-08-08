@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x48cBc913dE09317dF2365e6827Df50dA083701D5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dbdccfe6-0f61-43e4-978b-7f5eb5b818a6",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x48cBc913dE09317dF2365e6827Df50dA083701D5/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "The 4th Pillar Token",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "FOUR",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

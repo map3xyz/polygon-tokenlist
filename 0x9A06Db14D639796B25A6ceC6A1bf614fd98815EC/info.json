@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08796fdc-ea30-471f-8321-4b87196d3d2b",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "$ZKP Token",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "$ZKP",
+  "tags": [
+    "privacy",
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c47b565-f7c8-477f-813a-b56b78fbfa94",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "CherryPick",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "pCherry",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

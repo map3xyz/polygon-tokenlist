@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0992189-ab9c-4615-8c5a-be47a7d5da6e",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7c28F627eA3aEc8B882b51eb1935f66e5b875714/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Paint",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "PAINT",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8D394fE7380b8cE6145d5f85E6aC22d4E91ACDe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ef4acc4-16ca-4ea5-a14f-b5ecfd8d2894",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xA8D394fE7380b8cE6145d5f85E6aC22d4E91ACDe/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance USD (Portal from BSC)",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "BUSDbs",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

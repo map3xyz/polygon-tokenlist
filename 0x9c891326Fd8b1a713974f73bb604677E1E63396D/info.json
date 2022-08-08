@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "a5ceea7d-cf94-4ad8-9eba-b1961bc89135",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9c891326Fd8b1a713974f73bb604677E1E63396D/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "ISLAMICOIN",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "ISLAMI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

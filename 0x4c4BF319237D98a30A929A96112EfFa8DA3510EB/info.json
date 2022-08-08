@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f46d138-aa7b-4209-895e-84c83e745b4a",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4c4BF319237D98a30A929A96112EfFa8DA3510EB/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "WaultSwap Polygon",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "WEXpoly",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

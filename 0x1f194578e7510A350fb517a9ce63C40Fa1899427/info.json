@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1f194578e7510A350fb517a9ce63C40Fa1899427",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3330f99a-5726-4e56-acd2-2464f37ae35f",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1f194578e7510A350fb517a9ce63C40Fa1899427/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Stable BTC",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "oneBTC",
+  "tags": [
+    "defi"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "de926639-b540-44d0-8ee3-55a41f36626a",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Telcoin",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "TEL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

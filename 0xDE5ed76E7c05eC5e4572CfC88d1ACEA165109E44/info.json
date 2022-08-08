@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f958a6a-6f9a-4be7-b3d6-9c67b076a798",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "DEUS",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "DEUS",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0000000000000000000000000000000000001010",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e6df345-6016-49db-8014-16b71db06a18",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0000000000000000000000000000000000001010/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Matic Token",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "MATIC",
+  "tags": [
+    "plasma",
+    "erc20",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

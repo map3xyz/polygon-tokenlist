@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba8be0de-5a3a-46dc-9639-98b0a9d5dcec",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PUSD",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "PUSD",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

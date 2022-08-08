@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20df1519-4e14-491e-8f7a-afc0774a77d9",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Qi Dao",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "QI",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

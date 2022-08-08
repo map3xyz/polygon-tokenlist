@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xbBD7B847C6d0d0B5691518a363194D71426475F1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e33566e5-5f8d-42d7-a47a-8f9d6afec939",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xbBD7B847C6d0d0B5691518a363194D71426475F1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EverRise Rewards",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "claimRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

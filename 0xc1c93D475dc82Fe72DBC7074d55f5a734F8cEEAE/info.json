@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4bab7b8e-7d23-41b9-8b98-6368f8fe4e73",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Pegaxy",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "PGX",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

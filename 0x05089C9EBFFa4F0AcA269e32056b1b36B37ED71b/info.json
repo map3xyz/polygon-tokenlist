@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03805520-5fb4-401f-95d0-ff20d613e131",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Krill",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "Krill",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

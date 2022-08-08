@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb227fac-e0c5-4b43-91e0-472effceedb3",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "PolyDoge",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "PolyDoge",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

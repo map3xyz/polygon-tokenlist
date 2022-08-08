@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ab85428-b1e6-4cff-9dab-c5d21cf57c0b",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Ariadne",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "ARDN",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

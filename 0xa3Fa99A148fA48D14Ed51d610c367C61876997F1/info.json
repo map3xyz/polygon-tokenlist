@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5b979a71-f758-4430-846c-4094947c170d",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "miMATIC",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "miMATIC",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b563cb5c-5815-4a7e-afcb-5db445370ba1",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "EverRise",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "RISE (old)",
+  "tags": [],
+  "verifications": [],
+  "version": "0.0.1"
+}

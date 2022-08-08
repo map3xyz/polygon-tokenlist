@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a724ff78-fa0b-4d4b-8d0b-b40417ecf796",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "USD Coin",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "USDC",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "metaTx",
+    "swapable"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba343f42-674b-4ee1-998a-75799f9bb743",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Ether - PoS",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "ETH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}

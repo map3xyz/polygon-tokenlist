@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "62fb6f13-4d18-4def-8aa9-ee6d2aa70d0b",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5E0294Af1732498C77F8dB015a2d52a76298542B/logo.png",
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Orion Money (Portal)",
+  "networkId": "polygon",
+  "spam": true,
+  "symbol": "ORION",
+  "tags": [
+    "wrapped"
+  ],
+  "verifications": [],
+  "version": "0.0.1"
+}
