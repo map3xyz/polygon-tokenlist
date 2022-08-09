@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "889e2a47-7935-4571-9a95-828989f0ec21",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/busd.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7/logo.svg"
+    }
+  },
+  "name": "Binance USD",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

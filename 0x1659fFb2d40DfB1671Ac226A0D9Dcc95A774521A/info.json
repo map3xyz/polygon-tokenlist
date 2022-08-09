@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "139f5b5f-9459-485f-bd86-1432fc917f3e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A/logo.png"
+    }
+  },
+  "name": "Daily COP",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DLYCOP",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

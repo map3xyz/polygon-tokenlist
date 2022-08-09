@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aea7b6fd-8d47-4225-bf28-43ddae68f8fe",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/link.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.svg"
+    }
+  },
+  "name": "ChainLink Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

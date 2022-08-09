@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEAf631ac57F3CDDDd261770dD47F85066131a156",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b477f23d-ba4f-4e6d-baa6-7637e3f29b27",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xEAf631ac57F3CDDDd261770dD47F85066131a156/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xEAf631ac57F3CDDDd261770dD47F85066131a156/logo.png"
+    }
+  },
+  "name": "Equalizer",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "EQZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

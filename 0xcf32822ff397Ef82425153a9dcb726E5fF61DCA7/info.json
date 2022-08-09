@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ec578da-8913-40eb-a0a7-fb34d065cd85",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7/logo.png"
+    }
+  },
+  "name": "GAMEE Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GMEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

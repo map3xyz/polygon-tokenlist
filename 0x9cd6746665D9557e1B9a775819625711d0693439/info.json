@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9cd6746665D9557e1B9a775819625711d0693439",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "f58fdb79-a3a4-4ff4-ae72-6e6cef02c0e1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x9cd6746665D9557e1B9a775819625711d0693439/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9cd6746665D9557e1B9a775819625711d0693439/logo.png"
+    }
+  },
+  "name": "LUNA (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "LUNA",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

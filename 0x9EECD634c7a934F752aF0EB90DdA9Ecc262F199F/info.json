@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a0c37ed0-05db-4245-8116-f0b4c7b5aaf1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F/logo.png"
+    }
+  },
+  "name": "UniCrypt",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "UNCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

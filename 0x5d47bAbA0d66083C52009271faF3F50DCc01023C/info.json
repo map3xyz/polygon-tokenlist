@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5d47bAbA0d66083C52009271faF3F50DCc01023C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c200a3e-c8eb-4d40-88fe-384f82eb0e95",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x5d47bAbA0d66083C52009271faF3F50DCc01023C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5d47bAbA0d66083C52009271faF3F50DCc01023C/logo.png"
+    }
+  },
+  "name": "Ape Swap Finance Banana",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BANANA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

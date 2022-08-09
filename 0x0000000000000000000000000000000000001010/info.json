@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x0000000000000000000000000000000000001010",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe9734e0-9d24-489f-bb4c-523656623ec5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/matic.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0000000000000000000000000000000000001010/logo.svg"
+    }
+  },
+  "name": "Matic Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "MATIC",
+  "tags": [
+    "plasma",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

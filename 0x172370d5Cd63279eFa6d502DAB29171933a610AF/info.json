@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a2ac381-98cc-4ebd-b820-5733b59d24a2",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
+    }
+  },
+  "name": "CRV (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "CRV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ca804ada-1ace-438f-852e-9fb69a055df5",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a/logo.png"
+    }
+  },
+  "name": "AVAX (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "AVAX",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

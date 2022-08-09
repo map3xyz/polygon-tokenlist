@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dbde0aa8-f387-48d3-b108-9ad8f569dc05",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://polygonscan.com/token/images/aavegotchighst_32.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png"
+    }
+  },
+  "name": "Aavegotchi GHST Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GHST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

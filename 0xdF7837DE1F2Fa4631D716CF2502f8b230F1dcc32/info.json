@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "d731f49f-44e2-48ff-8dff-df6916110980",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/tel.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32/logo.svg"
+    }
+  },
+  "name": "Telcoin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "TEL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15b9cc65-9e21-4101-8a15-9211a66c0a23",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x229b1b6C23ff8953D663C4cBB519717e323a0a84/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x229b1b6C23ff8953D663C4cBB519717e323a0a84/logo.png"
+    }
+  },
+  "name": "BLOK",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BLOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

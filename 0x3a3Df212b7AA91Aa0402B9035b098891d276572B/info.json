@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "096d5135-9e63-4bf7-b169-4482d5ee9578",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"
+    }
+  },
+  "name": "Fish",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "FISH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

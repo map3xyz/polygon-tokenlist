@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d0c8342-8a4b-4854-a193-c8ee0f981591",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c/logo.png"
+    }
+  },
+  "name": "Ambire Wallet",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WALLET",
+  "tags": [
+    "defi",
+    "governance",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

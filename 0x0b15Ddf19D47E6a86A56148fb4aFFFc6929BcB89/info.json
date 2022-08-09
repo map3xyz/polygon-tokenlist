@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c906ee03-c4bb-4315-8e0d-afa1c75c330a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89/logo.png"
+    }
+  },
+  "name": "Impossible Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "IDIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

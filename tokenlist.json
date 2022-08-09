@@ -1,0 +1,874 @@
+{
+  "name": "@Map3/polygon-tokenlist",
+  "timestamp": "2022-08-09T11:17:25.260Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000001010",
+      "name": "Matic Token",
+      "decimals": 18,
+      "symbol": "MATIC",
+      "tags": [
+        "plasma",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+      "name": "Krill",
+      "decimals": 18,
+      "symbol": "Krill",
+      "tags": []
+    },
+    {
+      "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+      "name": "Impossible Finance",
+      "decimals": 18,
+      "symbol": "IDIA",
+      "tags": []
+    },
+    {
+      "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+      "name": "SushiToken",
+      "decimals": 18,
+      "symbol": "SUSHI",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579",
+      "name": "EverRise",
+      "decimals": 18,
+      "symbol": "RISE (old)",
+      "tags": []
+    },
+    {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "Wrapped MATIC",
+      "decimals": 18,
+      "symbol": "WMATIC",
+      "tags": []
+    },
+    {
+      "address": "0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4",
+      "name": "SpaceRat",
+      "decimals": 9,
+      "symbol": "SRAT",
+      "tags": []
+    },
+    {
+      "address": "0x11CD37bb86F65419713f30673A480EA33c826872",
+      "name": "Ether (Portal)",
+      "decimals": 18,
+      "symbol": "ETH",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
+      "name": "Wrapped CCX",
+      "decimals": 6,
+      "symbol": "wCCX",
+      "tags": []
+    },
+    {
+      "address": "0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30",
+      "name": "OVR",
+      "decimals": 18,
+      "symbol": "OVR",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+      "name": "Daily COP",
+      "decimals": 18,
+      "symbol": "DLYCOP",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+      "name": "Route",
+      "decimals": 18,
+      "symbol": "ROUTE",
+      "tags": []
+    },
+    {
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "name": "CRV (PoS)",
+      "decimals": 18,
+      "symbol": "CRV",
+      "tags": []
+    },
+    {
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "symbol": "WBTC",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x1f194578e7510A350fb517a9ce63C40Fa1899427",
+      "name": "Stable BTC",
+      "decimals": 18,
+      "symbol": "oneBTC",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+      "name": "BLOK",
+      "decimals": 18,
+      "symbol": "BLOK",
+      "tags": []
+    },
+    {
+      "address": "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
+      "name": "EverRise NFT Stakes",
+      "decimals": 0,
+      "symbol": "nftRISE",
+      "tags": [
+        "defi",
+        "staking",
+        "nft",
+        "deflationary"
+      ]
+    },
+    {
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "tags": [
+        "pos",
+        "stablecoin",
+        "erc20",
+        "metaTx",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0x3553f861dEc0257baDA9F8Ed268bf0D74e45E89C",
+      "name": "Tether USD (Portal from Solana)",
+      "decimals": 6,
+      "symbol": "USDTso",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+      "name": "Aavegotchi GHST Token",
+      "decimals": 18,
+      "symbol": "GHST",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+      "name": "Fish",
+      "decimals": 18,
+      "symbol": "FISH",
+      "tags": []
+    },
+    {
+      "address": "0x3a9A81d576d83FF21f26f325066054540720fC34",
+      "name": "Streamr",
+      "decimals": 18,
+      "symbol": "DATA",
+      "tags": []
+    },
+    {
+      "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+      "name": "GameStation",
+      "decimals": 18,
+      "symbol": "GAMER",
+      "tags": []
+    },
+    {
+      "address": "0x4318CB63A2b8edf2De971E2F17F77097e499459D",
+      "name": "USD Coin (Portal from Ethereum)",
+      "decimals": 6,
+      "symbol": "USDCet",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+      "name": "WolfSafePoorPeople",
+      "decimals": 18,
+      "symbol": "WSPP",
+      "tags": []
+    },
+    {
+      "address": "0x48cBc913dE09317dF2365e6827Df50dA083701D5",
+      "name": "The 4th Pillar Token",
+      "decimals": 18,
+      "symbol": "FOUR",
+      "tags": []
+    },
+    {
+      "address": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+      "name": "WaultSwap Polygon",
+      "decimals": 18,
+      "symbol": "WEXpoly",
+      "tags": []
+    },
+    {
+      "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+      "name": "Oddz",
+      "decimals": 18,
+      "symbol": "ODDZ",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "name": "ChainLink Token",
+      "decimals": 18,
+      "symbol": "LINK",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+      "name": "Million",
+      "decimals": 18,
+      "symbol": "MM",
+      "tags": []
+    },
+    {
+      "address": "0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c",
+      "name": "Ambire Wallet",
+      "decimals": 18,
+      "symbol": "WALLET",
+      "tags": [
+        "defi",
+        "governance",
+        "staking"
+      ]
+    },
+    {
+      "address": "0x576Cf361711cd940CD9C397BB98C4C896cBd38De",
+      "name": "USD Coin (Portal from Solana)",
+      "decimals": 6,
+      "symbol": "USDCso",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+      "name": "Qi Dao",
+      "decimals": 18,
+      "symbol": "QI",
+      "tags": []
+    },
+    {
+      "address": "0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064",
+      "name": "Hoge Finance",
+      "decimals": 9,
+      "symbol": "HOGE",
+      "tags": []
+    },
+    {
+      "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+      "name": "Wrapped BTC (Portal)",
+      "decimals": 8,
+      "symbol": "WBTC",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+      "name": "Orion Money (Portal)",
+      "decimals": 18,
+      "symbol": "ORION",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+      "name": "PYQ",
+      "decimals": 18,
+      "symbol": "PYQ",
+      "tags": []
+    },
+    {
+      "address": "0x5d47bAbA0d66083C52009271faF3F50DCc01023C",
+      "name": "Ape Swap Finance Banana",
+      "decimals": 18,
+      "symbol": "BANANA",
+      "tags": []
+    },
+    {
+      "address": "0x65C9e3289e5949134759119DBc9F862E8d6F2fBE",
+      "name": "Morpher Token",
+      "decimals": 18,
+      "symbol": "MPH",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+      "name": "0xBitcoin Token",
+      "decimals": 8,
+      "symbol": "0xBTC",
+      "tags": []
+    },
+    {
+      "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+      "name": "Augury Finance",
+      "decimals": 18,
+      "symbol": "OMEN",
+      "tags": []
+    },
+    {
+      "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+      "name": "AVAX (Portal)",
+      "decimals": 18,
+      "symbol": "AVAX",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+      "name": "Paint",
+      "decimals": 18,
+      "symbol": "PAINT",
+      "tags": []
+    },
+    {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "Ether - PoS",
+      "decimals": 18,
+      "symbol": "ETH",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "name": "Quickswap",
+      "decimals": 18,
+      "symbol": "QUICK",
+      "tags": [
+        "pos",
+        "erc20"
+      ]
+    },
+    {
+      "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
+      "name": "Gravity Finance",
+      "decimals": 18,
+      "symbol": "GFI",
+      "tags": []
+    },
+    {
+      "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+      "name": "PolyDoge",
+      "decimals": 18,
+      "symbol": "PolyDoge",
+      "tags": []
+    },
+    {
+      "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+      "name": "dHEDGE DAO Token (PoS)",
+      "decimals": 18,
+      "symbol": "DHT",
+      "tags": [
+        "governance",
+        "defi"
+      ]
+    },
+    {
+      "address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
+      "name": "Pleasure Coin",
+      "decimals": 18,
+      "symbol": "NSFW",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+      "name": "moonwolf.io",
+      "decimals": 9,
+      "symbol": "WOLF",
+      "tags": [
+        "deflationary"
+      ]
+    },
+    {
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "name": "Dai - PoS",
+      "decimals": 18,
+      "symbol": "DAI",
+      "tags": [
+        "pos",
+        "stablecoin",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+      "name": "Tether USD (Portal from Ethereum)",
+      "decimals": 6,
+      "symbol": "USDTet",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+      "name": "Matic Aave interest bearing USDC",
+      "decimals": 6,
+      "symbol": "maUSDC",
+      "tags": []
+    },
+    {
+      "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
+      "name": "$ZKP Token",
+      "decimals": 18,
+      "symbol": "$ZKP",
+      "tags": [
+        "privacy",
+        "defi"
+      ]
+    },
+    {
+      "address": "0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F",
+      "name": "UniCrypt",
+      "decimals": 18,
+      "symbol": "UNCX",
+      "tags": []
+    },
+    {
+      "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "name": "Balancer",
+      "decimals": 18,
+      "symbol": "BAL",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+      "name": "PUSD",
+      "decimals": 18,
+      "symbol": "PUSD",
+      "tags": []
+    },
+    {
+      "address": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
+      "name": "ISLAMICOIN",
+      "decimals": 7,
+      "symbol": "ISLAMI",
+      "tags": []
+    },
+    {
+      "address": "0x9cd6746665D9557e1B9a775819625711d0693439",
+      "name": "LUNA (Portal)",
+      "decimals": 6,
+      "symbol": "LUNA",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+      "name": "Decentraland MANA",
+      "decimals": 18,
+      "symbol": "MANA",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0xA8D394fE7380b8cE6145d5f85E6aC22d4E91ACDe",
+      "name": "Binance USD (Portal from BSC)",
+      "decimals": 18,
+      "symbol": "BUSDbs",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
+      "name": "Crypto.com Coin",
+      "decimals": 8,
+      "symbol": "CRO",
+      "tags": []
+    },
+    {
+      "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
+      "name": "Impossible Finance",
+      "decimals": 18,
+      "symbol": "IF",
+      "tags": []
+    },
+    {
+      "address": "0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA",
+      "name": "Ariadne",
+      "decimals": 18,
+      "symbol": "ARDN",
+      "tags": []
+    },
+    {
+      "address": "0xBCD287ca1C614Ecd8c5Ca95bFf3c13c392192df5",
+      "name": "AirNFT Token",
+      "decimals": 18,
+      "symbol": "AIRT",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
+      "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+      "name": "DFYN Token (PoS)",
+      "decimals": 18,
+      "symbol": "DFYN",
+      "tags": []
+    },
+    {
+      "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+      "name": "EverRise",
+      "decimals": 18,
+      "symbol": "RISE",
+      "tags": [
+        "defi",
+        "staking",
+        "nft",
+        "deflationary"
+      ]
+    },
+    {
+      "address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
+      "name": "Polyroll Token",
+      "decimals": 18,
+      "symbol": "ROLL",
+      "tags": []
+    },
+    {
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "name": "Aave",
+      "decimals": 18,
+      "symbol": "AAVE",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+      "name": "IRON Stablecoin",
+      "decimals": 18,
+      "symbol": "IRON",
+      "tags": []
+    },
+    {
+      "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+      "name": "DEI",
+      "decimals": 18,
+      "symbol": "DEI",
+      "tags": []
+    },
+    {
+      "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+      "name": "DEUS",
+      "decimals": 18,
+      "symbol": "DEUS",
+      "tags": []
+    },
+    {
+      "address": "0xDbA7b24257fC6e397cB7368B4BC922E944072f1b",
+      "name": "Vote-escrowed EverRise",
+      "decimals": 18,
+      "symbol": "veRISE",
+      "tags": [
+        "defi",
+        "staking",
+        "nft",
+        "deflationary"
+      ]
+    },
+    {
+      "address": "0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66",
+      "name": "CherryPick",
+      "decimals": 18,
+      "symbol": "pCherry",
+      "tags": []
+    },
+    {
+      "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+      "name": "UST (Wormhole)",
+      "decimals": 6,
+      "symbol": "UST",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xEAf631ac57F3CDDDd261770dD47F85066131a156",
+      "name": "Equalizer",
+      "decimals": 18,
+      "symbol": "EQZ",
+      "tags": []
+    },
+    {
+      "address": "0xFB32513135e3267995268E3099d2B6114d20B6eD",
+      "name": "Coinerr",
+      "decimals": 9,
+      "symbol": "ERR",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+      "name": "beefy.finance",
+      "decimals": 18,
+      "symbol": "BIFI",
+      "tags": [
+        "defi",
+        "governance"
+      ]
+    },
+    {
+      "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+      "name": "miMATIC",
+      "decimals": 18,
+      "symbol": "miMATIC",
+      "tags": []
+    },
+    {
+      "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+      "name": "IRON Titanium Token",
+      "decimals": 18,
+      "symbol": "TITAN",
+      "tags": []
+    },
+    {
+      "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      "name": "Uniswap",
+      "decimals": 18,
+      "symbol": "UNI",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0xbBD7B847C6d0d0B5691518a363194D71426475F1",
+      "name": "EverRise Rewards",
+      "decimals": 18,
+      "symbol": "claimRISE",
+      "tags": [
+        "defi",
+        "staking",
+        "nft",
+        "deflationary"
+      ]
+    },
+    {
+      "address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+      "name": "Pegaxy",
+      "decimals": 18,
+      "symbol": "PGX",
+      "tags": []
+    },
+    {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "tags": [
+        "pos",
+        "stablecoin",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+      "name": "Adamant",
+      "decimals": 18,
+      "symbol": "ADDY",
+      "tags": []
+    },
+    {
+      "address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
+      "name": "GYSR",
+      "decimals": 18,
+      "symbol": "GYSR",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+      "name": "PearZap Token",
+      "decimals": 18,
+      "symbol": "PEAR",
+      "tags": []
+    },
+    {
+      "address": "0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7",
+      "name": " Stacker Ventures Token (PoS)",
+      "decimals": 18,
+      "symbol": "STACK",
+      "tags": []
+    },
+    {
+      "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+      "name": "GAMEE Token",
+      "decimals": 18,
+      "symbol": "GMEE",
+      "tags": []
+    },
+    {
+      "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+      "name": "SOL (Portal)",
+      "decimals": 9,
+      "symbol": "SOL",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+      "name": "Binance USD",
+      "decimals": 18,
+      "symbol": "BUSD",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+      "name": "Telcoin",
+      "decimals": 2,
+      "symbol": "TEL",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+      "name": "PayBolt",
+      "decimals": 18,
+      "symbol": "PAY",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+      "name": "Binance Coin (Portal)",
+      "decimals": 18,
+      "symbol": "BNB",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+      "name": "Decentral Games",
+      "decimals": 18,
+      "symbol": "DG",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
+      "name": "CremePieSwap",
+      "decimals": 18,
+      "symbol": "CPIE",
+      "tags": []
+    }
+  ]
+}

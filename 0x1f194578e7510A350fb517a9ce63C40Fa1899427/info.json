@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1f194578e7510A350fb517a9ce63C40Fa1899427",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2ea266c8-829a-4198-8d78-1801bf28af6c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x1f194578e7510A350fb517a9ce63C40Fa1899427/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1f194578e7510A350fb517a9ce63C40Fa1899427/logo.png"
+    }
+  },
+  "name": "Stable BTC",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "oneBTC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "295227ab-5024-49bc-aef1-e43dcf4b6a2f",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/dai.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.svg"
+    }
+  },
+  "name": "Dai - PoS",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f321b2e-7e11-4dc2-9259-42c5e6e9fa60",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png"
+    }
+  },
+  "name": "PayBolt",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PAY",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

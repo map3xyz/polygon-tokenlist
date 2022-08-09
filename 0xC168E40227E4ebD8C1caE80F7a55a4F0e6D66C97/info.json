@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "485c6129-7e63-40e9-abec-3fa339f40bac",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97/logo.png"
+    }
+  },
+  "name": "DFYN Token (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DFYN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

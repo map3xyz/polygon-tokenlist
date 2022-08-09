@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8eeead9-91b4-4c42-be5e-1de7dc17a3e8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47/logo.png"
+    }
+  },
+  "name": "GameStation",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GAMER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
