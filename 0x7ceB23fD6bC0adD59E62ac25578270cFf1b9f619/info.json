@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "url": "https://wallet-asset.matic.network/img/tokens/eth.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
     }
   },
   "name": "Ether - PoS",

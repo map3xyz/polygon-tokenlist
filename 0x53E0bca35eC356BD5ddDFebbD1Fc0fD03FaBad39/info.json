@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "url": "https://wallet-asset.matic.network/img/tokens/link.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
     }
   },
   "name": "ChainLink Token",

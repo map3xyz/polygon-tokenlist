@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "url": "https://wallet-asset.matic.network/img/tokens/usdt.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
     }
   },
   "name": "Tether USD",

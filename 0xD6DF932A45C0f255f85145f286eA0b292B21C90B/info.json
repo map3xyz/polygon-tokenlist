@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "url": "https://wallet-asset.matic.network/img/tokens/aave.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png"
     }
   },
   "name": "Aave",

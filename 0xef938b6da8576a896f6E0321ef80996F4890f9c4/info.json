@@ -9,12 +9,12 @@
   "logo": {
     "downloaded": true,
     "input": {
-      "svg": {
-        "url": "https://wallet-asset.matic.network/img/tokens/dg.svg"
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xef938b6da8576a896f6E0321ef80996F4890f9c4/logo.png"
       }
     },
     "output": {
-      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xef938b6da8576a896f6E0321ef80996F4890f9c4/logo.svg"
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xef938b6da8576a896f6E0321ef80996F4890f9c4/logo.png"
     }
   },
   "name": "Decentral Games",
