@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4925b2b-d2f7-4ef1-b77d-44abc299b21c",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png"
+  },
+  "name": "EverRise",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "RISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

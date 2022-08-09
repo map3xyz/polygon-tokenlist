@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bdf9a39b-cab1-41f6-95cb-f2a386a827f5",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc48F61a288A08F1B80c2edd74652e1276B6A168c/logo.png"
+  },
+  "name": "GYSR",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GYSR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

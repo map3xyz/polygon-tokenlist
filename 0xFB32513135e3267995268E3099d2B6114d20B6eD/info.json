@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFB32513135e3267995268E3099d2B6114d20B6eD",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "a2b865d1-f242-47b5-af16-9cb14355147d",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFB32513135e3267995268E3099d2B6114d20B6eD/logo.png"
+  },
+  "name": "Coinerr",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ERR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

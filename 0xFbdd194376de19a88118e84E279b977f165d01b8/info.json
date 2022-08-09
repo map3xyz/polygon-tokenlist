@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d6ea5ac-d211-498a-a2c9-dc785288a8a5",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFbdd194376de19a88118e84E279b977f165d01b8/logo.png"
+  },
+  "name": "beefy.finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BIFI",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

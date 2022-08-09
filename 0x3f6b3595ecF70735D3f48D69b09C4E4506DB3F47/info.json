@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6b8ecf63-04ff-48d6-8972-079a5def2879",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47/logo.png"
+  },
+  "name": "GameStation",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GAMER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

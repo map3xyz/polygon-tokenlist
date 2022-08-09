@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f240ba68-ae18-4dd0-adad-5d3ac10b377f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3/logo.svg"
+  },
+  "name": "Balancer",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BAL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2dc28b72-2d3a-4afe-a9c0-8eac033ff2be",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png"
+  },
+  "name": "IRON Titanium Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "TITAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

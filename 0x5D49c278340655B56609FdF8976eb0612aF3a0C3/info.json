@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8ef9e2a7-38c7-404d-9412-652974e9c32c",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5D49c278340655B56609FdF8976eb0612aF3a0C3/logo.png"
+  },
+  "name": "Wrapped BTC (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WBTC",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

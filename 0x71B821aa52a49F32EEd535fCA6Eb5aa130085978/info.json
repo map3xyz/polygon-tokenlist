@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4bfcb672-9c3b-443c-ad7f-ca4dc28991bc",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/logo.png"
+  },
+  "name": "0xBitcoin Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "0xBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

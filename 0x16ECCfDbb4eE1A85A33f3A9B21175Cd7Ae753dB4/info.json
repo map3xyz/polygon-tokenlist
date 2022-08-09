@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d505346-5f31-4fde-9d4a-54824f6a7ebb",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4/logo.png"
+  },
+  "name": "Route",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ROUTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

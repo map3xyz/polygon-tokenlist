@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2c936f3-30aa-4e37-b9fa-11ab31812c4f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.svg"
+  },
+  "name": "Aave",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "AAVE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

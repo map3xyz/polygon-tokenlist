@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "19e78d4b-f310-423a-95fc-ce6b3383a846",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3/logo.png"
+  },
+  "name": "DEI",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DEI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

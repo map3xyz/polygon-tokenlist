@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7b7eb7c7-1215-4138-94ce-8a310743af81",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4e830F67Ec499E69930867f9017AEb5B3f629c73/logo.png"
+  },
+  "name": "Oddz",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2aec7efc-693f-4851-94ac-fe553b550838",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"
+  },
+  "name": "Fish",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "FISH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

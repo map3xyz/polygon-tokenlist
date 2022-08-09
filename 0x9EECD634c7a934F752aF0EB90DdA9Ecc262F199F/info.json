@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5bab05cf-e503-456a-a6e3-e7698c5071aa",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F/logo.png"
+  },
+  "name": "UniCrypt",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "UNCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a9f7ef6-9a98-4e39-8d31-b2eeb27da5b0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7/logo.svg"
+  },
+  "name": "Binance USD",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "507a5c2c-a7c9-4997-8e9c-fb6b300b5b7b",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+  },
+  "name": "Wrapped MATIC",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WMATIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
