@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3553f861dEc0257baDA9F8Ed268bf0D74e45E89C",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "66601539-d489-4cd4-9a40-bd9a73c60d46",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x3553f861dEc0257baDA9F8Ed268bf0D74e45E89C/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3553f861dEc0257baDA9F8Ed268bf0D74e45E89C/logo.png"
+    }
+  },
+  "name": "Tether USD (Portal from Solana)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDTso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

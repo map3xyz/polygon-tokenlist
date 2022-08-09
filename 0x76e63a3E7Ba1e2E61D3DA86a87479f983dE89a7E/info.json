@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f944a5a-9b01-4b0c-bd77-8b2a4142879a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E/logo.png"
+    }
+  },
+  "name": "Augury Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "OMEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

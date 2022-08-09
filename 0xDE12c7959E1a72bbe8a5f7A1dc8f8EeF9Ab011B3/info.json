@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6102082-81a0-4077-960d-41c818d3d1b1",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3/logo.png"
+    }
+  },
+  "name": "DEI",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DEI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

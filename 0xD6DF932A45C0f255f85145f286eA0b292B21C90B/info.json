@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25cce3e7-8e80-464f-96a2-2c1970ddf5db",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/aave.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.svg"
+    }
+  },
+  "name": "Aave",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "AAVE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

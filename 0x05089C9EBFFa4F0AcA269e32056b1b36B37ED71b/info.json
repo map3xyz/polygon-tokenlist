@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da94caec-23b0-413f-9032-95c87969534b",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png"
+    }
+  },
+  "name": "Krill",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "Krill",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

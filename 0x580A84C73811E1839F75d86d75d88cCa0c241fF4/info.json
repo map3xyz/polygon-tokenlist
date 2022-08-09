@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ab21047-7ad6-4fa9-9929-1a910d03e1c8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png"
+    }
+  },
+  "name": "Qi Dao",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "QI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a540049c-c43f-49f9-ad14-fd9a2428afbd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png"
+    }
+  },
+  "name": "PYQ",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PYQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

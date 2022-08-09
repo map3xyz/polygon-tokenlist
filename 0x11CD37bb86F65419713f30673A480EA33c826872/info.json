@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x11CD37bb86F65419713f30673A480EA33c826872",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c44ac63f-58f3-4712-b36c-abb9853bbe00",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x11CD37bb86F65419713f30673A480EA33c826872/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x11CD37bb86F65419713f30673A480EA33c826872/logo.png"
+    }
+  },
+  "name": "Ether (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

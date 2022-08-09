@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "79dfe976-2f5a-43f1-b6ab-708f246d7ddd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/dg.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xef938b6da8576a896f6E0321ef80996F4890f9c4/logo.svg"
+    }
+  },
+  "name": "Decentral Games",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

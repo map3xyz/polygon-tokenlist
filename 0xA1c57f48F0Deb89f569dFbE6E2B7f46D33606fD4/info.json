@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db97ace1-38f7-42ce-bd8e-365a53c601d9",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/mana.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4/logo.svg"
+    }
+  },
+  "name": "Decentraland MANA",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "MANA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

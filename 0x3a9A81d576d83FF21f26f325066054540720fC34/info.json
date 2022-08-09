@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3a9A81d576d83FF21f26f325066054540720fC34",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ca308a77-90bc-4082-9a3a-6be126b0d4d7",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x3a9A81d576d83FF21f26f325066054540720fC34/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a9A81d576d83FF21f26f325066054540720fC34/logo.png"
+    }
+  },
+  "name": "Streamr",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

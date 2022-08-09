@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "b8941761-f1d7-4a7d-b121-c65e1f0f2469",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xd93f7E271cB87c23AaA73edC008A79646d1F9912/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd93f7E271cB87c23AaA73edC008A79646d1F9912/logo.png"
+    }
+  },
+  "name": "SOL (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

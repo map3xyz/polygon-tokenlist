@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "83b34bab-1c82-4854-a160-184a4bcf9ebb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16/logo.png"
+    }
+  },
+  "name": "moonwolf.io",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WOLF",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

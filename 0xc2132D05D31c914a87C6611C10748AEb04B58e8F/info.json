@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "c119a22b-5d3e-4cf8-8971-2cb17c783acf",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/usdt.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.svg"
+    }
+  },
+  "name": "Tether USD",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

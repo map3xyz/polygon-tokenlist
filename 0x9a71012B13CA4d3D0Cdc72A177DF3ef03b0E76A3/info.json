@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "46490b30-29b5-4c70-a8be-d30c2646339e",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/bal.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3/logo.svg"
+    }
+  },
+  "name": "Balancer",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BAL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

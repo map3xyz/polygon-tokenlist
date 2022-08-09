@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35241a36-3327-4d60-b5d9-5a7b864ada8c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x4e830F67Ec499E69930867f9017AEb5B3f629c73/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4e830F67Ec499E69930867f9017AEb5B3f629c73/logo.png"
+    }
+  },
+  "name": "Oddz",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

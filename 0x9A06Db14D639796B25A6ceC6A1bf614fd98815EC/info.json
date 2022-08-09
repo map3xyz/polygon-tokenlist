@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b3a7b15b-5565-4ad2-8608-a2245f1e25bd",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC/logo.png"
+    }
+  },
+  "name": "$ZKP Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "$ZKP",
+  "tags": [
+    "privacy",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

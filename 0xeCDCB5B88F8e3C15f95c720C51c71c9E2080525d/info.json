@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07f0b0ef-49cd-4df1-adf6-02402915b5a0",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d/logo.png"
+    }
+  },
+  "name": "Binance Coin (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

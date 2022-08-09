@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2863cde4-30c9-4775-8dac-77c7bf7694eb",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7/logo.png"
+    }
+  },
+  "name": " Stacker Ventures Token (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "STACK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

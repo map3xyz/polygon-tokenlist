@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "27fbce3b-90b8-4bf8-8b56-86a13bbfed38",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064/logo.png"
+    }
+  },
+  "name": "Hoge Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "HOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

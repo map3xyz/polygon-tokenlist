@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dcb23561-7a5f-4f90-9716-f05e47648bb8",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/quick.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.svg"
+    }
+  },
+  "name": "Quickswap",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "QUICK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

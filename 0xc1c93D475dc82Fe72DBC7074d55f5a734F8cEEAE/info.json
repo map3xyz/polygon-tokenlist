@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "36d940f1-12ac-44ab-99c1-99d3974eeede",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE/logo.png"
+    }
+  },
+  "name": "Pegaxy",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PGX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

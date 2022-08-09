@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6e76271-3a0c-40aa-9f61-ac21fab5760a",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x874e178A2f3f3F9d34db862453Cd756E7eAb0381/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x874e178A2f3f3F9d34db862453Cd756E7eAb0381/logo.png"
+    }
+  },
+  "name": "Gravity Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

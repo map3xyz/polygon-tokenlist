@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b94c167e-e8ef-4609-96c3-a5d2a6284c73",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "svg": {
+        "url": "https://wallet-asset.matic.network/img/tokens/eth.svg"
+      }
+    },
+    "output": {
+      "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.svg"
+    }
+  },
+  "name": "Ether - PoS",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

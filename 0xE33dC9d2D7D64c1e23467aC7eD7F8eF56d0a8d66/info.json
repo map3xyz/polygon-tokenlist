@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b74df36e-272b-4a35-aa87-1f48669e9e35",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66/logo.png"
+    }
+  },
+  "name": "CherryPick",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "pCherry",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

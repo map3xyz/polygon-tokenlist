@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c9bba708-f518-4e6a-92cc-b1f6aad4414c",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927/logo.png"
+    }
+  },
+  "name": "Million",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

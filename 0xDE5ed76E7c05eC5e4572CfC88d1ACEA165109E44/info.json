@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92e98fa5-6677-4af1-82fa-d889a25da405",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png"
+    }
+  },
+  "name": "DEUS",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DEUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9e87b5b0-5b7e-45d7-8e75-a7f16e46f941",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x9719d867A500Ef117cC201206B8ab51e794d3F82/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9719d867A500Ef117cC201206B8ab51e794d3F82/logo.png"
+    }
+  },
+  "name": "Matic Aave interest bearing USDC",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "maUSDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

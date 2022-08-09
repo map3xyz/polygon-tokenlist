@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x65C9e3289e5949134759119DBc9F862E8d6F2fBE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7d08a3f-f837-4320-af43-b464cbc41b86",
+  "links": null,
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x65C9e3289e5949134759119DBc9F862E8d6F2fBE/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x65C9e3289e5949134759119DBc9F862E8d6F2fBE/logo.png"
+    }
+  },
+  "name": "Morpher Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "MPH",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
