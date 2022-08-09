@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6876729b-96d7-4fce-ba2a-ede6a8728fd9",
+  "links": null,
+  "logo": {
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.svg"
+    }
+  },
+  "name": "ChainLink Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

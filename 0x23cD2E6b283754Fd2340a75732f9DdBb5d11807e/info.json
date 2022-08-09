@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a3e60df8-9c87-4957-b9f1-46a8e3af7328",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e/logo.png"
+    }
+  },
+  "name": "EverRise NFT Stakes",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "nftRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

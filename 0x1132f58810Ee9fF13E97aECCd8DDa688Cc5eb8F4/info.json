@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "e64ee147-b0d0-4a5d-ac86-10e0822e9819",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4/logo.png"
+    }
+  },
+  "name": "SpaceRat",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "SRAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d115af84-2975-4571-a91f-c85a8121fd6f",
+  "links": null,
+  "logo": {
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.svg"
+    }
+  },
+  "name": "Quickswap",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "QUICK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

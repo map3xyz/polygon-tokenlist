@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c4491d6-f7b7-40df-a677-a099bfbff771",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7/logo.png"
+    }
+  },
+  "name": "GAMEE Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "GMEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

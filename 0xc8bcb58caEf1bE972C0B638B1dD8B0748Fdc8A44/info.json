@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cb243e2-15a4-43b5-bb76-334513c8799a",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44/logo.png"
+    }
+  },
+  "name": "PearZap Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

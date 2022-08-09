@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "660fda15-21d4-4c56-b0bb-34c81bf51752",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD86b5923F3AD7b585eD81B448170ae026c65ae9a/logo.png"
+    }
+  },
+  "name": "IRON Stablecoin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "IRON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

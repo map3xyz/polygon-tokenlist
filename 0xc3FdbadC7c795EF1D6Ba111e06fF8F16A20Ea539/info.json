@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fdb08405-d243-4b6c-a197-c4f56cf7ddfe",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539/logo.png"
+    }
+  },
+  "name": "Adamant",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ADDY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

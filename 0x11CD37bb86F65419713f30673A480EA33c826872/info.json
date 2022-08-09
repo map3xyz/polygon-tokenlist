@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x11CD37bb86F65419713f30673A480EA33c826872",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a02052d6-8d3d-4b0c-a16c-8c93145695c4",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x11CD37bb86F65419713f30673A480EA33c826872/logo.png"
+    }
+  },
+  "name": "Ether (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

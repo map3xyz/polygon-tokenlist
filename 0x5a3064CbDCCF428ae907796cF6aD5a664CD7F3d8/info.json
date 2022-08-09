@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd16f1cf-0781-4fef-8e8e-0131f4c69264",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png"
+    }
+  },
+  "name": "PYQ",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "PYQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

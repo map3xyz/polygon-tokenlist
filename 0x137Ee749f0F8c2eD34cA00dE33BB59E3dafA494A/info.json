@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "8eef1219-25d2-40cd-a9af-d670a79e55ab",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A/logo.png"
+    }
+  },
+  "name": "Wrapped CCX",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "wCCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

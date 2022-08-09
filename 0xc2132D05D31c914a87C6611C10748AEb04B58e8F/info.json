@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "045c7bda-e6c2-45fd-9e92-98bd52a09014",
+  "links": null,
+  "logo": {
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.svg"
+    }
+  },
+  "name": "Tether USD",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "pos",
+    "stablecoin",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

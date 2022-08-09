@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3a9A81d576d83FF21f26f325066054540720fC34",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d986851-d063-4f8b-a429-11d25cb309fc",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a9A81d576d83FF21f26f325066054540720fC34/logo.png"
+    }
+  },
+  "name": "Streamr",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

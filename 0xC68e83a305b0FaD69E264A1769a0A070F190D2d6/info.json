@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d6387bd-fba8-4405-9e2f-3de6d260deab",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC68e83a305b0FaD69E264A1769a0A070F190D2d6/logo.png"
+    }
+  },
+  "name": "Polyroll Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "ROLL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

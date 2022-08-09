@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a498b5bd-dbc0-422f-9ad2-c6d79685f650",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9417669fBF23357D2774e9D421307bd5eA1006d2/logo.png"
+    }
+  },
+  "name": "Tether USD (Portal from Ethereum)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDTet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9cd6746665D9557e1B9a775819625711d0693439",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "5613360d-b6ad-4920-9ae4-fe09635b8aaa",
+  "links": null,
+  "logo": {
+    "png": {
+      "url": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9cd6746665D9557e1B9a775819625711d0693439/logo.png"
+    }
+  },
+  "name": "LUNA (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "LUNA",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
