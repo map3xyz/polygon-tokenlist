@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75b2c9fc-f582-4c15-b250-c844750c26d2",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30/logo.png"
+  },
+  "name": "OVR",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "OVR",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

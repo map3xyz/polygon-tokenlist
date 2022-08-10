@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "defbe094-995b-49a5-a03f-36faa60e1b39",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927/logo.png"
+  },
+  "name": "Million",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

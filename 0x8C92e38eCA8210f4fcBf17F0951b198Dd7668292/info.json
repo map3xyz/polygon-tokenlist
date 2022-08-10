@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a507fc4d-f3d6-4ad8-81ca-0f05494182eb",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292/logo.png"
+  },
+  "name": "dHEDGE DAO Token (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DHT",
+  "tags": [
+    "governance",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
