@@ -1,0 +1,233 @@
+{
+  "name": "@Map3/polygon-tokenlist",
+  "timestamp": "2022-08-10T11:03:03.200Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000001010",
+      "name": "Matic Token",
+      "decimals": 18,
+      "symbol": "MATIC",
+      "tags": [
+        "plasma",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+      "name": "SushiToken",
+      "decimals": 18,
+      "symbol": "SUSHI",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "Wrapped MATIC",
+      "decimals": 18,
+      "symbol": "WMATIC",
+      "tags": []
+    },
+    {
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "symbol": "WBTC",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "tags": [
+        "pos",
+        "stablecoin",
+        "erc20",
+        "metaTx",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+      "name": "Aavegotchi GHST Token",
+      "decimals": 18,
+      "symbol": "GHST",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "name": "ChainLink Token",
+      "decimals": 18,
+      "symbol": "LINK",
+      "tags": []
+    },
+    {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "Ether - PoS",
+      "decimals": 18,
+      "symbol": "ETH",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "name": "QuickSwap",
+      "decimals": 18,
+      "symbol": "QUICK",
+      "tags": []
+    },
+    {
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "name": "Dai - PoS",
+      "decimals": 18,
+      "symbol": "DAI",
+      "tags": [
+        "pos",
+        "stablecoin",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "name": "Balancer",
+      "decimals": 18,
+      "symbol": "BAL",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+      "name": "Decentraland MANA",
+      "decimals": 18,
+      "symbol": "MANA",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "name": "Aave",
+      "decimals": 18,
+      "symbol": "AAVE",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      "name": "Uniswap",
+      "decimals": 18,
+      "symbol": "UNI",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "name": "(PoS) Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "tags": []
+    },
+    {
+      "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+      "name": "Binance USD",
+      "decimals": 18,
+      "symbol": "BUSD",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
+      "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+      "name": "Telcoin",
+      "decimals": 2,
+      "symbol": "TEL",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable",
+        "metaTx"
+      ]
+    },
+    {
+      "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+      "name": "Decentral Games",
+      "decimals": 18,
+      "symbol": "DG",
+      "tags": [
+        "pos",
+        "erc20",
+        "swapable"
+      ]
+    }
+  ]
+}

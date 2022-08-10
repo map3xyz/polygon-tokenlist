@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b8e1c46a-51d8-4012-b4d6-347cbb6f061a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4/logo.svg"
+  },
+  "name": "Decentraland MANA",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "MANA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

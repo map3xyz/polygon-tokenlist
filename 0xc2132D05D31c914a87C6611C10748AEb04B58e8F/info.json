@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "2bbe470e-aab4-4b12-ba12-3a41c17ac386",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+  },
+  "name": "(PoS) Tether USD",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
