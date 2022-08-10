@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "0f457ae2-a2af-4a07-9334-8f27c1f0d5ce",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+  },
+  "name": "USD Coin (PoS)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

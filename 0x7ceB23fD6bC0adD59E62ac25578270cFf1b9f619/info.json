@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "970e2ac0-d7a0-44c9-9a8a-09c5c394c6d9",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
+  },
+  "name": "Wrapped Ether",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c323f0f-704d-4e6e-97a1-ff639e9a012a",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
+  },
+  "name": "(PoS) Dai Stablecoin",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
