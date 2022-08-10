@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "cd508d58-d6bc-4646-994e-6235d4d76431",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16/logo.png"
+  },
+  "name": "moonwolf.io",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "WOLF",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

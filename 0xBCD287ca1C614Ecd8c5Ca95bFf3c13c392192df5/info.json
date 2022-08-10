@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xBCD287ca1C614Ecd8c5Ca95bFf3c13c392192df5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f86ea770-574c-4061-bf31-6a814685db09",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xBCD287ca1C614Ecd8c5Ca95bFf3c13c392192df5/logo.png"
+  },
+  "name": "AirNFT Token",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "AIRT",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

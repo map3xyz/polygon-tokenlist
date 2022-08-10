@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "983fdaef-bfae-4c5c-a929-79582aa1ee1f",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd93f7E271cB87c23AaA73edC008A79646d1F9912/logo.png"
+  },
+  "name": "SOL (Portal)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

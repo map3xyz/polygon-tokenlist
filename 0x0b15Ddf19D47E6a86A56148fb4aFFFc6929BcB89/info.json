@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d47ea034-9246-405d-ac08-d5f64f02668b",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89/logo.png"
+  },
+  "name": "Impossible Finance",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "IDIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

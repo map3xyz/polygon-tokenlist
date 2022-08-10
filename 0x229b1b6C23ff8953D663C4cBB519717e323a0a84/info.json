@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e519d7ce-e41d-42f1-945b-85043ea0cf6a",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x229b1b6C23ff8953D663C4cBB519717e323a0a84/logo.png"
+  },
+  "name": "BLOK",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "BLOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

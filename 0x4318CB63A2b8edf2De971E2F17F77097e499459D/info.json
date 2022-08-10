@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4318CB63A2b8edf2De971E2F17F77097e499459D",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "440f01bd-6beb-4a19-9ea3-f95a9d6b2a9a",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4318CB63A2b8edf2De971E2F17F77097e499459D/logo.png"
+  },
+  "name": "USD Coin (Portal from Ethereum)",
+  "networkId": "polygon",
+  "spam": false,
+  "symbol": "USDCet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
