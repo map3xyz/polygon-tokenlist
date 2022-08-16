@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xfad70FD116559914240faB82b0078c4E82a6a1B8/logo.png"
   },
   "name": "CremePieSwap",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "CPIE",
   "tags": [],

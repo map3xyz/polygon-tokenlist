@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5E0294Af1732498C77F8dB015a2d52a76298542B/logo.png"
   },
   "name": "Orion Money (Portal)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "ORION",
   "tags": [

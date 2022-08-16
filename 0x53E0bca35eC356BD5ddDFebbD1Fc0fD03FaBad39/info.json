@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.svg"
   },
   "name": "ChainLink Token",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "LINK",
   "tags": [

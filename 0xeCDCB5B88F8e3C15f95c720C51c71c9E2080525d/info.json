@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d/logo.png"
   },
   "name": "Binance Coin (Portal)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "BNB",
   "tags": [

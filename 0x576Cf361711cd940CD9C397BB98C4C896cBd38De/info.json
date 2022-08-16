@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x576Cf361711cd940CD9C397BB98C4C896cBd38De/logo.png"
   },
   "name": "USD Coin (Portal from Solana)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "USDCso",
   "tags": [

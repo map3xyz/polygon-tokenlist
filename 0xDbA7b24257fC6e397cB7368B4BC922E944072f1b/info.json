@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDbA7b24257fC6e397cB7368B4BC922E944072f1b/logo.png"
   },
   "name": "Vote-escrowed EverRise",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "veRISE",
   "tags": [

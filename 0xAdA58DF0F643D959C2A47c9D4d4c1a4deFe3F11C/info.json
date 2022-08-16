@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C/logo.png"
   },
   "name": "Crypto.com Coin",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "CRO",
   "tags": [],

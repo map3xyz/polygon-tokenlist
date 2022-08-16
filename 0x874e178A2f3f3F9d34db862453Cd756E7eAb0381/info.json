@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x874e178A2f3f3F9d34db862453Cd756E7eAb0381/logo.png"
   },
   "name": "Gravity Finance",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "GFI",
   "tags": [],

@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x11CD37bb86F65419713f30673A480EA33c826872/logo.png"
   },
   "name": "Ether (Portal)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "ETH",
   "tags": [

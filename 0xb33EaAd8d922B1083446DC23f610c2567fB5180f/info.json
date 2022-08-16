@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.svg"
   },
   "name": "Uniswap",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "UNI",
   "tags": [

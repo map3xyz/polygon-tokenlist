@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4c4BF319237D98a30A929A96112EfFa8DA3510EB/logo.png"
   },
   "name": "WaultSwap Polygon",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "WEXpoly",
   "tags": [],

@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4318CB63A2b8edf2De971E2F17F77097e499459D/logo.png"
   },
   "name": "USD Coin (Portal from Ethereum)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "USDCet",
   "tags": [

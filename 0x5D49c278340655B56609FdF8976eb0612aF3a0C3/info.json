@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5D49c278340655B56609FdF8976eb0612aF3a0C3/logo.png"
   },
   "name": "Wrapped BTC (Portal)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "WBTC",
   "tags": [

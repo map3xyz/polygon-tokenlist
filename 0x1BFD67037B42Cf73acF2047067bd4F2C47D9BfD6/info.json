@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.svg"
   },
   "name": "Wrapped BTC",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "WBTC",
   "tags": [

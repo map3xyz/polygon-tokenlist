@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32/logo.svg"
   },
   "name": "Telcoin",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "TEL",
   "tags": [

@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xbBD7B847C6d0d0B5691518a363194D71426475F1/logo.png"
   },
   "name": "EverRise Rewards",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "claimRISE",
   "tags": [

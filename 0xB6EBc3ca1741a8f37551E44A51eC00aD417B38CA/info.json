@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA/logo.png"
   },
   "name": "Ariadne",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "ARDN",
   "tags": [],

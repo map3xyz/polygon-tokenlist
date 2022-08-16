@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFB32513135e3267995268E3099d2B6114d20B6eD/logo.png"
   },
   "name": "Coinerr",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "ERR",
   "tags": [

@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png"
   },
   "name": "IRON Titanium Token",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "TITAN",
   "tags": [],

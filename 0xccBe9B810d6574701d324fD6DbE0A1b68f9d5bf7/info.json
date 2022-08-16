@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7/logo.png"
   },
   "name": " Stacker Ventures Token (PoS)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "STACK",
   "tags": [],

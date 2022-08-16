@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/logo.png"
   },
   "name": "0xBitcoin Token",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "0xBTC",
   "tags": [],

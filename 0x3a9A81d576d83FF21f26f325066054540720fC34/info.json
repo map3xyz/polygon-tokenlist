@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a9A81d576d83FF21f26f325066054540720fC34/logo.png"
   },
   "name": "Streamr",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "DATA",
   "tags": [],

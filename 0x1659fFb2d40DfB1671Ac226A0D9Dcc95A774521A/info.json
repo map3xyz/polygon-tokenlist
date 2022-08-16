@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A/logo.png"
   },
   "name": "Daily COP",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "DLYCOP",
   "tags": [

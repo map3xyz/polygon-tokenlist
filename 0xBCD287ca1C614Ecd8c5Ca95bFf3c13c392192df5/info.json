@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xBCD287ca1C614Ecd8c5Ca95bFf3c13c392192df5/logo.png"
   },
   "name": "AirNFT Token",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "AIRT",
   "tags": [

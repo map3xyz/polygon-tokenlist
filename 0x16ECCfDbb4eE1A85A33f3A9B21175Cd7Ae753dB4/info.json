@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4/logo.png"
   },
   "name": "Route",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "ROUTE",
   "tags": [],

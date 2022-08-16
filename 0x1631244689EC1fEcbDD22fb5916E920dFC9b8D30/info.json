@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30/logo.png"
   },
   "name": "OVR",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "OVR",
   "tags": [
