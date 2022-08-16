@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A/logo.png"
   },
   "name": "Wrapped CCX",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "wCCX",
   "tags": [],

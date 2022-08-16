@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7/logo.png"
   },
   "name": "GAMEE Token",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "GMEE",
   "tags": [],

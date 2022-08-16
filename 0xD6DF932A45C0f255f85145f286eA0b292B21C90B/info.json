@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.svg"
   },
   "name": "Aave",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "AAVE",
   "tags": [

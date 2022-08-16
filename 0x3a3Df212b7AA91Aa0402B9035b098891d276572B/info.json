@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"
   },
   "name": "Fish",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "FISH",
   "tags": [],

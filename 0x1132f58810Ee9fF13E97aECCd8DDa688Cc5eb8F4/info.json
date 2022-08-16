@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4/logo.png"
   },
   "name": "SpaceRat",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "SRAT",
   "tags": [],

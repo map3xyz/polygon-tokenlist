@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0000000000000000000000000000000000001010/logo.svg"
   },
   "name": "Matic Token",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "MATIC",
   "tags": [

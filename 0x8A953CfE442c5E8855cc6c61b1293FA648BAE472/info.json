@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472/logo.png"
   },
   "name": "PolyDoge",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "PolyDoge",
   "tags": [],

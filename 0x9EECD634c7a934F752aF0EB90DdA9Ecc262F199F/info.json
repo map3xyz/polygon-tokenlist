@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F/logo.png"
   },
   "name": "UniCrypt",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "UNCX",
   "tags": [],

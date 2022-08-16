@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.svg"
   },
   "name": "Dai - PoS",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "DAI",
   "tags": [

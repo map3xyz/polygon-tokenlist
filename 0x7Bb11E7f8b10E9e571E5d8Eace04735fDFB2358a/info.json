@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a/logo.png"
   },
   "name": "AVAX (Portal)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "AVAX",
   "tags": [

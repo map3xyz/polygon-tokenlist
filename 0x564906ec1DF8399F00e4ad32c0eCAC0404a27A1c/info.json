@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c/logo.png"
   },
   "name": "Ambire Wallet",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "WALLET",
   "tags": [

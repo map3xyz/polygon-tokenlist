@@ -10,7 +10,7 @@
     "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.svg"
   },
   "name": "Tether USD",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "USDT",
   "tags": [

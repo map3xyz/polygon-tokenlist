@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png"
   },
   "name": "EverRise",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "RISE",
   "tags": [

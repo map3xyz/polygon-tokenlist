@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC/logo.png"
   },
   "name": "$ZKP Token",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "$ZKP",
   "tags": [

@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE/logo.png"
   },
   "name": "Pegaxy",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "PGX",
   "tags": [],

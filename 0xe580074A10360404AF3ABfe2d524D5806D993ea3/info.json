@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png"
   },
   "name": "PayBolt",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "PAY",
   "tags": [

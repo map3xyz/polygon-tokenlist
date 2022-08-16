@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x229b1b6C23ff8953D663C4cBB519717e323a0a84/logo.png"
   },
   "name": "BLOK",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "BLOK",
   "tags": [],

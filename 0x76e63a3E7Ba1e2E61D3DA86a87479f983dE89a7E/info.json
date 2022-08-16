@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E/logo.png"
   },
   "name": "Augury Finance",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "OMEN",
   "tags": [],

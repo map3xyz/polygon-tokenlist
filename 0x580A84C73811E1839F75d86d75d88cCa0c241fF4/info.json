@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png"
   },
   "name": "Qi Dao",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "QI",
   "tags": [],

@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png"
   },
   "name": "Krill",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "Krill",
   "tags": [],

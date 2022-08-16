@@ -10,7 +10,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97/logo.png"
   },
   "name": "DFYN Token (PoS)",
-  "networkId": "polygon",
+  "networkCode": "polygon",
   "spam": false,
   "symbol": "DFYN",
   "tags": [],
