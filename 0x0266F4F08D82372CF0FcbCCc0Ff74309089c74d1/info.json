@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0266F4F08D82372CF0FcbCCc0Ff74309089c74d1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0611e405-4f35-48d1-b229-75641bb724b8",
+  "links": null,
+  "logo": null,
+  "name": "Rocket Pool ETH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "rETH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFd75cd593AacE53731f240F32Ec4756A957b3344",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92cb18b8-a7e5-43eb-b7eb-0a6fe9d16e03",
+  "links": null,
+  "logo": null,
+  "name": "Lith Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LITH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x09C5a4BCA808bD1ba2b8E6B3aAF7442046B4ca5B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "816ab962-b4d0-4908-b3a7-c9cd86da26e2",
+  "links": null,
+  "logo": null,
+  "name": "VesperToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VSP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

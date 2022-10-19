@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe861920768dA0310B125C27A44ADDA11532ab838",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2463b124-5d2b-4b6f-85e0-9a8e991c0d55",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Mirror USO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mUSO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

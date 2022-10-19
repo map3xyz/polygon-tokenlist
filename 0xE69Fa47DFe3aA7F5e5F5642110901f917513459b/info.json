@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE69Fa47DFe3aA7F5e5F5642110901f917513459b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47e48e41-8a2a-4e23-b126-b9d059d4fc80",
+  "links": null,
+  "logo": null,
+  "name": "Dragon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DRGN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

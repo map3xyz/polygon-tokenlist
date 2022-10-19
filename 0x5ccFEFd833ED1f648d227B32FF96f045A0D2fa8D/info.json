@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5ccFEFd833ED1f648d227B32FF96f045A0D2fa8D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a4ad3e21-43ab-407b-a4b4-48540e9d2e62",
+  "links": null,
+  "logo": null,
+  "name": "FiscoCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FSCC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

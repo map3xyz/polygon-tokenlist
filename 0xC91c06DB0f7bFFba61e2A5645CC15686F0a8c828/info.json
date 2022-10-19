@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6f39259-3ec7-48ae-8df0-df75703e81bb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828/logo.svg"
+  },
+  "name": "RAZOR",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAZOR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

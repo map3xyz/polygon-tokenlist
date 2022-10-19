@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x62a872d9977Db171d9e213A5dc2b782e72ca0033",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54ffa3f1-0e9d-4d27-973f-353244b651b8",
+  "links": null,
+  "logo": null,
+  "name": "NEUY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NEUY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

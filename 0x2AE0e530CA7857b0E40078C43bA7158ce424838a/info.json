@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x2AE0e530CA7857b0E40078C43bA7158ce424838a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9fdcaa56-2d2c-47eb-9b5c-548b56da75c0",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x2AE0e530CA7857b0E40078C43bA7158ce424838a/logo.png"
+  },
+  "name": "Only Graded Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OGUC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

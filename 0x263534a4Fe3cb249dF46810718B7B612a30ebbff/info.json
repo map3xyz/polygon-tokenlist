@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x263534a4Fe3cb249dF46810718B7B612a30ebbff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99b03a6b-fe6e-4e5e-ba48-d59d87684140",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x263534a4Fe3cb249dF46810718B7B612a30ebbff/logo.svg"
+  },
+  "name": "PERP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PERP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

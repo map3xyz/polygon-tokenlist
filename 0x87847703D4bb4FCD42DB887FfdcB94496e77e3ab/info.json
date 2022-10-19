@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x87847703D4bb4FCD42DB887FfdcB94496e77e3ab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d48e40b-540c-4b10-b2f3-10abb4438e09",
+  "links": null,
+  "logo": null,
+  "name": "Hypersign Identity Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HID",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x842e4B170021cE14c9c1b7859f3452a63b4f6841",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5b8a795-3163-4f15-b72c-48c66aac293e",
+  "links": null,
+  "logo": null,
+  "name": "Witch Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WITCH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

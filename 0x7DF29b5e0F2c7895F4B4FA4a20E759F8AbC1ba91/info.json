@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7DF29b5e0F2c7895F4B4FA4a20E759F8AbC1ba91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e4df290-88fe-443a-ab7d-6d1994fb4dce",
+  "links": null,
+  "logo": null,
+  "name": "uBitcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "uBTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

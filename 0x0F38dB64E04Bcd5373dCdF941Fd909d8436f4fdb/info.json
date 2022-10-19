@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0F38dB64E04Bcd5373dCdF941Fd909d8436f4fdb",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "10a3c113-f1ca-4d8a-8589-cde7cd9716ac",
+  "links": null,
+  "logo": null,
+  "name": "TNodeGreen",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TNG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

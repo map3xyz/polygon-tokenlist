@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x11602A402281974a70C2B4824d58ebeDe967E2bE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "64c40835-4a4b-457c-8fa0-9e62131c9736",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x11602A402281974a70C2B4824d58ebeDe967E2bE/logo.svg"
+  },
+  "name": "Beyond Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BYN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

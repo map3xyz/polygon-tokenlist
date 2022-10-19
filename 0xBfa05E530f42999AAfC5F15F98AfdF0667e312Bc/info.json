@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xBfa05E530f42999AAfC5F15F98AfdF0667e312Bc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b41e3fa-c516-4428-981e-2a74a52cc162",
+  "links": null,
+  "logo": null,
+  "name": "Gen Shards",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

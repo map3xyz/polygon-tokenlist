@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4305fF9f3714C8bEFE7854D401c4C2e395662Db4",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "6aedf38e-1750-4e25-ab0d-02840d71ca66",
+  "links": null,
+  "logo": null,
+  "name": "Microtick",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TICK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

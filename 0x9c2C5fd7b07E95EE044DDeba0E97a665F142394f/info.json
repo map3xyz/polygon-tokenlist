@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f15b06a0-4526-47dd-b881-d1e2821f35f0",
+  "links": null,
+  "logo": null,
+  "name": "1Inch",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "1INCH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

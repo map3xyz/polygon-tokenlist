@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5eB8D998371971D01954205c7AFE90A7AF6a95AC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bf8b5dad-647e-48dd-93da-28532d5bcd74",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x5eB8D998371971D01954205c7AFE90A7AF6a95AC/logo.svg"
+  },
+  "name": "Audius",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AUDIO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

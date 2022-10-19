@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8f3dc8321cBa3Abe08Fb29055a0A10dC79223252",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c77cd8bb-062b-4c57-bd49-63ad998843f6",
+  "links": null,
+  "logo": null,
+  "name": "N3RD.FINANCE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "N3RDz",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

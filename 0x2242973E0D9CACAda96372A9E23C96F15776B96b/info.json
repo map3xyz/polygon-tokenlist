@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2242973E0D9CACAda96372A9E23C96F15776B96b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8ff64ca-b4db-4019-86cf-c68fab8106cd",
+  "links": null,
+  "logo": null,
+  "name": "TestScaleSwapToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TSCA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

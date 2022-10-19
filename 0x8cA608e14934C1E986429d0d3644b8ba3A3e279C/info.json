@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8cA608e14934C1E986429d0d3644b8ba3A3e279C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5fc7be3-3b2f-4701-91e1-1b11f26328e0",
+  "links": null,
+  "logo": null,
+  "name": "Flame",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XFL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

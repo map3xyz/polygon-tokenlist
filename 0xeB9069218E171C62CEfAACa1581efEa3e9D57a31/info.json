@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeB9069218E171C62CEfAACa1581efEa3e9D57a31",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a359323a-5a45-43e9-a5d6-b8cf3b3fda14",
+  "links": null,
+  "logo": null,
+  "name": "Conceal - Wrapped CCX ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wCCX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

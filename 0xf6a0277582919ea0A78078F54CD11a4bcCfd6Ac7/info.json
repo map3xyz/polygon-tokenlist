@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf6a0277582919ea0A78078F54CD11a4bcCfd6Ac7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37ebf0d2-f6b5-4b18-a35b-09c0716d75d8",
+  "links": null,
+  "logo": null,
+  "name": "BitMax token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTMX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

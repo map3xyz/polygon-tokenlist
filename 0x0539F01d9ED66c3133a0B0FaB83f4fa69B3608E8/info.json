@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x0539F01d9ED66c3133a0B0FaB83f4fa69B3608E8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7364674-f1e5-4669-b02c-851478e3a400",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x0539F01d9ED66c3133a0B0FaB83f4fa69B3608E8/logo.svg"
+  },
+  "name": "Wrapped NXM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wNXM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

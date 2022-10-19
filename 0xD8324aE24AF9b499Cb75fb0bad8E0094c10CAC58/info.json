@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD8324aE24AF9b499Cb75fb0bad8E0094c10CAC58",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0aa1db30-0109-41ae-a24f-3708d240dce0",
+  "links": null,
+  "logo": null,
+  "name": "Internet Exchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INEX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

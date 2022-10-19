@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfA2328D170d9476FEAFe1a6180aBDB61A13A9494",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5b71c649-2edc-4e05-ba70-1734df438de2",
+  "links": null,
+  "logo": null,
+  "name": "UniCrypt",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

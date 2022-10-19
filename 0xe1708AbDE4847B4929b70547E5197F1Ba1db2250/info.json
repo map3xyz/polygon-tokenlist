@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe1708AbDE4847B4929b70547E5197F1Ba1db2250",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88f45b5f-b7be-49a6-925d-f29a358186af",
+  "links": null,
+  "logo": null,
+  "name": "Tokemak",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TOKE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE79feAAA457ad7899357E8E2065a3267aC9eE601",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5aa99f63-3e91-43fd-abad-14145f9b0ff5",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped CHI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WCHI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

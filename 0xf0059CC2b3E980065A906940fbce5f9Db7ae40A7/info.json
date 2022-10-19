@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf0059CC2b3E980065A906940fbce5f9Db7ae40A7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "484476d2-0657-4852-b5cc-d9d805e8df39",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xf0059CC2b3E980065A906940fbce5f9Db7ae40A7/logo.svg"
+  },
+  "name": "Shardus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ULT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

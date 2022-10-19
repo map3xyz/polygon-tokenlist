@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x57a0E527611Bcd7e466407a621ce02Bf923C0d15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cfb54110-b3c2-4fb8-a576-7f0c56b78d00",
+  "links": null,
+  "logo": null,
+  "name": "RADIAN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RADI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

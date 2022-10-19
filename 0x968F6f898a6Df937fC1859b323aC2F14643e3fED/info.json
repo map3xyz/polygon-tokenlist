@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6c0334b-64df-4816-9bc2-665c066a211a",
+  "links": null,
+  "logo": null,
+  "name": "Newscrypto",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NWC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

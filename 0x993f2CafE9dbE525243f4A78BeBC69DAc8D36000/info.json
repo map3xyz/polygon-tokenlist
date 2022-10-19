@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x993f2CafE9dbE525243f4A78BeBC69DAc8D36000",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d1b79819-d4e4-4623-a420-e614f3c01b66",
+  "links": null,
+  "logo": null,
+  "name": "DIAToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DIA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

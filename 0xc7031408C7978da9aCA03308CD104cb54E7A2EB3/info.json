@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc7031408C7978da9aCA03308CD104cb54E7A2EB3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8094d23e-0485-4746-a8c4-7206b89cae00",
+  "links": null,
+  "logo": null,
+  "name": "Fei USD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FEI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

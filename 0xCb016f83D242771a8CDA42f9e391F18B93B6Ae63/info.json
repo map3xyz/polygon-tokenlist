@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCb016f83D242771a8CDA42f9e391F18B93B6Ae63",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7e882e3-48b5-4dbd-93af-02c1a515c0d0",
+  "links": null,
+  "logo": null,
+  "name": "Friends With Benefits Pro",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FWB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

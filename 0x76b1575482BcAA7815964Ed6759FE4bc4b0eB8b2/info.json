@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x76b1575482BcAA7815964Ed6759FE4bc4b0eB8b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9bdf389-bce1-4bcb-9d6b-74131007552d",
+  "links": null,
+  "logo": null,
+  "name": "BasketDAO DeFi Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BDI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

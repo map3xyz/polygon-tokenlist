@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9e01e0A928588aE6E669b8d1F0f1fa4AB976f617",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "78903048-0def-4357-8c53-cfee18926953",
+  "links": null,
+  "logo": null,
+  "name": "Showcase Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

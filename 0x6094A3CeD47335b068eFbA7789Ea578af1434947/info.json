@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x6094A3CeD47335b068eFbA7789Ea578af1434947",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c3ae0fe-64ef-40c3-bf34-a3d22868cffc",
+  "links": null,
+  "logo": {
+    "svg": "https://www.theranosco.in/logo.svg"
+  },
+  "name": "Theranos Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LIZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8FE2526045E6658Cd60c3eCbD92F6D33E73A1D1b",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3911fc3b-2b9b-4ef3-9cc7-198da11b29f9",
+  "links": null,
+  "logo": null,
+  "name": "bXIOT Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "bXIOT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

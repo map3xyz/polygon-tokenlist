@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC4e82BA0Fe6763cbE5E9CbCA0ba7cbD6F91C6018",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e114644e-0d58-4090-884a-ee060542e5e1",
+  "links": null,
+  "logo": null,
+  "name": "$Ankr ETH2 Reward Bearing Certificate",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "aETHc",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

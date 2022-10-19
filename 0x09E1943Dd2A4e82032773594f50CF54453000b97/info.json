@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x09E1943Dd2A4e82032773594f50CF54453000b97",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4e9e994c-031c-401f-a1bb-e556b0e02617",
+  "links": null,
+  "logo": null,
+  "name": "Gala",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GALA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

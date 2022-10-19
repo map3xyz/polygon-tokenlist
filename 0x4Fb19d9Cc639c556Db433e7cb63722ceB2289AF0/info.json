@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4Fb19d9Cc639c556Db433e7cb63722ceB2289AF0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4cb7940-58e8-4ec8-a98c-8ebd5b355571",
+  "links": null,
+  "logo": null,
+  "name": "National Bank of Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NBC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

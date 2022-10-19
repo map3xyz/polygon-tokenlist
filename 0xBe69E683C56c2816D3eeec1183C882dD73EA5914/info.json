@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xBe69E683C56c2816D3eeec1183C882dD73EA5914",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6b8d8b0c-5b20-4de3-b8e6-7b11466c5195",
+  "links": null,
+  "logo": null,
+  "name": "DegenArts.com Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

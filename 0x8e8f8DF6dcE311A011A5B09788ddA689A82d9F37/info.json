@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8e8f8DF6dcE311A011A5B09788ddA689A82d9F37",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cafa92e4-8478-4927-9a10-1b98f2440101",
+  "links": null,
+  "logo": null,
+  "name": "HashRush",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RUSH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

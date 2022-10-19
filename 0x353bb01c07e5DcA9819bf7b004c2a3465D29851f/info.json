@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x353bb01c07e5DcA9819bf7b004c2a3465D29851f",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "42bd5acb-4001-4b6e-94c6-75c3f8acdf84",
+  "links": null,
+  "logo": null,
+  "name": "SHAMAN KING INU",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHAMAN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x34667ED7C36cBBbF2d5d5c5c8d6Eb76a094EDb9F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fc9d0843-bf2e-49cf-9be1-07f4c6e16ce9",
+  "links": null,
+  "logo": null,
+  "name": "GenomesDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GENE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

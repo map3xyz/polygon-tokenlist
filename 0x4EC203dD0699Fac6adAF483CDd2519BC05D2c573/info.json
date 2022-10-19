@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x4EC203dD0699Fac6adAF483CDd2519BC05D2c573",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "38602f56-7949-48d2-9ebf-e97de2184745",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4EC203dD0699Fac6adAF483CDd2519BC05D2c573/logo.svg"
+  },
+  "name": "Cobak Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CBK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

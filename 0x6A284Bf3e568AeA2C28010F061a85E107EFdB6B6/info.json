@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6A284Bf3e568AeA2C28010F061a85E107EFdB6B6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f388ed0e-7c44-4c93-bf9a-2da4939f83f9",
+  "links": null,
+  "logo": null,
+  "name": "TAGBOND",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TAG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

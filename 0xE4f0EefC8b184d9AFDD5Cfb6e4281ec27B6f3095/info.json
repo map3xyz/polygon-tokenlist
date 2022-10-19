@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE4f0EefC8b184d9AFDD5Cfb6e4281ec27B6f3095",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eacd2383-d1c6-4a3b-a5ca-7dc18567aaf0",
+  "links": null,
+  "logo": null,
+  "name": "SMART TRADE NETWORKS 5",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STN5",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd813B1500Db50C755A37850ab29cA7A6ce24b25b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db27a192-b7c1-4e0a-8488-6635f28a7d38",
+  "links": null,
+  "logo": null,
+  "name": "Swee Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWEE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

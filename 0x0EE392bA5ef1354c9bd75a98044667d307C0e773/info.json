@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0EE392bA5ef1354c9bd75a98044667d307C0e773",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8f359618-5c41-40f7-985d-df64a496fcd6",
+  "links": null,
+  "logo": null,
+  "name": "Orion Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

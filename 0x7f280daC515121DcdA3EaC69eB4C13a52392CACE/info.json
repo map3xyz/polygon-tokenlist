@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4298b62e-00af-4791-9dba-920c76af4f1b",
+  "links": null,
+  "logo": null,
+  "name": "Fancy Games",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FNC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

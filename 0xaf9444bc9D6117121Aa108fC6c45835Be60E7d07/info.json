@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xaf9444bc9D6117121Aa108fC6c45835Be60E7d07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c2aff6b-e61c-47c5-aae7-cca2f3cc71ed",
+  "links": null,
+  "logo": null,
+  "name": "AAH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AAH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

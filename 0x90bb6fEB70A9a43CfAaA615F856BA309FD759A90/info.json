@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x90bb6fEB70A9a43CfAaA615F856BA309FD759A90",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "77c25614-f553-450f-bfbf-d08acf3f1ce9",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Centrifuge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wCFG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

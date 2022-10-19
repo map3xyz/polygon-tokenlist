@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x51869836681BcE74a514625c856aFb697a013797",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f37ed00a-193c-430a-8976-f5524082b9fe",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x51869836681BcE74a514625c856aFb697a013797/logo.svg"
+  },
+  "name": "Genesis Worlds",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GENESIS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

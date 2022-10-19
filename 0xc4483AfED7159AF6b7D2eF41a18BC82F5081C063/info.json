@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc4483AfED7159AF6b7D2eF41a18BC82F5081C063",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a24a574-912f-4585-ac31-b81109eb0298",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Mirror MSFT Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mMSFT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

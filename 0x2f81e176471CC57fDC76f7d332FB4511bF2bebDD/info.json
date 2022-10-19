@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2f81e176471CC57fDC76f7d332FB4511bF2bebDD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60cbcb6e-288e-42a6-9795-84d4465f661e",
+  "links": null,
+  "logo": null,
+  "name": "Radicle",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

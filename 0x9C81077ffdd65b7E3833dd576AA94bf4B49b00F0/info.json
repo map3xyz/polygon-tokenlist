@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9C81077ffdd65b7E3833dd576AA94bf4B49b00F0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0290f41-acd6-4c71-a1d0-7992d8d4b306",
+  "links": null,
+  "logo": null,
+  "name": "XIO Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XIO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

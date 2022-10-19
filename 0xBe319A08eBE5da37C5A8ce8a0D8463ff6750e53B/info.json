@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xBe319A08eBE5da37C5A8ce8a0D8463ff6750e53B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "640418ab-989a-4b09-837b-5411b8399a70",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xBe319A08eBE5da37C5A8ce8a0D8463ff6750e53B/logo.svg"
+  },
+  "name": "Circolo Arduino Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARDU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7E6663D14F058880FAD199BCb745a81c46407809",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47c23938-714e-4ba3-9c20-30d96703916f",
+  "links": null,
+  "logo": null,
+  "name": "DefiOptions",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

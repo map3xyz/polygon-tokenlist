@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa052EFCDd44F02073B1FDC42bF06017A0234ae03",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85c9523a-3990-41d2-b369-b74d3f56d3b3",
+  "links": null,
+  "logo": null,
+  "name": "$Poolz Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POOLZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

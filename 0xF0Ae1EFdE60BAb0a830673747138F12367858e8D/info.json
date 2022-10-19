@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF0Ae1EFdE60BAb0a830673747138F12367858e8D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8cc3238-430d-4cd6-93db-dd97c7efb919",
+  "links": null,
+  "logo": null,
+  "name": "Float Protocol: FLOAT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLOAT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

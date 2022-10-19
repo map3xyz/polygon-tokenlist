@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE5d6364efCDCb90eD92cf6F776dD0B6165168a7e",
+  "color": null,
+  "decimals": 16,
+  "description": null,
+  "id": "261b5cf6-f0ee-41ca-9603-f9ee2bf2354e",
+  "links": null,
+  "logo": null,
+  "name": "FullDex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLDX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6C3Ec80Fae6F067cC5F0222eFd957101b626291e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2440f1dd-064e-4f17-ba10-1a3c2dcda34f",
+  "links": null,
+  "logo": null,
+  "name": "ThunderDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TDAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x0CfC9a713A5C17Bc8a5fF0379467f6558bAcD0e0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e708d064-0e71-4e82-abc5-5a4a4c450133",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x0CfC9a713A5C17Bc8a5fF0379467f6558bAcD0e0/logo.svg"
+  },
+  "name": "GraphLinq",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GLQ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

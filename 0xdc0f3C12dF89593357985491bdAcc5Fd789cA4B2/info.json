@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdc0f3C12dF89593357985491bdAcc5Fd789cA4B2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4780bc9-49c4-47da-b804-e862a7797112",
+  "links": null,
+  "logo": null,
+  "name": "mushrooming Wrapped Ether",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mWETH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

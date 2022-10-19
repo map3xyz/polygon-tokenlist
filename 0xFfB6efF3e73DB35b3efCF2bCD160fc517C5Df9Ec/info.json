@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFfB6efF3e73DB35b3efCF2bCD160fc517C5Df9Ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e79981f0-d5c2-41c0-8e35-982d45c3f208",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xFfB6efF3e73DB35b3efCF2bCD160fc517C5Df9Ec/logo.svg"
+  },
+  "name": "Unicly Doki Collection",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "uDOKI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

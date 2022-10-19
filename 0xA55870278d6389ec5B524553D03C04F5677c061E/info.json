@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA55870278d6389ec5B524553D03C04F5677c061E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "435ed802-a188-4885-a42f-e56093168aad",
+  "links": null,
+  "logo": null,
+  "name": "XCAD Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XCAD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

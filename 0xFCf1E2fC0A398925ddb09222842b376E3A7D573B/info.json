@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFCf1E2fC0A398925ddb09222842b376E3A7D573B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f5d7758-4979-4a20-9f4c-6c611d698813",
+  "links": null,
+  "logo": null,
+  "name": "Crypto Accept",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ACPT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

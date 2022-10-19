@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE898695409ef54080518ECC568C6CE618E7818e1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16d2e15e-a88a-4c06-bedc-dc6fb6650621",
+  "links": null,
+  "logo": null,
+  "name": "Assets of Steve Bayer",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XASB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

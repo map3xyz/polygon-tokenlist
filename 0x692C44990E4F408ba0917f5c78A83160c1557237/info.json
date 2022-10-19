@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x692C44990E4F408ba0917f5c78A83160c1557237",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c94843fa-d27a-4d76-8e8b-0aa7e46d04f9",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x692C44990E4F408ba0917f5c78A83160c1557237/logo.png"
+  },
+  "name": "Thales DAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THALES",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

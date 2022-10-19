@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x23fE1Ee2f536427B7e8aC02FB037A7f867037Fe8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08d4f2a4-cc34-4584-b979-3fe791bd56f1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x23fE1Ee2f536427B7e8aC02FB037A7f867037Fe8/logo.svg"
+  },
+  "name": "TORN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TORN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x50858d870FAF55da2fD90FB6DF7c34b5648305C6",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "8f7619e7-8ddb-47bc-9135-aa0efb82e8cc",
+  "links": null,
+  "logo": null,
+  "name": "ALICE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALICE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

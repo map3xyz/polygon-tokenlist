@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9582b02d5AC3eb6940AE02E6d4ab220c3ca9d317",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ec647ec-8bcc-4698-869b-da8d087f4d84",
+  "links": null,
+  "logo": null,
+  "name": "ZUG",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZUG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

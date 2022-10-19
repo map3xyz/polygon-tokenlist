@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x77266e2B73adb5605D9877fE3d86b217eFA5cB49",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ded22bad-f98e-4ca7-8437-f6f25bb52d3f",
+  "links": null,
+  "logo": null,
+  "name": "Uptrennd",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "1UP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

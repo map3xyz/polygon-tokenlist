@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x510379859D138d1854E925C7472674F4A827296a",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "20922343-a16c-4337-867d-3e88c9a319c8",
+  "links": null,
+  "logo": null,
+  "name": "ROTTSCHILD.com",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROTTS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "34201465-5939-4b04-beed-656ca2b9ee4f",
+  "links": null,
+  "logo": null,
+  "name": "SENTinel",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SENT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2D61F243d1a4c16640c3961100f50222679EC89E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e352bcbc-aa15-4496-a659-c4a66cfa2e3d",
+  "links": null,
+  "logo": null,
+  "name": "Nsure Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Nsure",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

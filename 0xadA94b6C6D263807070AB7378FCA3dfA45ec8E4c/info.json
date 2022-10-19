@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xadA94b6C6D263807070AB7378FCA3dfA45ec8E4c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "34403c14-c29c-490e-932f-0c703469deba",
+  "links": null,
+  "logo": null,
+  "name": "Sesamers",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SESAME",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e8a6ccf-889a-4628-8e36-52bb0fd5c4bc",
+  "links": null,
+  "logo": null,
+  "name": "Mask Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MASK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

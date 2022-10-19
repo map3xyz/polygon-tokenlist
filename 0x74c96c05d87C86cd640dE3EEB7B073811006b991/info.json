@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x74c96c05d87C86cd640dE3EEB7B073811006b991",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b3ff505-8f94-4065-8427-014dd852f5e1",
+  "links": null,
+  "logo": null,
+  "name": "Egg n Partners",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EGGT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

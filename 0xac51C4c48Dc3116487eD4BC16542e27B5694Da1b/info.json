@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1b22bcd7-458e-4cb2-a4e1-e9ebd58269dc",
+  "links": null,
+  "logo": null,
+  "name": "Cosmos",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ATOM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

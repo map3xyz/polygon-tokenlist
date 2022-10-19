@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6D1B94027453C457e90C28E83154B02718bD48b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5912e2c4-0c6f-44ce-a24b-c5f92f5e0d8f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6D1B94027453C457e90C28E83154B02718bD48b2/logo.svg"
+  },
+  "name": "ACoconut",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

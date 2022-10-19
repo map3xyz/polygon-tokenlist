@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6D54d243F144E16b6489A295F100146E11286Ec0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "05c31969-0933-44e5-a110-9777a7a9c5a3",
+  "links": null,
+  "logo": null,
+  "name": "renDGB",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "renDGB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

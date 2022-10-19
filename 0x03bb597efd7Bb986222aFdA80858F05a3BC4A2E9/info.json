@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x03bb597efd7Bb986222aFdA80858F05a3BC4A2E9",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3f86919c-59b3-4d1c-bd2a-a4105080e15f",
+  "links": null,
+  "logo": null,
+  "name": "KEY Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KEY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

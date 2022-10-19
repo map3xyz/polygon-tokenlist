@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3dbad5f6-eb25-482d-82f2-3edbb5b7c5e8",
+  "links": null,
+  "logo": null,
+  "name": "Bankless Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BANK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

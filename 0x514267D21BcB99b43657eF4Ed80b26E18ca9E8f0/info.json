@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x514267D21BcB99b43657eF4Ed80b26E18ca9E8f0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6033789-4aba-43fc-8fb2-91839f70fd7c",
+  "links": null,
+  "logo": null,
+  "name": "NFTWiki Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFTK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

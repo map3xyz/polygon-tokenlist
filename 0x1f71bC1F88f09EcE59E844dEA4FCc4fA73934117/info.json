@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1f71bC1F88f09EcE59E844dEA4FCc4fA73934117",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1eae12b1-56b2-4e3b-a014-b8e05dbf5a94",
+  "links": null,
+  "logo": null,
+  "name": "Digital Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DCB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

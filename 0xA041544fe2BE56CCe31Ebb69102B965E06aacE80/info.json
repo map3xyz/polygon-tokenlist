@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA041544fe2BE56CCe31Ebb69102B965E06aacE80",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49ca1984-7ebc-4a89-8289-d44b1131db83",
+  "links": null,
+  "logo": null,
+  "name": "BarnBridge Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BOND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

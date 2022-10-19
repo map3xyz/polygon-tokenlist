@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x025A1405e9F917313A4E17fd365D0611cccF43e1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7784e3c0-2f42-4984-9703-80b687e66f1d",
+  "links": null,
+  "logo": null,
+  "name": "Dopex Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DPX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8135532bC7765818eFECF49A295FEA4262121e36",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "9b3d8f8d-ca1d-4846-a3e9-61d2392763e9",
+  "links": null,
+  "logo": null,
+  "name": "Direwolftoken.com",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DIREWOLF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

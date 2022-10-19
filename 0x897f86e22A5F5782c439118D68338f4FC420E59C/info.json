@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x897f86e22A5F5782c439118D68338f4FC420E59C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "5f289e36-dd97-4350-a0dd-b85471adeb27",
+  "links": null,
+  "logo": null,
+  "name": "The Tokenized Bitcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "imBTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

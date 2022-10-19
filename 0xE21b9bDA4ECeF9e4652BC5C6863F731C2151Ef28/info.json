@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xE21b9bDA4ECeF9e4652BC5C6863F731C2151Ef28",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a404e447-2831-4df8-b355-f68eb403aa88",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xE21b9bDA4ECeF9e4652BC5C6863F731C2151Ef28/logo.svg"
+  },
+  "name": "Darwinia Commitment Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KTON",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

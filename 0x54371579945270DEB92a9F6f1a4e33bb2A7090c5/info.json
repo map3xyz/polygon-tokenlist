@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x54371579945270DEB92a9F6f1a4e33bb2A7090c5",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b73efb65-990f-4751-a4b9-833a6965d11e",
+  "links": null,
+  "logo": null,
+  "name": "EXMOCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EXM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

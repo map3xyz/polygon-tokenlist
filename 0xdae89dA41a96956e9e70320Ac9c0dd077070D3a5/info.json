@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00ebe55a-77e3-4a8c-9328-e21a43a16ba6",
+  "links": null,
+  "logo": null,
+  "name": "Centaur Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CNTR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

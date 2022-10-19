@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x30810b6e871F333Ea6935b21871CdE070921bc38",
+  "color": null,
+  "decimals": 36,
+  "description": null,
+  "id": "3f18ccd7-c932-4972-8f8e-ded4aeed1444",
+  "links": null,
+  "logo": null,
+  "name": "One For All",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "O4A",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

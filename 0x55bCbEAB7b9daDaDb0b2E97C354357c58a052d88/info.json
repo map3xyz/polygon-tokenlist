@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x55bCbEAB7b9daDaDb0b2E97C354357c58a052d88",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a681658-3bc9-4a36-805c-bd96adc42058",
+  "links": null,
+  "logo": null,
+  "name": "Value USD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "USDV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

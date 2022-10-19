@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9f28e2455f9FFcFac9EBD6084853417362bc5dBb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a49a7c5-26fc-41c8-9d07-957979e34ca9",
+  "links": null,
+  "logo": null,
+  "name": "StaFi rMATIC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "rMATIC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

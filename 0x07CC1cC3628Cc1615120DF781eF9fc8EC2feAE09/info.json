@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x07CC1cC3628Cc1615120DF781eF9fc8EC2feAE09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a903774c-9107-4aab-8935-06e9291af65a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x07CC1cC3628Cc1615120DF781eF9fc8EC2feAE09/logo.svg"
+  },
+  "name": "BetProtocolToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BEPRO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

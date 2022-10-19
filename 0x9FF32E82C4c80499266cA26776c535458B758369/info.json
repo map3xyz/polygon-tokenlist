@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9FF32E82C4c80499266cA26776c535458B758369",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3140a0b2-2ade-4fd0-bd4b-c26054945f8e",
+  "links": null,
+  "logo": null,
+  "name": "CodeCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CODE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

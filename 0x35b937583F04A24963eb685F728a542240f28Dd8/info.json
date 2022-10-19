@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x35b937583F04A24963eb685F728a542240f28Dd8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85de3723-ad90-474d-a502-306defaef0dd",
+  "links": null,
+  "logo": null,
+  "name": "Spice",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SFI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

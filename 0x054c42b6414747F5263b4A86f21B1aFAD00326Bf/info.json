@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x054c42b6414747F5263b4A86f21B1aFAD00326Bf",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e0010896-c961-4d92-9fdc-bef8de269d9d",
+  "links": null,
+  "logo": null,
+  "name": "Voyager",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VGX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

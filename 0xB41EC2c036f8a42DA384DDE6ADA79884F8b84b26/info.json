@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xB41EC2c036f8a42DA384DDE6ADA79884F8b84b26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3e7924c-c6aa-408d-a1dc-6422f1beb3a9",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB41EC2c036f8a42DA384DDE6ADA79884F8b84b26/logo.svg"
+  },
+  "name": "Tidal Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TIDAL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

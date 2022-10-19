@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE329456b762a3888bbaFf6880036931D1399a417",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd79cbf0-a13b-4356-9cab-e5a876ff8a6f",
+  "links": null,
+  "logo": null,
+  "name": "Layer 2 Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LTI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

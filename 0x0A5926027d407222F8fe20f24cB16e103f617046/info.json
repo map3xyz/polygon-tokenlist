@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0A5926027d407222F8fe20f24cB16e103f617046",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80e5cb4a-78b5-4e36-8df9-6f7adc8d48eb",
+  "links": null,
+  "logo": null,
+  "name": "Feisty Doge NFT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

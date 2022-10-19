@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4EDe9608a5d6154Cb349F472063F6F0a95F9Afc1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce2aa904-b329-4fdd-8887-1edecde22167",
+  "links": null,
+  "logo": null,
+  "name": "Shina Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

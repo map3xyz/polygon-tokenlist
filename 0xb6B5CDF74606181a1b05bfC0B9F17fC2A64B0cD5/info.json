@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb6B5CDF74606181a1b05bfC0B9F17fC2A64B0cD5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "905990c2-a301-42a5-880f-7d8e379cf6fd",
+  "links": null,
+  "logo": null,
+  "name": "WFAIR Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WFAIR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

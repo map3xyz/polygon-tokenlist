@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD6CC9119650b5591dc44a761754aFC83F259ab41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8454b1f2-bcb9-42d5-9c07-1d2c812d946a",
+  "links": null,
+  "logo": null,
+  "name": "TrailerPark",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PARK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

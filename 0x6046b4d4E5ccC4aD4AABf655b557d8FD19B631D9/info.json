@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6046b4d4E5ccC4aD4AABf655b557d8FD19B631D9",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "ef0cbd2c-468f-4916-9373-d68911f3a559",
+  "links": null,
+  "logo": null,
+  "name": "InfiniCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INFC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

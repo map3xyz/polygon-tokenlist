@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xdF00c50a3daE240860F57b77508203B8D9593283",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b6c637a-bb68-423a-b73e-6624b13e0e8c",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdF00c50a3daE240860F57b77508203B8D9593283/logo.png"
+  },
+  "name": "IceToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ICE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

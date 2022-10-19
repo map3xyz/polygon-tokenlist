@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0B6643f87c37280f5006808Ad4766C34FBF0996C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "18aa5304-d402-4020-b68d-5b04268df134",
+  "links": null,
+  "logo": null,
+  "name": "Plexus Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLEXUS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

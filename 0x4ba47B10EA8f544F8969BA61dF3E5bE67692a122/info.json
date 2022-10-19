@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x4ba47B10EA8f544F8969BA61dF3E5bE67692a122",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "943e4f54-7e6a-49db-99dd-c3ea00f624ea",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4ba47B10EA8f544F8969BA61dF3E5bE67692a122/logo.svg"
+  },
+  "name": "UNIFUND",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "iFUND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

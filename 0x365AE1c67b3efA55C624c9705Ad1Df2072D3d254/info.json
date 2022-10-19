@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x365AE1c67b3efA55C624c9705Ad1Df2072D3d254",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd46fd02-5309-49bc-8abb-9fb28d40b254",
+  "links": null,
+  "logo": null,
+  "name": "CheGuevara",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Che",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

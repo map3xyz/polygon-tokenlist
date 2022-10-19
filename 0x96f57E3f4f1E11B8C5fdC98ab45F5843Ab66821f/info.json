@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x96f57E3f4f1E11B8C5fdC98ab45F5843Ab66821f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65a130fa-3fe0-4a1d-a956-ade3d593ab51",
+  "links": null,
+  "logo": null,
+  "name": "Whales Game Islands",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ISLAND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

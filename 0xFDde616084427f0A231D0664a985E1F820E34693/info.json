@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFDde616084427f0A231D0664a985E1F820E34693",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "131630ac-9076-4190-be5b-105a6958dc59",
+  "links": null,
+  "logo": null,
+  "name": "Badger Sett Digg",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "bDIGG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

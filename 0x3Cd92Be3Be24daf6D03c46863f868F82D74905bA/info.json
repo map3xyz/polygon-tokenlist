@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x3Cd92Be3Be24daf6D03c46863f868F82D74905bA",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "59d9c326-c373-4152-b4f2-07432a7273b4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x3Cd92Be3Be24daf6D03c46863f868F82D74905bA/logo.svg"
+  },
+  "name": "Sapien Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

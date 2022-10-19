@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2f911F789d9D599B34D403a2cFc0C5B3f7E8cE7a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "062bee3d-a96d-4840-b113-31b06f377b23",
+  "links": null,
+  "logo": null,
+  "name": "Genesis Mechanism",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GeM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

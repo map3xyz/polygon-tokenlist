@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x221afaC78D2725D090499b973bB42FC93CCA2ef5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d176b19e-f4c5-413d-95ba-0c93572fd379",
+  "links": null,
+  "logo": null,
+  "name": "Axion",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AXN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

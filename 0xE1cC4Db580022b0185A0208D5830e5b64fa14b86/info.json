@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE1cC4Db580022b0185A0208D5830e5b64fa14b86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a2c7634-4dfc-462c-94e8-2c4ac85eda7b",
+  "links": null,
+  "logo": null,
+  "name": "Medici Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MDC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

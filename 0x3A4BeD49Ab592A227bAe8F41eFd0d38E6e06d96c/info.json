@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x3A4BeD49Ab592A227bAe8F41eFd0d38E6e06d96c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56188a57-5db3-4ea2-b4ae-b969b097f33d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x3A4BeD49Ab592A227bAe8F41eFd0d38E6e06d96c/logo.svg"
+  },
+  "name": "Cardstack",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CARD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x67561239d0fd07A37B5621ae7C2b2F1413491033",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ffb4f906-7f70-4dcf-baa4-f6cc23e867a7",
+  "links": null,
+  "logo": null,
+  "name": "PROTEIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PRTN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

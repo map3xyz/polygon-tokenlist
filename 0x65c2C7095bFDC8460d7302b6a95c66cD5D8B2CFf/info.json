@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x65c2C7095bFDC8460d7302b6a95c66cD5D8B2CFf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73185ee7-71b8-4017-b1f9-1496d257178b",
+  "links": null,
+  "logo": null,
+  "name": "NFT Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

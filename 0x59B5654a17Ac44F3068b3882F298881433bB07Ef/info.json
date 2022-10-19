@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x59B5654a17Ac44F3068b3882F298881433bB07Ef",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21113d99-e909-4fd5-9fdb-b628388f7778",
+  "links": null,
+  "logo": {
+    "png": "https://coinpoker.com/assets/img/logox2.png"
+  },
+  "name": "CoinPoker Chips",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

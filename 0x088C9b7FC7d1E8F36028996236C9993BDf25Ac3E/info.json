@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x088C9b7FC7d1E8F36028996236C9993BDf25Ac3E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0de0fecd-1ce7-45eb-8173-3738ea54c3c1",
+  "links": null,
+  "logo": null,
+  "name": "Fuego Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FUEGO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

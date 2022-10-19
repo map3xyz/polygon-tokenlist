@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x164fBeF6729c86B0fd719789D2f985AFa15a4430",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29b26db9-b9cd-4eaa-8c4a-eadd256b8750",
+  "links": null,
+  "logo": null,
+  "name": "Meliora",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MORA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

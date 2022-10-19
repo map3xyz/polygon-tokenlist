@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x53CF566cf80e1a26Bfc16D055C866A72fdcBaEe7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "00a76755-c6fa-486f-a2d8-c8569418b707",
+  "links": null,
+  "logo": null,
+  "name": "Bitcoin Stable",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

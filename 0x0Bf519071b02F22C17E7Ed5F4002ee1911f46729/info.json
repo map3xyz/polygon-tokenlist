@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0Bf519071b02F22C17E7Ed5F4002ee1911f46729",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fa6c40df-e6e5-4630-b024-4128677f778c",
+  "links": null,
+  "logo": null,
+  "name": "Numeraire",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NMR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

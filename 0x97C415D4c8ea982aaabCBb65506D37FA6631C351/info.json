@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x97C415D4c8ea982aaabCBb65506D37FA6631C351",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d1531c4-397f-428a-8bf3-c05181e0e16d",
+  "links": null,
+  "logo": null,
+  "name": "UNCL",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNCL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

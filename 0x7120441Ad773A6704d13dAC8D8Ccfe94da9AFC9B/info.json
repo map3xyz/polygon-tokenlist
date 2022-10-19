@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7120441Ad773A6704d13dAC8D8Ccfe94da9AFC9B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2a412e1-aa24-41eb-9a04-0521edd0167c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7120441Ad773A6704d13dAC8D8Ccfe94da9AFC9B/logo.svg"
+  },
+  "name": "AlphaDex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

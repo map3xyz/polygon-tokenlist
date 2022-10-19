@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa4B2B20b2C73c7046ED19AC6bfF5E5285c58F20a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "93c07601-82ad-40af-9d30-b9b3cc0a5b6a",
+  "links": null,
+  "logo": null,
+  "name": "Boba Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BOBA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

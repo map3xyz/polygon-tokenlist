@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0921FE2ad25266df4C078C051f7AD1c2298E89FC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f634232e-d13b-4533-a6f8-5a72e2ef4443",
+  "links": null,
+  "logo": null,
+  "name": "Ins3.Finance Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ITF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

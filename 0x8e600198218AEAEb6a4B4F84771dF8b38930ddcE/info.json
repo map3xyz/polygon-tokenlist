@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x8e600198218AEAEb6a4B4F84771dF8b38930ddcE",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ce28f3f8-0b4d-4f0e-b589-03c9f39340aa",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x8e600198218AEAEb6a4B4F84771dF8b38930ddcE/logo.svg"
+  },
+  "name": "Mireneum token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MNE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

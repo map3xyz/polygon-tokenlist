@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x42F6bdCfd82547e89F1069Bf375aa60e6c6c063d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8baa0ae4-cc5b-4840-b499-44c63f651258",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x42F6bdCfd82547e89F1069Bf375aa60e6c6c063d/logo.png"
+  },
+  "name": "Civilization",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CIV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

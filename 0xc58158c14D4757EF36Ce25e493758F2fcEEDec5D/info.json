@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc58158c14D4757EF36Ce25e493758F2fcEEDec5D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5656ea02-658a-4e18-858d-4393816d3942",
+  "links": null,
+  "logo": null,
+  "name": "DeFi11",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "D11",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

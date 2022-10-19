@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x83a3b215b256df3f2Bc97DD0Fe1Fe32aF0d66D19",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "347e7be5-5b11-403f-b355-dc8cc2d76714",
+  "links": null,
+  "logo": null,
+  "name": "Z.com USD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZUSD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

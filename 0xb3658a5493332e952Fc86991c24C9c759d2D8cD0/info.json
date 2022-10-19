@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb3658a5493332e952Fc86991c24C9c759d2D8cD0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3deef9d-b4ff-4cd0-8bae-1732d12d4682",
+  "links": null,
+  "logo": null,
+  "name": "LABS Group",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LABS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

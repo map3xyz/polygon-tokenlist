@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB8e89dCd3025b05784cc5DaeA3108b697Ffb6697",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8c888da-fa7d-4bf0-96c3-1e26589209ca",
+  "links": null,
+  "logo": null,
+  "name": "Derived Ether",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "dEth",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

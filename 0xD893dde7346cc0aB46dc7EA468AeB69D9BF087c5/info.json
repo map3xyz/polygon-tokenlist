@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xD893dde7346cc0aB46dc7EA468AeB69D9BF087c5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4421333-0299-4657-9a4c-4b62db2a4511",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xD893dde7346cc0aB46dc7EA468AeB69D9BF087c5/logo.svg"
+  },
+  "name": "Hakka Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HAKKA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

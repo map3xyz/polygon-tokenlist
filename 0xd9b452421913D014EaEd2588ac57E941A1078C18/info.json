@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd9b452421913D014EaEd2588ac57E941A1078C18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d652132-d91e-495b-9a23-6992e73665b3",
+  "links": null,
+  "logo": null,
+  "name": "Collective",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CO2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

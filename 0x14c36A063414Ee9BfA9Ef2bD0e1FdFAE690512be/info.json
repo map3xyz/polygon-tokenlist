@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x14c36A063414Ee9BfA9Ef2bD0e1FdFAE690512be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "936bf1c3-a383-493a-91af-6eaec80540c9",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Mirror COIN Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mCOIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

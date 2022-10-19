@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x05bE4f635b558E791b68B500FD9210f60E4f3Db8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6bc1d18e-6e6e-4660-a336-525c6741c8ef",
+  "links": null,
+  "logo": null,
+  "name": "AGAIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGAIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

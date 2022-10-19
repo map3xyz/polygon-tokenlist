@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD778beF166D19548799E5f4A5D6354b22883563d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "76ff62d2-142b-4a4c-82eb-56bde6cc4450",
+  "links": null,
+  "logo": null,
+  "name": "USDP Stablecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "USDP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

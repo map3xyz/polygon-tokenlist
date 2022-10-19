@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc4b00DE48c795666c2B0Ad0ED4B9ac7E22Fd10E1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6182264b-240c-400b-887d-61aa4ed6d4fb",
+  "links": null,
+  "logo": null,
+  "name": "Venice Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VENICE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

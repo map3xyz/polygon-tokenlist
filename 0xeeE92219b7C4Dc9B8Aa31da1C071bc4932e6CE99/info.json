@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeeE92219b7C4Dc9B8Aa31da1C071bc4932e6CE99",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c698b265-0f29-41fd-9ab2-c82d4759f353",
+  "links": null,
+  "logo": null,
+  "name": "Sake",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SAK3",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

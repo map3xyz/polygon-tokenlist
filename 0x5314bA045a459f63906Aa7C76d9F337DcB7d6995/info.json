@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5314bA045a459f63906Aa7C76d9F337DcB7d6995",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7cc0f27-9da0-44e8-9d0d-337a4529e7cf",
+  "links": null,
+  "logo": null,
+  "name": "Fodl",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FODL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

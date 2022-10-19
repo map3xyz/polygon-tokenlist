@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b3849893-0b0c-483c-8e58-aaa4b7fae14f",
+  "links": null,
+  "logo": null,
+  "name": "Paxos Standard",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

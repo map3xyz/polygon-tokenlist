@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2CE13E4199443FDfFF531ABb30c9B6594446bbC7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5299dc8f-2145-4c92-b5cc-a46fa34ac17c",
+  "links": null,
+  "logo": null,
+  "name": "RocketX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RVF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

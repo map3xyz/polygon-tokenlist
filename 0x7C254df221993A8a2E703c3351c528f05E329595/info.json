@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7C254df221993A8a2E703c3351c528f05E329595",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6095c49e-a3c7-4495-9d41-e02916474e81",
+  "links": null,
+  "logo": null,
+  "name": "New Guinea Singing Dog Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NEWINU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA8FC7CD1ea3A65574368fAddB4B1190aa3Fd6560",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d30c613d-74ae-470b-9e53-89767d43fefb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xA8FC7CD1ea3A65574368fAddB4B1190aa3Fd6560/logo.svg"
+  },
+  "name": "Veritaseum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VERI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

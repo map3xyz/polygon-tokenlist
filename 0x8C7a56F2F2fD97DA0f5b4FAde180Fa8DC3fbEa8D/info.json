@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8C7a56F2F2fD97DA0f5b4FAde180Fa8DC3fbEa8D",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "af15815d-db5e-41ea-aebf-8acd83bcc04e",
+  "links": null,
+  "logo": null,
+  "name": "Osmosis",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OSMO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

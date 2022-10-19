@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc8C511fE3EdBA60bc1049A88060468c2EA2D6358",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "c099ea83-a195-4fee-b591-4ff9e562e51e",
+  "links": null,
+  "logo": null,
+  "name": "Hands Of Steel",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STEEL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

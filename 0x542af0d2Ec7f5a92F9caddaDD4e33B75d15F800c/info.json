@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x542af0d2Ec7f5a92F9caddaDD4e33B75d15F800c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2cd490bc-5dcd-419f-b920-94a569c0ef07",
+  "links": null,
+  "logo": null,
+  "name": "Resardis Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RSD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

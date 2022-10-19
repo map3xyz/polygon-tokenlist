@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x74Ac7664ABb1C8fa152D41bb60e311a663a41C7E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a67a6cf-256a-454b-b140-b014682d0177",
+  "links": null,
+  "logo": null,
+  "name": "MOONEY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOONEY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

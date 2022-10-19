@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "e53b0218-ee66-4867-be4a-fcb5b43a594f",
+  "links": null,
+  "logo": null,
+  "name": "IOI Token ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IOI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4A2B3c1527cf704D959390c0063FcF2A9E2bD9c1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "deed2a4f-9f05-49cb-bfa9-12e3c27d9401",
+  "links": null,
+  "logo": null,
+  "name": "XEND",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XEND",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

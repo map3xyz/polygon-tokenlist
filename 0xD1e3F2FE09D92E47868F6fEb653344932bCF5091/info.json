@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD1e3F2FE09D92E47868F6fEb653344932bCF5091",
+  "color": null,
+  "decimals": 5,
+  "description": null,
+  "id": "49b5acc1-2ce1-4ae4-9258-cac1f4ef0c88",
+  "links": null,
+  "logo": null,
+  "name": "Safaia Gabanansu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GABA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

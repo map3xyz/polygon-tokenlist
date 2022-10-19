@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x46A5D492788f8AFdfC743Ab7D7bD13F996249ED5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8e26c0b7-a815-4792-9f2d-3039f19c270c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x46A5D492788f8AFdfC743Ab7D7bD13F996249ED5/logo.svg"
+  },
+  "name": "Jigstack",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STAK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

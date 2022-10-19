@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xd1C9704bB651d334e9A600dbc056504cc773479F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8c6f3a5-9803-476e-a3e8-ee42d8685439",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xd1C9704bB651d334e9A600dbc056504cc773479F/logo.svg"
+  },
+  "name": "Coldstack",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CLS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

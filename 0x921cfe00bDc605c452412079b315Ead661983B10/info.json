@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x921cfe00bDc605c452412079b315Ead661983B10",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "30d72c18-4ac0-439b-9420-8dda5a9484e0",
+  "links": null,
+  "logo": null,
+  "name": "BitBase",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTBS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

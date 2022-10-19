@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0b80BFcfd006c446aF4157b87aA7D7F13c8F549A",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "32d85417-3af8-4871-a9d6-9f38e1f67488",
+  "links": null,
+  "logo": null,
+  "name": "KOROMARU",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KOROMARU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7B276A55987E3020026Bb098F15E968313Bd1aF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dbcc5df1-4520-4aa5-b246-fe2878214a47",
+  "links": null,
+  "logo": null,
+  "name": "Koin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XKO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

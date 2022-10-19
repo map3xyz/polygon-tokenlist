@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe465128Cd5316C4A08e879c32Cc89D8F794c02e4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d88df3e-c253-4b03-bee8-e6dc5194737e",
+  "links": null,
+  "logo": null,
+  "name": "The Rise Of The Aztecs - Gold",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROAG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9611452965b63cFeA2C9774e5386AB6D4F0abf16",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f03ad1d-30b2-4921-91b4-f293db6440a4",
+  "links": null,
+  "logo": null,
+  "name": "Indorse",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

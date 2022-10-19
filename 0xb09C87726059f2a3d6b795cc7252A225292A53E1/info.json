@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb09C87726059f2a3d6b795cc7252A225292A53E1",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7db0a6d3-0b3a-4247-828e-d15421268a8f",
+  "links": null,
+  "logo": null,
+  "name": "StableUSD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "USDS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

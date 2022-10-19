@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xDd418748FeCfc870b7322b1D11402814f5ee55Ab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f0a9b832-1dc3-4a1f-83d8-e8b59a3fbca8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xDd418748FeCfc870b7322b1D11402814f5ee55Ab/logo.svg"
+  },
+  "name": "SharedStake Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SGT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

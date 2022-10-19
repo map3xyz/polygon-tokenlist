@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEbBB74174D1a22729B9a9cddb28c18cA07BE0314",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80e5e958-0208-45c4-a7c4-754d26013506",
+  "links": null,
+  "logo": null,
+  "name": "IgnisLite",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IgnisLite",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

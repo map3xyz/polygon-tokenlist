@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7dF5638222BBe24cCe39f726c3B61cC03610622a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "45c9fdff-5cda-4b75-901b-19ba2f9dfeb8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7dF5638222BBe24cCe39f726c3B61cC03610622a/logo.svg"
+  },
+  "name": "Ludena Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LDN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

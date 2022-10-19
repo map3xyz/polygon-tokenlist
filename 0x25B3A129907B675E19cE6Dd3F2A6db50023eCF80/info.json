@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x25B3A129907B675E19cE6Dd3F2A6db50023eCF80",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "79e80749-f8fc-478e-b3e6-9912bd67199b",
+  "links": null,
+  "logo": null,
+  "name": "Harrison First",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FIRST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

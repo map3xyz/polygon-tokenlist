@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5b3455590Ec7F5a25119885Ed62aFBA9bC2e5D65",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f58befea-3270-4df2-89da-e8888ec3ea0e",
+  "links": null,
+  "logo": null,
+  "name": "L�f",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LIF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

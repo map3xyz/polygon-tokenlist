@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd5fa77A860FeA9cFf31DA91BbF9e0FaEa9538290",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9fb23cf4-91b3-4412-bfb9-f5fb67b0b3d8",
+  "links": null,
+  "logo": null,
+  "name": "DOG COLLAR",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COLLAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

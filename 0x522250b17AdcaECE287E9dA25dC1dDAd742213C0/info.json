@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x522250b17AdcaECE287E9dA25dC1dDAd742213C0",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6778d42e-eea1-4dda-88c2-3cb005dc747e",
+  "links": null,
+  "logo": null,
+  "name": "LikeCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LIKE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

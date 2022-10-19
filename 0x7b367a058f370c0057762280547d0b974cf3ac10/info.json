@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7b367a058f370c0057762280547d0b974cf3ac10",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f59e46e-db40-4be8-b57b-1cfb5c0cba43",
+  "links": null,
+  "logo": null,
+  "name": "PAR Stablecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

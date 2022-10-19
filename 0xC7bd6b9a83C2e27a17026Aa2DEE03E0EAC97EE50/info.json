@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC7bd6b9a83C2e27a17026Aa2DEE03E0EAC97EE50",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9a77c6f-ee71-4e6c-b265-5061d5c11685",
+  "links": null,
+  "logo": null,
+  "name": "King Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KING",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

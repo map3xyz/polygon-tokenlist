@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3522898a74959A16C43F59055392b2Fce48727d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "732b556e-e6eb-4504-a9c9-6adec18d5691",
+  "links": null,
+  "logo": null,
+  "name": "OBORTECH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OBOT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

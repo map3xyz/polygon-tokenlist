@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4bc1cf6-c223-4321-9f17-35a4b6a3461c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1/logo.svg"
+  },
+  "name": "Metaverse Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MVI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

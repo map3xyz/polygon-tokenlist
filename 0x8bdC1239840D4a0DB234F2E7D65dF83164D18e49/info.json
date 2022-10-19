@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8bdC1239840D4a0DB234F2E7D65dF83164D18e49",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "963a4a49-dc23-4a12-9125-05840fd6ee2f",
+  "links": null,
+  "logo": null,
+  "name": "HARD Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HARD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd50EC6360f560a59926216Eafb98395AC430C9fD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15fd3ef2-5a85-462e-b710-182f5e2339fe",
+  "links": null,
+  "logo": null,
+  "name": "AlchemistKlima",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "alKLIMA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe9993763E0B7f7d915A62A5f22A6E151F91d98A8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5dcb83a8-8b46-4a50-8db3-209fefd36f16",
+  "links": null,
+  "logo": null,
+  "name": "TORG",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TORG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f2128fa-6876-4acb-8cbe-26386b7ed221",
+  "links": null,
+  "logo": null,
+  "name": "UMA Voting Token v1",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UMA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "27c01f10-db8c-4ae9-93bd-8be300f7af64",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e/logo.svg"
+  },
+  "name": "CyberFi Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CFi",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

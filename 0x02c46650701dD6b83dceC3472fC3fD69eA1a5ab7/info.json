@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x02c46650701dD6b83dceC3472fC3fD69eA1a5ab7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60d7aece-1593-4143-a6bf-91de7b088713",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x02c46650701dD6b83dceC3472fC3fD69eA1a5ab7/logo.svg"
+  },
+  "name": "DeversiFi Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DVF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

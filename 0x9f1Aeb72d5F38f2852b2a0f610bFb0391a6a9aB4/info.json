@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9f1Aeb72d5F38f2852b2a0f610bFb0391a6a9aB4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6492072-d935-4ca8-a018-d14d38ffed86",
+  "links": null,
+  "logo": null,
+  "name": "Metric.exchange",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "METRIC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc576E8BB0017AFfC2Cb245609E304E57401ee78a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d54d3c50-3c0f-4ee2-82ba-25427a8bb40c",
+  "links": null,
+  "logo": null,
+  "name": "TrumpBux",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TBUX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

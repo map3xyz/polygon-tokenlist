@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE411D55Fb9D8d9d2A0b4161F08AdF768b23A584B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "846b5df3-3af7-42e9-b0d8-b457ad34e486",
+  "links": null,
+  "logo": null,
+  "name": "PYLNT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PYLNT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

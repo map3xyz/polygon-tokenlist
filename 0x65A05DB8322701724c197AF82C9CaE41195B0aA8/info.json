@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba99181f-4847-4f2f-815a-20715c0be301",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x65A05DB8322701724c197AF82C9CaE41195B0aA8/logo.svg"
+  },
+  "name": "FOX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FOX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

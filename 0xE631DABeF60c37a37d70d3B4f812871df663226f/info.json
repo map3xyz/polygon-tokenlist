@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE631DABeF60c37a37d70d3B4f812871df663226f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2380c3ef-2413-415a-9255-ba6c7eec89c9",
+  "links": null,
+  "logo": null,
+  "name": "Swarm Markets",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SMT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

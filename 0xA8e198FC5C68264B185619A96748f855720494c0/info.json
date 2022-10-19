@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA8e198FC5C68264B185619A96748f855720494c0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52bb6732-4479-4e27-bbc3-c5fc5698c644",
+  "links": null,
+  "logo": null,
+  "name": "LITION",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LIT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xB46E0ae620EFd98516f49bb00263317096C114b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6fe540c2-ff0a-4250-821b-82f3287f1883",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB46E0ae620EFd98516f49bb00263317096C114b2/logo.svg"
+  },
+  "name": "Theta Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THETA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

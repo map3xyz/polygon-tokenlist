@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x73Bee5D745dA8b0c39437Df8EAf64CE0589A6575",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "9d8629f9-5fb8-47c1-a73f-e3e6b07eb818",
+  "links": null,
+  "logo": null,
+  "name": "Kiba Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KIBA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

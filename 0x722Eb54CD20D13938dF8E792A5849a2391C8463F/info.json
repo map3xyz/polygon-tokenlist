@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x722Eb54CD20D13938dF8E792A5849a2391C8463F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "484c3518-ef99-4793-9e45-da294521bb72",
+  "links": null,
+  "logo": null,
+  "name": "THORChain ETH.RUNE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RUNE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

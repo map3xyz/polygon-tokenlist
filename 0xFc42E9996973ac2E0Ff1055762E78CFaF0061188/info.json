@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFc42E9996973ac2E0Ff1055762E78CFaF0061188",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fcce72d5-6bc4-4047-b86a-4a85f0fb217c",
+  "links": null,
+  "logo": null,
+  "name": "Power Trade Fuel",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PTF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2857686536f58dd835DbF43C9f549676296Ef336",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "76c039d5-cf3b-4fa5-bbc2-49fff31551f1",
+  "links": null,
+  "logo": null,
+  "name": "solace",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOLACE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

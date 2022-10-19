@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xcfeda1807147DBBcb1808e2518eDDE0142f419f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "878c5ebe-3b2c-44d5-8eb4-a974054ab453",
+  "links": null,
+  "logo": null,
+  "name": "Babycoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BABYCOIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

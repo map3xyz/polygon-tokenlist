@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA5577D1cec2583058A6Bd6d5DEAC44797c205701",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6428efe7-357d-48ce-9241-750ebba29593",
+  "links": null,
+  "logo": null,
+  "name": "Polygon Dev Wrapper",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WDEV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

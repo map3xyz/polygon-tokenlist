@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x892fC8D2b2d6252cDd91Ed29AE08d89C03c5E0b2",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "c96014e7-448e-4696-b2dc-689829c01588",
+  "links": null,
+  "logo": null,
+  "name": "BabyFloki",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BabyFloki",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

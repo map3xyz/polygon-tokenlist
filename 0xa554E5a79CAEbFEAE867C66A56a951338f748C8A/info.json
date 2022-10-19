@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa554E5a79CAEbFEAE867C66A56a951338f748C8A",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "8aa4dba1-2c94-43d4-85ec-3d176293bd2c",
+  "links": null,
+  "logo": null,
+  "name": "Castello Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CAST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "4c29e867-cea3-4031-8e08-d911e960a77f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xFeD16c746CB5BFeD009730f9E3e6A673006105c7/logo.svg"
+  },
+  "name": "Digital Reserve Currency",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DRC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

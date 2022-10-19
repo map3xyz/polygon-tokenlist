@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdEbA42D0A9Da63697EAf745B2863393E02505A3a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87a11d17-e395-4e2f-8208-471e22c7ede6",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Fishermen",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wFM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

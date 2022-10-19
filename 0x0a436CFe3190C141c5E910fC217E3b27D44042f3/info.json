@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0a436CFe3190C141c5E910fC217E3b27D44042f3",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "f1e42000-e306-496f-a2c3-4633c6059d6b",
+  "links": null,
+  "logo": null,
+  "name": "Hedron",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HDRN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

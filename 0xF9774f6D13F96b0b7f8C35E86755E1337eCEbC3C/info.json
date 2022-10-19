@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF9774f6D13F96b0b7f8C35E86755E1337eCEbC3C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6231cf68-ac95-4c79-b674-8164c5786b9d",
+  "links": null,
+  "logo": null,
+  "name": "HappyPay",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HPAY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

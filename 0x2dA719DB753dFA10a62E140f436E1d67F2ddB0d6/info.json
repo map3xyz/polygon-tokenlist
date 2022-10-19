@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "419440f7-4574-428c-bfe2-ef766f37f2d3",
+  "links": null,
+  "logo": null,
+  "name": "CERE Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CERE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

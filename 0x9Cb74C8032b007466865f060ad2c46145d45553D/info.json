@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9Cb74C8032b007466865f060ad2c46145d45553D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "275aa2d8-cb82-4f11-8619-aedb89bd31bd",
+  "links": null,
+  "logo": null,
+  "name": "IDEX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IDEX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

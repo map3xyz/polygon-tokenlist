@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dfe3da2f-24b4-4f0f-8cc1-8509678cdf22",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D/logo.png"
+  },
+  "name": "Forest Knight",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KNIGHT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

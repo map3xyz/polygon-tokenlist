@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xba19a5b5029AEa6Fe018742E6eFc5a204a58c14d",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "2a0abced-92de-44d4-9762-561ecadae86e",
+  "links": null,
+  "logo": null,
+  "name": "Ino Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

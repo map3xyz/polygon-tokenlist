@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB6f10Be9201fb110b3Aa275267a234E84ade8e95",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c95fb4a3-b9e8-4d36-a3e8-1c3646b1164e",
+  "links": null,
+  "logo": null,
+  "name": "onG",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ONG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

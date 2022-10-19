@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x6804b07d883D0169C05233332CcF17aA956424c5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "803911e6-e8fa-40d3-bff7-648ba7b1c653",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6804b07d883D0169C05233332CcF17aA956424c5/logo.png"
+  },
+  "name": "Fleato coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLEATO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb565CF70613ca464D68427106af80C67a8e4b801",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c30a2785-f9c7-4a59-8e5d-a3a2c6900f51",
+  "links": null,
+  "logo": null,
+  "name": "YVS.Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YVS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD52f6CA48882Be8fbaa98ce390db18e1dbe1062d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1b32a879-5723-47da-bb1e-4f0ba56a7654",
+  "links": null,
+  "logo": null,
+  "name": "pTokens ORE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

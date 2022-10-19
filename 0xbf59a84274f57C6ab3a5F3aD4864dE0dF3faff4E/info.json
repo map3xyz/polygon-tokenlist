@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbf59a84274f57C6ab3a5F3aD4864dE0dF3faff4E",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d9811bd9-eaab-4481-b894-aa8e0a1e7f27",
+  "links": null,
+  "logo": null,
+  "name": "Kounotori",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KTO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

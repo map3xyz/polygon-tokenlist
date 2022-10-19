@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x066028738CE85aa1946b9D05B1d0F06F3d0Fdb7A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e03e068-cf00-4c38-97ff-b4c2ac373c37",
+  "links": null,
+  "logo": null,
+  "name": "DarkPool",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "pDARK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

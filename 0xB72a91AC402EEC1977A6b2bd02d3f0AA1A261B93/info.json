@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB72a91AC402EEC1977A6b2bd02d3f0AA1A261B93",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "eb6b661d-4de9-4e72-8230-cd589050d6ab",
+  "links": null,
+  "logo": null,
+  "name": "WorldChainShare",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WCS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

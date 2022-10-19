@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE47dbe919C8AB0c1A1C1e97A1Eefc2B946253924",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef193dc5-3e63-46a9-9e9a-4815489683a3",
+  "links": null,
+  "logo": null,
+  "name": "cVault.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CORE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

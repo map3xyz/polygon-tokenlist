@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "227caf33-083e-4cf9-9b34-f441ff5b1fde",
+  "links": null,
+  "logo": null,
+  "name": "Gains V2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GFARM2",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

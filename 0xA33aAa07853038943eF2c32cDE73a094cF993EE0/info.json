@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA33aAa07853038943eF2c32cDE73a094cF993EE0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "104a6b33-6d25-4d44-87c3-26f50d6cbe95",
+  "links": null,
+  "logo": null,
+  "name": "YUGEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YGN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

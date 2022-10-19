@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6374fce99CF93A8f07728c4ADF2991b0f5E50F45",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "369565d0-bb91-448c-8fb6-e7a7b442deb8",
+  "links": null,
+  "logo": null,
+  "name": "NIL Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NIL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

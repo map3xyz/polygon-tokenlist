@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b18fcb15-2ac0-4c4b-8b2f-ec5c01069b0f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e/logo.svg"
+  },
+  "name": "MEME",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEME",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

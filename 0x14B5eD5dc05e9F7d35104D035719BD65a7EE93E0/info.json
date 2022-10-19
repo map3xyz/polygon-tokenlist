@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x14B5eD5dc05e9F7d35104D035719BD65a7EE93E0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99899565-a09c-4588-aeac-1e7dd70ea90e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x14B5eD5dc05e9F7d35104D035719BD65a7EE93E0/logo.svg"
+  },
+  "name": "1PLANET Carbon Credit",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "1PLCO2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

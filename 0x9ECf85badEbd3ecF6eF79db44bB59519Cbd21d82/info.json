@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9ECf85badEbd3ecF6eF79db44bB59519Cbd21d82",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "7b131da2-46a4-4074-a8c7-9a712be2f9cb",
+  "links": null,
+  "logo": null,
+  "name": "kongdefi.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KONG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

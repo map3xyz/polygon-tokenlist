@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x157B28E46F301c596668A4B85C59f710F9C4BBAA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9c3314de-6076-4770-aa08-839d92052c70",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x157B28E46F301c596668A4B85C59f710F9C4BBAA/logo.svg"
+  },
+  "name": "Wrapped Wagerr",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WWGR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

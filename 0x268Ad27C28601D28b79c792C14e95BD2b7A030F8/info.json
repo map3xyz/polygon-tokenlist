@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x268Ad27C28601D28b79c792C14e95BD2b7A030F8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "977ad905-d9df-4c0c-9855-13a71a0a5b01",
+  "links": null,
+  "logo": null,
+  "name": "Julien",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JULIEN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

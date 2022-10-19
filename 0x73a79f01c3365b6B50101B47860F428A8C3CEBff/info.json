@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x73a79f01c3365b6B50101B47860F428A8C3CEBff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c761979-9708-4bf0-9a62-07ef5cdda35c",
+  "links": null,
+  "logo": null,
+  "name": "CybeeDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CBD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

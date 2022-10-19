@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x594C984E3318e91313f881B021A0C4203fF5E59F",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1584edf1-0e44-4645-b5dd-9cb7eb0c37e8",
+  "links": null,
+  "logo": null,
+  "name": "Chroma",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

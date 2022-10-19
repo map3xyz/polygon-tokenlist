@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0f2bef4-111b-45d5-a571-c28cfc10133c",
+  "links": null,
+  "logo": null,
+  "name": "Nexo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NEXO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

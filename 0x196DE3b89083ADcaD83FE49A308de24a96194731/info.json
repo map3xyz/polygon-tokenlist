@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x196DE3b89083ADcaD83FE49A308de24a96194731",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e9dd658d-7c0b-4efb-a842-81700fe62485",
+  "links": null,
+  "logo": null,
+  "name": "SafeMoon Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SMI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

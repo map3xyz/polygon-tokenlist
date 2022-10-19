@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xBbc8cCC5d47E9EFfC15F0c71A4e0eE8046546385",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "19db3a65-8bb8-4771-8abe-1ab63ee4e497",
+  "links": null,
+  "logo": null,
+  "name": "MileShare",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MILE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

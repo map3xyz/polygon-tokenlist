@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x89b1F5DB1797f82af33dED6e6B50623a83aE84fA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59902447-9c33-4b00-aa9d-7d0fb01aac60",
+  "links": null,
+  "logo": null,
+  "name": "Inverse BTC Volatility Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "iBTCV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

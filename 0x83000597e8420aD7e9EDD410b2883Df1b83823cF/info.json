@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x83000597e8420aD7e9EDD410b2883Df1b83823cF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f2acee5-a441-4b27-86ee-a56ab2bd2b04",
+  "links": null,
+  "logo": null,
+  "name": "P125 Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "P125",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

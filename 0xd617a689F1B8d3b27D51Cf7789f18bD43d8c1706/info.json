@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xd617a689F1B8d3b27D51Cf7789f18bD43d8c1706",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f81033d4-d73e-4361-b6ff-87007aabcd6c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xd617a689F1B8d3b27D51Cf7789f18bD43d8c1706/logo.svg"
+  },
+  "name": "Koinos",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KOIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

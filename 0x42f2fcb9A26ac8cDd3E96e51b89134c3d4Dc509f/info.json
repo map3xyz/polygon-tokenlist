@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x42f2fcb9A26ac8cDd3E96e51b89134c3d4Dc509f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9833c150-0da6-407d-939f-c6b78df8ab4b",
+  "links": null,
+  "logo": null,
+  "name": "Lionverse Juice",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LVJ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

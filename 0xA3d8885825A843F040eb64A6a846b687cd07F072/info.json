@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA3d8885825A843F040eb64A6a846b687cd07F072",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c99b8d31-b5f8-48d6-b120-878203870ac3",
+  "links": null,
+  "logo": null,
+  "name": "Shungite",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHUNG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

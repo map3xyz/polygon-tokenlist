@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab872fa5-aa82-40e2-a420-d33e0eda7384",
+  "links": null,
+  "logo": null,
+  "name": "TrustSwap Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWAP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

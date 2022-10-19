@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x147Ee2488d2ede60b2443B22b245F6B4825F020f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "39bd2cfc-5386-4a47-a7b1-634f89616440",
+  "links": null,
+  "logo": null,
+  "name": "Mute.io",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MUTE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

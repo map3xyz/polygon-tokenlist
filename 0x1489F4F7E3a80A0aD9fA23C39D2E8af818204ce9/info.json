@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1489F4F7E3a80A0aD9fA23C39D2E8af818204ce9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d4b819c-886c-4946-9b60-37491af8b992",
+  "links": null,
+  "logo": null,
+  "name": "Strudel BTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VBTC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5a7aAdDD5F1d343fA4248c3e2A02d8a18626b9d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d34fe672-8a7e-4468-8083-14131d43e312",
+  "links": null,
+  "logo": null,
+  "name": "BeverageBar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "xDRINK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

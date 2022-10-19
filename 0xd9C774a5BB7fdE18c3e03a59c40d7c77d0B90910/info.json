@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd9C774a5BB7fdE18c3e03a59c40d7c77d0B90910",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8250993-ba2a-49df-b8c2-71c669840815",
+  "links": null,
+  "logo": null,
+  "name": "Dexmex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEXM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

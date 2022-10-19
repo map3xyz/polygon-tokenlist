@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x5095cC6511B70e287bc525Aa57AfbC60EB73ac47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1dc6d891-5617-4928-bbab-e946037f9699",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x5095cC6511B70e287bc525Aa57AfbC60EB73ac47/logo.svg"
+  },
+  "name": "UnFederalReserveToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "eRSDL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

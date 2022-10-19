@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x82f735270cfcCbCbceA08141f93Ed1816B779874",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6490396-6a3e-43ef-8569-69c3229f159f",
+  "links": null,
+  "logo": null,
+  "name": "HHKcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HHK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

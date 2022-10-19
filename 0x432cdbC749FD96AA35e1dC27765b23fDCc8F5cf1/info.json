@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x432cdbC749FD96AA35e1dC27765b23fDCc8F5cf1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ef3da21-e600-4dd6-abc2-8ea19fab5416",
+  "links": null,
+  "logo": null,
+  "name": "NIFTSY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NIFTSY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

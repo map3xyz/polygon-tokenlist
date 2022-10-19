@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xEc482De9569a5EA3Dd9779039b79e53F15791fDE",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9193b759-88a6-487b-9970-fef2907c3837",
+  "links": null,
+  "logo": null,
+  "name": "Regen Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REGEN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

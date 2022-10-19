@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9656cfbbdDc777f15341F4bd1733f5eEC6B5Feb4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29c20244-77a3-44b8-9fca-e53d24b6d9c2",
+  "links": null,
+  "logo": null,
+  "name": "funkyninja *❄✲❄* spacerobots",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPACEFUNK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

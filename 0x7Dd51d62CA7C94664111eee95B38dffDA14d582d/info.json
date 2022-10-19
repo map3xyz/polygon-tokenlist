@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7Dd51d62CA7C94664111eee95B38dffDA14d582d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b7b1a46-c09d-434a-b383-13d5592903ec",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7Dd51d62CA7C94664111eee95B38dffDA14d582d/logo.svg"
+  },
+  "name": "unilock.network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

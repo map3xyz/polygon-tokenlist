@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x07fcd81Bf6156e49c64f0ba70f962A9F5111D39d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cbd089c4-4849-4e37-87f6-af2a72e64281",
+  "links": null,
+  "logo": null,
+  "name": "BitcoinVend",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BCVT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

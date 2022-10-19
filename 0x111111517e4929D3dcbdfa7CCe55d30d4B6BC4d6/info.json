@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4438d6e2-61b3-4c42-b671-23a51c757a24",
+  "links": null,
+  "logo": null,
+  "name": "ICHI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ICHI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

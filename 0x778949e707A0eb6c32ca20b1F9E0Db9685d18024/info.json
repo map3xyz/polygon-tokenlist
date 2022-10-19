@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x778949e707A0eb6c32ca20b1F9E0Db9685d18024",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74e74edc-18a5-46bf-9d18-bc276919d77b",
+  "links": null,
+  "logo": null,
+  "name": "GAMESTA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GSG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

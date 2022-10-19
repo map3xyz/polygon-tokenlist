@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7d3fA4bAD8220d927A23F29aa70866Ea97bBF313",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e45c8821-19a9-4244-97a4-3b84bbfccd92",
+  "links": null,
+  "logo": null,
+  "name": "SamoSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SAMOZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

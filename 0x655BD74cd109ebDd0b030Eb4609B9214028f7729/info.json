@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x655BD74cd109ebDd0b030Eb4609B9214028f7729",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "18f97bba-fb24-4ea5-ac6f-4cb96e501611",
+  "links": null,
+  "logo": null,
+  "name": "Origin Dollar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OUSD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

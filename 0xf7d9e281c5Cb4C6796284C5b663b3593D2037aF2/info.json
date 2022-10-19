@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd536253-3fd9-4072-90eb-36a7823ecfef",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2/logo.svg"
+  },
+  "name": "NFT Platform Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFTP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

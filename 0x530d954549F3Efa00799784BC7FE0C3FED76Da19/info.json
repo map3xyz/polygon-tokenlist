@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x530d954549F3Efa00799784BC7FE0C3FED76Da19",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ae60ea4-c520-47d1-bd4e-d1b72aebd0a8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x530d954549F3Efa00799784BC7FE0C3FED76Da19/logo.svg"
+  },
+  "name": "Concentrated Voting Power",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CVP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

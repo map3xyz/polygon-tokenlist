@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1B0cC1A5D296fda5971d582dbb87B07fB120B92c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c042dac-06b3-49b6-b8d9-7121c4afa08f",
+  "links": null,
+  "logo": null,
+  "name": "Reach Four the Stars",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "R4S",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

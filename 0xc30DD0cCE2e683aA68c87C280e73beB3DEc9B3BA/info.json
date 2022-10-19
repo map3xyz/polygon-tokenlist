@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc30DD0cCE2e683aA68c87C280e73beB3DEc9B3BA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc131ca6-c3f9-4ee1-aa7a-fd201c30b72e",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Celo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wCELO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa73eACB2955fF636F8FE16F6BE35FC11D8D61f9E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "922dde57-5dbc-4f46-b78f-5d4f6ff58c32",
+  "links": null,
+  "logo": null,
+  "name": "TRASH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRSH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

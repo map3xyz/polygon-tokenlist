@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "08a2c296-cf85-4a68-b0ad-e24150f5f6d6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f/logo.svg"
+  },
+  "name": "KIWI Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KIWI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

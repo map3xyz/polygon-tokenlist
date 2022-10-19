@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEE55DD8d0CcbE835b8ef163590c9aFEaacE5978B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a77015c0-7b7e-4651-a59d-5484c215219b",
+  "links": null,
+  "logo": null,
+  "name": "Temple",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TEMPLE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd668c5e8A4A837CA95be5e3a8d5Bd62F5985390D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "916b0ae3-e706-4576-a8eb-10d29665c15c",
+  "links": null,
+  "logo": null,
+  "name": "Streamr (old)",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XDATA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

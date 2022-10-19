@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB261387f5188c81DdD543e2A75c89309aB1bfD2C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "012df05f-362e-4f16-9af4-7c4c0ba81822",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Mirror NFLX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mNFLX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

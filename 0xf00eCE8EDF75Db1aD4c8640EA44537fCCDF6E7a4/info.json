@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf00eCE8EDF75Db1aD4c8640EA44537fCCDF6E7a4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "38fc325b-0ab6-47cf-81df-a2571f71698d",
+  "links": null,
+  "logo": null,
+  "name": "Tokenart",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OKNA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

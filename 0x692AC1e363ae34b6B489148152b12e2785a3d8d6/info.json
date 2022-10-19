@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6bc9af0d-8f5f-4c61-89c8-afae6223cf4e",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x692AC1e363ae34b6B489148152b12e2785a3d8d6/logo.png"
+  },
+  "name": "Polytrade (PoS)",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRADE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

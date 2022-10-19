@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c4286c8-110f-4712-9f6e-eefcc37a84dd",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f/logo.svg"
+  },
+  "name": "Darwinia",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Ring",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

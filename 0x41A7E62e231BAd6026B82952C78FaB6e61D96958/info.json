@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x41A7E62e231BAd6026B82952C78FaB6e61D96958",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8da50154-0182-416b-8cae-a8e950cd68bb",
+  "links": null,
+  "logo": null,
+  "name": "Lockable",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

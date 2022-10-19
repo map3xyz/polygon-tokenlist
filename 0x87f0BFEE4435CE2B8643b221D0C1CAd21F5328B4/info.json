@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x87f0BFEE4435CE2B8643b221D0C1CAd21F5328B4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "45a96175-e45b-4d7d-a194-efcd621b3351",
+  "links": null,
+  "logo": null,
+  "name": "stake dao Curve.fi DAI/USDC/USDT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "sd3Crv",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

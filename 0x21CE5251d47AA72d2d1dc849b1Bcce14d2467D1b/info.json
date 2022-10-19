@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x21CE5251d47AA72d2d1dc849b1Bcce14d2467D1b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f413386-5d9c-4d3f-ad35-bf89ada97c0b",
+  "links": null,
+  "logo": null,
+  "name": "UNIC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNIC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

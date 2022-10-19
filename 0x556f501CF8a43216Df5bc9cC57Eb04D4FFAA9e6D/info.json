@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "80f77170-fd75-45ad-b103-90ccc6ca5795",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D/logo.svg"
+  },
+  "name": "Distant Universe Stardust Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DUST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

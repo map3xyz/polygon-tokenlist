@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7d29968f96D475186A479E4be99B43B8B8a20Dbc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ebe2a5d0-89b1-4f74-b593-529e7fdc7743",
+  "links": null,
+  "logo": null,
+  "name": "LogiTron",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LTR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

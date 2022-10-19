@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6E94662b2f78DF1f014Dafa7464Bded57F1481B2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52b606b4-8e21-479b-a297-afa3a9301701",
+  "links": null,
+  "logo": null,
+  "name": "Koji",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KOJI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

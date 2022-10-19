@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x4b54Bc363f5F9c6E0fcd82EaC6919aE213464Cc6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "584f8c93-3c99-4816-9d70-dfa0d1cc8a28",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4b54Bc363f5F9c6E0fcd82EaC6919aE213464Cc6/logo.svg"
+  },
+  "name": "BTC 2x Flexible Leverage Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTC2x-FLI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

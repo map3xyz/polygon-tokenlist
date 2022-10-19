@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x36B77a184bE8ee56f5E81C56727B20647A42e28E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ca48e08a-4aca-4113-9604-c54513d7dc35",
+  "links": null,
+  "logo": null,
+  "name": "Quant",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "QNT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x96fEbBC05Bb00F83bb5A3F20DD97940454EC3b7d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3ee2daa9-e3f5-4bf0-b847-ca7032653e19",
+  "links": null,
+  "logo": null,
+  "name": "Zero.Exchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZERO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

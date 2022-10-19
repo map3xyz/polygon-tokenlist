@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4CB9050EA02395a8941715ceeffe0cDf60c59f07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "10728d95-7718-4c6d-9fa0-e47f49f2894d",
+  "links": null,
+  "logo": null,
+  "name": "Wallstreetbets",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WSB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

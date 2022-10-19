@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7827F070D3F0DCAE72aC6a9E1953459d50A426A7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72c0c463-98dc-4a3a-9dbb-03ce81649033",
+  "links": null,
+  "logo": null,
+  "name": "FOTO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FOTO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

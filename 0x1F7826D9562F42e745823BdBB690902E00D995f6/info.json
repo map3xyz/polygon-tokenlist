@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1F7826D9562F42e745823BdBB690902E00D995f6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f0c1248-a4fa-4cb5-bfcc-44eb7fc1a117",
+  "links": null,
+  "logo": null,
+  "name": "Bluemel",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLUEMEL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

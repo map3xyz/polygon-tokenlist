@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2035114-1e73-4d53-98f3-5dfd9af05abb",
+  "links": null,
+  "logo": null,
+  "name": "Nitro",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NITRO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x669ddc70273084Ea30e6cd4f28CA6e2C70735065",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cbe20399-e83f-4def-9e8b-40d20518d95c",
+  "links": null,
+  "logo": null,
+  "name": "AGA Carbon Credit",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGAc",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

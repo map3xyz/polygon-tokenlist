@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cfedb9b4-6c09-4c73-9bb7-fe68e3ca2318",
+  "links": null,
+  "logo": null,
+  "name": "PureFi Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UFI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x82dCf1Df86AdA26b2dCd9ba6334CeDb8c2448e9e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56739434-1156-4190-9fa6-6f45eceec5b5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x82dCf1Df86AdA26b2dCd9ba6334CeDb8c2448e9e/logo.svg"
+  },
+  "name": "aleph.im v2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALEPH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8676815789211E799a6DC86d02748ADF9cF86836",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "46f6efa3-c1f9-4af3-ab7a-adab7cdecdf6",
+  "links": null,
+  "logo": null,
+  "name": "Tribe",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRIBE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

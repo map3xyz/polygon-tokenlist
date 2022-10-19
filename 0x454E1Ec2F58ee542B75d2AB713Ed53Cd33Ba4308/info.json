@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x454E1Ec2F58ee542B75d2AB713Ed53Cd33Ba4308",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "037d48b5-cedd-4041-b19f-163152cc8382",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x454E1Ec2F58ee542B75d2AB713Ed53Cd33Ba4308/logo.svg"
+  },
+  "name": "Spartan",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "300",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

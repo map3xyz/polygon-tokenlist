@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa88Bebd0DF613eaCa1D8109A803736645a502961",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68c76596-37b9-4499-83d7-f3ca07e00023",
+  "links": null,
+  "logo": null,
+  "name": "BDPToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BDP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

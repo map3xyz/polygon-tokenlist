@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0C7304fBAf2A320a1c50c46FE03752722F729946",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "3f3ba576-9c68-4e7f-879b-e870e5d6397e",
+  "links": null,
+  "logo": null,
+  "name": "Smooth Love Potion",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SLP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

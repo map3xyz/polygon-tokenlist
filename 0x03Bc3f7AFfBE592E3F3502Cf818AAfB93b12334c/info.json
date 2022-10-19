@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x03Bc3f7AFfBE592E3F3502Cf818AAfB93b12334c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13c5e006-73fd-4ca9-a9c7-7826e2bbb140",
+  "links": null,
+  "logo": null,
+  "name": "JUL",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JUL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

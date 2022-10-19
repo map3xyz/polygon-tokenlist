@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x178745ca4bA60B22e25Cf92df47F177a7DB7B4F8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22212a3f-5d38-4d4d-954f-a255d335300b",
+  "links": null,
+  "logo": null,
+  "name": "CXD Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CXD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

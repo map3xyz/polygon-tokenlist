@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaA3622E6c36A95CE8A8d3A66C166Ac916A88D9c1",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "a2befffc-cde1-4b72-bcbd-bc6d39252433",
+  "links": null,
+  "logo": null,
+  "name": "The Myth Of America",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GUMP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

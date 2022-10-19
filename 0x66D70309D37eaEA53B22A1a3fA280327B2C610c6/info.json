@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x66D70309D37eaEA53B22A1a3fA280327B2C610c6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5981eb16-ff81-4d83-8b86-c3fae91c0adb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x66D70309D37eaEA53B22A1a3fA280327B2C610c6/logo.svg"
+  },
+  "name": "3 Comma Club",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THREE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE6bd67B9e9c1171583D5e13EDaAec6D93b05CE96",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c7fb815-21de-4c3c-9b42-778087a49efb",
+  "links": null,
+  "logo": null,
+  "name": "Syndicate Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SYNR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

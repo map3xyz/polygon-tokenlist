@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0142666BAA520Bc49B32AD44c505421346c69164",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8897bdc-1829-4ac9-8e73-f42a8505df5e",
+  "links": null,
+  "logo": null,
+  "name": "Black Abyss",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLYS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

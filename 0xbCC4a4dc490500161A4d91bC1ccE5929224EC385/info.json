@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbCC4a4dc490500161A4d91bC1ccE5929224EC385",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "693a06aa-4c00-4ba9-9cf8-eb3a6094318e",
+  "links": null,
+  "logo": null,
+  "name": "Shiblon Moon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHIBLONMOON",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

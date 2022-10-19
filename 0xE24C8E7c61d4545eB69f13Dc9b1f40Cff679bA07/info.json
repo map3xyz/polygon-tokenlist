@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE24C8E7c61d4545eB69f13Dc9b1f40Cff679bA07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83856f40-e813-409d-af0d-8b2001b2445f",
+  "links": null,
+  "logo": null,
+  "name": "Unbox.Art",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UBA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

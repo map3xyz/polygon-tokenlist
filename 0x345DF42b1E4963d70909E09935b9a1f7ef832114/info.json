@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x345DF42b1E4963d70909E09935b9a1f7ef832114",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "ee4cd0d6-fc19-4933-83e9-dfc8fd05b22f",
+  "links": null,
+  "logo": null,
+  "name": "Degen$ Farm Bags",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BAGZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

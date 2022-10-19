@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9C6BfEdc14b5C23E3900889436Edca7805170f01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3cd2c4dd-9560-4639-84b1-190742df55fb",
+  "links": null,
+  "logo": null,
+  "name": "Phoenix Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PHX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

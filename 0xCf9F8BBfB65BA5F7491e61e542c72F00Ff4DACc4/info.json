@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCf9F8BBfB65BA5F7491e61e542c72F00Ff4DACc4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9b63697-71e7-46f7-8ac8-deeb7beb89b2",
+  "links": null,
+  "logo": null,
+  "name": "MaidCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$MAID",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

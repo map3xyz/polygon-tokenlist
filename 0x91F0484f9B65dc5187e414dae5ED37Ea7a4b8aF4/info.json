@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x91F0484f9B65dc5187e414dae5ED37Ea7a4b8aF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d1272dc7-76e6-429d-b9e7-5b3c192f2da7",
+  "links": null,
+  "logo": null,
+  "name": "Coorest",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CRST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

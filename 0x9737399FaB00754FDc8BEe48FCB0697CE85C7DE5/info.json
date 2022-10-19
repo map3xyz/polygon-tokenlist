@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9737399FaB00754FDc8BEe48FCB0697CE85C7DE5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aee88b53-8f23-4d10-8529-8ac1f9c8e7aa",
+  "links": null,
+  "logo": null,
+  "name": "Based Loans Ownership",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

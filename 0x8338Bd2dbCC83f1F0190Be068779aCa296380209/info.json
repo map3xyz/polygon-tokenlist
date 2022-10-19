@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8338Bd2dbCC83f1F0190Be068779aCa296380209",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "427f01af-bc1a-4a27-a921-b2fe66a9c1db",
+  "links": null,
+  "logo": null,
+  "name": "Outernet Players Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OPT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

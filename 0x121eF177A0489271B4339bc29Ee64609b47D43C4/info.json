@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x121eF177A0489271B4339bc29Ee64609b47D43C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a69dc39a-d7f3-46e1-829f-47c3106fed37",
+  "links": null,
+  "logo": null,
+  "name": "pTokens BTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "pBTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

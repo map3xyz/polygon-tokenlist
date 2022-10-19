@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xcDb3ff438D8fbC7B09a70311178eC68Ef4EAff00",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b517c715-b3d2-48a0-b52a-18437418b3fd",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Mirror FB Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mFB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

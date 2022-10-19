@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaF28B7702e239e7eD107b6E036851f56E0415188",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "455a46c6-2fc5-4d4c-b3f8-7178db7bcc56",
+  "links": null,
+  "logo": null,
+  "name": "PlannerDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLAN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

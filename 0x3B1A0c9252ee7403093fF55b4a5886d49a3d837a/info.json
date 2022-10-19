@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "957a72f5-3499-4dbe-a26a-93ae5adc5886",
+  "links": null,
+  "logo": null,
+  "name": "Continuum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

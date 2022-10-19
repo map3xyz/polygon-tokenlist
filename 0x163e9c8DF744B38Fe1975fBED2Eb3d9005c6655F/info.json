@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x163e9c8DF744B38Fe1975fBED2Eb3d9005c6655F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "02cd70aa-4897-4eb6-be37-f5bb16664cf2",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x163e9c8DF744B38Fe1975fBED2Eb3d9005c6655F/logo.svg"
+  },
+  "name": "TenX Pay Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

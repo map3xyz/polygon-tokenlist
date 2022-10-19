@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe8b6f80454B9c2e6905FE2b1BD5DB5223657Fa21",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c34c2932-9f85-488f-af02-0079bc76f7e1",
+  "links": null,
+  "logo": null,
+  "name": "StarLink",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STARL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

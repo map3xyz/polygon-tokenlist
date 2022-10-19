@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5B4d05223A14AEB6160f8400DcBbdD0A84aF60f7",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "cccdfa4e-e7f3-4a9e-b187-7f7461af43cf",
+  "links": null,
+  "logo": null,
+  "name": "Hokkaidu Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HOKK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2eCA05aBf0AdF9f208E973D4682503Fb6Ae8F942",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eeeda133-9f27-4473-9fd3-ee282e02fd15",
+  "links": null,
+  "logo": null,
+  "name": "Sipher Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SIPHER",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

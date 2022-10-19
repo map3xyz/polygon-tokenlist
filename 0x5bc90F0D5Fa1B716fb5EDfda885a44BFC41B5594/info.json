@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5bc90F0D5Fa1B716fb5EDfda885a44BFC41B5594",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "be49eb94-e563-4f5c-8ea1-939648ed26fa",
+  "links": null,
+  "logo": null,
+  "name": "BitcashPay",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BCP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0c5EBeD5cB5BD838BDc43E1583D9d054f3d7Be6c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "78c0a534-44e4-4b05-8568-166def7a1eed",
+  "links": null,
+  "logo": null,
+  "name": "VGTGToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VGTG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

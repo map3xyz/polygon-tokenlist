@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA4f40Bd861431186aA0648B9c57aF0313d2d2f57",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "66ea2459-9c09-4086-a5e2-92ef7d812655",
+  "links": null,
+  "logo": null,
+  "name": "Hub Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HUB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

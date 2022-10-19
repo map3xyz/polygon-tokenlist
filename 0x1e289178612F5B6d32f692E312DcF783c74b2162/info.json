@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1e289178612F5B6d32f692E312DcF783c74b2162",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3921288b-a8d6-4f61-93ec-b3ccaca4fdda",
+  "links": null,
+  "logo": null,
+  "name": "Ispolink",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ISP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

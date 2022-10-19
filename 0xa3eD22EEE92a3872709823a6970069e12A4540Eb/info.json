@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xa3eD22EEE92a3872709823a6970069e12A4540Eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d55275f-8614-41bc-b9ab-7f9ba4320fdd",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xa3eD22EEE92a3872709823a6970069e12A4540Eb/logo.svg"
+  },
+  "name": "Frontier Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FRONT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

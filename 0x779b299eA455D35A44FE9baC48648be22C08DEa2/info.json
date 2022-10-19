@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x779b299eA455D35A44FE9baC48648be22C08DEa2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "510c53e9-1aed-415d-a5be-0258ce1ed437",
+  "links": null,
+  "logo": null,
+  "name": "Student Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

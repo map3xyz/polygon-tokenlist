@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x11C3eBa9851D245221E00e9A8e73E6f1439325d3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28312931-f772-41aa-a2f2-b6e98f2f20a1",
+  "links": null,
+  "logo": null,
+  "name": "Bread Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BRD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

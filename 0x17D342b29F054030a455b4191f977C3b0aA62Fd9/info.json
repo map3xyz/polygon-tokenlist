@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x17D342b29F054030a455b4191f977C3b0aA62Fd9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23a38f27-c4e1-4e64-87a1-de199b9c8d2e",
+  "links": null,
+  "logo": null,
+  "name": "Kanga Exchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KNG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

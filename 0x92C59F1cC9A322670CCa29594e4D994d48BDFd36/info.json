@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x92C59F1cC9A322670CCa29594e4D994d48BDFd36",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67a92afd-65c2-4b18-bbb0-f64943581865",
+  "links": null,
+  "logo": null,
+  "name": "PhoenixDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PHNX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

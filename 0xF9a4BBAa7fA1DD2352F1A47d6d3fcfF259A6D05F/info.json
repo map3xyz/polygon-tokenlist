@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xF9a4BBAa7fA1DD2352F1A47d6d3fcfF259A6D05F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e46b4cb5-fe48-42e9-a5ec-7fdde9f33d49",
+  "links": null,
+  "logo": {
+    "png": "https://www.lepasa.com/assets/img/logo_256.png"
+  },
+  "name": "Lepasa",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LEPA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

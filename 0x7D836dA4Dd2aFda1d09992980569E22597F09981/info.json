@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7D836dA4Dd2aFda1d09992980569E22597F09981",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4ea0f909-f702-4083-a246-2f58a76f3a79",
+  "links": null,
+  "logo": null,
+  "name": "Friendz Coin ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FDZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

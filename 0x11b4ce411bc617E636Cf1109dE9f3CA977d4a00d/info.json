@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x11b4ce411bc617E636Cf1109dE9f3CA977d4a00d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee84c76a-806c-4981-8328-58deccf3bdf3",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x11b4ce411bc617E636Cf1109dE9f3CA977d4a00d/logo.svg"
+  },
+  "name": "Reality Clash Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RCC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

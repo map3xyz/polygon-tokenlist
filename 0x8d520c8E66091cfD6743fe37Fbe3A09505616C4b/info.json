@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8d520c8E66091cfD6743fe37Fbe3A09505616C4b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59584dc0-5777-43c2-ac36-16180ba98da7",
+  "links": null,
+  "logo": null,
+  "name": "CosplayToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

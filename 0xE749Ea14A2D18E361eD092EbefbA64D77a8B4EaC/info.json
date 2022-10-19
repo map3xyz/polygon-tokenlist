@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE749Ea14A2D18E361eD092EbefbA64D77a8B4EaC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7e8dcc70-3f3a-454d-a134-cf3d61990768",
+  "links": null,
+  "logo": null,
+  "name": "DigitexFutures",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DGTX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

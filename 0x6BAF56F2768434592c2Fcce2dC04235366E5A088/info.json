@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6BAF56F2768434592c2Fcce2dC04235366E5A088",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "587f3b50-c6dd-46ce-baf9-07e6a6c4395d",
+  "links": null,
+  "logo": null,
+  "name": "mushrooming Dai Stablecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mDAI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

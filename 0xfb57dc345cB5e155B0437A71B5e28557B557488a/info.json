@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfb57dc345cB5e155B0437A71B5e28557B557488a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26ccf738-fee7-4528-ab0e-f985afe883be",
+  "links": null,
+  "logo": null,
+  "name": "holon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HLN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

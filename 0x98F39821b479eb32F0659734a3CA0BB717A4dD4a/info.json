@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x98F39821b479eb32F0659734a3CA0BB717A4dD4a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c6354242-87d7-47da-98ba-f3253a76e5c9",
+  "links": null,
+  "logo": null,
+  "name": "CULTURE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CULTURE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

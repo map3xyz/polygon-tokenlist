@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xBa4c54Ea2d66b904C82847A7d2357d22B857E812",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "152d5828-7c8c-4abb-8d85-d0eb385bdcdc",
+  "links": null,
+  "logo": null,
+  "name": "Unreal Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UGT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

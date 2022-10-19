@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x20269A36538fbD3f33f1688919776E2220455567",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f8a25d6-9245-40d2-80a1-740e5a459ea8",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped Mirror QQQ Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mQQQ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

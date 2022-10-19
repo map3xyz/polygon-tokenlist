@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD68468a1c2255FF4b13279752D68b5915Bd84860",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "9233f04f-8c14-4b80-8cae-9c070887b630",
+  "links": null,
+  "logo": null,
+  "name": "Tesla Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TESINU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

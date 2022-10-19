@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2FAb6278BdfaEB333E4fCF99053349F4111246e5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "06979180-a394-4010-b5b2-3e3995ae442c",
+  "links": null,
+  "logo": null,
+  "name": "SinCity",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SINS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

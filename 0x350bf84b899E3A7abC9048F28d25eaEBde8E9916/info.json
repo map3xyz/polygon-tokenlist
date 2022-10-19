@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x350bf84b899E3A7abC9048F28d25eaEBde8E9916",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "654a4e5f-bac2-4d10-a60f-b6e0982603e1",
+  "links": null,
+  "logo": null,
+  "name": "BNS Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BNS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

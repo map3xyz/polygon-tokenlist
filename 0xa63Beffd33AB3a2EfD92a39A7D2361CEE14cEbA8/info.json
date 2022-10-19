@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xa63Beffd33AB3a2EfD92a39A7D2361CEE14cEbA8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c4b0ffa-ae0e-4965-962c-61de97864db2",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xa63Beffd33AB3a2EfD92a39A7D2361CEE14cEbA8/logo.svg"
+  },
+  "name": "OriginToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OGN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

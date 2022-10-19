@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1B042246d67C44a745dc8BaD735c84059A1Fa0a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ce98e61-0bd5-46f5-8a85-c4b3fb81454a",
+  "links": null,
+  "logo": null,
+  "name": "MetaWorld",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "METW",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

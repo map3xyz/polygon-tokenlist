@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9620330926467ED3279ffCFba8327C24625732EA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d63102b9-1fcb-41a2-978b-f870dcfe8143",
+  "links": null,
+  "logo": null,
+  "name": "Gamma",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GAMMA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

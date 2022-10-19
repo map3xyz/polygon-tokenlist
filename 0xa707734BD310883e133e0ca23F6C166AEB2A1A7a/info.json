@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa707734BD310883e133e0ca23F6C166AEB2A1A7a",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "099cfaa4-67fe-42c8-aa5e-75c5d3a2067f",
+  "links": null,
+  "logo": null,
+  "name": "Mork",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MORK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

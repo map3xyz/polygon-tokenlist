@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c19756e-3411-430e-9a53-3c6d07676098",
+  "links": null,
+  "logo": null,
+  "name": "Dark Matter Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DMT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

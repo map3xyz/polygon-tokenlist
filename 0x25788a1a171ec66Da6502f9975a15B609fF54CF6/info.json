@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7781978-7e72-49a1-9143-c2682eb3357d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x25788a1a171ec66Da6502f9975a15B609fF54CF6/logo.svg"
+  },
+  "name": "PoolTogether",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POOL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x298018eEEC6D4A38Aa33AB73Bf4954b9D1af68fC",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "428ddda5-e143-4190-906d-5be7f8a636fc",
+  "links": null,
+  "logo": null,
+  "name": "Piccolo Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PINU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

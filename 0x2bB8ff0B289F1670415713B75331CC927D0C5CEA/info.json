@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2bB8ff0B289F1670415713B75331CC927D0C5CEA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17db5429-3ac6-4d60-ba25-5d2dd5a11e06",
+  "links": null,
+  "logo": null,
+  "name": "mushrooming Alchemix",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mALCX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDa9f97B9dE8509938c65DB0F0CB0ff9Ea425E9a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "776005ca-cb7a-4a93-b515-14c98dee3ce8",
+  "links": null,
+  "logo": null,
+  "name": "Krill Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KRILL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

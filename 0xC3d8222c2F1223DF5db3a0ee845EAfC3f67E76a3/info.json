@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC3d8222c2F1223DF5db3a0ee845EAfC3f67E76a3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ba6a376-82cd-41b5-9d50-cd0a7f4afb89",
+  "links": null,
+  "logo": null,
+  "name": "LooksRare Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LOOKS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

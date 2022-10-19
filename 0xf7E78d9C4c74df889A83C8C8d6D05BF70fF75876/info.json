@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf7E78d9C4c74df889A83C8C8d6D05BF70fF75876",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "02e904b3-941c-4520-9e33-daa88a0dbb48",
+  "links": null,
+  "logo": {
+    "svg": "https://github.com/unlock-protocol/unlock/blob/master/design/brand/1808-Unlock-Identity_Unlock-LogoMark-Circle.svg"
+  },
+  "name": "Unlock Discount Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UDT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

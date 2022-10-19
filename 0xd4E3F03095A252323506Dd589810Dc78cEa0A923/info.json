@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd4E3F03095A252323506Dd589810Dc78cEa0A923",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "695d2df3-566d-46d7-9416-3efaef02e7ef",
+  "links": null,
+  "logo": null,
+  "name": "Base Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BASE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

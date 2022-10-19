@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb0f61C597BBcc29f3f38396B01f9C0f0C2e8BFf0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "baa417bb-5698-4b33-96cc-3a8576e17a90",
+  "links": null,
+  "logo": null,
+  "name": "Etherland",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ELAND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

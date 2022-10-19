@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71fe749e-80b4-4d34-9aaf-e84f6f595594",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46/logo.svg"
+  },
+  "name": "GOVI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GOVI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

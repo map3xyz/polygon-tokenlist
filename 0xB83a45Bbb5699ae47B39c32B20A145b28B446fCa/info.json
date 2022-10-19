@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB83a45Bbb5699ae47B39c32B20A145b28B446fCa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d2185bd-025e-4f71-b243-b9f485157938",
+  "links": null,
+  "logo": null,
+  "name": "Eliot",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ELIOT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

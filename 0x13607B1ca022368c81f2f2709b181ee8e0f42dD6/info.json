@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x13607B1ca022368c81f2f2709b181ee8e0f42dD6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "daf5bb7a-9c89-4b0b-a2a5-3e11c5c4c113",
+  "links": null,
+  "logo": null,
+  "name": "Wrapped PECO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PECO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

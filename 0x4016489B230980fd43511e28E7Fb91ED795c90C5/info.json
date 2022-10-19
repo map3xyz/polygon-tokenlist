@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x4016489B230980fd43511e28E7Fb91ED795c90C5",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "bdc9f4d7-2949-4542-b9a2-9891a2fc4c8e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4016489B230980fd43511e28E7Fb91ED795c90C5/logo.svg"
+  },
+  "name": "Karma",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KARMA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

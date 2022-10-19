@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF50C6E2b720Dab4eA87E0050856a511E3E3cEB8D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e8fd1c6-3c44-456c-bb1d-6fa2b39b66e0",
+  "links": null,
+  "logo": null,
+  "name": "OnSynthetics",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ONS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

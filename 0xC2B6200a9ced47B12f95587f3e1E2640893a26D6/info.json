@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC2B6200a9ced47B12f95587f3e1E2640893a26D6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e79a665b-67ca-41eb-8723-c85cc1cf75cd",
+  "links": null,
+  "logo": null,
+  "name": "xWIN Token from BSC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XWIN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

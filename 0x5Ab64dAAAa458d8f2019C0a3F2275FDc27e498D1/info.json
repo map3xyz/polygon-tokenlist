@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5Ab64dAAAa458d8f2019C0a3F2275FDc27e498D1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f9c68b43-4040-4cb4-b23b-24d072a0377c",
+  "links": null,
+  "logo": null,
+  "name": "GridZone.io",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZONE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

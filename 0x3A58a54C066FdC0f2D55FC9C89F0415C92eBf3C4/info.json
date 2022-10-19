@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "98159be6-f308-4b36-8a66-c6951b6ea6a2",
+  "links": null,
+  "logo": null,
+  "name": "Staked MATIC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "stMATIC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

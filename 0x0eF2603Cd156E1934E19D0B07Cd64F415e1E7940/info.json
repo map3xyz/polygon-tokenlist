@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0eF2603Cd156E1934E19D0B07Cd64F415e1E7940",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7de9913-fd80-4bde-99f5-47165abfbff7",
+  "links": null,
+  "logo": null,
+  "name": "PIGX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PIGX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

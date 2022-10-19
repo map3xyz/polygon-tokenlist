@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcB8BCDb991B45bF5D78000a0b5C0A6686cE43790",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cba897cc-f784-42db-a345-d7437042cbe2",
+  "links": null,
+  "logo": null,
+  "name": "Weird",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WEIRD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

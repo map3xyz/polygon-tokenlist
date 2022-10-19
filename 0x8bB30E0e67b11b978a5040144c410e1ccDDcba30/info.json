@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8bB30E0e67b11b978a5040144c410e1ccDDcba30",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "994c8d11-aff4-45ff-bd4f-7185c05ca6cb",
+  "links": null,
+  "logo": null,
+  "name": "0chain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZCN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

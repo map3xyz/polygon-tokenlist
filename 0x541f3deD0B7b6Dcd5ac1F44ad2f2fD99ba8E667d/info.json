@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x541f3deD0B7b6Dcd5ac1F44ad2f2fD99ba8E667d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "45c2e92e-bfec-49d7-b6bd-fa6586de5cf4",
+  "links": null,
+  "logo": null,
+  "name": "pizza",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PIZZA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x21364671fD823BBda8Ba1f40a24171DeCBdB3D54",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "afc21b50-fbad-4b72-8521-a625c5405d39",
+  "links": null,
+  "logo": null,
+  "name": "Shibies Treats",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TREATS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

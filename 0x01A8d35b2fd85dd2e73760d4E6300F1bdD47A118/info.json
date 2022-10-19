@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x01A8d35b2fd85dd2e73760d4E6300F1bdD47A118",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7ff7e77-6657-461a-91f3-a15049b4c605",
+  "links": null,
+  "logo": null,
+  "name": "GratitudeCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GRTFUL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

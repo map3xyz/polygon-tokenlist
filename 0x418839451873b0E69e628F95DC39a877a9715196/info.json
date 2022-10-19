@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x418839451873b0E69e628F95DC39a877a9715196",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c38f055-12bd-41ec-b67a-1daa305a6c17",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x418839451873b0E69e628F95DC39a877a9715196/logo.svg"
+  },
+  "name": "NFTX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFTX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

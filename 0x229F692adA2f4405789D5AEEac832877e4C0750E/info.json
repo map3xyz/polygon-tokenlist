@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x229F692adA2f4405789D5AEEac832877e4C0750E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7b7371c2-8db1-40b0-b008-c10af58e4880",
+  "links": null,
+  "logo": null,
+  "name": "Amun Wrapped Weth",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AWW",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

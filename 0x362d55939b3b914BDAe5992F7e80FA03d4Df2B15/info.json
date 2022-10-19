@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x362d55939b3b914BDAe5992F7e80FA03d4Df2B15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4dbce10f-62bc-401e-b0a1-f924df9ab312",
+  "links": null,
+  "logo": null,
+  "name": "Web4",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WEB4",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

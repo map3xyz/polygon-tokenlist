@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9Cd44aF7fB46A946484eBe377bB2712Eabb610Ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0dd3bb04-086c-4d9e-8bb0-2233f94a448c",
+  "links": null,
+  "logo": null,
+  "name": "Zenith",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZENX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

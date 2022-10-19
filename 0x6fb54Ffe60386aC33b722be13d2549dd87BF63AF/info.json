@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6fb54Ffe60386aC33b722be13d2549dd87BF63AF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4299ccf-f01c-42aa-8de8-fb0a3fc94740",
+  "links": null,
+  "logo": null,
+  "name": "Polinate",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POLI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

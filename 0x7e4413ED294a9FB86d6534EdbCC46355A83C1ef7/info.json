@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7e4413ED294a9FB86d6534EdbCC46355A83C1ef7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b756194f-2877-4113-84ae-2cfb4cb32491",
+  "links": null,
+  "logo": null,
+  "name": "ASYAGRO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ASY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

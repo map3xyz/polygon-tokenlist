@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2710ED3F5D44268dcb89f549050718aa237C8A47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2bd44f6f-dc1a-42d8-9512-c7dcb409974d",
+  "links": null,
+  "logo": null,
+  "name": "MetaMEMO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEMO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

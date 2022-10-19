@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2fC711518aaE7C87D7002566c5d43B0e5D2B1932",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a860c0a9-e162-4a30-8147-301c1baba368",
+  "links": null,
+  "logo": null,
+  "name": "ScallopX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SCLP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

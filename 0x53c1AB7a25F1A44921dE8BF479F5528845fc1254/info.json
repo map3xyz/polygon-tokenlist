@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x53c1AB7a25F1A44921dE8BF479F5528845fc1254",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bff209a0-b166-4741-ba8c-6719eb463dc2",
+  "links": null,
+  "logo": null,
+  "name": "Synth sETH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "sETH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

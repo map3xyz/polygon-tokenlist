@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd2A2a353D28e4833FAFfC882f6649c9c884a7D8f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6930d520-defa-430e-a4ce-76b41579de1b",
+  "links": null,
+  "logo": null,
+  "name": "EmiSwap - EmiDao Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ESW",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0f6D1C52ba0bb9E68601632A74d9f4D07afb555F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73156dc4-6017-43f2-ac7a-c4b62558f8e9",
+  "links": null,
+  "logo": null,
+  "name": "Flex Ungovernance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

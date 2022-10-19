@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1fB39C88Df91c9fDB83D0e8761c8D2D2A4Ab5335",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1b5d33a7-9d72-44e4-98d3-5769f97111b7",
+  "links": null,
+  "logo": null,
+  "name": "Argmag20L1Name",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Argmag20L1Sym",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

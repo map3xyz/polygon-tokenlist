@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "4057b0df-a7ad-419e-b861-04045c73feba",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65/logo.svg"
+  },
+  "name": "Gemini dollar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

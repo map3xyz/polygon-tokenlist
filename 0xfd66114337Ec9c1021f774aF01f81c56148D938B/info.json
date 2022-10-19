@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfd66114337Ec9c1021f774aF01f81c56148D938B",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "69a338b5-30f1-449b-942a-56503d70cb21",
+  "links": null,
+  "logo": null,
+  "name": "Hanzo Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HNZO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

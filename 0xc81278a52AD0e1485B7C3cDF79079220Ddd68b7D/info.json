@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xc81278a52AD0e1485B7C3cDF79079220Ddd68b7D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67dd2c89-89f5-4db2-ba0c-1486bf8d739a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xc81278a52AD0e1485B7C3cDF79079220Ddd68b7D/logo.svg"
+  },
+  "name": "BaoToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BAO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
