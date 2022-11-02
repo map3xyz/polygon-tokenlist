@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9300169b33a02F968E5C2a00607e0eCe26248752",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ba454430-e812-4e5f-9e0e-4a3258b7bf35",
+  "links": null,
+  "logo": {},
+  "name": "ERC20",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ERC20",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

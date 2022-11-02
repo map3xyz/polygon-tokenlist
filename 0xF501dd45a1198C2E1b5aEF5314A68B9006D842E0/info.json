@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd522afd-5738-461a-b873-2859b309e06e",
+  "links": null,
+  "logo": {},
+  "name": "Meta",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MTA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

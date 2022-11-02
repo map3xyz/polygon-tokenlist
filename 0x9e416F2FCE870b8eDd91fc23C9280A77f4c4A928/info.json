@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9e416F2FCE870b8eDd91fc23C9280A77f4c4A928",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32f86867-65e5-47cb-ba39-8a5391eb0d73",
+  "links": null,
+  "logo": {},
+  "name": "Etherlands Playtest Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HOAP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

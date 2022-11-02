@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x977777C5d1208742343BB1F4CAB182E56D624f1F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8266db7-df72-4f95-92f7-eb5c51212368",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x977777C5d1208742343BB1F4CAB182E56D624f1F/logo.svg"
+  },
+  "name": "Nimbus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NBU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

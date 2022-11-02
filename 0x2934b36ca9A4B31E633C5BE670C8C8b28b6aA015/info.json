@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9364c467-fcae-4499-b9d6-b31565876ebe",
+  "links": null,
+  "logo": {},
+  "name": "THX Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

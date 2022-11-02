@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd059cb9-a2bf-4307-9054-ca22dfade2b4",
+  "links": null,
+  "logo": {},
+  "name": "agEUR",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "agEUR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

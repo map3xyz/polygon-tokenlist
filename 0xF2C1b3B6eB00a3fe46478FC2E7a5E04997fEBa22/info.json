@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF2C1b3B6eB00a3fe46478FC2E7a5E04997fEBa22",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6f50fd7a-5231-412a-8a70-68821fb61b02",
+  "links": null,
+  "logo": {},
+  "name": "vVSP pool",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "vVSP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

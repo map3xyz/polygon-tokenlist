@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a9fc0f23-dc90-4d6b-a22b-bc63728453f0",
+  "links": null,
+  "logo": {},
+  "name": "ARPA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARPA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

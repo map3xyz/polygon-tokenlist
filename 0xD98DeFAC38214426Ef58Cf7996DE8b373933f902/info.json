@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD98DeFAC38214426Ef58Cf7996DE8b373933f902",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6f84c62c-be7a-498f-b77b-3606a997b8e2",
+  "links": null,
+  "logo": {},
+  "name": "Monolith TKN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TKN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

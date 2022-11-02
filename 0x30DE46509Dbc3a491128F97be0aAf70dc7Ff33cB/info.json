@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x30DE46509Dbc3a491128F97be0aAf70dc7Ff33cB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b77ebc0f-630f-45b3-8768-085b8ac1758b",
+  "links": null,
+  "logo": {},
+  "name": "South African Tether",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XZAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

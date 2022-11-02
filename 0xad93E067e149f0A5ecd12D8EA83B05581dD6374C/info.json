@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xad93E067e149f0A5ecd12D8EA83B05581dD6374C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd7a2991-e002-4667-99ee-c80c7035854e",
+  "links": null,
+  "logo": {},
+  "name": "Pinakion",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PNK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

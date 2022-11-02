@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6B4E056B0A2c7d967728B0d0329A61b746B04cd8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f26723f0-8aec-45af-a244-0d771b656bcb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6B4E056B0A2c7d967728B0d0329A61b746B04cd8/logo.svg"
+  },
+  "name": "Paypolitan Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EPAN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

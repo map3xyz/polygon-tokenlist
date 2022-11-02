@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x61C147570165c53Cf5e60a0B5E6A9e8791619Eb9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54b961fd-be4b-4510-9ce2-cf673f8150d1",
+  "links": null,
+  "logo": {},
+  "name": "BURNS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BURNING DAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

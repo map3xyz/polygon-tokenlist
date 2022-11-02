@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xde799636aF0d8D65a17AAa83b66cBBE9B185EB01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d75cf69b-407a-4f51-969c-84b820fccf12",
+  "links": null,
+  "logo": {},
+  "name": "INVERSE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XIV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

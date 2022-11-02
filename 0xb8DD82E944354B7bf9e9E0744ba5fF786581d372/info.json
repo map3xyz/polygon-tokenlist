@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb8DD82E944354B7bf9e9E0744ba5fF786581d372",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8bf2c96-a0a1-4395-9fbd-0eb85740c507",
+  "links": null,
+  "logo": {},
+  "name": "Cryptid",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CID",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

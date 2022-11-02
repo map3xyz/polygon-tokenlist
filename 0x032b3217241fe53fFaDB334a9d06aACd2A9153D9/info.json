@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x032b3217241fe53fFaDB334a9d06aACd2A9153D9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d46fae96-ecf9-4ef0-8505-ed8c3e5b0424",
+  "links": null,
+  "logo": {},
+  "name": "DokiDoki.Chainbinders",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

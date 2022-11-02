@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDfE5bED8D271a4cD89cd2066839B2b0Ec934A6E8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "114aa4ea-1114-4e37-a802-69a45f76f9fb",
+  "links": null,
+  "logo": {},
+  "name": "Feathers",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "myFTHR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xF9a4BBAa7fA1DD2352F1A47d6d3fcfF259A6D05F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "246c441c-e8b8-404d-aa35-56e03ee40693",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF9a4BBAa7fA1DD2352F1A47d6d3fcfF259A6D05F/logo.png"
+  },
+  "name": "Lepasa",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LEPA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

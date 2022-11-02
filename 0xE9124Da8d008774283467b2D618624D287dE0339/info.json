@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE9124Da8d008774283467b2D618624D287dE0339",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "2014e2a7-d9ec-4ebb-8de8-2438586bde74",
+  "links": null,
+  "logo": {},
+  "name": "Pogcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

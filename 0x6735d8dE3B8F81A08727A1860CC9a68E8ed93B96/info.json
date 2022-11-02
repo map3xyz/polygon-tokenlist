@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6735d8dE3B8F81A08727A1860CC9a68E8ed93B96",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7e2a7f7-62f5-4b6b-ab19-caa1edc98d6b",
+  "links": null,
+  "logo": {},
+  "name": "BYTES",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BYTES",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

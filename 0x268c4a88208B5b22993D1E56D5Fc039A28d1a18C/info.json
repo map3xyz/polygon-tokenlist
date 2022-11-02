@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x268c4a88208B5b22993D1E56D5Fc039A28d1a18C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ec43732-084a-46cd-9a67-5430afd1795e",
+  "links": null,
+  "logo": {},
+  "name": "Marvin Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MARVIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xb9585ec9d4C97Ad9DEd7250Bb9a199fe8eED0ECA",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "88714ea6-46c6-4177-9feb-a09addcfb7c6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xb9585ec9d4C97Ad9DEd7250Bb9a199fe8eED0ECA/logo.svg"
+  },
+  "name": "WHALE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WHALE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

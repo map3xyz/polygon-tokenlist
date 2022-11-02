@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x983C0083127b9b65000E918b10d65A0F5d7500F5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "807330ac-f127-4e25-a3b3-34fbe2a3abfa",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x983C0083127b9b65000E918b10d65A0F5d7500F5/logo.svg"
+  },
+  "name": "BLOCKS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLOCKS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x53f8036e43b2EF39cFCD0C5f26C1257a85D5A3B2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "acc527ec-5f09-4af9-9ec8-30a07b64cb9c",
+  "links": null,
+  "logo": {},
+  "name": "CBK",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CBK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

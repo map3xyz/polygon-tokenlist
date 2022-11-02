@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9EC5AbD7A442B8325F529daB25019674D0ba983d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "61a880e9-f1a4-4b9d-b4df-efd57f9c534b",
+  "links": null,
+  "logo": {},
+  "name": "Offshift",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XFT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

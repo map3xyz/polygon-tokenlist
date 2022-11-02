@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x2C7A7358E60f2D145FaC48C71950A2C523636075",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cfab1d4-95da-4dc4-8fbf-2ae7d862fde6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x2C7A7358E60f2D145FaC48C71950A2C523636075/logo.svg"
+  },
+  "name": "Kattana",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KTN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

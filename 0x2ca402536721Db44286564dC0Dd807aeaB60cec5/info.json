@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2ca402536721Db44286564dC0Dd807aeaB60cec5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13951de8-7bce-4ba8-a7b1-e81e6ab35d65",
+  "links": null,
+  "logo": {},
+  "name": "Finiko",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FNK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

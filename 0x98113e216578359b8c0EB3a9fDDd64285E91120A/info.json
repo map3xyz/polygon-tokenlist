@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x98113e216578359b8c0EB3a9fDDd64285E91120A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c46dcd84-257f-4d3d-af18-76b952aea226",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x98113e216578359b8c0EB3a9fDDd64285E91120A/logo.svg"
+  },
+  "name": "Governor",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GDAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

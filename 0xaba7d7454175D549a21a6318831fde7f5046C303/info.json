@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaba7d7454175D549a21a6318831fde7f5046C303",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "676050a2-0f87-4e4c-96be-7a67ea8875cb",
+  "links": null,
+  "logo": {},
+  "name": "kittenMATIC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "kiMATIC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

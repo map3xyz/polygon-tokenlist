@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "762ee602-310c-4f85-8fac-3ac6fe6d7495",
+  "links": null,
+  "logo": {},
+  "name": "DFX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DFX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9d0be2730a8AF6061f058CE2c951D52E4F886F18",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1002840-f652-4efc-b430-3a69f3b378b7",
+  "links": null,
+  "logo": {},
+  "name": "Trazable",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

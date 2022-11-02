@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6cCBF3627b2C83AFEF05bf2F035E7f7B210Fe30D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "55325ea4-dfc0-4471-ad34-fd690b27c8b7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6cCBF3627b2C83AFEF05bf2F035E7f7B210Fe30D/logo.svg"
+  },
+  "name": "Hopr",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HOPR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9634aF3af2f392505369fCFe56691790CEa345B4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cbe67c2f-2b7e-40e9-b598-d57e93866528",
+  "links": null,
+  "logo": {},
+  "name": "MAX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MAX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

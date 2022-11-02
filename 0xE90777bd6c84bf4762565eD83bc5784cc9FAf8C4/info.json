@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE90777bd6c84bf4762565eD83bc5784cc9FAf8C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26e43886-2786-410c-b2e1-1e6f0fb9bc58",
+  "links": null,
+  "logo": {},
+  "name": "PieDAO DEFI Large Cap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEFI+L",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

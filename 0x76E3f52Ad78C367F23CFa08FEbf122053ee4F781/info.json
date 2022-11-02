@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x76E3f52Ad78C367F23CFa08FEbf122053ee4F781",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0c56473-759b-4c93-bb90-365d4df95b6c",
+  "links": null,
+  "logo": {},
+  "name": "PieDAO Balanced Crypto Pie",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BCP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

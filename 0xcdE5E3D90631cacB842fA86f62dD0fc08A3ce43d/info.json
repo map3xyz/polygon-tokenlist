@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xcdE5E3D90631cacB842fA86f62dD0fc08A3ce43d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a935c8b-cd49-4cc3-a68e-503c1822f291",
+  "links": null,
+  "logo": {},
+  "name": "BAC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BAC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

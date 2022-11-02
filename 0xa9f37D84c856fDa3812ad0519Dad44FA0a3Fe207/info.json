@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xa9f37D84c856fDa3812ad0519Dad44FA0a3Fe207",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f1568c7-8a08-4da7-9088-6ee0f775ddda",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xa9f37D84c856fDa3812ad0519Dad44FA0a3Fe207/logo.svg"
+  },
+  "name": "Melon Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MLN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

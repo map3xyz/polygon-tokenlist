@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe20D2Df5041f8Ed06976846470f727295cDd4D23",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ec5946a8-5979-404c-882b-461ff546bba4",
+  "links": null,
+  "logo": {},
+  "name": "BIOS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BIOS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

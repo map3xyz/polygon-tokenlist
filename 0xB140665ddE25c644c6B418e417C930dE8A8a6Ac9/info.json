@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xB140665ddE25c644c6B418e417C930dE8A8a6Ac9",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "ef6c06a4-a1a0-4e70-8067-9489824f26bf",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB140665ddE25c644c6B418e417C930dE8A8a6Ac9/logo.svg"
+  },
+  "name": "Atari",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ATRI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

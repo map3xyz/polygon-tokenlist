@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0A307BD521701F9D70FB29BfA9E2e36DC998daDB",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "e1f1df93-b1e0-478a-88f5-b04868d91733",
+  "links": null,
+  "logo": {},
+  "name": "CoinWealth",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CNW",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

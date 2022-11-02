@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeD49826b1A5A147B612Ad16e27F3961D3cdce218",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b8d1d267-5b28-4c70-b2f3-9d3b74f19b37",
+  "links": null,
+  "logo": {},
+  "name": "Inuyasha",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Inuyasha",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

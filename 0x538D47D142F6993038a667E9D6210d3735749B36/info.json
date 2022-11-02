@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x538D47D142F6993038a667E9D6210d3735749B36",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b460b9f-3156-4877-9339-44f6b83df63e",
+  "links": null,
+  "logo": {},
+  "name": "Burp",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BURP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

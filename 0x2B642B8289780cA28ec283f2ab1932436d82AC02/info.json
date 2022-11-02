@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2B642B8289780cA28ec283f2ab1932436d82AC02",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6bdd2506-5bc8-4a29-839a-ceaf75264699",
+  "links": null,
+  "logo": {},
+  "name": "SmartKey",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Skey",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

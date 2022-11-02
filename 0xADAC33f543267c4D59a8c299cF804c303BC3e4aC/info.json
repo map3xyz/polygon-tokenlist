@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xADAC33f543267c4D59a8c299cF804c303BC3e4aC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0cad2be1-9039-4342-aae1-d3a2f32bb09f",
+  "links": null,
+  "logo": {},
+  "name": "MIMO Parallel Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MIMO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

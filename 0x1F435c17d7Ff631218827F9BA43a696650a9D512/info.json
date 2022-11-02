@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1F435c17d7Ff631218827F9BA43a696650a9D512",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e34bf424-1153-492e-8a2f-6b8a6fbc15e2",
+  "links": null,
+  "logo": {},
+  "name": "Limelight",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LMLT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

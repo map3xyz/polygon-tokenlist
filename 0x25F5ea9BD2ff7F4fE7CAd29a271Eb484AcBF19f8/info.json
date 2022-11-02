@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x25F5ea9BD2ff7F4fE7CAd29a271Eb484AcBF19f8",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "82425090-c6fa-45b6-bdd0-d860b910c71a",
+  "links": null,
+  "logo": {},
+  "name": "IceCream",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SCOOP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

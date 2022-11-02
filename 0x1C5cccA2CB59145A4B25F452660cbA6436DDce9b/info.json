@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1C5cccA2CB59145A4B25F452660cbA6436DDce9b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1c9418c-d31e-41d8-b054-383f28b5e5c2",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped MIR Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MIR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

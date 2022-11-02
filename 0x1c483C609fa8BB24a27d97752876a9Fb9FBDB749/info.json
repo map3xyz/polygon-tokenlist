@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1c483C609fa8BB24a27d97752876a9Fb9FBDB749",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67f57b29-9358-4302-b4a5-3565d0f2679a",
+  "links": null,
+  "logo": {},
+  "name": "Refraction",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REFRACT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

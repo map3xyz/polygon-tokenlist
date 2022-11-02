@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x91c89A94567980f0e9723b487b0beD586eE96aa7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32489d0f-93b5-437f-a9cb-51ae2bd0dc1a",
+  "links": null,
+  "logo": {},
+  "name": "Biconomy Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BICO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

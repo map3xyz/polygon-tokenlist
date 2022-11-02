@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD921F8318cfd786baB1ea7492673F053c518Ac04",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68b4cc8f-7627-4941-9d4a-b6f2292854af",
+  "links": null,
+  "logo": {},
+  "name": "Staked SDT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "xSDT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

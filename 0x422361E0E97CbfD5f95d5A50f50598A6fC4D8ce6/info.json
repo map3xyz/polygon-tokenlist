@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x422361E0E97CbfD5f95d5A50f50598A6fC4D8ce6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ac88d65-cc6d-4e77-8ffa-38574d511b85",
+  "links": null,
+  "logo": {},
+  "name": "Alpha Fund",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AVA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

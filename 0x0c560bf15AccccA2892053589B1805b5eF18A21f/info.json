@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0c560bf15AccccA2892053589B1805b5eF18A21f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21ae52bf-cb8d-4402-97d0-ca25cedec826",
+  "links": null,
+  "logo": {},
+  "name": "B.Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BPRO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

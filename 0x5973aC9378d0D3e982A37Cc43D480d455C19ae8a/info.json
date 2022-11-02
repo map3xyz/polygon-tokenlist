@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5973aC9378d0D3e982A37Cc43D480d455C19ae8a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b00b5d6d-c8df-4bd0-a94d-0e729732fbbc",
+  "links": null,
+  "logo": {},
+  "name": "Fly Dollar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0d202214527E82231867CC045308C1C1Ee7A1056",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c58aa3aa-7a1f-401f-9cf9-8b32b35526bf",
+  "links": null,
+  "logo": {},
+  "name": "HyperDaonew",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HADO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

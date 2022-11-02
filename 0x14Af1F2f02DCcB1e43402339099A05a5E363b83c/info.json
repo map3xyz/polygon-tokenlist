@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x14Af1F2f02DCcB1e43402339099A05a5E363b83c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15229c5f-2214-41c7-aab3-c3cc26736925",
+  "links": null,
+  "logo": {},
+  "name": "Kromatika",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KROM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

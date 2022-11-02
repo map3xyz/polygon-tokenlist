@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3F3713030d836A0E1B774f1428c1F1f2148DaB64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b8027b66-41a4-4a4e-be7c-51bdefd402ed",
+  "links": null,
+  "logo": {},
+  "name": "Alkemi_Network_DAO_Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

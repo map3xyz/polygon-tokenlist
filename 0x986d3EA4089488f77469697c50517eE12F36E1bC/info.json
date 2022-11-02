@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x986d3EA4089488f77469697c50517eE12F36E1bC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07ef4feb-6f83-4d9c-a63f-125c78079aec",
+  "links": null,
+  "logo": {},
+  "name": "PieDAO DEFI Small Cap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEFI+S",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

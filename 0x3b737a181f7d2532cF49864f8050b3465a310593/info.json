@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3b737a181f7d2532cF49864f8050b3465a310593",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb382a1d-fbe0-493f-882c-97f2690e6f39",
+  "links": null,
+  "logo": {},
+  "name": "Hot Cross Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HOTCROSS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

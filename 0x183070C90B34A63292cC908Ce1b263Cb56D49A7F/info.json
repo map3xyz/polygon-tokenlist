@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x183070C90B34A63292cC908Ce1b263Cb56D49A7F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72385b15-1733-4158-af2d-74d72553905b",
+  "links": null,
+  "logo": {},
+  "name": "Immutable X",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IMX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

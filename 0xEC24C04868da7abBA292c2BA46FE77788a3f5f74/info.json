@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEC24C04868da7abBA292c2BA46FE77788a3f5f74",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e4ff8ec-8146-4630-8b92-f72e4e72fc5e",
+  "links": null,
+  "logo": {},
+  "name": "OverOneGold",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OOG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

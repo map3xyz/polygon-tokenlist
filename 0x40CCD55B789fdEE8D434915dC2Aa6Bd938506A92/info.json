@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x40CCD55B789fdEE8D434915dC2Aa6Bd938506A92",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26288243-2fed-4784-bb9f-c8c896493048",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x40CCD55B789fdEE8D434915dC2Aa6Bd938506A92/logo.svg"
+  },
+  "name": "RAGEMATIC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAGE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

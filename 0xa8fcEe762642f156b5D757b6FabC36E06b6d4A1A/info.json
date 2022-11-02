@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "02c8a4d6-9ccc-41be-a3a5-f7eecad14321",
+  "links": null,
+  "logo": {},
+  "name": "Aluna",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

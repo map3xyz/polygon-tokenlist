@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1e2231DB2DBEdD0FAC3eB70608d402E80F244C6D",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "e48ada32-4096-4764-9cd4-8f3d25bce187",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1e2231DB2DBEdD0FAC3eB70608d402E80F244C6D/logo.svg"
+  },
+  "name": "Zilliqa",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZIL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

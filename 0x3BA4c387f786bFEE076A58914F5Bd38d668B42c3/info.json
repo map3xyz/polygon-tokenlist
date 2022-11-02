@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3652dc6f-1fc6-46f2-b0c4-0d6a6228bcb7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3/logo.svg"
+  },
+  "name": "BNB",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

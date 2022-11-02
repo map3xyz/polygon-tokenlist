@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x68b741416153bBf5CB4FaEe0aA447f918fE5C322",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d7df52b3-03e5-458e-ae03-2934a0ab552f",
+  "links": null,
+  "logo": {},
+  "name": "Ion",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ION",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xae64D44AA6bd7536005E663c48197d9631D4b3eB",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "c4ba79f5-f398-4b78-ad45-88a9b84a8d3d",
+  "links": null,
+  "logo": {},
+  "name": "UBX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UBX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x53AEc293212E3B792563Bc16f1be26956adb12e9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d389dc8-3c62-433d-8ec3-1efb4c935f28",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x53AEc293212E3B792563Bc16f1be26956adb12e9/logo.svg"
+  },
+  "name": "Keep3rV1",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KP3R",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

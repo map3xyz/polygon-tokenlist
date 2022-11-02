@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2f3D902baC71430DEdf5307E9041382dF911B1Af",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67297536-369d-418d-9a73-a4bde1ab571a",
+  "links": null,
+  "logo": {},
+  "name": "EthereumMax",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "eMax",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

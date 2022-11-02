@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8fdf552a-3125-4265-a50e-90a520445edf",
+  "links": null,
+  "logo": {},
+  "name": "DokiDokiAzuki",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AZUKI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

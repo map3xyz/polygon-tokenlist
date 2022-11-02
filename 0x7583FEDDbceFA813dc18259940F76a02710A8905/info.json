@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7583FEDDbceFA813dc18259940F76a02710A8905",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11583426-3b18-46d8-983d-df6b23f0517d",
+  "links": null,
+  "logo": {},
+  "name": "Fetch",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FET",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

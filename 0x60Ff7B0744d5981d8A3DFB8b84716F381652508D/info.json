@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x60Ff7B0744d5981d8A3DFB8b84716F381652508D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91e5c59f-6b7f-42fa-a8c4-5c8e49aa8f78",
+  "links": null,
+  "logo": {},
+  "name": "Anime Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANME",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

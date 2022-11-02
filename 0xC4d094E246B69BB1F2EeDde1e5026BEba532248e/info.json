@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC4d094E246B69BB1F2EeDde1e5026BEba532248e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4d28d9f-2e1f-4a94-83dc-522dd73d95df",
+  "links": null,
+  "logo": {},
+  "name": "Wirex Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WXT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

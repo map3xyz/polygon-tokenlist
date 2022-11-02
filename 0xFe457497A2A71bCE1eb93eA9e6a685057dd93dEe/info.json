@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFe457497A2A71bCE1eb93eA9e6a685057dd93dEe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67e60b56-a4b8-4b8e-89d4-d2b308316fb6",
+  "links": null,
+  "logo": {},
+  "name": "bns.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BNSD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

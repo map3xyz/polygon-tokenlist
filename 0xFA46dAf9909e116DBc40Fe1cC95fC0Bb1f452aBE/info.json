@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFA46dAf9909e116DBc40Fe1cC95fC0Bb1f452aBE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de0ba6d2-5566-4143-b4bb-feed5f105f3d",
+  "links": null,
+  "logo": {},
+  "name": "Illuvium",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ILV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

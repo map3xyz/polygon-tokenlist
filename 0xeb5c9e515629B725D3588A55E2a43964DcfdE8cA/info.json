@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeb5c9e515629B725D3588A55E2a43964DcfdE8cA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e85d357-255d-4a68-adf2-98459584a738",
+  "links": null,
+  "logo": {},
+  "name": "STAKE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STAKE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

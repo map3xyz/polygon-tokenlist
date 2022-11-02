@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8F94400CDeF837F388100cfE56D7ebB8a3A3fb44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d44dcf99-239a-45a0-9f4f-5cc0d07887ba",
+  "links": null,
+  "logo": {},
+  "name": "OKB",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OKB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

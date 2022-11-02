@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x158DBdD4820f95698442eaC7cd4F70d08F39B3C6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f7b6d068-d22a-46c4-9368-1edef0169bcd",
+  "links": null,
+  "logo": {},
+  "name": "Metaverse Alliance DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MAD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

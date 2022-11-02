@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe6E320b7bB22018D6CA1F4D8cea1365eF5d25ced",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e7f243c-f8e0-4db6-b5b6-e0a5b09ad91e",
+  "links": null,
+  "logo": {},
+  "name": "Litentry",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LIT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x652E36ecFA0E4F7e435F6D38688D68a3bE65639c",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "73a5967b-bbe2-4ede-9f5c-c4f85b66761f",
+  "links": null,
+  "logo": {},
+  "name": "mushrooming Wrapped BTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mWBTC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

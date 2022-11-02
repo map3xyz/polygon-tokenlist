@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4Ded021C6f02dB04C9e9A97b898d36348094B9b8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "040abd46-7284-490c-b89e-7825fd0d7a00",
+  "links": null,
+  "logo": {},
+  "name": "Moss Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

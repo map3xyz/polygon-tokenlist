@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x941f59F9577451530EE38287e5F146bd42cda258",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "5f173598-9268-4515-99e2-f9e680fd0732",
+  "links": null,
+  "logo": {},
+  "name": "Siberian Husky",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHUSKY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

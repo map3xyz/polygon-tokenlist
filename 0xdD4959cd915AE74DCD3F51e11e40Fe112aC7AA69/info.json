@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xdD4959cd915AE74DCD3F51e11e40Fe112aC7AA69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6a277c77-5e09-408e-90b9-e2b4f7417466",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdD4959cd915AE74DCD3F51e11e40Fe112aC7AA69/logo.svg"
+  },
+  "name": "RFOX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RFOX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

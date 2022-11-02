@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xC25351811983818c9Fe6D8c580531819c8ADe90f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b4672ca8-ee81-491f-9617-205aaf4594b9",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xC25351811983818c9Fe6D8c580531819c8ADe90f/logo.svg"
+  },
+  "name": "Idle",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IDLE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3bEeff1b01122F11149B11604a2bC4f9e33D77aF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f37bca49-1a67-4f23-80ae-60902c55b8eb",
+  "links": null,
+  "logo": {},
+  "name": "Unique Utility Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNQT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

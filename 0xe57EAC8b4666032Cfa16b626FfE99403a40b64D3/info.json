@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xe57EAC8b4666032Cfa16b626FfE99403a40b64D3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5964cf4d-e7b5-4a84-952f-e4f704648f52",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xe57EAC8b4666032Cfa16b626FfE99403a40b64D3/logo.png"
+  },
+  "name": "AnimeToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

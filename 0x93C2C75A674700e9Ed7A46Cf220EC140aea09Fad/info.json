@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x93C2C75A674700e9Ed7A46Cf220EC140aea09Fad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dcb2ffd9-2a77-4c56-b8f6-9a490c54acbf",
+  "links": null,
+  "logo": {},
+  "name": "Polkadex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PDEX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

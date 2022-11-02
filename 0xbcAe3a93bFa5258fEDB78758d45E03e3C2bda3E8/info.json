@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbcAe3a93bFa5258fEDB78758d45E03e3C2bda3E8",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b2913960-2bfe-4ffa-9b59-5e4ca901a9ff",
+  "links": null,
+  "logo": {},
+  "name": "BitCanna",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BCNA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

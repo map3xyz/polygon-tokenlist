@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa053517276ae28D46b09dA0023dFCB6E1FC8e13f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11f00516-b744-41bc-b9d9-4afbc5100285",
+  "links": null,
+  "logo": {},
+  "name": "Panda Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

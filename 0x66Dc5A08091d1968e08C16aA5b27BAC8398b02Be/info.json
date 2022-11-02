@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x66Dc5A08091d1968e08C16aA5b27BAC8398b02Be",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3c25024f-f4dc-4925-bee3-2db2d5087cc4",
+  "links": null,
+  "logo": {},
+  "name": "Civic",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CVC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

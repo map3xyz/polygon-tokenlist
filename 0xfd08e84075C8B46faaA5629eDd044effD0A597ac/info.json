@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xfd08e84075C8B46faaA5629eDd044effD0A597ac",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cab4b21-39a4-4c5c-b8ff-471a11ce3f7a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xfd08e84075C8B46faaA5629eDd044effD0A597ac/logo.svg"
+  },
+  "name": "StakeWise Staked ETH2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "sETH2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

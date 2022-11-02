@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8bd97e2b-c805-4bcd-ad3b-1b12240ef0da",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57/logo.svg"
+  },
+  "name": "Wrapped LUNA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LUNA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

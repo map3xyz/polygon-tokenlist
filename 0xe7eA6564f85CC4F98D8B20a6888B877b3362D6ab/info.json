@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe7eA6564f85CC4F98D8B20a6888B877b3362D6ab",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "b017dba6-77f7-4541-91b0-bd3dfe026e5d",
+  "links": null,
+  "logo": {},
+  "name": "American Akita",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "USKITA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

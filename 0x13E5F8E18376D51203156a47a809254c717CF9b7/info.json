@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x13E5F8E18376D51203156a47a809254c717CF9b7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3b275c0-1ff7-4072-95cc-0e59c973f086",
+  "links": null,
+  "logo": {},
+  "name": "Vader",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VADER",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

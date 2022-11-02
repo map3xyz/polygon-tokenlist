@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6db9dd7342e9aE835Ed498d141A85970813F1E9c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0bf08af7-1134-4447-b804-28538e78a4cf",
+  "links": null,
+  "logo": {},
+  "name": "XMANNA TOKEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XMAN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

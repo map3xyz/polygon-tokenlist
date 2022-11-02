@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB6Be3449C6A4b8AB082733F715788d94e78D60Ff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28e32e25-c5f7-4195-adb8-1fe219c7717d",
+  "links": null,
+  "logo": {},
+  "name": "Unifty",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NIF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

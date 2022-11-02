@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e26968e0-465f-4ba4-9be6-bdbb543f3cc1",
+  "links": null,
+  "logo": {
+    "svg": "https://wallet-asset.matic.network/img/tokens/ape.svg"
+  },
+  "name": "Apecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "APE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x80a017A2B089b642743d863cEeb6Da1FE0191ADC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72bdf94a-de5e-4293-94f9-197f6904b1b0",
+  "links": null,
+  "logo": {},
+  "name": "Gremlin DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GRMLN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

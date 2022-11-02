@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7a51028299AE19B4C56BF8d66B42Fd53e42F43aB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "038f1ee1-54b5-48e0-a53b-183a628bc050",
+  "links": null,
+  "logo": {},
+  "name": "PairX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAIRX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

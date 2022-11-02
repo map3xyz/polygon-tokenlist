@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8839e639F210B80ffea73AedF51baed8DAc04499",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d4a373e-94c6-4d97-8d7a-0c0c6320cff2",
+  "links": null,
+  "logo": {},
+  "name": "DecentraWeb",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DWEB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4837C6AdB831cC3C0a5b3992bd8aE16549c9B672",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11c8ca3d-9b97-41eb-a381-04a5bd6d3b14",
+  "links": null,
+  "logo": {},
+  "name": "DeSpace Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DES",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

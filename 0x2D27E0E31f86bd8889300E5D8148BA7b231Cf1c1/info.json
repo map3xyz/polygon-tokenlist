@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2D27E0E31f86bd8889300E5D8148BA7b231Cf1c1",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b3d97747-2a3a-43d3-ac6e-5e53d42234ce",
+  "links": null,
+  "logo": {},
+  "name": "e-Money EUR",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EEUR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

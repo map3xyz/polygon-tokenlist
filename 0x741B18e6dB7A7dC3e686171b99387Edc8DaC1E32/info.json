@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x741B18e6dB7A7dC3e686171b99387Edc8DaC1E32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7037f832-1c17-4a69-91b2-413a11b8cde2",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x741B18e6dB7A7dC3e686171b99387Edc8DaC1E32/logo.svg"
+  },
+  "name": "Upfiring",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UFR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x916dC64C5BCa5DA97A354bBD3998771A26545E09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2d8b78b-5bb9-4310-a5b4-49f61735be7d",
+  "links": null,
+  "logo": {},
+  "name": "SpiderDAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPDR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

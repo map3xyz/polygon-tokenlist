@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xb6d5d0E2baD865750Bc2cB21bBaE636c3BaD6581",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5672090-e23c-4bfd-895b-ec273c485828",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xb6d5d0E2baD865750Bc2cB21bBaE636c3BaD6581/logo.svg"
+  },
+  "name": "Litecoin SV",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LSV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

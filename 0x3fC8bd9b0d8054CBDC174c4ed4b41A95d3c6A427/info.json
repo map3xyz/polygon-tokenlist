@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3fC8bd9b0d8054CBDC174c4ed4b41A95d3c6A427",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8e959bc0-7bd1-4b3f-94cd-bdc94fc6d152",
+  "links": null,
+  "logo": {},
+  "name": "AMPnet APX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AAPX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd0e9c8f5Fae381459cf07Ec506C1d2896E8b5df6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4505d593-6936-41bd-8499-3326c6357827",
+  "links": null,
+  "logo": {},
+  "name": "Internet of Energy Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IOEN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xbe662058e00849C3Eef2AC9664f37fEfdF2cdbFE",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3a721151-79d4-4bba-ae91-8570f11e972e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xbe662058e00849C3Eef2AC9664f37fEfdF2cdbFE/logo.svg"
+  },
+  "name": "iEx.ec Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RLC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

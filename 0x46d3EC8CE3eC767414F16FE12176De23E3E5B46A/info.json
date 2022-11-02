@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "77fd05f8-a8db-4af1-86b3-c1481f801c0a",
+  "links": null,
+  "logo": {},
+  "name": "SupremeX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SXC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

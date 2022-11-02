@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1214D61f3dAA45Af4a5f301075C58fBE57c8E6d7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fc2c94a7-a5ff-4d10-891f-550f1414a4de",
+  "links": null,
+  "logo": {},
+  "name": "DeFI Trade Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DTT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

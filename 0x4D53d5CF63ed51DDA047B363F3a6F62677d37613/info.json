@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4D53d5CF63ed51DDA047B363F3a6F62677d37613",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f2449d4e-e639-4d4b-ab21-d30f05637d7a",
+  "links": null,
+  "logo": {},
+  "name": "Rentible",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RNB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x308ba429a913d952275090Fc35dEA9C36A511B5A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17510321-bf8b-4a70-a4ff-51697dea8f2a",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Tezos",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WXTZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

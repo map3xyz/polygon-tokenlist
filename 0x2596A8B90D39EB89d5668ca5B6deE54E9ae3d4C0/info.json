@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2596A8B90D39EB89d5668ca5B6deE54E9ae3d4C0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e224a37-08b5-4195-bd5a-6cd692da3cdc",
+  "links": null,
+  "logo": {},
+  "name": "TattooMoney",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TAT2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

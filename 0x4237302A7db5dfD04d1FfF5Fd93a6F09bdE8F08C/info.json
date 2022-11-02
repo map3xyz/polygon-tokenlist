@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4237302A7db5dfD04d1FfF5Fd93a6F09bdE8F08C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb363558-072d-451c-a299-6b5e52774055",
+  "links": null,
+  "logo": {},
+  "name": "EVO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EVO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

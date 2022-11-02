@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5B03aC408938C97e50db3bC5675d182606A01377",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "beeb16ba-645f-4330-84ec-fb4f755e44b5",
+  "links": null,
+  "logo": {},
+  "name": "DoubleDice Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DODI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

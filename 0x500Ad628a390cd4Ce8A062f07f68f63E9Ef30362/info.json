@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x500Ad628a390cd4Ce8A062f07f68f63E9Ef30362",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5cc8a78c-7aae-4eee-befa-150c2ffab2bb",
+  "links": null,
+  "logo": {},
+  "name": "StripCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STRIP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

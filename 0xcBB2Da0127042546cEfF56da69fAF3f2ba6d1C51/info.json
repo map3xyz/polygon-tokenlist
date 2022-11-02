@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xcBB2Da0127042546cEfF56da69fAF3f2ba6d1C51",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c39e7241-3e65-4835-97fc-1be95dedddbc",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xcBB2Da0127042546cEfF56da69fAF3f2ba6d1C51/logo.svg"
+  },
+  "name": "Marblecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MBC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x194Dd5b6b7225C9d2F2e2b2aF7a4FfC8e77fd479",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0916f1c3-988c-4c3b-973e-76cd9afdfa21",
+  "links": null,
+  "logo": {},
+  "name": "dHealth",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DHP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

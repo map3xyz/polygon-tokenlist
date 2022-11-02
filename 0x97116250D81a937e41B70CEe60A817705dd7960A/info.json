@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x97116250D81a937e41B70CEe60A817705dd7960A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d099bb7f-593d-4079-8a56-616386721728",
+  "links": null,
+  "logo": {},
+  "name": "NFTBunny",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BUN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

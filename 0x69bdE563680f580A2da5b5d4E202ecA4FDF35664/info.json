@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x69bdE563680f580A2da5b5d4E202ecA4FDF35664",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3722f33-b4f9-4d48-8129-7293f1f0b13e",
+  "links": null,
+  "logo": {},
+  "name": "Love",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LOVE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEd29195ecd25Da21E8942884C5fAebAfD4E07dab",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "9033ba61-c9ac-49ba-8327-ae40abde4119",
+  "links": null,
+  "logo": {},
+  "name": "Digix Gold Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DGX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

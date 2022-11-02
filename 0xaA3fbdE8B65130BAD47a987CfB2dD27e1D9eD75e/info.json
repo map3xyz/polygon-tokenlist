@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaA3fbdE8B65130BAD47a987CfB2dD27e1D9eD75e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3a1a10d-b38b-4dde-b5e7-6b0a57c1abfd",
+  "links": null,
+  "logo": {},
+  "name": "Silver TOWER Chest",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TWR.SLVR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

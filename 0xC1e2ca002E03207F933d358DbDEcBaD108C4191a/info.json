@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC1e2ca002E03207F933d358DbDEcBaD108C4191a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a103c9d0-d762-440f-99a3-5bb0e3cc1a4f",
+  "links": null,
+  "logo": {},
+  "name": "OddzToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

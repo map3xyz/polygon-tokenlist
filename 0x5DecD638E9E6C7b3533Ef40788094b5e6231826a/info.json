@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5DecD638E9E6C7b3533Ef40788094b5e6231826a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75e04ad4-cb80-4570-9468-bb7ad30845fb",
+  "links": null,
+  "logo": {},
+  "name": "VectorspaceAI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VXV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

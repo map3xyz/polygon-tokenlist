@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe99e95ec6DCae4c85806F13CDf1351aE0FEf55Be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c208cb0b-522e-4c23-820e-f0bf8d1f57dc",
+  "links": null,
+  "logo": {},
+  "name": "Sandalwood",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Sandalwood",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xb8E5b39689f886f8C34D3E5ac09F513A282d486D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e2a9bd3-7051-4a39-a62a-a5a9f87a4dfb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xb8E5b39689f886f8C34D3E5ac09F513A282d486D/logo.svg"
+  },
+  "name": "Flowing Hair",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FGH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

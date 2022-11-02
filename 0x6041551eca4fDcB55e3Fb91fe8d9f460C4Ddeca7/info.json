@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6041551eca4fDcB55e3Fb91fe8d9f460C4Ddeca7",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "0dd75cc2-6d73-4a2d-a320-5cff14b61d79",
+  "links": null,
+  "logo": {},
+  "name": "SOCIETY OF GALACTIC EXPLORATION",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

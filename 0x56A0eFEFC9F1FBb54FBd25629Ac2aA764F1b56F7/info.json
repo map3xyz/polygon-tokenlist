@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x56A0eFEFC9F1FBb54FBd25629Ac2aA764F1b56F7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a01ba735-dca0-4afc-8aef-9b339220cd6a",
+  "links": null,
+  "logo": {},
+  "name": "AurusDeFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AWX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

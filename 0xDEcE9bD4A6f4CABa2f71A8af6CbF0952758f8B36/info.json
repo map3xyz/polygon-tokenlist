@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDEcE9bD4A6f4CABa2f71A8af6CbF0952758f8B36",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc6c9a97-4b38-4a6d-a7a0-0ec917ffcbf5",
+  "links": null,
+  "logo": {},
+  "name": "StakeWise Reward ETH2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "rETH2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "066cedbd-c7fb-4b87-be79-5ac8e6dc7a2b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x313d009888329C9d1cf4f75CA3f32566335bd604/logo.svg"
+  },
+  "name": "EthLend Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LEND",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

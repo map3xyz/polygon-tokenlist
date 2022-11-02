@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x54a02FD4AeFc77aA97Cd3d30322F3E7a7D875a27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "29ac17eb-cea0-49a6-a40d-6dcc4574953e",
+  "links": null,
+  "logo": {},
+  "name": "Convertible Phoenix Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cPHX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf4487f1FF4f7e38c640AeA91d7bb47AeA98c09a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ddc3d9c-cdca-4835-81bc-0b424c07f833",
+  "links": null,
+  "logo": {},
+  "name": "Strong",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STRONG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

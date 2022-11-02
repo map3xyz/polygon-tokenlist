@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7767Ba7fB74082E02b821C341f9565Ce6440Fb26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b0559d63-4c46-4e56-8308-32475edd5790",
+  "links": null,
+  "logo": {},
+  "name": "Roxel DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

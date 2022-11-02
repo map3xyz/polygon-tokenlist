@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbF979592FB6B57B4293D0D7EEd0E093478a5C890",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6879245a-afbe-4289-a9ff-302acd17ddb4",
+  "links": null,
+  "logo": {},
+  "name": "Zombie Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZINU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

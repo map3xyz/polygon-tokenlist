@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x46ca31e0439dbF5D0D9c0338Be4912dd35D45A51",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7699594e-b78a-4d1a-87e0-a67659b28eb4",
+  "links": null,
+  "logo": {},
+  "name": "Musketeer",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MUSKETS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xFd81cfCD9C525b0A4C83Cdc37fd23f7e233CDE45",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e68c81b3-f464-48fc-976c-6b66b601749d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xFd81cfCD9C525b0A4C83Cdc37fd23f7e233CDE45/logo.svg"
+  },
+  "name": "Mogul Stars",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STARS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

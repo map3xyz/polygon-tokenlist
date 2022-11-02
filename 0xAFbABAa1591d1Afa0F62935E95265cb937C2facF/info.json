@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAFbABAa1591d1Afa0F62935E95265cb937C2facF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f82094a1-be9b-43e4-a720-0ce9b438c8e4",
+  "links": null,
+  "logo": {},
+  "name": "IGRY Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IGRY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

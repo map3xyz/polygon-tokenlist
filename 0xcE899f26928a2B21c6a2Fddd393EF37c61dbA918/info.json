@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcE899f26928a2B21c6a2Fddd393EF37c61dbA918",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b227e19-fe90-42ef-aead-fc12d4b38616",
+  "links": null,
+  "logo": {},
+  "name": "Museum of Crypto Art",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOCA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

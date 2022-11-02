@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6f934b45fc6043527d73C7c99313dd838E723DB7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f33caa1b-f55b-4644-ad41-1aee833356e2",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6f934b45fc6043527d73C7c99313dd838E723DB7/logo.svg"
+  },
+  "name": "Fractal Protocol Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FCL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

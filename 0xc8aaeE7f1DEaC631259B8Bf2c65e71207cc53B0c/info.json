@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc8aaeE7f1DEaC631259B8Bf2c65e71207cc53B0c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7f58acc-9d00-4b4b-a4a5-28b284707611",
+  "links": null,
+  "logo": {},
+  "name": "Domination Finance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

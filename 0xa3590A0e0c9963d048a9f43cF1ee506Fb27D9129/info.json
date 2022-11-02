@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa3590A0e0c9963d048a9f43cF1ee506Fb27D9129",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e887943-31fa-4fec-9d42-805520ee4ea9",
+  "links": null,
+  "logo": {},
+  "name": "HORD Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HORD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

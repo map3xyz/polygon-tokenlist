@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDe4e5B3672c4077B69216b77d99D8Ec35ec6C31A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ec440396-3115-4e6d-b8bd-38924e736436",
+  "links": null,
+  "logo": {},
+  "name": "DONUT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DONUT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

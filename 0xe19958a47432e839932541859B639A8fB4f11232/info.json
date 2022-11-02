@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe19958a47432e839932541859B639A8fB4f11232",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "196cdfe2-5915-4973-b784-9d10faa9aa9d",
+  "links": null,
+  "logo": {},
+  "name": "eWit",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EWIT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

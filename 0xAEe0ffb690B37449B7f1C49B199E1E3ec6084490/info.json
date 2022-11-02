@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAEe0ffb690B37449B7f1C49B199E1E3ec6084490",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3197273-8021-4f29-8b4e-49bc0148ac41",
+  "links": null,
+  "logo": {},
+  "name": "AurusGOLD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AWG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

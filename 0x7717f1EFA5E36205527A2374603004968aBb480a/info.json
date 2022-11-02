@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7717f1EFA5E36205527A2374603004968aBb480a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "be349a79-bdbd-4371-b42a-e18d1861666a",
+  "links": null,
+  "logo": {},
+  "name": "baby love",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BABY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2b8504ab5eFc246d0eC5Ec7E74565683227497de",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db05c9c6-15d5-4e2d-b88a-ad8bc79d583b",
+  "links": null,
+  "logo": {},
+  "name": "Aragon Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

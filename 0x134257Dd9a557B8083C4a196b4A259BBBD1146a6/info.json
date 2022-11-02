@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x134257Dd9a557B8083C4a196b4A259BBBD1146a6",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5d622482-b146-4261-85c1-90f110f102ba",
+  "links": null,
+  "logo": {},
+  "name": "EarnBet Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BET",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

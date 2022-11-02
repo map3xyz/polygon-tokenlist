@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE8b3D257202a9DfE00Ec396B8a8A45fceD1f5798",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d92b0fe-3908-4401-ad53-4c5532a8b2ed",
+  "links": null,
+  "logo": {},
+  "name": "IdleUSDC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "idleUSDC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

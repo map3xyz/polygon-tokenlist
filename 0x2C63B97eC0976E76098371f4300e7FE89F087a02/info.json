@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2C63B97eC0976E76098371f4300e7FE89F087a02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80437645-ce88-40b1-a008-2c547746c107",
+  "links": null,
+  "logo": {},
+  "name": "InventoryClub Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VNT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xAd230ec33ccf849C2bBd8D26C1706DB07b24Db95",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a91e2fbb-c29c-4ba0-b5a7-da4b7c407b61",
+  "links": null,
+  "logo": {},
+  "name": "Land",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LAND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

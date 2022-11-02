@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe2a1257ac6f49B767FCE903686FCbD7713Af4A5d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2d5c7295-1ce9-41f9-9a36-d81580d6866f",
+  "links": null,
+  "logo": {},
+  "name": "EZDEX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EZX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

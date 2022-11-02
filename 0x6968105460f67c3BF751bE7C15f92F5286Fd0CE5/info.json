@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41adbe5c-f5ef-4384-8b9d-574f5bffeb0d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5/logo.svg"
+  },
+  "name": "Monavale",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MONA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

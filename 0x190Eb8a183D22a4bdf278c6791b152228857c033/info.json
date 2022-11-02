@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x190Eb8a183D22a4bdf278c6791b152228857c033",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e9cb5017-aeb7-4599-b793-2311b46cc3e8",
+  "links": null,
+  "logo": {},
+  "name": "SingularityNET Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGIX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

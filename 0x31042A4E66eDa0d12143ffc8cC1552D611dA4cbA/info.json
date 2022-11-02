@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x31042A4E66eDa0d12143ffc8cC1552D611dA4cbA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "46708940-2c34-49db-8c81-05bd478cad2a",
+  "links": null,
+  "logo": {},
+  "name": "Morpheus Infrastructure Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MITx",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

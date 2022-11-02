@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5a8AdDA3140D961cd069CBb7B400d7834Dd558AC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b733dbd1-b74e-44a7-84a6-39e00b70e0e4",
+  "links": null,
+  "logo": {},
+  "name": "BoringDAO DOGE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "oDOGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x14f2aF758c62Aa1dE8c9e48e1DE363826b087453",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "baa220d7-f6aa-49e2-8c9e-a40bfe57968f",
+  "links": null,
+  "logo": {},
+  "name": "Moon Pug",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOONPUG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

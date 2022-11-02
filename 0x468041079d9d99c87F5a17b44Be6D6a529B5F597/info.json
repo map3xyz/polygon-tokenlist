@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x468041079d9d99c87F5a17b44Be6D6a529B5F597",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "936b248b-824a-42e1-a21d-549e53f2fbcc",
+  "links": null,
+  "logo": {},
+  "name": "Clover",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CLV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

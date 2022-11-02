@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6cb3555d-fe14-468f-a712-b19f49d18df8",
+  "links": null,
+  "logo": {},
+  "name": "bZx Protocol Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BZRX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD49E6e4Ea56eB71e45809ff208eaFD053653D95C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "38bdc382-5cca-4c27-b888-a3f116e6f920",
+  "links": null,
+  "logo": {},
+  "name": "PICIPO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PICIPO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

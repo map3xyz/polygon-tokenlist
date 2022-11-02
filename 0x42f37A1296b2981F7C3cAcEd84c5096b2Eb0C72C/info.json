@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x42f37A1296b2981F7C3cAcEd84c5096b2Eb0C72C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49d04cd0-5e7e-4d97-a8e0-7689d1ec9018",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x42f37A1296b2981F7C3cAcEd84c5096b2Eb0C72C/logo.svg"
+  },
+  "name": "KEEP Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KEEP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

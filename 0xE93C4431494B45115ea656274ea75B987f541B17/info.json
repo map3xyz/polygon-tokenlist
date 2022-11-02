@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE93C4431494B45115ea656274ea75B987f541B17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "70dc3e45-e640-454c-b63a-2d044e9879ad",
+  "links": null,
+  "logo": {},
+  "name": "Orbitum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORBTM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

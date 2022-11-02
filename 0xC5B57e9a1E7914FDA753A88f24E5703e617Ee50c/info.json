@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f89b0be1-731c-4d0c-bab4-4fde5bf5d8e7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c/logo.svg"
+  },
+  "name": "Popcorn",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

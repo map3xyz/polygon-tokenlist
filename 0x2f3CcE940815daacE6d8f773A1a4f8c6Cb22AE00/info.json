@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2f3CcE940815daacE6d8f773A1a4f8c6Cb22AE00",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "521b8353-5ee8-4c16-a549-d761bcf19978",
+  "links": null,
+  "logo": {},
+  "name": "ZEUZ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZEUZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

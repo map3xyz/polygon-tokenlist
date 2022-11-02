@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7Bc429a2fA7d71C4693424FDcaB5a2521b9FD343",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b0920d8-080e-46ca-81bd-48f4cb3f3c60",
+  "links": null,
+  "logo": {},
+  "name": "MarginSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MFI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

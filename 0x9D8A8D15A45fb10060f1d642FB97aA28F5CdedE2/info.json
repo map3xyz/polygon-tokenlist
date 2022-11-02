@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9D8A8D15A45fb10060f1d642FB97aA28F5CdedE2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96e1ddc8-0a12-41d1-a84c-2063b9ff8614",
+  "links": null,
+  "logo": {},
+  "name": "Dogen",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOGEN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

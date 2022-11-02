@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb3fb97019e9F69d0fD2e76fBD113ec6960a5389a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "305a674b-3243-4b90-98ad-cbfc4b7acde4",
+  "links": null,
+  "logo": {},
+  "name": "CC Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

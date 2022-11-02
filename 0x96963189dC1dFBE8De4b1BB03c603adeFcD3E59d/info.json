@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x96963189dC1dFBE8De4b1BB03c603adeFcD3E59d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4410d5e0-4175-4ce6-8758-9cb826a706f8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x96963189dC1dFBE8De4b1BB03c603adeFcD3E59d/logo.svg"
+  },
+  "name": "LTO Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LTO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2e02D3C4b81498177783584b842821864245cE50",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0151b06c-8900-403c-8c5f-af3692ba4174",
+  "links": null,
+  "logo": {},
+  "name": "RAKUN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAKU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x07D496919669c88CCeC363c55df98d494fd4D796",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "093c6dcc-d74d-41a6-8e9d-e0fea2a4bb85",
+  "links": null,
+  "logo": {},
+  "name": "Dogs Of Elon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

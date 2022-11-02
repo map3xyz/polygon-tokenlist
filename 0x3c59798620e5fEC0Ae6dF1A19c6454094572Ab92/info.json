@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3c59798620e5fEC0Ae6dF1A19c6454094572Ab92",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f73121f0-31a8-4258-83f9-8b8959461535",
+  "links": null,
+  "logo": {},
+  "name": "Morpheus.Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MNW",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

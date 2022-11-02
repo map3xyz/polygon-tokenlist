@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xCD966B72CFF52Dc349089b6b6f5865B5743b4E08",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2053710f-ff09-4dca-ae37-5520d3cb5f65",
+  "links": null,
+  "logo": {},
+  "name": "TOMI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TOMI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

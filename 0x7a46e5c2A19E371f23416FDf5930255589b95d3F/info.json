@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7a46e5c2A19E371f23416FDf5930255589b95d3F",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "41ab5e53-1979-4f75-8988-0b9a9d7a0bda",
+  "links": null,
+  "logo": {},
+  "name": "LITonium",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LIT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

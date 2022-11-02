@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0ae1daF8329923cCe587e994DF500a8F1Dd5Fc6F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ffeac336-3d11-487f-a2e6-107936c3c68d",
+  "links": null,
+  "logo": {},
+  "name": "XPOP Entertainment",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XPOP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

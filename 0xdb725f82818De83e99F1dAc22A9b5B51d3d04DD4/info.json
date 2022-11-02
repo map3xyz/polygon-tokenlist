@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6a780484-9a32-4002-82b3-d6b8e1364fc6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4/logo.svg"
+  },
+  "name": "GET Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GET",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

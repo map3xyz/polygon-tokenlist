@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "0ab1d840-5d3c-4ffd-9517-2e19c440030d",
+  "links": null,
+  "logo": {},
+  "name": "Hanu Yokia",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HANU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

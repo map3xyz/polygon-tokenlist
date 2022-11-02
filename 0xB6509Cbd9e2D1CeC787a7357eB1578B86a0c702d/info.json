@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xB6509Cbd9e2D1CeC787a7357eB1578B86a0c702d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aae06c24-e5cd-4898-bc2b-2ba4c3c4945f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB6509Cbd9e2D1CeC787a7357eB1578B86a0c702d/logo.svg"
+  },
+  "name": "Drakoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DRK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

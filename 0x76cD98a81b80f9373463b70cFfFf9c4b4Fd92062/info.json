@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x76cD98a81b80f9373463b70cFfFf9c4b4Fd92062",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8df03bca-0b67-4d90-94b1-eb92e83ab425",
+  "links": null,
+  "logo": {},
+  "name": "Cyclone Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CYC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

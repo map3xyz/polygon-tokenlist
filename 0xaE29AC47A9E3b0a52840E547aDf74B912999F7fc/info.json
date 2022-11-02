@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xaE29AC47A9E3b0a52840E547aDf74B912999F7fc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4eb51cbc-c24a-4061-86bb-8fc30fbd906f",
+  "links": null,
+  "logo": {},
+  "name": "EVE Exchange",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EVE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

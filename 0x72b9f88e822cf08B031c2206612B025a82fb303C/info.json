@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x72b9f88e822cf08B031c2206612B025a82fb303C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f581297d-7756-4d4e-bd68-d43af3c39f45",
+  "links": null,
+  "logo": {},
+  "name": "Day By Day Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DBD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

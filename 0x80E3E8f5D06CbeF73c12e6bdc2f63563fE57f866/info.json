@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x80E3E8f5D06CbeF73c12e6bdc2f63563fE57f866",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "e9a8ee15-3eeb-4ab2-b630-ce1a33fc2e67",
+  "links": null,
+  "logo": {},
+  "name": "Deflect",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEFLCT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

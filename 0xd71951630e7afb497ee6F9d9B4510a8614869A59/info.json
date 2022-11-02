@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd71951630e7afb497ee6F9d9B4510a8614869A59",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0615ccd7-4d68-4a02-80aa-9502e7e6f4dc",
+  "links": null,
+  "logo": {},
+  "name": "Wurstcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WURST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

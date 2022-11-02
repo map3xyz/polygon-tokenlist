@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xdC92de2CDbE69FEA9B1E4939D934f7F5195Bb1c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "79e447e2-3491-422c-9dce-a8fc52d0de6a",
+  "links": null,
+  "logo": {},
+  "name": "Pinkslip Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PSLIP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

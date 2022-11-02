@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x217CA87921B066728feBC2d093FE9a6503450c47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dde18307-ab7a-44ca-bd1e-7142051b734b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x217CA87921B066728feBC2d093FE9a6503450c47/logo.svg"
+  },
+  "name": "MyFiChain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "myfi",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

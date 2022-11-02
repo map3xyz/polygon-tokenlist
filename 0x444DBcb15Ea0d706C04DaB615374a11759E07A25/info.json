@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x444DBcb15Ea0d706C04DaB615374a11759E07A25",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "beee5009-244a-4572-ad8e-711c92569cde",
+  "links": null,
+  "logo": {},
+  "name": "CryptoChefs AROMA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AROMA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

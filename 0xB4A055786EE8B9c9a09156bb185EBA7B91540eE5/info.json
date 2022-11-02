@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xB4A055786EE8B9c9a09156bb185EBA7B91540eE5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b61cf88-29a2-4034-9e2e-d7f71cb8f4e9",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB4A055786EE8B9c9a09156bb185EBA7B91540eE5/logo.png"
+  },
+  "name": "Altafin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AFN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

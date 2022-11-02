@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x24705371bE6eE97E5780646fb60B8396058C1798",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "30abdaa3-dd7e-4d96-b418-2f0829b3e4ba",
+  "links": null,
+  "logo": {},
+  "name": "Dobermann",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOBE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

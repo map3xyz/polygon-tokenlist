@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x155AB9Cd3655Aa6174E1e743a6DA1E208762b03d",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "0344d8f3-59b9-4d38-84c5-8e4f79813203",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x155AB9Cd3655Aa6174E1e743a6DA1E208762b03d/logo.png"
+  },
+  "name": "Clever Minu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CLEVERMINU",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

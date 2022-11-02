@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x08912AA55D5eb104107c929cD4F48840D287613E",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "906a006a-4395-4404-a582-b6fa2f4506cb",
+  "links": null,
+  "logo": {},
+  "name": "Dogecaps",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "dcaps",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

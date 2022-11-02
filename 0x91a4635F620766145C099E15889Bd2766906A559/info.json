@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x91a4635F620766145C099E15889Bd2766906A559",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df245dc4-f968-4017-b997-f01be73d4bff",
+  "links": null,
+  "logo": {},
+  "name": "CelerToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CELR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

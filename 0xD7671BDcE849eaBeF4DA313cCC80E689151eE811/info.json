@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xD7671BDcE849eaBeF4DA313cCC80E689151eE811",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e582965e-242a-4645-b7c5-5df3e8efb2be",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xD7671BDcE849eaBeF4DA313cCC80E689151eE811/logo.svg"
+  },
+  "name": "Bidao",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BID",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

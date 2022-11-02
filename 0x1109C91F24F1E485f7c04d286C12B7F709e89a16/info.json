@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1109C91F24F1E485f7c04d286C12B7F709e89a16",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3483acaa-c8ff-4aa3-8eb5-1c97267cf723",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1109C91F24F1E485f7c04d286C12B7F709e89a16/logo.svg"
+  },
+  "name": "POLVEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POLVEN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

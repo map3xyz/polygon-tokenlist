@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xc1fe55e82A992f870F68Ba208617486Bee7Ad0fc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3483c6bf-b541-46ac-9021-c767e3c7cf6b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xc1fe55e82A992f870F68Ba208617486Bee7Ad0fc/logo.svg"
+  },
+  "name": "Donkey",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DON",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

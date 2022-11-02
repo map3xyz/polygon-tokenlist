@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF391F574C63d9b8764B7a1F56D6383762E07B75B",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d9830d37-333a-487c-a3a0-27c612f1e1b1",
+  "links": null,
+  "logo": {},
+  "name": "FEGtoken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FEG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

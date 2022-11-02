@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9613282539b6d0e3CB1eDC843a43Da7768AC3838",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b32d8d3-8872-4330-b809-b6e504268528",
+  "links": null,
+  "logo": {},
+  "name": "veCRV-Stake-DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "veCRV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

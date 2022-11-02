@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC226374dd015445084A2b4c348Bde4aFfd950Ad9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0649cc5b-cc21-4241-807e-0ae9e4484a99",
+  "links": null,
+  "logo": {},
+  "name": "Sniper Squad 17",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SS17",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

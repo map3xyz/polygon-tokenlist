@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6fe9C1631b37a2b438CFD3d67409E15503Ddd535",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7407f4f1-470c-42b5-91ff-3d23002121a4",
+  "links": null,
+  "logo": {},
+  "name": "Compound Dai",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cDAI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

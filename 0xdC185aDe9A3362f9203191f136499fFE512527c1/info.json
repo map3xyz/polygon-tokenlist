@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xdC185aDe9A3362f9203191f136499fFE512527c1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "371b47a4-5c13-4ec0-bc6b-570535a02f1e",
+  "links": null,
+  "logo": {},
+  "name": "Cask Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CASK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

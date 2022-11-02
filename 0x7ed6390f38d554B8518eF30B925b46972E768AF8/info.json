@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7ed6390f38d554B8518eF30B925b46972E768AF8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d61d5310-4ae9-410f-bdab-b5d4060f0a56",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7ed6390f38d554B8518eF30B925b46972E768AF8/logo.svg"
+  },
+  "name": "ClayStack Staked MATIC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "csMATIC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

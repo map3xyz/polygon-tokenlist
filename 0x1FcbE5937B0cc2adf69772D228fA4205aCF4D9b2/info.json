@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x1FcbE5937B0cc2adf69772D228fA4205aCF4D9b2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db0d545f-004f-4d28-8dd7-cbddf735e668",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1FcbE5937B0cc2adf69772D228fA4205aCF4D9b2/logo.svg"
+  },
+  "name": "Badger",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BADGER",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA28F6797f9Be95a6AE2b59Bbe94498725dC091A9",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "3fdb31c4-3453-4550-90e6-2e58b0514a37",
+  "links": null,
+  "logo": {},
+  "name": "ZARP (Rand Reserve)",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZARP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc73A8F11ec303eD81000AC5Eae94Bf2D65b67dD6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d8c3252-885e-4038-9f30-0f34666c4c95",
+  "links": null,
+  "logo": {},
+  "name": "SERGS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SERGS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

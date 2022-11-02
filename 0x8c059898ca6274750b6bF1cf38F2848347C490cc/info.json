@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8c059898ca6274750b6bF1cf38F2848347C490cc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9dbba747-e61d-40ae-b8b8-a9e1fa586f3e",
+  "links": null,
+  "logo": {},
+  "name": "SOS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

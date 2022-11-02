@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0F44C5CD9cF957Ce0C7dEa558A765e81E8378b37",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "40ee1d01-018e-412d-a57f-98a8799730c6",
+  "links": null,
+  "logo": {},
+  "name": "Jomon Shiba",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JSHIBA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

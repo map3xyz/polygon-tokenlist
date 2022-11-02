@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xdd539b42dadDc0Ca55fb3aC2260240E61414d92B",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "0d81f7d1-2bec-415a-9344-b7669a90dd6c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdd539b42dadDc0Ca55fb3aC2260240E61414d92B/logo.svg"
+  },
+  "name": "hoge.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HOGE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

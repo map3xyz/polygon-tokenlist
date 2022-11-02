@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4Fb71290Ac171E1d144F7221D882BECAc7196EB5",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "75170be2-2c9a-4366-b542-3be67cdd78a6",
+  "links": null,
+  "logo": {},
+  "name": "BiLira",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRYB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

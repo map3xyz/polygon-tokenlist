@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x76B032370987e91c515d1b96eBD04DE059BeC534",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08bb0e80-fc2a-40b8-8120-257dde1e4da4",
+  "links": null,
+  "logo": {},
+  "name": "Nexity Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NXT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

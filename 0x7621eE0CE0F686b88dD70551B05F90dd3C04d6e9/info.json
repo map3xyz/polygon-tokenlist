@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7621eE0CE0F686b88dD70551B05F90dd3C04d6e9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "485eceeb-90ba-4984-a4de-403e829a0be3",
+  "links": null,
+  "logo": {},
+  "name": "Virtual Cash",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "vCASH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

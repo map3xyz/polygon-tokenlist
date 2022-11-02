@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA6F7645ed967FAF708A614a2fcA8D4790138586f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42e40c29-4343-41f7-ba13-55e3cf0e5049",
+  "links": null,
+  "logo": {},
+  "name": "MoonieNFT Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MNY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

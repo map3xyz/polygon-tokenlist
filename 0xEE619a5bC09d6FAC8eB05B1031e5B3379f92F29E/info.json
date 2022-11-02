@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEE619a5bC09d6FAC8eB05B1031e5B3379f92F29E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "34b4e74e-efdc-4b91-a8f5-161f6ac3d855",
+  "links": null,
+  "logo": {},
+  "name": "Bitcoin Black",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLACK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

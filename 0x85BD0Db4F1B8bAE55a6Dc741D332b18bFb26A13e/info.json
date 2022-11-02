@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x85BD0Db4F1B8bAE55a6Dc741D332b18bFb26A13e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5862ae0-4419-4d28-a8f0-3c2be34aa200",
+  "links": null,
+  "logo": {},
+  "name": "AllyFocus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XYR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b0731b65-ede6-4835-b59d-effbfefd0cdf",
+  "links": null,
+  "logo": {},
+  "name": "PYR Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PYR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

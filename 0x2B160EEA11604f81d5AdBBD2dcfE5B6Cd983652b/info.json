@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x2B160EEA11604f81d5AdBBD2dcfE5B6Cd983652b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c430e07-026b-481e-be8b-ccfb6c06b7de",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x2B160EEA11604f81d5AdBBD2dcfE5B6Cd983652b/logo.png"
+  },
+  "name": "RED MWAT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MWAT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

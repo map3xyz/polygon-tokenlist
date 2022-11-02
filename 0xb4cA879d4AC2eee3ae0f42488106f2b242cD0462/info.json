@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb4cA879d4AC2eee3ae0f42488106f2b242cD0462",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc1c8c40-0d46-474a-9a10-9df56a09947d",
+  "links": null,
+  "logo": {},
+  "name": "friends",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FRIENDS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

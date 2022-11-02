@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB92d60d0EcbEf38DEe6A125181825567Fccd9dC7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc698b6f-c4d2-441e-a265-2b115987b323",
+  "links": null,
+  "logo": {},
+  "name": "AdBank",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ADB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

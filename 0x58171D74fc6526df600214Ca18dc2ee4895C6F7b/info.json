@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x58171D74fc6526df600214Ca18dc2ee4895C6F7b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "55bbcbe8-a1c9-4ded-a3fb-7f969def77fa",
+  "links": null,
+  "logo": {},
+  "name": "GaugeField",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GAUF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

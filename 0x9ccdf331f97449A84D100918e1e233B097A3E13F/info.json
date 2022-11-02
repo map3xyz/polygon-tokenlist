@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x9ccdf331f97449A84D100918e1e233B097A3E13F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4183403f-e165-4823-867f-7a693282c4fb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x9ccdf331f97449A84D100918e1e233B097A3E13F/logo.svg"
+  },
+  "name": "Kylin Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KYL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

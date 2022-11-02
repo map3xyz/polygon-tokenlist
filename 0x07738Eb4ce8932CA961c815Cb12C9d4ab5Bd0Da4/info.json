@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f8aadb23-2dd7-429c-80f0-d8b44b524695",
+  "links": null,
+  "logo": {},
+  "name": "Elementeum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ELET",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

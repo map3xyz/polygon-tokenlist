@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x81a9d2ecEd101479FaD8c9663f4A997fbE5c83cA",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "bed73f35-0ad4-45b9-8132-a71fa5af2af6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x81a9d2ecEd101479FaD8c9663f4A997fbE5c83cA/logo.svg"
+  },
+  "name": "BeatzCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTZC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA7b98d63a137bF402b4570799ac4caD0BB1c4B1c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b77eb435-7d5f-481f-9b39-6355dfd0e832",
+  "links": null,
+  "logo": {},
+  "name": "Trace Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRAC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

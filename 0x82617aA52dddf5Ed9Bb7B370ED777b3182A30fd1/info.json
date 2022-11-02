@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99a72cc1-db03-4ce9-8ee4-51557935bc74",
+  "links": null,
+  "logo": {},
+  "name": "Yield Guild Games Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YGG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

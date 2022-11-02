@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF81b4Bec6Ca8f9fe7bE01CA734F55B2b6e03A7a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a445beed-689d-44e0-bdbb-8228125456fa",
+  "links": null,
+  "logo": {},
+  "name": "Synth sUSD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "sUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

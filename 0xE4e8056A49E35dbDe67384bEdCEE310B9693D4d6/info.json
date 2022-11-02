@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE4e8056A49E35dbDe67384bEdCEE310B9693D4d6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d735d4c-4b28-4b3e-bf3c-203611c8f42f",
+  "links": null,
+  "logo": {},
+  "name": "50MM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "50MM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

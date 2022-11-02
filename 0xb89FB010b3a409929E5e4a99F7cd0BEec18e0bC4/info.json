@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb89FB010b3a409929E5e4a99F7cd0BEec18e0bC4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4ebfdfec-8168-4bc7-b98f-53820ae14c83",
+  "links": null,
+  "logo": {},
+  "name": "Seed Of The Universe",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOTU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

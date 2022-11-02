@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2b76F9E7BecC7B4381EEB1894385045B1aA7fBAb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d20938fc-aba0-494b-bfb1-27239c3a234d",
+  "links": null,
+  "logo": {},
+  "name": "Conjure",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CNJ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

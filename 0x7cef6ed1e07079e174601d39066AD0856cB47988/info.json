@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7cef6ed1e07079e174601d39066AD0856cB47988",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fc72884d-66fc-4103-8ed1-9813b680b681",
+  "links": null,
+  "logo": {},
+  "name": "Free Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FREE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

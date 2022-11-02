@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xdD5E426362ef1B524d156335901be65F4573FF8E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7748279c-723e-4190-b925-1a2db512119b",
+  "links": null,
+  "logo": {},
+  "name": "ChiHuaHua Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHUA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

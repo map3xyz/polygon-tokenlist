@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x32515ffdc3a84cfbf9AD4dB14EF8f0A535c7Afd6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8bf74a3e-c16d-47da-b4ed-19eab1922fa9",
+  "links": null,
+  "logo": {},
+  "name": "BakedToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BAKED",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xEAeCC18198a475c921B24b8A6c1C1f0f5F3F7EA0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1fad844f-638c-4a44-a6e5-441ad90758ce",
+  "links": null,
+  "logo": {},
+  "name": "Seed",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SEED",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

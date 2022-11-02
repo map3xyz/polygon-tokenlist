@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xc6480Da81151B2277761024599E8Db2Ad4C388C8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f1bed31c-778f-4291-ab43-04b0e1332b7d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xc6480Da81151B2277761024599E8Db2Ad4C388C8/logo.svg"
+  },
+  "name": "Decentral Games Governance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "xDG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

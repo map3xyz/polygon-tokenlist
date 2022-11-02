@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd132d531367D5907d0844988A71B9fAd32D14368",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5cf79b65-9bdd-4d3a-abcc-d1fc92a3467b",
+  "links": null,
+  "logo": {},
+  "name": "Ludus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LUDUS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

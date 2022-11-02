@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9a0e65942615DE1eb5f5dD0CCB89090719231410",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1a4fb2d-9858-4aef-b7f5-690994ac737a",
+  "links": null,
+  "logo": {},
+  "name": "Data Transaction Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFBa8a25156c33FEcbE84f57c2d45C1d50f5afcd0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b14da20-45ee-4633-b07e-c3c3e799f09d",
+  "links": null,
+  "logo": {},
+  "name": "Value Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VNTW",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

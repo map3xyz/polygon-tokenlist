@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x258b34a8f350c833D5308cEb3F7f586c54aFe973",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ed9761a-9467-40ab-83ac-dbee006a72ef",
+  "links": null,
+  "logo": {},
+  "name": "LIQUID",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LIQUID",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

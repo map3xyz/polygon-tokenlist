@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9377Eeb7419486FD4D485671d50baa4BF77c2222",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "27dc5691-b248-42e3-b7a7-9dec5c3a7e9f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x9377Eeb7419486FD4D485671d50baa4BF77c2222/logo.svg"
+  },
+  "name": "Parsiq",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PRQ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

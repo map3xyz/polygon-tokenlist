@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8cB96E95C714E0996e6D299F617F518D965E352E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3b4faf44-2aaa-4d7d-b3cd-4c1d3083954b",
+  "links": null,
+  "logo": {},
+  "name": "GLOBALTRUSTFUND TOKEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GTF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

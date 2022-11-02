@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb233c90A0ebe7E19C30dB979B602803715cDB398",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23d6bc5c-9008-4c6c-8936-fc6859dc592c",
+  "links": null,
+  "logo": {},
+  "name": "GODL",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GODL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2628D301b161DB70E3dBbAc88d9D900cA426fF02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6043803-c6db-43b4-8091-4f53445b3040",
+  "links": null,
+  "logo": {},
+  "name": "Badger Sett Badger",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "bBADGER",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

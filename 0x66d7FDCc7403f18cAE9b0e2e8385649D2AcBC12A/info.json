@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "10037939-c921-453c-b351-64e22c068b4a",
+  "links": null,
+  "logo": {},
+  "name": "ETH 2x Flexible Leverage Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETH2x-FLI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

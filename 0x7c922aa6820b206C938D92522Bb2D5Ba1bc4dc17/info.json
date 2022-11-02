@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7c922aa6820b206C938D92522Bb2D5Ba1bc4dc17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "50535eeb-8437-4883-977a-fa4a23422025",
+  "links": null,
+  "logo": {},
+  "name": "Centralex Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CenX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

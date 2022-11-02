@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x41d36d3bd6297fE288E31C75De8B7453de9Daf90",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "edc098ad-3fbf-4c66-9b20-fd8d663a5172",
+  "links": null,
+  "logo": {},
+  "name": "simian.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SIFI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

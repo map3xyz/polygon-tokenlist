@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa6BE18a7870D464c97c76a457d965CB74bE0dB3f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "84a0d14e-ad15-42a2-a771-cb800ea41b89",
+  "links": null,
+  "logo": {},
+  "name": "GTS Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GTS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

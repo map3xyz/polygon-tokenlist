@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8cc8538d60901d19692F5ba22684732Bc28F54A3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3667c31c-a2b3-4616-9c34-1dba89998492",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x8cc8538d60901d19692F5ba22684732Bc28F54A3/logo.svg"
+  },
+  "name": "Ether - Plasma",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "plasma",
+    "erc20",
+    "noDeposit"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

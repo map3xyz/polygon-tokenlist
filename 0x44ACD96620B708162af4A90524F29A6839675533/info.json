@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x44ACD96620B708162af4A90524F29A6839675533",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "84adfb08-df03-4457-88e3-fb9f4cb05358",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x44ACD96620B708162af4A90524F29A6839675533/logo.svg"
+  },
+  "name": "TCGCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TCGC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

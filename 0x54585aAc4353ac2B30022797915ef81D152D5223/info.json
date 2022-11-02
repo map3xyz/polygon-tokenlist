@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x54585aAc4353ac2B30022797915ef81D152D5223",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1efbb310-ae3d-48d4-b646-b1cad569fe07",
+  "links": null,
+  "logo": {},
+  "name": "SIREN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

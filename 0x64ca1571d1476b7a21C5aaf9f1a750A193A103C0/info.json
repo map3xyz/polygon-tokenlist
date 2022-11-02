@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13a2bf10-5f88-49bf-af22-9a1418fcf78b",
+  "links": null,
+  "logo": {},
+  "name": "Bondly",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BONDLY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

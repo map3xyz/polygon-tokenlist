@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7B38C0d5dfc91d0A3FeF2F8DAb3BE404c1f61fa4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "430c1e93-62e8-48e5-a679-3e40419b72d3",
+  "links": null,
+  "logo": {},
+  "name": "Reserve Rights",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RSR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

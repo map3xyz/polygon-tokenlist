@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2e4b0Fb46a46C90CB410FE676f24E466753B469f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fafc2cd4-552e-49f8-86d1-07d1cfad54b4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x2e4b0Fb46a46C90CB410FE676f24E466753B469f/logo.svg"
+  },
+  "name": "UmbriaToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UMBR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

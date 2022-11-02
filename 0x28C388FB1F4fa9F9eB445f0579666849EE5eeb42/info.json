@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x28C388FB1F4fa9F9eB445f0579666849EE5eeb42",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83e444e7-9bcc-429d-aa81-8cf0ead98b9b",
+  "links": null,
+  "logo": {},
+  "name": "Bella",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BEL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x33044d2c29686795228B89b11D2d34727b8dF9bc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e450677-6eb8-425d-b650-cb484f75f5e0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x33044d2c29686795228B89b11D2d34727b8dF9bc/logo.svg"
+  },
+  "name": "Plush",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLSH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdc87ED1b972d42c5B218503A542d438B7fc65B7B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f31f9def-1d31-4ed5-b54e-5c4d477bfc26",
+  "links": null,
+  "logo": {},
+  "name": "ShroomTopia SPOR Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPOR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

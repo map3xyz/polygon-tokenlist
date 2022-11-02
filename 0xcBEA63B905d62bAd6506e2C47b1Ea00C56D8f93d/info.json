@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcBEA63B905d62bAd6506e2C47b1Ea00C56D8f93d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74aa0d49-6d8f-42da-9666-2cb33fa22933",
+  "links": null,
+  "logo": {},
+  "name": "ARTM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARTM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

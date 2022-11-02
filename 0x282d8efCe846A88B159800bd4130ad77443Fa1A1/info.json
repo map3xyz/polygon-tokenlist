@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c1fa1f0e-0ba4-4dd2-a37d-043244ffac09",
+  "links": null,
+  "logo": {},
+  "name": "Ocean Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OCEAN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

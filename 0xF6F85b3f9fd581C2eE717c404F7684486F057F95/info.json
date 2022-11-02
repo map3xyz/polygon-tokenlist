@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xF6F85b3f9fd581C2eE717c404F7684486F057F95",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7aa88ac-8b53-4de1-9432-f98c36f2da0a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF6F85b3f9fd581C2eE717c404F7684486F057F95/logo.svg"
+  },
+  "name": "Nord Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NORD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

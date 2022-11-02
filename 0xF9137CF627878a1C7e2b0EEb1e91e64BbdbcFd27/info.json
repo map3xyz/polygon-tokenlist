@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF9137CF627878a1C7e2b0EEb1e91e64BbdbcFd27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e58499e0-058f-4651-a6a6-dd267b618224",
+  "links": null,
+  "logo": {},
+  "name": "#Smart Advertising Transaction Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SATT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC87DC7474DB6cdb9D37cc38A227DCd7b12289F22",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "ef1c0f29-6082-47de-abe5-7051b87c122a",
+  "links": null,
+  "logo": {},
+  "name": "VNDC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VNDC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

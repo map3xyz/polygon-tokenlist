@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x777211c3C0b03D9fF2Aaa288a016b1a3b64DDB8C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49034e3b-873f-4bd4-a273-e15d30309a9c",
+  "links": null,
+  "logo": {},
+  "name": "Digital Standard Unit",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DSU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

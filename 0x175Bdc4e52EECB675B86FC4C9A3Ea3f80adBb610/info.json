@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x175Bdc4e52EECB675B86FC4C9A3Ea3f80adBb610",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28517014-ad65-4cf8-b2eb-b2ae0b65d5e0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x175Bdc4e52EECB675B86FC4C9A3Ea3f80adBb610/logo.svg"
+  },
+  "name": "Havens Nook",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HXN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

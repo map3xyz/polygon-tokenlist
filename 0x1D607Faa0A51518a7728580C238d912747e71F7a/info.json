@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1D607Faa0A51518a7728580C238d912747e71F7a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "925575f4-5713-4829-a143-fb755d609557",
+  "links": null,
+  "logo": {},
+  "name": "DATA Economy Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

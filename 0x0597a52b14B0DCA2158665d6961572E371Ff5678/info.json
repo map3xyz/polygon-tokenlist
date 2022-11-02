@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0597a52b14B0DCA2158665d6961572E371Ff5678",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a36ff5c3-faf1-4eb2-9210-5d835ac06bfb",
+  "links": null,
+  "logo": {},
+  "name": "DOS Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

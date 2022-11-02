@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0FfC26BEDf1EB59B27479f0b79D95f61DCFB200C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1015638-e2ae-48be-8e32-0de473b88f15",
+  "links": null,
+  "logo": {},
+  "name": "APYSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "APYS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

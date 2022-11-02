@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8Ab2Fec94d17ae69FB90E7c773f2C85Ed1802c01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5f36dd2-fd69-44b3-9dd2-fa6424f89415",
+  "links": null,
+  "logo": {},
+  "name": "LQTY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LQTY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

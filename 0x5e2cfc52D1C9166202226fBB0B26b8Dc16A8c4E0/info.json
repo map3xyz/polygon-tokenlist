@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5e2cfc52D1C9166202226fBB0B26b8Dc16A8c4E0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d60bb3a8-de72-490c-aaed-db5b9e969381",
+  "links": null,
+  "logo": {},
+  "name": "LandOrc",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LORC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf41DF3B8084f1bcbf8D72C8366392170E7a0cFFD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0561d168-bbbf-4cd2-a0d8-94d3278aa2a2",
+  "links": null,
+  "logo": {},
+  "name": "Nemesis",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NMS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x098eABED893edbA2b7a1855130F1B1fb181f132c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a7f5d4e-a03f-4455-a2e0-23761fcf1f80",
+  "links": null,
+  "logo": {},
+  "name": "Tipcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TIP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

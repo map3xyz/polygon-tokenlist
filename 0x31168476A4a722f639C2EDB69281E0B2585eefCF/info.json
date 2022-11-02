@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x31168476A4a722f639C2EDB69281E0B2585eefCF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3110b76d-61fa-42a5-9c84-b7211763ad3d",
+  "links": null,
+  "logo": {},
+  "name": "RDomainToken For 0xac2c11ea5d4a4826f418d3befbf0537de7f13572d2a433edfe4a7314ea5dc896",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ac2c11ea",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

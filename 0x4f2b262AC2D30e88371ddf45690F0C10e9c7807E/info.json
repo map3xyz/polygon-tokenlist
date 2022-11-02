@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4f2b262AC2D30e88371ddf45690F0C10e9c7807E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "991cbdb6-5eb4-4ee8-aa9c-fa67657c6661",
+  "links": null,
+  "logo": {},
+  "name": "Drops Ownership Power",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

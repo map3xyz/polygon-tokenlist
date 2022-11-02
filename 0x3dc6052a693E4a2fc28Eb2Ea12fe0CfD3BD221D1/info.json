@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3dc6052a693E4a2fc28Eb2Ea12fe0CfD3BD221D1",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "20365c48-f8d5-4e42-94f8-b95201df79cd",
+  "links": null,
+  "logo": {},
+  "name": "IRISnet",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IRIS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

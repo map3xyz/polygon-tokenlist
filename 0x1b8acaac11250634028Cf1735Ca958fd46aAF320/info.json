@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1b8acaac11250634028Cf1735Ca958fd46aAF320",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecd9a53d-8b70-4b5a-a732-51d538c07748",
+  "links": null,
+  "logo": {},
+  "name": "fees.wtf",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WTF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

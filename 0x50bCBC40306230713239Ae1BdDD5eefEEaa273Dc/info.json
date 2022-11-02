@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x50bCBC40306230713239Ae1BdDD5eefEEaa273Dc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8e76d50-3bbe-4f93-a344-3b2f424f5874",
+  "links": null,
+  "logo": {},
+  "name": "ASIA COIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ASIA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

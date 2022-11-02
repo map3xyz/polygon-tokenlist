@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6998F006c8B5bD288dcb8E00c0060927d517Aa58",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7494fbb5-8f64-4550-a77c-8596c5be88d6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6998F006c8B5bD288dcb8E00c0060927d517Aa58/logo.svg"
+  },
+  "name": "mushrooming USD Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mUSDC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

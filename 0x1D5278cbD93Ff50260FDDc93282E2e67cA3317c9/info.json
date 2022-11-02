@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1D5278cbD93Ff50260FDDc93282E2e67cA3317c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "18a31fdc-962d-4352-8874-8c9847bb4893",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1D5278cbD93Ff50260FDDc93282E2e67cA3317c9/logo.png"
+  },
+  "name": "Pinjour",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

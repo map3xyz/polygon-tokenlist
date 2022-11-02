@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF92501c8213da1D6C74A76372CCc720Dc8818407",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "07f6d0fe-64ac-4efd-88d4-cc3913c5a7c2",
+  "links": null,
+  "logo": {},
+  "name": "ROOK",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROOK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

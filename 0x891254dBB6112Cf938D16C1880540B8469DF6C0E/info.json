@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x891254dBB6112Cf938D16C1880540B8469DF6C0E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2cf75cfc-abce-4a50-a0eb-471bfb36d4ac",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x891254dBB6112Cf938D16C1880540B8469DF6C0E/logo.svg"
+  },
+  "name": "Efinity Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EFI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

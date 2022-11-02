@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xdf2d3db12254B062b96424F27f44649321901499",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65c2ec97-e76b-4237-8297-4a86971c9f0b",
+  "links": null,
+  "logo": {},
+  "name": "Dracula Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DRaCula",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

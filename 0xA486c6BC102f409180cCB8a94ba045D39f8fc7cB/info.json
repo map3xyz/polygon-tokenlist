@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9c8a2072-22e6-4df7-8944-80ca68b72c90",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB/logo.svg"
+  },
+  "name": "Nash Exchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NEX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

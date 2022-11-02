@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2F128A29F2b070a68d92777EBBc0B1E8B1D5Bcd0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b0a108b-aa02-4141-9bc5-7b5198649d00",
+  "links": null,
+  "logo": {},
+  "name": "LoganCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LOG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

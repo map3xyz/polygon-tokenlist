@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x89C296Be2F904F3e99a6125815b4B78F5388d2dd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53a7cf89-5fa7-4c75-a722-761db9fdc041",
+  "links": null,
+  "logo": {},
+  "name": "Ripio Credit Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RCN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

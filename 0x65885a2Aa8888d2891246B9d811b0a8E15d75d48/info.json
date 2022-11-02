@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x65885a2Aa8888d2891246B9d811b0a8E15d75d48",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "82f8afbb-4f2d-41c8-ba6e-645e3e4d26a1",
+  "links": null,
+  "logo": {},
+  "name": "Polybius Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLBT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

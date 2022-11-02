@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbc6bab2-2b90-4bcf-871f-ad81ecbd92c2",
+  "links": null,
+  "logo": {},
+  "name": "Axie Infinity Shard",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AXS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

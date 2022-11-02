@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf0c3C4AC63Be272a94712bCcc39490A159Cd0D7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df77f937-c46d-4e81-82b3-8f6abadc2f46",
+  "links": null,
+  "logo": {},
+  "name": "Simracer Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SRC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x84000b263080BC37D1DD73A29D92794A6CF1564e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe841605-5c59-4e46-aa24-bdcc12e5bce6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x84000b263080BC37D1DD73A29D92794A6CF1564e/logo.svg"
+  },
+  "name": "Dai - Plasma",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "plasma",
+    "stablecoin",
+    "erc20",
+    "noDeposit"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

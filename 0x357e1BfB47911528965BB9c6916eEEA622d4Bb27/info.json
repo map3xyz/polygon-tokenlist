@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x357e1BfB47911528965BB9c6916eEEA622d4Bb27",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26299964-1429-43a8-a8cb-ad1330bd6f73",
+  "links": null,
+  "logo": {},
+  "name": "CoinCasso Exchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CCX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

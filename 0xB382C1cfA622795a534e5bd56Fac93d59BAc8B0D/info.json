@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB382C1cfA622795a534e5bd56Fac93d59BAc8B0D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd4e37c5-be45-4f80-8317-387615d13ca8",
+  "links": null,
+  "logo": {},
+  "name": "Kirobo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KIRO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x37Ff2a6cF0E8061CBD9a00919690F1B0A46eE674",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "4d4b2975-4891-416d-ba4a-a944927b68c4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x37Ff2a6cF0E8061CBD9a00919690F1B0A46eE674/logo.svg"
+  },
+  "name": "froge.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FROGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

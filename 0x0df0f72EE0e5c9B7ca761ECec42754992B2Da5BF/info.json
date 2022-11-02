@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a55804e4-6c37-48f5-9ff6-55c0d85d77b2",
+  "links": null,
+  "logo": {},
+  "name": "Automata",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ATA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

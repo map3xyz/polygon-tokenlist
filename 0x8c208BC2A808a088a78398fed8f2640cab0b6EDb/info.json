@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8c208BC2A808a088a78398fed8f2640cab0b6EDb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1af818b3-eb00-4faa-9385-f96335fd6bb5",
+  "links": null,
+  "logo": {},
+  "name": "Cryptex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CTX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

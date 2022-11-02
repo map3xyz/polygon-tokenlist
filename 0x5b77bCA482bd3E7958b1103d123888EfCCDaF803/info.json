@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5b77bCA482bd3E7958b1103d123888EfCCDaF803",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e25c7ed1-cc81-4a6d-8be7-e5c71bda9e77",
+  "links": null,
+  "logo": {},
+  "name": "TrueFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "26a83a92-a340-4c60-bf83-929875ee63c7",
+  "links": null,
+  "logo": {},
+  "name": "Ethereum Name Service",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ENS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

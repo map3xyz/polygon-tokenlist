@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4d7d6e43ED36298Bfe287711a48c1018D87f272c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f91f7f18-7d45-41af-89f3-4e3d827cc46d",
+  "links": null,
+  "logo": {},
+  "name": "The Doge NFT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB58869e737191B4b062dCB1B67c9f92d623c3006",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa9070f7-8689-40c4-8419-f71f64b7b011",
+  "links": null,
+  "logo": {},
+  "name": "Gold TOWER Chest",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TWR.GOLD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

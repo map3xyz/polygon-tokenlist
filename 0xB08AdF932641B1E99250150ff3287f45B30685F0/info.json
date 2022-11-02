@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB08AdF932641B1E99250150ff3287f45B30685F0",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3f6b1785-863a-4dd6-98ff-aa83bcff956d",
+  "links": null,
+  "logo": {},
+  "name": "Safe Shield",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SFSHLD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

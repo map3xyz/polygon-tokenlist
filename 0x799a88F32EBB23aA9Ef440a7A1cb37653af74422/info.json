@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x799a88F32EBB23aA9Ef440a7A1cb37653af74422",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "7fb60c63-407a-4a15-8cc1-776257d5d741",
+  "links": null,
+  "logo": {},
+  "name": "Certik",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CTK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

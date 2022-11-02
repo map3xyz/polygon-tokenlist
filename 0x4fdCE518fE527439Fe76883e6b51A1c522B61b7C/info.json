@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f18788fa-a7fd-4442-b4a8-eca15eccf331",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C/logo.svg"
+  },
+  "name": "Coreto",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa6E99049d3DC5fA94292c86E67742d7CD2ebE561",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1cccf665-3626-4cf8-a9db-30e171d961a9",
+  "links": null,
+  "logo": {},
+  "name": "ALAN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALAN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

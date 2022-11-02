@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xF18Ac368001b0DdC80aA6a8374deb49e868EFDb8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f137cb00-71c0-469f-834e-901984e890a9",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF18Ac368001b0DdC80aA6a8374deb49e868EFDb8/logo.svg"
+  },
+  "name": "Inverse DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

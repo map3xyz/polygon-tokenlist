@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfF7ef642B070CF63602E46a2eD63aDf893e95437",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb16b5eb-da4f-4334-9e63-6384b43f3c0b",
+  "links": null,
+  "logo": {},
+  "name": "PETRON PAY SECURITY TOKEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PETRON",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

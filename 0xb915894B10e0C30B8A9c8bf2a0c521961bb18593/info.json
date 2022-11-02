@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb915894B10e0C30B8A9c8bf2a0c521961bb18593",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fbb9aad8-9a1f-4610-aad5-50250a160c01",
+  "links": null,
+  "logo": {},
+  "name": "AWACOIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AWA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

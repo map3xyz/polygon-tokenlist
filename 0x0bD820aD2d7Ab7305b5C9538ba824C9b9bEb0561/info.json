@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08fe68af-d2cd-4102-8975-0212a394ac37",
+  "links": null,
+  "logo": {},
+  "name": "Royale (PoS)",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROYA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

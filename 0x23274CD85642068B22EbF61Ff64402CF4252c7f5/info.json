@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x23274CD85642068B22EbF61Ff64402CF4252c7f5",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "ba4613b0-c814-4315-9769-52a0a5f822c1",
+  "links": null,
+  "logo": {},
+  "name": "Dogira",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOGIRA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2b88aD57897A8b496595925F43048301C37615Da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b270d80-6e3d-4e1b-991e-4417631f361c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x2b88aD57897A8b496595925F43048301C37615Da/logo.svg"
+  },
+  "name": "PickleToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PICKLE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

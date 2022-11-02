@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x522a3Bd54d5D6a9CC67592e31Cc1A745630daF50",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "97c3ac6e-5646-4f8c-99fc-6adfd5b4bb3f",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Anchor UST Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "aUST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

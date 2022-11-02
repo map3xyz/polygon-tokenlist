@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x12b54baA8FFcFd6679CcF1AE618ca3006cFcc2aC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b458a299-f355-4c52-bca8-e0cf349b31c6",
+  "links": null,
+  "logo": {},
+  "name": "ChilliSwap Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHLI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

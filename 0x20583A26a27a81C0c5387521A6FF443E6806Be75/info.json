@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x20583A26a27a81C0c5387521A6FF443E6806Be75",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "c0badda4-a44f-4f1d-b9fa-3aad04cee739",
+  "links": null,
+  "logo": {},
+  "name": "Fat Doge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FOGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

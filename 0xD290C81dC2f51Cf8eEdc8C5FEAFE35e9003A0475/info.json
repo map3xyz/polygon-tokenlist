@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD290C81dC2f51Cf8eEdc8C5FEAFE35e9003A0475",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7883a19b-fc18-4908-95e5-2d8dd4e377c8",
+  "links": null,
+  "logo": {},
+  "name": "IDEAOLOGY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IDEA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

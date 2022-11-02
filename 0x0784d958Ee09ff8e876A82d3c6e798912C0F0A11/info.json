@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0784d958Ee09ff8e876A82d3c6e798912C0F0A11",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d740cdc2-76d7-44ca-9abb-9b8a28b24d2d",
+  "links": null,
+  "logo": {},
+  "name": "Arke Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARKES",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
