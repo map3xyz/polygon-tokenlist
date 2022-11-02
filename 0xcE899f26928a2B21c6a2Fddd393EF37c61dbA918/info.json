@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "46393dbf-1671-492f-952c-fc61c4abe4f2",
+  "identifiers": {
+    "coinmarketcap": 10220
+  },
   "links": null,
   "logo": {},
   "name": "Museum of Crypto Art",

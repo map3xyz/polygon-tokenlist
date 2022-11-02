@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "ca9635df-e401-492f-aa5c-ec46150bd0a5",
+  "identifiers": {
+    "coinmarketcap": 18835
+  },
   "links": null,
   "logo": {},
   "name": "KwikTrust",

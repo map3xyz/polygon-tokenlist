@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "66f1d7ad-fe74-471f-8168-2173228d5182",
+  "identifiers": {
+    "coinmarketcap": 16951
+  },
   "links": null,
   "logo": {},
   "name": "Smoke",

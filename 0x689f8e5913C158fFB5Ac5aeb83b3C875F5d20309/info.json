@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "68e95d8a-4d67-49f8-bfe2-b5bb1e8fd1eb",
+  "identifiers": {
+    "coinmarketcap": 11715
+  },
   "links": null,
   "logo": {},
   "name": "Snook",

@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "61d5177d-40f5-4c36-a422-33446381837c",
+  "identifiers": {
+    "coinmarketcap": 15946
+  },
   "links": null,
   "logo": {},
   "name": "Polygen",

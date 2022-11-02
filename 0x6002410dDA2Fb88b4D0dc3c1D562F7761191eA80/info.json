@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "88e45e58-a5d0-452f-9bfc-e9477de332b5",
+  "identifiers": {
+    "coinmarketcap": 12170
+  },
   "links": null,
   "logo": {},
   "name": "The Employment Commons Work Token",

@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "14194014-3e18-4c27-9ff4-adbd7b0d2fdf",
+  "identifiers": {
+    "coinmarketcap": 2569
+  },
   "links": null,
   "logo": {
     "png": "https://coinpoker.com/assets/img/logox2.png"

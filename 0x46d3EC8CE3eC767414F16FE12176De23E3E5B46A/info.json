@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "3c72c02d-1f39-4eea-8f56-509d9a44e674",
+  "identifiers": {
+    "coinmarketcap": 10388
+  },
   "links": null,
   "logo": {},
   "name": "SupremeX Token",
