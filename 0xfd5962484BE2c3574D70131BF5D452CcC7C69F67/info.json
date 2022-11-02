@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xfd5962484BE2c3574D70131BF5D452CcC7C69F67",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6a32ecf4-6d4d-4071-b141-f5c21c161f8c",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xfd5962484BE2c3574D70131BF5D452CcC7C69F67/logo.png"
+  },
+  "name": "UCT Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UCT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

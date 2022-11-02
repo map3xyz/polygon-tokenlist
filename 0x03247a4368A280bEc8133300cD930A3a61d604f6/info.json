@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5cdc1720-34a7-4aef-9a9c-566b248d1e39",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x03247a4368A280bEc8133300cD930A3a61d604f6/logo.png"
+  },
+  "name": "Rebalance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RBAL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

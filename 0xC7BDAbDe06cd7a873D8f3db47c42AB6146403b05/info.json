@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC7BDAbDe06cd7a873D8f3db47c42AB6146403b05",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2670d9d8-91eb-492b-9e18-e802ed4c764a",
+  "links": null,
+  "logo": {},
+  "name": "PantherSwap Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PANTHER",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

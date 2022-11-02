@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf1c1A3C2481A3a8A3f173A9ab5Ade275292A6fA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4d3b7f26-c97b-46cb-b2de-95200d1b6f01",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xf1c1A3C2481A3a8A3f173A9ab5Ade275292A6fA3/logo.svg"
+  },
+  "name": "BLOCKv Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VEE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

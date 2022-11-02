@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9aAcb53AF37FE363E462A72Bc30F35a4d20f285f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0eab7dc3-1c47-48bc-8f08-9ff7e039a8f5",
+  "links": null,
+  "logo": {},
+  "name": "VIDT Datalink",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VIDT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

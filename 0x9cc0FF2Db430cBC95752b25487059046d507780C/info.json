@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9cc0FF2Db430cBC95752b25487059046d507780C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb33c669-a4b8-43d3-a3ba-5140a7e5f1f8",
+  "links": null,
+  "logo": {},
+  "name": "mushrooming 0x Protocol Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mZRX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

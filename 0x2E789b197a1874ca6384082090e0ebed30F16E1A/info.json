@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2E789b197a1874ca6384082090e0ebed30F16E1A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3475ee9-4c98-4ef1-bf72-084a109bfdb8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2E789b197a1874ca6384082090e0ebed30F16E1A/logo.svg"
+  },
+  "name": "blocsport1",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BS1",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

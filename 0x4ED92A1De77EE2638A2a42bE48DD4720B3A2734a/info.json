@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4ED92A1De77EE2638A2a42bE48DD4720B3A2734a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3c07ad1d-4c5a-4b51-897a-64aaa1d2c982",
+  "links": null,
+  "logo": {},
+  "name": "Amplify Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AMPT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

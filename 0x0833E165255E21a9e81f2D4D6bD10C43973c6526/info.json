@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0833E165255E21a9e81f2D4D6bD10C43973c6526",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "09f936ce-64ae-40eb-b4fa-e1e5e53680d2",
+  "links": null,
+  "logo": {},
+  "name": "Crypto puzzles",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CPTE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

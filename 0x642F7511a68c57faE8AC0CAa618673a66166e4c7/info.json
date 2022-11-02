@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x642F7511a68c57faE8AC0CAa618673a66166e4c7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53f32576-829a-453b-908a-824efaa7acaa",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x642F7511a68c57faE8AC0CAa618673a66166e4c7/logo.svg"
+  },
+  "name": "RougeCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XRGE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db253acc-f202-4a54-877a-222debbeb6dd",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c/logo.svg"
+  },
+  "name": "Decentral Games ICE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ICE",
+  "tags": [
+    "pos",
+    "erc20",
+    "noDeposit",
+    "noWithdraw",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

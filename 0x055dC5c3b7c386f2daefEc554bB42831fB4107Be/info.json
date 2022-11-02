@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x055dC5c3b7c386f2daefEc554bB42831fB4107Be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3042ae21-8b61-4ec6-88c9-9c6c8159dde5",
+  "links": null,
+  "logo": {},
+  "name": "Premia",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PREMIA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

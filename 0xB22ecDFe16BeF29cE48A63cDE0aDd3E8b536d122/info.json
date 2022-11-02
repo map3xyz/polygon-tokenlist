@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB22ecDFe16BeF29cE48A63cDE0aDd3E8b536d122",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "267e58a8-b56a-46ee-9849-df3332acc54b",
+  "links": null,
+  "logo": {},
+  "name": "THUG",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THUG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

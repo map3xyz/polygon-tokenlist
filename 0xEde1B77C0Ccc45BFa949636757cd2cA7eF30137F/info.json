@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xEde1B77C0Ccc45BFa949636757cd2cA7eF30137F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a2965e7-71ae-4101-b368-49626a749980",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Filecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WFIL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

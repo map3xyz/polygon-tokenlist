@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x43E4B063F96c33F0433863A927F5bad34bb4B03d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75c639c2-bb9b-4417-b395-1528de7881e1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x43E4B063F96c33F0433863A927F5bad34bb4B03d/logo.svg"
+  },
+  "name": "Energy Web Token Bridged",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EWTB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA9e0CDE4bE86F5DF7e2888753E5F663A41220469",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3048ed51-eef3-442e-a114-f902adf16a64",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xA9e0CDE4bE86F5DF7e2888753E5F663A41220469/logo.svg"
+  },
+  "name": "BribeToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BRIBE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

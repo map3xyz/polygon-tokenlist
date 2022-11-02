@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xECaE5e66d7F2BAe250dfF839216A01C2702aDFFD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04fc13da-69a7-4e48-b768-c695466af578",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xECaE5e66d7F2BAe250dfF839216A01C2702aDFFD/logo.svg"
+  },
+  "name": "Sora Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XOR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

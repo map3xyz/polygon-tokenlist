@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xA78dA5d9f0C488C51B9712434f0498cbb7bFF23d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a28f6300-a137-441c-b8d8-f7b423dd452c",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xA78dA5d9f0C488C51B9712434f0498cbb7bFF23d/logo.png"
+  },
+  "name": "Angel",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANGEL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

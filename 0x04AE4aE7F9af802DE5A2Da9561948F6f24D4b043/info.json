@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x04AE4aE7F9af802DE5A2Da9561948F6f24D4b043",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57f3d11b-19b4-4f25-953a-0167abbdf264",
+  "links": null,
+  "logo": {},
+  "name": "BoughtThe.top",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

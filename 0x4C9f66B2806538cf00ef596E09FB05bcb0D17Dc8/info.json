@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x4C9f66B2806538cf00ef596E09FB05bcb0D17Dc8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e8085ab-14dc-4f9a-a408-4ee99767e15d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4C9f66B2806538cf00ef596E09FB05bcb0D17Dc8/logo.svg"
+  },
+  "name": "Minato",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MNTO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

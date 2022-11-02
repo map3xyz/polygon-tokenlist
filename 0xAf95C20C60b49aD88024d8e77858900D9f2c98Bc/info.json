@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAf95C20C60b49aD88024d8e77858900D9f2c98Bc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a15671c1-c303-443f-b4f4-90652cbdb444",
+  "links": null,
+  "logo": {},
+  "name": "ethersmart",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

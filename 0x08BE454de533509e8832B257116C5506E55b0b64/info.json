@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x08BE454de533509e8832B257116C5506E55b0b64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "34e9c89c-7c82-4c83-968f-526f8da9ed2d",
+  "links": null,
+  "logo": {},
+  "name": "Standard",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1B9D40715E757Bdb9bdEC3215B898E46d8a3b71a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5de0a246-05ad-45be-9bfa-b673e53ee48b",
+  "links": null,
+  "logo": {},
+  "name": "Metis Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Metis",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

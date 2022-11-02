@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x10C5A602c7661E916a863B3BD164796D6CdD3d72",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "a1dcfd9b-6565-4748-9a03-b9bdeff31dab",
+  "links": null,
+  "logo": {},
+  "name": "Sustainable Opportunity Matrix",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

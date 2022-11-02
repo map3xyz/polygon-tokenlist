@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x87B078cf94B188EFB9D2208cAE47A66ea7FEa09A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a432f613-c103-42fe-9148-d0540b6681b0",
+  "links": null,
+  "logo": {},
+  "name": "Alchemy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALCH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

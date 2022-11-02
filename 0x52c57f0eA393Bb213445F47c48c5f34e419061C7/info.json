@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x52c57f0eA393Bb213445F47c48c5f34e419061C7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce09753c-0cf9-463c-926f-202c7af28105",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x52c57f0eA393Bb213445F47c48c5f34e419061C7/logo.svg"
+  },
+  "name": "Wrapped Mirror TSLA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mTSLA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x5dF1a47e05b4caBa0ED3Df13662642f05314764D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ccac1d50-fcd3-435a-9764-88959e0fa7b1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5dF1a47e05b4caBa0ED3Df13662642f05314764D/logo.svg"
+  },
+  "name": "UniMex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UMX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

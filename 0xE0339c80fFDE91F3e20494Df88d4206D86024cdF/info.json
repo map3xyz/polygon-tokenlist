@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "145c3f5a-dc92-4445-9498-976ea9a2bf18",
+  "links": null,
+  "logo": {},
+  "name": "Dogelon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ELON",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

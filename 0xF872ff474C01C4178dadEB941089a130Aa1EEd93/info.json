@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF872ff474C01C4178dadEB941089a130Aa1EEd93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdb75369-df3d-44f8-bb80-59f44a7b3881",
+  "links": null,
+  "logo": {},
+  "name": "POP Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POP!",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

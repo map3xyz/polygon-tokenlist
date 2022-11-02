@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcbEF7a4B4385Db4747362b900b6f6f8051B152c0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b40bce7-ba57-4dbe-af84-3b454b3e1229",
+  "links": null,
+  "logo": {},
+  "name": "Infinity Diamond",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

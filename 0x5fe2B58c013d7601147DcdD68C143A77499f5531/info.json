@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce3946b9-f122-42f0-a204-3f135cdc1f38",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.svg"
+  },
+  "name": "Graph Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GRT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

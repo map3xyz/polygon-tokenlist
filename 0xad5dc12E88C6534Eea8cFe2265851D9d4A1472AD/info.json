@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xad5dc12E88C6534Eea8cFe2265851D9d4A1472AD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63e4da3e-6a6b-4d82-9f72-d489d2e20f73",
+  "links": null,
+  "logo": {},
+  "name": "FalconSwap Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FSW",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

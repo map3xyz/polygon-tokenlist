@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2fe8733dcb25BFbbA79292294347415417510067",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "082cc9f9-3568-444c-ac5b-6b9bef617292",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2fe8733dcb25BFbbA79292294347415417510067/logo.svg"
+  },
+  "name": "Exeedme",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XED",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

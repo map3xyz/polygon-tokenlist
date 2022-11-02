@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x99aC53C1ab08BAA7c83f444Ebf442d0fcbb09DB6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1140a370-5460-402d-86c9-bb1f9b70f85e",
+  "links": null,
+  "logo": {},
+  "name": "GamyFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GFX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

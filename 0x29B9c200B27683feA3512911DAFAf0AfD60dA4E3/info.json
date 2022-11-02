@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x29B9c200B27683feA3512911DAFAf0AfD60dA4E3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f3d9a83-3896-42af-8588-e1dbe1d678f5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x29B9c200B27683feA3512911DAFAf0AfD60dA4E3/logo.svg"
+  },
+  "name": "Blockchain Mind",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BCM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

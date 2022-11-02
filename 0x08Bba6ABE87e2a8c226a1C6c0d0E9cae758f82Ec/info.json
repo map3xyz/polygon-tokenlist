@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x08Bba6ABE87e2a8c226a1C6c0d0E9cae758f82Ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f7424924-a32f-443b-8126-334f8e8075f0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x08Bba6ABE87e2a8c226a1C6c0d0E9cae758f82Ec/logo.svg"
+  },
+  "name": "Ethix",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETHIX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

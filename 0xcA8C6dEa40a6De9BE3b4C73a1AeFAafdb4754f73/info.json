@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xcA8C6dEa40a6De9BE3b4C73a1AeFAafdb4754f73",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "8769bdc3-903a-486e-8d65-0157efd82ff6",
+  "links": null,
+  "logo": {},
+  "name": "PIXA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PIXA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

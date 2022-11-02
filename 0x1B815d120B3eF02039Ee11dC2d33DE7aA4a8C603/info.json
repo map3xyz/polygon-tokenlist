@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "661a2bc3-9e6c-4295-8574-95dbe564bf71",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603/logo.svg"
+  },
+  "name": "Wootrade Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WOO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

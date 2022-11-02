@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xBB812fd66b98A38f2bF6A22759462f0993C1DBBE",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "9f1242d7-135b-4350-b33d-6ea8fc0f3990",
+  "links": null,
+  "logo": {},
+  "name": "Shiryo-Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Shiryo-Inu",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

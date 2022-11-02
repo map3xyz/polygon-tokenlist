@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4257EA7637c355F81616050CbB6a9b709fd72683",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13892ce1-89b1-4378-a36b-b5e81e14ded3",
+  "links": null,
+  "logo": {},
+  "name": "Convex Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CVX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

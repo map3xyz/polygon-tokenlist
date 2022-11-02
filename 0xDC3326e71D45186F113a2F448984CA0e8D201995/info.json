@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "4bbb5ba4-ba08-480e-99c9-8b9ef123cdee",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDC3326e71D45186F113a2F448984CA0e8D201995/logo.png"
+  },
+  "name": "XSGD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XSGD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

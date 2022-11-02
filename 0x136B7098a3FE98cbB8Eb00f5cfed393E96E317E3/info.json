@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x136B7098a3FE98cbB8Eb00f5cfed393E96E317E3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c96a8e9-8929-4036-9f8f-741e547f14dc",
+  "links": null,
+  "logo": {},
+  "name": "Agrolot Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGLT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

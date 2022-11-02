@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe46F5128B933e5A6F907Fe73EcE80059c222DB0A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "daa44607-e595-42ba-b7ed-75b54343aacf",
+  "links": null,
+  "logo": {},
+  "name": "dotmoovs",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOOV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

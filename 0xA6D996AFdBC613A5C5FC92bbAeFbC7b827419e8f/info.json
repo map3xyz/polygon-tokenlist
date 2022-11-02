@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA6D996AFdBC613A5C5FC92bbAeFbC7b827419e8f",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "5612e2d3-f3d9-4438-93bf-d8976589fbfa",
+  "links": null,
+  "logo": {},
+  "name": "CehhCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CEHH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

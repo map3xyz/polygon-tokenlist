@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8cc4e092-fbb8-4e2c-a646-c3a1ad9ae6c7",
+  "links": null,
+  "logo": {},
+  "name": "FARM Reward Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FARM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

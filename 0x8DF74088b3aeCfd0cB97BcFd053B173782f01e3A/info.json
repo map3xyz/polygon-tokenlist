@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8DF74088b3aeCfd0cB97BcFd053B173782f01e3A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f42f7ab-b6dd-4373-a8c4-5ee0cef0755e",
+  "links": null,
+  "logo": {},
+  "name": "Kwikswap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KWIK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

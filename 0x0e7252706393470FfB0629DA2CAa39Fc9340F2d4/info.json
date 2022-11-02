@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0e7252706393470FfB0629DA2CAa39Fc9340F2d4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d57348d3-0195-44d1-89f1-d0a54b0d45b3",
+  "links": null,
+  "logo": {},
+  "name": "DogeGF",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOGEGF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xfd0cbdDec28a93bB86B9db4A62258F5EF25fEfdE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8b41d46-5b22-4d54-9b72-2760a268ef36",
+  "links": null,
+  "logo": {},
+  "name": "BITTOKEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BITT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

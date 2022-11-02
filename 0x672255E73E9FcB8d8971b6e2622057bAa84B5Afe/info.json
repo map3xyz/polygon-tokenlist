@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x672255E73E9FcB8d8971b6e2622057bAa84B5Afe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7fbdbb9b-e457-49ff-a120-1234dbe5665e",
+  "links": null,
+  "logo": {},
+  "name": "Herocoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLAY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

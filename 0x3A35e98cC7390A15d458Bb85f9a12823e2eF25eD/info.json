@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x3A35e98cC7390A15d458Bb85f9a12823e2eF25eD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "229e1f08-7fc6-4cc0-96e1-b6fd0d87ee3b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3A35e98cC7390A15d458Bb85f9a12823e2eF25eD/logo.svg"
+  },
+  "name": "Penky",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PENKY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

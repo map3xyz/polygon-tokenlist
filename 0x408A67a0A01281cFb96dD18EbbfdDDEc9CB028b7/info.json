@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x408A67a0A01281cFb96dD18EbbfdDDEc9CB028b7",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "b5aa6061-a995-451b-a391-1be37cdbb671",
+  "links": null,
+  "logo": {},
+  "name": "ZILLAPUMP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZPUMP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f4cd57f-8306-4f8d-848b-1b8547faf3e6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2/logo.svg"
+  },
+  "name": "RAMP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAMP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

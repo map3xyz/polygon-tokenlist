@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE0011abAb503659C48a07d44561A7eF077b1AD56",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f33064a-4a2e-4fba-8d23-13db5bb25daf",
+  "links": null,
+  "logo": {},
+  "name": "SPRING Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPRING",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x60098a09fe0436eA7099F0444F05A36bEB71cB09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4366649-3629-4345-a74d-f39fbb578753",
+  "links": null,
+  "logo": {},
+  "name": "AllianceBlock Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALBT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

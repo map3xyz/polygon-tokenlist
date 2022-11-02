@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd7a2DC75ea2057b3949F9E1dbdF3480203DBE26a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "904fc800-eecc-4f42-ba44-d928577fe1d6",
+  "links": null,
+  "logo": {},
+  "name": "NFT INDEX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFTI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

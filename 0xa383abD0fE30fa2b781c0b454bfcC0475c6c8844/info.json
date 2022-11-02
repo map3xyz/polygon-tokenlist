@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa383abD0fE30fa2b781c0b454bfcC0475c6c8844",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f76552a-fe27-4046-8d93-51886ff74de3",
+  "links": null,
+  "logo": {},
+  "name": "Reef.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REEF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

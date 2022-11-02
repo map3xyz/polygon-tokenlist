@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA219a63C170D0bcDe994886d53878f86C5126106",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c2818fa6-782f-450d-abd0-38d54b51d955",
+  "links": null,
+  "logo": {},
+  "name": "BSNcommunitynet",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cBSN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

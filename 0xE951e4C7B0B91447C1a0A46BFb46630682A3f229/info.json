@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xE951e4C7B0B91447C1a0A46BFb46630682A3f229",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "1bb03fda-605c-4f4f-ae1b-a72c98210d95",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE951e4C7B0B91447C1a0A46BFb46630682A3f229/logo.svg"
+  },
+  "name": "Devcash",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

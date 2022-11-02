@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x49Fc111e5Ddd5580f48D6fDc4314540cb3A5CC4B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ce8538ac-dc2a-4133-a085-66aba5d7278f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x49Fc111e5Ddd5580f48D6fDc4314540cb3A5CC4B/logo.svg"
+  },
+  "name": "1337",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "1337",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

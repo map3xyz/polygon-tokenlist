@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFD2E95937a9a1b4A87B8c47fd3E9ACC123314c0e",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bc86014c-44ba-4e14-bbec-6a25709341f7",
+  "links": null,
+  "logo": {},
+  "name": "Screenist Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NIS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

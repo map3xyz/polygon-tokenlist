@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3F5B2063E500492463589b17F9Ea9cf2aF9771cF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "77f0e221-dba5-4ce0-baae-ea1adc38db97",
+  "links": null,
+  "logo": {},
+  "name": "Nemesis Downfall",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NMSIS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

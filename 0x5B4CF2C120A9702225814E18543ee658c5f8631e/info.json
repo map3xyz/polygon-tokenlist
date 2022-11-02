@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5B4CF2C120A9702225814E18543ee658c5f8631e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b4baf44e-d0c2-4852-9ee6-ea81bf3c8cd6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5B4CF2C120A9702225814E18543ee658c5f8631e/logo.svg"
+  },
+  "name": "UniLend Finance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UFT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

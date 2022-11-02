@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1b89c7E4C0967E7052144b446FA6cD4Ac94abd2B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e510e728-c11c-40a7-be6a-16ce9de20f1b",
+  "links": null,
+  "logo": {},
+  "name": "THIS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THIS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

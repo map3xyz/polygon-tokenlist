@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d35da0e-ae14-4505-971e-d1ec43f46766",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x61299774020dA444Af134c82fa83E3810b309991/logo.svg"
+  },
+  "name": "Render Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RNDR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

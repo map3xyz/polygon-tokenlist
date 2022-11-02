@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0E622E0e97B88824C655A0443e69416c3233a522",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e83e4a8-5946-4ffb-a758-674050b3aa64",
+  "links": null,
+  "logo": {},
+  "name": "Rubaled",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RUB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8346Ab8d5EA7A9Db0209aEd2d1806AFA0E2c4C21",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e32ebfa9-2d00-4ddf-830a-9d64f9593a94",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8346Ab8d5EA7A9Db0209aEd2d1806AFA0E2c4C21/logo.svg"
+  },
+  "name": "MODEFI ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

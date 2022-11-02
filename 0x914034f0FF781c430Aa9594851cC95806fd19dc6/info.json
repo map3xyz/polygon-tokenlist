@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x914034f0FF781c430Aa9594851cC95806fd19dc6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "90f0b6af-37d7-4256-b436-266f4e62b64e",
+  "links": null,
+  "logo": {},
+  "name": "SafeSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SSGT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

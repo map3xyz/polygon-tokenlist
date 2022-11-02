@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xebA044af66A6D959c12E91fCCD74Ea1C3CA07578",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d400bb55-f928-4e75-b467-192ab366b6f1",
+  "links": null,
+  "logo": {},
+  "name": "Morpher",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MPH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

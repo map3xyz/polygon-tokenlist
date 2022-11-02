@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6E8a8726639d12935b3219892155520bdC57366B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd2eccd9-ef92-428c-93d4-ee07e7713b54",
+  "links": null,
+  "logo": {},
+  "name": "GenomesDAO Governance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GNOME",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

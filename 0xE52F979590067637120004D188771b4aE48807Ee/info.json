@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE52F979590067637120004D188771b4aE48807Ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe879739-83cb-4e3d-9032-038365b8da69",
+  "links": null,
+  "logo": {},
+  "name": "BTC Volatility Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTCV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

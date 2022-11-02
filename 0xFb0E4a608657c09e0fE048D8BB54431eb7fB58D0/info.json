@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xFb0E4a608657c09e0fE048D8BB54431eb7fB58D0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dd51fef8-3537-4246-b775-15d3c65405cb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFb0E4a608657c09e0fE048D8BB54431eb7fB58D0/logo.svg"
+  },
+  "name": "ACoconut BTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "acBTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

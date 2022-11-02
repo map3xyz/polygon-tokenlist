@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8449d85Fc7989Ad7F34F8dA986F512aEa9E6920E",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "56786106-b3fe-441c-9b3b-d1e2c509077e",
+  "links": null,
+  "logo": {},
+  "name": "Luffy Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LUFFY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

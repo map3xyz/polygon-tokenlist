@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5B0c10270Ae2Ee3DC1003BB1E5Cb63E93306131C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6bb0de93-e465-41e2-b007-682d3b871f99",
+  "links": null,
+  "logo": {},
+  "name": "Highly Regarded Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RTRD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

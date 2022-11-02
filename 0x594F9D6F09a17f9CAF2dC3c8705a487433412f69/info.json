@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x594F9D6F09a17f9CAF2dC3c8705a487433412f69",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa40e4d5-6d22-43a3-a108-4d39bf269d22",
+  "links": null,
+  "logo": {},
+  "name": "FLAPP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLAP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

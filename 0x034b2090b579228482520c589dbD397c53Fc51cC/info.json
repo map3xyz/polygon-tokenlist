@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x034b2090b579228482520c589dbD397c53Fc51cC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94209a63-a9a2-4453-95eb-3098f82c19d1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x034b2090b579228482520c589dbD397c53Fc51cC/logo.svg"
+  },
+  "name": "Vision Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VISION",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xd8a2B5ED27d57d003962032ea78f3738fF5617a8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f78dd80-a26e-4ff0-b918-742c8d42b9ff",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd8a2B5ED27d57d003962032ea78f3738fF5617a8/logo.svg"
+  },
+  "name": "Akropolis",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AKRO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

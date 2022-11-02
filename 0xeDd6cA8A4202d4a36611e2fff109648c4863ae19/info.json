@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xeDd6cA8A4202d4a36611e2fff109648c4863ae19",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bcf616c4-973f-4241-bd45-75aad8718f35",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xeDd6cA8A4202d4a36611e2fff109648c4863ae19/logo.svg"
+  },
+  "name": "MahaDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MAHA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

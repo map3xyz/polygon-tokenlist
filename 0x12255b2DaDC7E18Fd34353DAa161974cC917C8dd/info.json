@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x12255b2DaDC7E18Fd34353DAa161974cC917C8dd",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "a6e34a74-4622-4c69-9634-cf9e93a80012",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x12255b2DaDC7E18Fd34353DAa161974cC917C8dd/logo.svg"
+  },
+  "name": "Digg",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DIGG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

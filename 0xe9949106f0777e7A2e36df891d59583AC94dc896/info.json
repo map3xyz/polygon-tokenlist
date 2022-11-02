@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xe9949106f0777e7A2e36df891d59583AC94dc896",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4634f33b-6693-406f-9b30-8ffecd8e8be1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe9949106f0777e7A2e36df891d59583AC94dc896/logo.svg"
+  },
+  "name": "Panvala pan",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

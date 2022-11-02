@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f3c2a1b-a584-4496-934d-dec2a399e0e3",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774/logo.png"
+  },
+  "name": "Pillar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

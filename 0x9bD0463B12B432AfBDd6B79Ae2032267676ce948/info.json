@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9bD0463B12B432AfBDd6B79Ae2032267676ce948",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f9d2907-58fc-4aa1-881f-5663ce99b54d",
+  "links": null,
+  "logo": {},
+  "name": "Method",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MTHD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

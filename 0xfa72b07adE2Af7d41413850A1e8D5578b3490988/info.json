@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xfa72b07adE2Af7d41413850A1e8D5578b3490988",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fa9caf5c-0362-4fd0-9c56-41db119431dc",
+  "links": null,
+  "logo": {},
+  "name": "RegiCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REGI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

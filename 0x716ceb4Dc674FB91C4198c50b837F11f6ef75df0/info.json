@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x716ceb4Dc674FB91C4198c50b837F11f6ef75df0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e607c6d0-7d29-4860-b5bd-2148ccc34066",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x716ceb4Dc674FB91C4198c50b837F11f6ef75df0/logo.svg"
+  },
+  "name": "Respawn Finance Wrapped Staked Ethereum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RFWSTETH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

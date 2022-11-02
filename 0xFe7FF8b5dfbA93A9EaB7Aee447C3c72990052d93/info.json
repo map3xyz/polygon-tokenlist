@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFe7FF8b5dfbA93A9EaB7Aee447C3c72990052d93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d67d3b1-3ab4-40d7-a284-5b0605298956",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFe7FF8b5dfbA93A9EaB7Aee447C3c72990052d93/logo.svg"
+  },
+  "name": "Universal Basic Income",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UBI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

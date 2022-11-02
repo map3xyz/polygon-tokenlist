@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF1a4015aE4d16ff64e41535Fe973A1796c0203d6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bf04ac7d-4ea6-42e4-b746-54d59baa1d6f",
+  "links": null,
+  "logo": {},
+  "name": "Wilder",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WILD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

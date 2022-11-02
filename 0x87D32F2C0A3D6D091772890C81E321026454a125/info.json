@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x87D32F2C0A3D6D091772890C81E321026454a125",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "cda3364d-3fd5-44e9-861d-97b3fee84c83",
+  "links": null,
+  "logo": {},
+  "name": "Kava.io",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KAVA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

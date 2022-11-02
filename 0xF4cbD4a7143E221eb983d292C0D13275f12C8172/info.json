@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xF4cbD4a7143E221eb983d292C0D13275f12C8172",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9a88d1e2-eda2-464c-a283-77deaff8dc6a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xF4cbD4a7143E221eb983d292C0D13275f12C8172/logo.svg"
+  },
+  "name": "MEE Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

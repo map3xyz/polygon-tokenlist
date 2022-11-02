@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "952c0b30-d4c8-40b6-ab31-e7f9bc8c3e4a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac/logo.svg"
+  },
+  "name": "BandToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BAND",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc5946F0c9b521f72658b658fC1260D04ea7fBE73",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2791545-1a74-44d4-b4a9-c9dedbf47b11",
+  "links": null,
+  "logo": {},
+  "name": "BitSong",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTSG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

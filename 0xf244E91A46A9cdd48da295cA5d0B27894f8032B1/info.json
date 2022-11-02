@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "0d6bc9d9-6b85-41c1-9319-e94675ed5f47",
+  "links": null,
+  "logo": {},
+  "name": "UniArts Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UART",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

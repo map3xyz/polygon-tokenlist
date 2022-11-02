@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x73F56124a34E0214067B7e5F42A132b3eA072014",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d1b69b5-1a48-4ac1-b65d-7ee2780d10df",
+  "links": null,
+  "logo": {},
+  "name": "Gaimin Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GMRX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

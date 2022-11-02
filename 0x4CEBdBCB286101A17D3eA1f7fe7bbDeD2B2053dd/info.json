@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4CEBdBCB286101A17D3eA1f7fe7bbDeD2B2053dd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53eeb102-7235-473d-92a1-f1ef194d9785",
+  "links": null,
+  "logo": {},
+  "name": "Yield",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YLD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

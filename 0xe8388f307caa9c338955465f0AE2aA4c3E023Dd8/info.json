@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xe8388f307caa9c338955465f0AE2aA4c3E023Dd8",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "43152d3a-7cd7-41cb-bf81-733f5d181c18",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe8388f307caa9c338955465f0AE2aA4c3E023Dd8/logo.svg"
+  },
+  "name": "xHDX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "xHDX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

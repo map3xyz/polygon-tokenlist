@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xeF205F99bD869e74b16050199d54327a0eCd343D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fcf922d7-ebdb-4d8a-9b83-ebbd2e8fcfdb",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xeF205F99bD869e74b16050199d54327a0eCd343D/logo.png"
+  },
+  "name": "Follow",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FOLO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8b1f836491903743fE51ACd13f2CC8Ab95b270f6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "640f0981-399e-4f3b-8ed8-92f3a6da9fd6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8b1f836491903743fE51ACd13f2CC8Ab95b270f6/logo.svg"
+  },
+  "name": "ACY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ACY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

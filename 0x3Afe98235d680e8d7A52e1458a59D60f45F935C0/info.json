@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3Afe98235d680e8d7A52e1458a59D60f45F935C0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47b2f32d-e3c4-4bbf-b07e-224a5917881a",
+  "links": null,
+  "logo": {},
+  "name": "BBGO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BBG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

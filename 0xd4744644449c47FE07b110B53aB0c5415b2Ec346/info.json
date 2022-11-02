@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd4744644449c47FE07b110B53aB0c5415b2Ec346",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "593b6472-5065-47ca-a26b-8c4234bb96e6",
+  "links": null,
+  "logo": {},
+  "name": "TLB",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TLB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

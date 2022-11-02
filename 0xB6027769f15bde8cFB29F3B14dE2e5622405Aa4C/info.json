@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB6027769f15bde8cFB29F3B14dE2e5622405Aa4C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3812c9ff-d99b-4ecb-a846-872c343b6347",
+  "links": null,
+  "logo": {},
+  "name": "Couchain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

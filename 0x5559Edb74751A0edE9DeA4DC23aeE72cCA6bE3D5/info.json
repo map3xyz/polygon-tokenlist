@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2fea09ee-504e-4203-a25a-613bd80713ab",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5/logo.svg"
+  },
+  "name": "0x Protocol Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZRX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

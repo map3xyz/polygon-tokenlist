@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2d44e45b-6199-4bd2-86d0-c00a2922080f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33/logo.svg"
+  },
+  "name": "ScaleSwapToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SCA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

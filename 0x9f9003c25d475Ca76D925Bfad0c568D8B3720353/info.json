@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x9f9003c25d475Ca76D925Bfad0c568D8B3720353",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20600975-4b3b-4658-aa82-d453a6646868",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9f9003c25d475Ca76D925Bfad0c568D8B3720353/logo.svg"
+  },
+  "name": "ZperToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZPR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

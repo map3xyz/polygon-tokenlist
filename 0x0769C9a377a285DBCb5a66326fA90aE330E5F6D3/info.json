@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0769C9a377a285DBCb5a66326fA90aE330E5F6D3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "384e9cf0-3835-4014-bba5-bae27b05094d",
+  "links": null,
+  "logo": {},
+  "name": "VERA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VRA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

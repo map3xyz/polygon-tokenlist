@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x8d42eCce45f4B30ff2435bD19a983f7616adD16e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e16103e-3455-428f-95fe-1c2b90c77e7a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8d42eCce45f4B30ff2435bD19a983f7616adD16e/logo.svg"
+  },
+  "name": "Pundi X Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NPXS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

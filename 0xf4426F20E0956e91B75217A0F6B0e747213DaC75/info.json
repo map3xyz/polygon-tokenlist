@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf4426F20E0956e91B75217A0F6B0e747213DaC75",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c88ea230-e305-4ff4-8083-2eb0f8875e8b",
+  "links": null,
+  "logo": {},
+  "name": "GIX Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GIX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

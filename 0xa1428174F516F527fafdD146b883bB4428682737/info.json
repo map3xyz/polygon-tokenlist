@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xa1428174F516F527fafdD146b883bB4428682737",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b7f1027f-10c4-4c22-8586-7cc344fe8e92",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xa1428174F516F527fafdD146b883bB4428682737/logo.svg"
+  },
+  "name": "SuperFarm",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SUPER",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

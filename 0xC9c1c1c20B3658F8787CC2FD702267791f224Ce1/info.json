@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83100516-e6b3-4053-9f15-0f8e0e2b8717",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC9c1c1c20B3658F8787CC2FD702267791f224Ce1/logo.svg"
+  },
+  "name": "Fantom Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FTM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

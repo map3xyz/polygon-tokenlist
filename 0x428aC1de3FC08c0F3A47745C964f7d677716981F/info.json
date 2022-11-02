@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x428aC1de3FC08c0F3A47745C964f7d677716981F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a8373d5-7760-4457-bec0-b95f3e1533c8",
+  "links": null,
+  "logo": {},
+  "name": "IBIZA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IBZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

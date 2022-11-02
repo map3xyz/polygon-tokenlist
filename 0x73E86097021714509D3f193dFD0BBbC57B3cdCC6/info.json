@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x73E86097021714509D3f193dFD0BBbC57B3cdCC6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5130917-ea1b-4400-b4f4-288cad6e9f07",
+  "links": null,
+  "logo": {},
+  "name": "IdleUSDC v4 [Risk adjusted]",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "idleUSDCSafe",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

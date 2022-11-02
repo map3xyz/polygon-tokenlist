@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6B3d5099c4827a3fC7C858865c1Cea15c3fe58ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9235dca-5c1c-45e2-b3ac-f877718f221a",
+  "links": null,
+  "logo": {},
+  "name": "PieDAO BTC++",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTC++",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

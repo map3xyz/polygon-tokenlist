@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6b8f374e899e20CD1c97300a4A87ed07E4b8B9f9",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "231c73e9-9942-4cbf-b288-d98e2b1b502c",
+  "links": null,
+  "logo": {},
+  "name": "Lyon.Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LYON",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

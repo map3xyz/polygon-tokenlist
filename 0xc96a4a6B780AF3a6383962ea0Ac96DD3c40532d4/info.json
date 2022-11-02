@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xc96a4a6B780AF3a6383962ea0Ac96DD3c40532d4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "068aaf57-63ea-4b31-a0c6-ff337848dbb5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc96a4a6B780AF3a6383962ea0Ac96DD3c40532d4/logo.svg"
+  },
+  "name": "BTSE Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTSE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

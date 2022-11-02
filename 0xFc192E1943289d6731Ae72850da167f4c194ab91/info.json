@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFc192E1943289d6731Ae72850da167f4c194ab91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "752cb52e-a702-426f-bec5-7b80981ca42c",
+  "links": null,
+  "logo": {},
+  "name": "POA ERC20 on Foundation",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POA20",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xBcD2C5C78000504EFBC1cE6489dfcaC71835406A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5abd7ed-22f6-4310-8a26-f8e4f463cd45",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xBcD2C5C78000504EFBC1cE6489dfcaC71835406A/logo.png"
+  },
+  "name": "Arch Ethereum Web3",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WEB3",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

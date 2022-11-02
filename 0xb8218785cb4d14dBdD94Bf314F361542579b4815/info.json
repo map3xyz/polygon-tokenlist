@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb8218785cb4d14dBdD94Bf314F361542579b4815",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f875676-8b1d-4032-9221-a7f9959acc98",
+  "links": null,
+  "logo": {},
+  "name": "WhaleStreet $hrimp Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$HRIMP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

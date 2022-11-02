@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xe2D460a2F928CbC4Cf3268f8d95dbd89c21202c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe6d4e2f-7501-477a-b00e-00a2c33b0026",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe2D460a2F928CbC4Cf3268f8d95dbd89c21202c4/logo.svg"
+  },
+  "name": "THERA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THERA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

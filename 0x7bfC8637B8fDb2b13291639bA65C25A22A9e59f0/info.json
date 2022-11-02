@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7bfC8637B8fDb2b13291639bA65C25A22A9e59f0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "576c6c41-f00a-4aa8-a306-a08eaac508a1",
+  "links": null,
+  "logo": {},
+  "name": "Searching for Satoshi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "S4S",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

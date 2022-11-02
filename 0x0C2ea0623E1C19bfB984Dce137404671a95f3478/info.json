@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0C2ea0623E1C19bfB984Dce137404671a95f3478",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "363265d4-565a-45a3-a618-91a78e2cc9e6",
+  "links": null,
+  "logo": {},
+  "name": "uDOO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "uDOO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

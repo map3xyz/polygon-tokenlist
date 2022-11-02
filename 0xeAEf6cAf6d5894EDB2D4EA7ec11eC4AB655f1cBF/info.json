@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeAEf6cAf6d5894EDB2D4EA7ec11eC4AB655f1cBF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "620b2a66-49c1-4c6a-b9e7-19b130765870",
+  "links": null,
+  "logo": {},
+  "name": "PAID Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAID",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

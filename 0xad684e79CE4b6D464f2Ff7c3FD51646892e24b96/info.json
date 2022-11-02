@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xad684e79CE4b6D464f2Ff7c3FD51646892e24b96",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "651a50f5-c3db-4624-a53f-17b6f5453337",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xad684e79CE4b6D464f2Ff7c3FD51646892e24b96/logo.svg"
+  },
+  "name": "Autonio",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NIOX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

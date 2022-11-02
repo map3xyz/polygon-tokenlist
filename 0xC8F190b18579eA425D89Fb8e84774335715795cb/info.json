@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC8F190b18579eA425D89Fb8e84774335715795cb",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d0c791bb-9688-4bf9-b69f-2ca7bc0ba53c",
+  "links": null,
+  "logo": {},
+  "name": "Defi Firefly",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DFF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "89f10681-8323-490c-819e-31a25cf01a85",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x42435F467D33e5C4146a4E8893976ef12BBCE762/logo.svg"
+  },
+  "name": "DEFI Top 5 Tokens Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEFI5",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

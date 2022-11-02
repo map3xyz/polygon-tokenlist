@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x474Ba20088174612427cf8440ac5712e98652AD2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c86a53bb-362b-4b8c-a09d-b91b6f4a62c3",
+  "links": null,
+  "logo": {},
+  "name": "Minty Art",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MINTY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

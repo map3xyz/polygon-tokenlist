@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbB6c356bDC5C258cb4e39C112d68fB6A9a9F6E26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cfbbc18b-eb7c-4fc4-a7b8-5a6bc13fca48",
+  "links": null,
+  "logo": {},
+  "name": "TAMA EGG NiftyGotchi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TME",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

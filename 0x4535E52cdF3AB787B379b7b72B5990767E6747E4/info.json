@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4535E52cdF3AB787B379b7b72B5990767E6747E4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f2b601a-5e8e-404c-bc20-99889200b680",
+  "links": null,
+  "logo": {},
+  "name": "Mytrade Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MYT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

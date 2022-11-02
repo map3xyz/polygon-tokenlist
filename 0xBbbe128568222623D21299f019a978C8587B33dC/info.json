@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xBbbe128568222623D21299f019a978C8587B33dC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ae47870-98a0-4372-ad3a-f3a303d3caee",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xBbbe128568222623D21299f019a978C8587B33dC/logo.svg"
+  },
+  "name": "StakeWise",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWISE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

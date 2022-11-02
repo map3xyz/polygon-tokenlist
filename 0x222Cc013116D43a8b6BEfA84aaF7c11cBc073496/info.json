@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x222Cc013116D43a8b6BEfA84aaF7c11cBc073496",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "caba709a-aba8-42cc-964e-3a89e9913ff7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x222Cc013116D43a8b6BEfA84aaF7c11cBc073496/logo.svg"
+  },
+  "name": "ETH.limiteD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ELD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

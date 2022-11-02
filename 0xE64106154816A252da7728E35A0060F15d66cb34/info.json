@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xE64106154816A252da7728E35A0060F15d66cb34",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3f22f494-7740-4df8-bfcb-3abbf79654f6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE64106154816A252da7728E35A0060F15d66cb34/logo.svg"
+  },
+  "name": "Internxt",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INXT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

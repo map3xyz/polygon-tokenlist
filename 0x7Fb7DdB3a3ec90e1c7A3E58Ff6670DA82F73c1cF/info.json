@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7Fb7DdB3a3ec90e1c7A3E58Ff6670DA82F73c1cF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54d8965c-395f-44c2-b191-e2165a73f0aa",
+  "links": null,
+  "logo": {},
+  "name": "vEmpire Gamer Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VEMP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

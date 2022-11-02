@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x1B599bEB7b1F50807dD58Fd7e8fFcf073b435e71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad390e12-fe57-4035-af6e-1ddf8af1010f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1B599bEB7b1F50807dD58Fd7e8fFcf073b435e71/logo.svg"
+  },
+  "name": "Blind Boxes Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLES",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x431351DbFE3E03Be7842e411C6627aCb0763C5fc",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6e51f756-f6d6-4606-81c0-88968c6117f9",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x431351DbFE3E03Be7842e411C6627aCb0763C5fc/logo.svg"
+  },
+  "name": "SafeEarth",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SAFEEARTH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

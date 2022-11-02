@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0335DeFC8A1977b99488e0b5f5c6bc3D44fAcdD4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d7111ae9-f6eb-4385-88bb-eaa497af676a",
+  "links": null,
+  "logo": {},
+  "name": "Attrace",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ATTR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

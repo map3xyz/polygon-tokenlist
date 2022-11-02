@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb3b9c016AD1E9f7EFdAE451b04EF696e05658b32",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "fda4dfc7-b73e-44b1-a603-3ec7bb75bda0",
+  "links": null,
+  "logo": {},
+  "name": "Persistence",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XPRT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

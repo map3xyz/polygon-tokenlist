@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x400784930560ab531bD840Eb00f52e9CF66bdf98",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d773407e-f603-477e-91ba-aead0ec73b41",
+  "links": null,
+  "logo": {},
+  "name": "DEXTF Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEXTF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x05323017c00874198Cf1b0832922074BeEA0db83",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82eb997a-e50b-4226-ad58-286ebf6c3728",
+  "links": null,
+  "logo": {},
+  "name": "MonoX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MONO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

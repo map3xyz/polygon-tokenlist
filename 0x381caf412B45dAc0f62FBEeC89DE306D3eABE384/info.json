@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x381caf412B45dAc0f62FBEeC89DE306D3eABE384",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a7450c2-d865-4169-ac2c-0552e27b0715",
+  "links": null,
+  "logo": {},
+  "name": "DAO Invest",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VEST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

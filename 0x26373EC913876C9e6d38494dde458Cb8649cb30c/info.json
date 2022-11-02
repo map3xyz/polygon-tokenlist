@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x26373EC913876C9e6d38494dde458Cb8649cb30c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9922c9b6-5114-468d-837c-940a808c3a2e",
+  "links": null,
+  "logo": {},
+  "name": "Ojamu Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OJA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

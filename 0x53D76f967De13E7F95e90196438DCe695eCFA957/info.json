@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x53D76f967De13E7F95e90196438DCe695eCFA957",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5748d78-d735-49be-b796-107fcd3c637d",
+  "links": null,
+  "logo": {},
+  "name": "Shine",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

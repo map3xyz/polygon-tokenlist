@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x93B0fF1C8828F6eB039D345Ff681eD735086d925",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6417fc7d-8db7-4aa9-ab15-a1f5ca749851",
+  "links": null,
+  "logo": {},
+  "name": "Covalent Query Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CQT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

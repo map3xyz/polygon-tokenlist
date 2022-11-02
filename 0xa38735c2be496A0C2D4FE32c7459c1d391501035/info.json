@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xa38735c2be496A0C2D4FE32c7459c1d391501035",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8112933e-8cd8-4705-a6ec-70b334925bb0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xa38735c2be496A0C2D4FE32c7459c1d391501035/logo.svg"
+  },
+  "name": "Trendering",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRND",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

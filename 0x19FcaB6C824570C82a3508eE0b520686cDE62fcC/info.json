@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x19FcaB6C824570C82a3508eE0b520686cDE62fcC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cccbd2cb-a1c6-4bd4-ac2e-8734ca3ee12d",
+  "links": null,
+  "logo": {},
+  "name": "FeelGrid Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GFEE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

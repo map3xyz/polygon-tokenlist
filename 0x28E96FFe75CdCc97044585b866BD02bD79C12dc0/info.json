@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x28E96FFe75CdCc97044585b866BD02bD79C12dc0",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "15a45a1e-31fe-47d4-9175-7df0344ce8f6",
+  "links": null,
+  "logo": {},
+  "name": "JUICE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JUICE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

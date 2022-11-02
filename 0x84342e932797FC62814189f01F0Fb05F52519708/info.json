@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x84342e932797FC62814189f01F0Fb05F52519708",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c1a7497-33d9-41d4-bd70-2e2b26b8e809",
+  "links": null,
+  "logo": {},
+  "name": "Neighbourhoods Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NHT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

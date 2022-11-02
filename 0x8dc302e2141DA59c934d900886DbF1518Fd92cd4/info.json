@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8dc302e2141DA59c934d900886DbF1518Fd92cd4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f55b4d4f-95c1-4396-b540-5b0d668b5f0e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8dc302e2141DA59c934d900886DbF1518Fd92cd4/logo.svg"
+  },
+  "name": "PolkastarterToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POLS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x957d1AD5214468332C5e6C00305a25116f9A46BB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b95cc06b-7e48-4a28-99e1-258160a89a80",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x957d1AD5214468332C5e6C00305a25116f9A46BB/logo.svg"
+  },
+  "name": "NOIA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NOIA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

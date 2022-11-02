@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x2c14C84D08b35a8135f57338816f5FcBEac08d35",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e33c3913-5dfc-4cbb-bd1e-c1f1747bebdc",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2c14C84D08b35a8135f57338816f5FcBEac08d35/logo.svg"
+  },
+  "name": "FunFair",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FUN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc712f8e6ffd1B6A40eb8735c8D2db2a55612268C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "479c6d36-fac5-48ae-a80b-b139d277ac50",
+  "links": null,
+  "logo": {},
+  "name": "Let's Go Brandon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LGB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

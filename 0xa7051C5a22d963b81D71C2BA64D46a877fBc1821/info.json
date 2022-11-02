@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa7051C5a22d963b81D71C2BA64D46a877fBc1821",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5e964217-afb4-435f-b8da-7c6e9bed7d8e",
+  "links": null,
+  "logo": {},
+  "name": "SifChain (erowan)",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EROWAN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

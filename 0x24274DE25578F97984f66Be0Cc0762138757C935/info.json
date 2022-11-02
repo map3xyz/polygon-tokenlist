@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x24274DE25578F97984f66Be0Cc0762138757C935",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "751dbe29-4d21-4f07-9d09-6f79eab0b0bf",
+  "links": null,
+  "logo": {},
+  "name": "360APP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAPP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

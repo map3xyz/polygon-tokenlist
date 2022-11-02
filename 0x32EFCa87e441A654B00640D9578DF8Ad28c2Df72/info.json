@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x32EFCa87e441A654B00640D9578DF8Ad28c2Df72",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56f1e355-22dd-4abb-89b0-ec9a16e079b1",
+  "links": null,
+  "logo": {},
+  "name": "Cat Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

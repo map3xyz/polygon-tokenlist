@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7aa06cc-5572-4b6f-b0ec-e429442d69b9",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756/logo.svg"
+  },
+  "name": "TrueUSD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TUSD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x918C749A09fA539E1Dc8019F875fab9EB1EBc6A3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a11862f4-15e0-40f1-80d1-b2e8977fb135",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x918C749A09fA539E1Dc8019F875fab9EB1EBc6A3/logo.svg"
+  },
+  "name": "FTT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FTX Token",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

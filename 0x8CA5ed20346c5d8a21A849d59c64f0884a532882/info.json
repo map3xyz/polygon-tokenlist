@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8CA5ed20346c5d8a21A849d59c64f0884a532882",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4b255d8c-d741-4e9c-a499-9f11b2426f52",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8CA5ed20346c5d8a21A849d59c64f0884a532882/logo.svg"
+  },
+  "name": "Orient",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OFT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

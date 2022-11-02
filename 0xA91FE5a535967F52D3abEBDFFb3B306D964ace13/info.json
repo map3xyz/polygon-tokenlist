@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA91FE5a535967F52D3abEBDFFb3B306D964ace13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "963d43ef-3bbf-425b-821f-6f6a3f280992",
+  "links": null,
+  "logo": {},
+  "name": "Sandclock",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "QUARTZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

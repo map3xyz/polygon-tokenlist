@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7E4c577ca35913af564ee2a24d882a4946Ec492B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f012a2c-22eb-4772-a454-b3435578cd0e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7E4c577ca35913af564ee2a24d882a4946Ec492B/logo.svg"
+  },
+  "name": "MoonEdge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOONED",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

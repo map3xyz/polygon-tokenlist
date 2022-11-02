@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD4945a3D0De9923035521687D4bf18cC9B0c7c2A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f2c95884-2709-48a0-adc8-7d0b8b0e451c",
+  "links": null,
+  "logo": {},
+  "name": "LUXY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LUXY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

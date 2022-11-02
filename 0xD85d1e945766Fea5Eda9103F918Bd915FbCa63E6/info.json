@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "b6acb5c1-f73d-426b-9025-a21b0f9be574",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6/logo.svg"
+  },
+  "name": "Celsius",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CEL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x24627609f3b7a01fc5A99D71067d4A28778d2B7A",
+  "color": null,
+  "decimals": 15,
+  "description": null,
+  "id": "487b9743-d600-49d3-ba95-56c894e5c321",
+  "links": null,
+  "logo": {},
+  "name": "SpiritCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPIRIT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

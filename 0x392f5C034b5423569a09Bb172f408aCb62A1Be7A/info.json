@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x392f5C034b5423569a09Bb172f408aCb62A1Be7A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23813774-293b-49dd-883d-0d6c586cf292",
+  "links": null,
+  "logo": {},
+  "name": "Vortex DeFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VTX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

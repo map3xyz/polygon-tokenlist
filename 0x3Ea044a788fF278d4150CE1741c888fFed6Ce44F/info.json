@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3Ea044a788fF278d4150CE1741c888fFed6Ce44F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "683f3885-7c3b-4065-9a17-c5f78fd5d52c",
+  "links": null,
+  "logo": {},
+  "name": "Geeq",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GEEQ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0BaC8F2819527c562b1BdD5B9C8E24bE7dbd6cae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72e5041c-4bd5-46c9-b07b-e83312a94e14",
+  "links": null,
+  "logo": {},
+  "name": "Time",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Time",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

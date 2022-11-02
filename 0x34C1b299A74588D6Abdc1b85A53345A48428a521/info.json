@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "50558c00-0d45-4c6e-8e94-2f81c6255554",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x34C1b299A74588D6Abdc1b85A53345A48428a521/logo.svg"
+  },
+  "name": "EASY V2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7ce2b20a-a20e-486d-a18f-a5f0a75c071d",
+  "links": null,
+  "logo": {},
+  "name": "Cryption Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CNT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

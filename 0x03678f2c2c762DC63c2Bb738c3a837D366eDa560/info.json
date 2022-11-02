@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x03678f2c2c762DC63c2Bb738c3a837D366eDa560",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4aa43195-ea0e-4108-adca-1864a95efdad",
+  "links": null,
+  "logo": {},
+  "name": "X-Cash",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XCASH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

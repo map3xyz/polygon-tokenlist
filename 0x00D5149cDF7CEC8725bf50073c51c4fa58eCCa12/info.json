@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x00D5149cDF7CEC8725bf50073c51c4fa58eCCa12",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a2b33c63-69cc-4bfc-b2a0-53e0311f7149",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x00D5149cDF7CEC8725bf50073c51c4fa58eCCa12/logo.svg"
+  },
+  "name": "UniPower",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POWER",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

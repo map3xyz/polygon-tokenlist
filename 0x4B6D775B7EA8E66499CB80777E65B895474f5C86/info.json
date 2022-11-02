@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4B6D775B7EA8E66499CB80777E65B895474f5C86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a5f0e8e4-4d37-4e8c-9e55-dd0c647c57c9",
+  "links": null,
+  "logo": {},
+  "name": "+Wrapped Smart Advertising Transaction Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WSATT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

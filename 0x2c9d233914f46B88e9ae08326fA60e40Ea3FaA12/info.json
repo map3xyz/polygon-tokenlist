@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2c9d233914f46B88e9ae08326fA60e40Ea3FaA12",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9152f8b-ce87-402e-9531-36339682bcd2",
+  "links": null,
+  "logo": {},
+  "name": "Spheroid",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

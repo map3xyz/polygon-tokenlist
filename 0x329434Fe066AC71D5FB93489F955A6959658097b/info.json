@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x329434Fe066AC71D5FB93489F955A6959658097b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9dd03a46-64f7-4b3d-a1fb-62616dc52299",
+  "links": null,
+  "logo": {},
+  "name": "Aave interest bearing DAI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "aDAI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

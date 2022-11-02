@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4bf6DAa0f3B2F8B338836B29F17B9e7Ff0e68b53",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "830d076c-6a72-4bda-b6fb-8c457725a683",
+  "links": null,
+  "logo": {},
+  "name": "InnovaMinex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MINX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x24212089B9D90B4D06ef10bD80CA14ec9356D98f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "71a35456-46f3-48be-b42d-e1be9ca27583",
+  "links": null,
+  "logo": {},
+  "name": "FireAnts",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANTS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

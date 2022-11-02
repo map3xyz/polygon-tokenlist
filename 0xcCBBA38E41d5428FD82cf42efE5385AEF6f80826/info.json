@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcCBBA38E41d5428FD82cf42efE5385AEF6f80826",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c682999a-da15-4910-a5a5-38615028d2dc",
+  "links": null,
+  "logo": {},
+  "name": "CryptoQuantumTradingFund",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CQTF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA95b410743e8c2F7b64f1373D3Ca2B3454864a94",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e08d90ce-2669-40a4-8066-f16568989bb6",
+  "links": null,
+  "logo": {},
+  "name": "Lucky Races Sliver",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$SLIVER",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

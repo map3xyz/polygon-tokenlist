@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7cc6afb2-356f-4917-8052-b8bc55279e66",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDA537104D6A5edd53c6fBba9A898708E465260b6/logo.svg"
+  },
+  "name": "yearn.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YFI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

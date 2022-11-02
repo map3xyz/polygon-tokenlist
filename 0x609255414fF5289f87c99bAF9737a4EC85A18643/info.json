@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x609255414fF5289f87c99bAF9737a4EC85A18643",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a64c0238-c307-4631-934b-35d3fd8f6954",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x609255414fF5289f87c99bAF9737a4EC85A18643/logo.svg"
+  },
+  "name": "Beatify",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SONG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

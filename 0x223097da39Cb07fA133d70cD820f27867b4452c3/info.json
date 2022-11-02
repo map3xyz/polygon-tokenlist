@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x223097da39Cb07fA133d70cD820f27867b4452c3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "351a90be-e72e-4139-b3a7-9997ac2d486f",
+  "links": null,
+  "logo": {},
+  "name": "YunJiaMi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YJM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

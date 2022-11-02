@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x28accA4ed2F6186c3D93e20e29e6e6a9Af656341",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "44cdb2f6-788e-4c81-a6f8-36512a0eae4d",
+  "links": null,
+  "logo": {},
+  "name": "Entropy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ERP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "41c8f978-6cc8-4fa8-9d42-02c7e920b4c5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6/logo.svg"
+  },
+  "name": "renDOGE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "renDOGE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

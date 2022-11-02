@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x347ACCAFdA7F8c5BdeC57fa34a5b663CBd1aeca7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f30494aa-460e-4c45-ab23-2da530d3f891",
+  "links": null,
+  "logo": {},
+  "name": "MATH Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MATH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

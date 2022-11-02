@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCDCB83ff608E7DEcb66ff597dA9d438F8896BdB1",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "225d6d64-7b27-4db8-9ead-a6b24f29a24d",
+  "links": null,
+  "logo": {},
+  "name": "Team Clean Seas",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TCS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

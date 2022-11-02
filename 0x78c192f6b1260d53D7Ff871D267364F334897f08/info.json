@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x78c192f6b1260d53D7Ff871D267364F334897f08",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "317579e4-9103-4124-97a6-ebb379024499",
+  "links": null,
+  "logo": {},
+  "name": "Mondo Community Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MNDCC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

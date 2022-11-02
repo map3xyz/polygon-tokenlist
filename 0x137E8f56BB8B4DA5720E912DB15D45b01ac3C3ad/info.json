@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x137E8f56BB8B4DA5720E912DB15D45b01ac3C3ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92eff642-a28f-4e76-b48c-3d65ae7f1ad0",
+  "links": null,
+  "logo": {},
+  "name": "Shiva 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHIVA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x9b90e9Dc868A3c769dbb1d43F925cC954327F666",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "079fb9b4-ba65-409e-a695-7ccfbc171a2c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9b90e9Dc868A3c769dbb1d43F925cC954327F666/logo.svg"
+  },
+  "name": "Celo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CELO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

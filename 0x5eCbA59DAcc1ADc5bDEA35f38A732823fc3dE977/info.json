@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5eCbA59DAcc1ADc5bDEA35f38A732823fc3dE977",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0d36d6d8-6868-4eda-b4f2-387208b40297",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5eCbA59DAcc1ADc5bDEA35f38A732823fc3dE977/logo.svg"
+  },
+  "name": "Ampleforth Governance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FORTH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

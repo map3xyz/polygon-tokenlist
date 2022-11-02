@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c48b3686-5d62-4395-8f92-ed1bb07de4db",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C/logo.svg"
+  },
+  "name": "HEX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HEX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5423063af146F5abF88Eb490486E6B53FA135eC9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f94713f-de87-418a-82cc-1d3fb8806d68",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5423063af146F5abF88Eb490486E6B53FA135eC9/logo.png"
+  },
+  "name": "Candle",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CNDL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

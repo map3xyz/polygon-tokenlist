@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFd6cF3A1fcb42371fD7E69633d31303868b8171a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "50f37870-4a7c-4515-a6aa-747ce82b164b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFd6cF3A1fcb42371fD7E69633d31303868b8171a/logo.svg"
+  },
+  "name": "Omniunit",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OMNIUNIT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

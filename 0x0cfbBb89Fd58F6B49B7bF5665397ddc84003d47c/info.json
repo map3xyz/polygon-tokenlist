@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0cfbBb89Fd58F6B49B7bF5665397ddc84003d47c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "90e1d500-5c62-430e-8beb-83ca47e83143",
+  "links": null,
+  "logo": {},
+  "name": "WheyTokenV2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WHEYV2",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

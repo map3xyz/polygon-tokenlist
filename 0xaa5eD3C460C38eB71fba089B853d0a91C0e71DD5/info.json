@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xaa5eD3C460C38eB71fba089B853d0a91C0e71DD5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "31353b65-76d0-4c8a-ba0c-29aafea27f81",
+  "links": null,
+  "logo": {},
+  "name": "DAOventuresDeFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DVD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x690e822b6f26AC835432b05908A8c0D7C9DB76e9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1eff57a9-ce6e-4ffc-bba3-4fcf937c795b",
+  "links": null,
+  "logo": {},
+  "name": "WaifuToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WAIFU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xABEb34C52292c5f3EE96396E02D8a77c8A903a4F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac81d44b-ae08-46ad-8433-95cbad677b79",
+  "links": null,
+  "logo": {},
+  "name": "Uniqly",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNIQ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

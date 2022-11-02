@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xaCd4E2d936Be9B16c01848A3742A34B3D5A5bDfa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d44c44b-2079-4b28-8d3f-20bea4f719c1",
+  "links": null,
+  "logo": {},
+  "name": "Mechanium",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$MECHA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

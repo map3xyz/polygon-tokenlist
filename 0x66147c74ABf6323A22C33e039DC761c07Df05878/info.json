@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x66147c74ABf6323A22C33e039DC761c07Df05878",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03e170f9-38c8-44f2-8279-39fc4833a4fd",
+  "links": null,
+  "logo": {},
+  "name": "Dorayaki",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DORA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

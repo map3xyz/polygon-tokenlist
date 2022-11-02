@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFe9CA7Cf13E33b23aF63Fea696f4AAe1b7A65585",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9346edb8-7702-4c71-8229-db1efd8f8de8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFe9CA7Cf13E33b23aF63Fea696f4AAe1b7A65585/logo.svg"
+  },
+  "name": "Vidya",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VIDYA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
