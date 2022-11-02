@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDC3b7CB4FEC9542CC518161b8C0B9a7969302C5E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecf73d45-1adf-4787-98b4-166f072e0bb6",
+  "links": null,
+  "logo": {},
+  "name": "Milf Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MILF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

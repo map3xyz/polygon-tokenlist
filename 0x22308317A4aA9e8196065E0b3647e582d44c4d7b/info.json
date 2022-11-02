@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x22308317A4aA9e8196065E0b3647e582d44c4d7b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73b3901c-137c-440d-b16d-9a5270b2b30b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x22308317A4aA9e8196065E0b3647e582d44c4d7b/logo.svg"
+  },
+  "name": "xToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XTK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

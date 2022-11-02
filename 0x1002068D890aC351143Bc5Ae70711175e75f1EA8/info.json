@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1002068D890aC351143Bc5Ae70711175e75f1EA8",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "f399715f-240a-4603-bc24-f5ff0da04252",
+  "links": null,
+  "logo": {},
+  "name": "MUNCH Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MUNCH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

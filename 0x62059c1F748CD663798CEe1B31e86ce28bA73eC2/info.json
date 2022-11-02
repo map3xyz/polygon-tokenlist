@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x62059c1F748CD663798CEe1B31e86ce28bA73eC2",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f7d4a1c7-4576-4f5c-ba66-cff649e6d675",
+  "links": null,
+  "logo": {},
+  "name": "Compound 0x",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cZRX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

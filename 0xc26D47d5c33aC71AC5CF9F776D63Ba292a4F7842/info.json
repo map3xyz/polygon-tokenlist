@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67f8ba81-7d56-4ddb-bf7c-cb78ac440809",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842/logo.svg"
+  },
+  "name": "Bancor Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BNT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

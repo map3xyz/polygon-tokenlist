@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2808edb7398b25E0f6C41cD98fD114d924008C87",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f9c0b84-7e62-4f4d-87d7-f38c8a38903d",
+  "links": null,
+  "logo": {},
+  "name": "FLUX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLUX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

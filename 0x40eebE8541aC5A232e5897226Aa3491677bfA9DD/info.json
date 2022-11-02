@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x40eebE8541aC5A232e5897226Aa3491677bfA9DD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "096fc89e-27bb-4a40-8e63-31afd04f8df3",
+  "links": null,
+  "logo": {},
+  "name": "microETH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "uETH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

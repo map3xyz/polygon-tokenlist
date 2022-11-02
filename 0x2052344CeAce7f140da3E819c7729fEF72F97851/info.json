@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2052344CeAce7f140da3E819c7729fEF72F97851",
+  "color": null,
+  "decimals": 7,
+  "description": null,
+  "id": "287b15a1-7c43-46f5-871c-61b2f2c0d506",
+  "links": null,
+  "logo": {},
+  "name": "1Million Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "1MT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

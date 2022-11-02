@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x770A1864921bAfb324810a2362f7DeF4AFeb1d53",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "cb6f8785-f259-45cb-a03d-0da0b24d0d7e",
+  "links": null,
+  "logo": {},
+  "name": "CFF",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CFF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x700B9dE93E2Fd5455cB91C474DAd6cfEa6598F64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e1fd010-4740-4b17-bd89-8addf2558df6",
+  "links": null,
+  "logo": {},
+  "name": "MatrixETF DAO Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MDF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0de61922-f008-462d-8eaf-b6e16d1fe059",
+  "links": null,
+  "logo": {},
+  "name": "CargoX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CXO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

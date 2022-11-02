@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x366A39A2F73de32Df17Cc9bdd027aa054f6bA9cb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8165f94-072f-4130-b979-8df8e0ef58da",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x366A39A2F73de32Df17Cc9bdd027aa054f6bA9cb/logo.png"
+  },
+  "name": "Beverage Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DRINK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

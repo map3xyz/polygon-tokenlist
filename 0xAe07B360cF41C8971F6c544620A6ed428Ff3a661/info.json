@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xAe07B360cF41C8971F6c544620A6ed428Ff3a661",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff725882-f91e-4d19-8836-002edd0e58b4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xAe07B360cF41C8971F6c544620A6ed428Ff3a661/logo.svg"
+  },
+  "name": "GeoDB Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GEO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

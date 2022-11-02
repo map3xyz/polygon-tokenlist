@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4C3bF0a3DE9524aF68327d1D2558a3B70d17D42a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8eb5c8ec-b14d-4121-ac53-a15c09cfd4d0",
+  "links": null,
+  "logo": {},
+  "name": "dYdX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DYDX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

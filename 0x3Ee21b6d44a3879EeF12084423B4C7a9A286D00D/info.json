@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3Ee21b6d44a3879EeF12084423B4C7a9A286D00D",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "8f0ee8e2-8c63-41a9-957e-29337ddea330",
+  "links": null,
+  "logo": {},
+  "name": "Goji",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GOJ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

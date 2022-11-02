@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9b0162d3B3b4E73fE7dBB10b141E03539199A8F2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3456336f-a92c-40b6-b1e0-1da5aec50e3d",
+  "links": null,
+  "logo": {},
+  "name": "Quoxent",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "QUO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xfA15611AA3775FBfE1375Fb56cd3027F5D3DD2Db",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5bf10874-08e3-4060-b659-7bdc97b16e74",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xfA15611AA3775FBfE1375Fb56cd3027F5D3DD2Db/logo.svg"
+  },
+  "name": "ADD.XYZ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ADD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

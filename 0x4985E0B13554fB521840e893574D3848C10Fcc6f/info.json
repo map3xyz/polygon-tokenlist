@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4985E0B13554fB521840e893574D3848C10Fcc6f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1dc622af-dbe8-49e0-8f0e-83ae7b72ba08",
+  "links": null,
+  "logo": {},
+  "name": "Nectar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NCT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

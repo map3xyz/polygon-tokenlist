@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA7305Ae84519fF8Be02484CdA45834C4E7D13Dd6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e590d2e-6cc5-4f76-a261-ec6af64e5293",
+  "links": null,
+  "logo": {},
+  "name": "UNIFARM Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UFARM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

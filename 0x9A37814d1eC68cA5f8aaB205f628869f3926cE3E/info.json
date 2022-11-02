@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9A37814d1eC68cA5f8aaB205f628869f3926cE3E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d4f04aee-1077-4890-be5c-e66fcab4ca3f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x9A37814d1eC68cA5f8aaB205f628869f3926cE3E/logo.svg"
+  },
+  "name": "Unilayer",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LAYER",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

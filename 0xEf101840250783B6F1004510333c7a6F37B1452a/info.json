@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEf101840250783B6F1004510333c7a6F37B1452a",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "9debf8b4-cf4b-4921-ba1e-995910c66d80",
+  "links": null,
+  "logo": {},
+  "name": "Phantasma Energy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KCAL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

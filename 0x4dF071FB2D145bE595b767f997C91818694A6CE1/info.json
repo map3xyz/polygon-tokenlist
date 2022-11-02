@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4dF071FB2D145bE595b767f997C91818694A6CE1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "972d0d3a-cf2f-4eaf-b273-824f68872d0e",
+  "links": null,
+  "logo": {},
+  "name": "MerchDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MRCH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

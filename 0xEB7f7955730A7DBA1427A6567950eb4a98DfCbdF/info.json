@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEB7f7955730A7DBA1427A6567950eb4a98DfCbdF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33a70c9f-31b0-4650-b201-26c6ffaa0b16",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Leviathan",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WLEV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

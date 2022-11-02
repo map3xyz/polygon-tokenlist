@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "68bc5004-d9c8-498a-908d-4ce7b82f0f4f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xE3322702BEdaaEd36CdDAb233360B939775ae5f1/logo.svg"
+  },
+  "name": "Tellor Tributes",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

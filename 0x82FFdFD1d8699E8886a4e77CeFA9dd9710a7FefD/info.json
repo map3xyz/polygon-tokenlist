@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x82FFdFD1d8699E8886a4e77CeFA9dd9710a7FefD",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4683ab88-ba3d-4195-9dc5-3490d7a469bb",
+  "links": null,
+  "logo": {},
+  "name": "Propy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PRO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

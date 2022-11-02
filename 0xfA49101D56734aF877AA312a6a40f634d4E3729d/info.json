@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfA49101D56734aF877AA312a6a40f634d4E3729d",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "4b7efc74-9933-4eef-aa16-ec39bbf9fe1f",
+  "links": null,
+  "logo": {},
+  "name": "Olympus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OHM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

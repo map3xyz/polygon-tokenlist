@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD62355546a93bFb0E891E905Ff40B3B26ff5F2b1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e57338eb-28ea-4dc3-8509-8e2396d3c5ba",
+  "links": null,
+  "logo": {},
+  "name": "KIMCHI.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KIMCHI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

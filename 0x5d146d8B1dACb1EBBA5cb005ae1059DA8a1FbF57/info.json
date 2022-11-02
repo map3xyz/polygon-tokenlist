@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5d146d8B1dACb1EBBA5cb005ae1059DA8a1FbF57",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "65d59c46-b0f0-4b08-8788-03c7e690ef2f",
+  "links": null,
+  "logo": {},
+  "name": "CAD Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CADC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

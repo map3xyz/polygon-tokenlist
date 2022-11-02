@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x769434dcA303597C8fc4997Bf3DAB233e961Eda2",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "cb2df506-3f20-4400-9757-791b11361d1c",
+  "links": null,
+  "logo": {},
+  "name": "XSGD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XSGD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

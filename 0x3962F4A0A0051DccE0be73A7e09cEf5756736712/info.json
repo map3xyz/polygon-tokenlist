@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x3962F4A0A0051DccE0be73A7e09cEf5756736712",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b67ddd2-edaf-49e4-b3a5-d8e091c51f40",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x3962F4A0A0051DccE0be73A7e09cEf5756736712/logo.svg"
+  },
+  "name": "Livepeer Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LPT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

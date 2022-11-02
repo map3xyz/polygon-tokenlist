@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6562Ba24D787DBb6739786a3dF06553018Ec029F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fce62ebe-2642-40c9-9c5b-b399eb180000",
+  "links": null,
+  "logo": {},
+  "name": "BurningDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BURN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb91c05cf30A973a58295C8Db9248D0911CF091E5",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "6fdda35f-682c-4d0b-a3b6-33f704f0e0a5",
+  "links": null,
+  "logo": {},
+  "name": "Valencoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VALOU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

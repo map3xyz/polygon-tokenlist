@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x45C27821E80F8789b60Fd8B600C73815d34DDa6C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17f0988e-67b3-4944-96d6-7910868bb549",
+  "links": null,
+  "logo": {},
+  "name": "API3",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "API3",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

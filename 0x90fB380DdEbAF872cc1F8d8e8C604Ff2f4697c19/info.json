@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x90fB380DdEbAF872cc1F8d8e8C604Ff2f4697c19",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b35e003a-e9be-4cdf-9f02-b356f76813ad",
+  "links": null,
+  "logo": {},
+  "name": "BoringDAO BTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "oBTC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x700481409de3f632F61a2AC9BFd76138357714da",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ad97f688-c39e-4ec9-95bc-71e8cac8be79",
+  "links": null,
+  "logo": {},
+  "name": "GOL",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GOL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbE32718f77Aa63d95658Ddd8EF472039c71Eb704",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "319336f7-911e-4236-9fa9-b623f2c83d42",
+  "links": null,
+  "logo": {},
+  "name": "CHERRY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHERRY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

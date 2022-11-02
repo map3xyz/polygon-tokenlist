@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd4414d9-bbbd-4965-8e53-695853424ff5",
+  "links": null,
+  "logo": {},
+  "name": "Cryptomeda",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TECH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

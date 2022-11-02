@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86d45fa1-b290-492f-8e0b-02e0bc9cf4c5",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435/logo.png"
+  },
+  "name": "GoBlank Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLANK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

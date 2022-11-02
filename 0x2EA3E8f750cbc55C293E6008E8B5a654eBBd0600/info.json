@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2EA3E8f750cbc55C293E6008E8B5a654eBBd0600",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "39428314-0614-403e-aabd-3091685ebb52",
+  "links": null,
+  "logo": {},
+  "name": "TNodeOrange",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TNO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3Ef402Af15EEB3c80b4441E60913f31a5C41E077",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "95290c67-7e75-44bf-9753-469b74e95e24",
+  "links": null,
+  "logo": {},
+  "name": "DeFi Of Thrones",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DoTx",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1656484C36cEF1B24cD49457470AbcE90C480d29",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49c1417e-065d-406e-afa2-2a4333f87448",
+  "links": null,
+  "logo": {},
+  "name": "YiYouBao",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YYB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

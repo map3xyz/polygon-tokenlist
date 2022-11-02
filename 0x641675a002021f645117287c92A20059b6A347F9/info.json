@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x641675a002021f645117287c92A20059b6A347F9",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "50067f5e-41f5-4ea0-85ac-8744d50cbad1",
+  "links": null,
+  "logo": {},
+  "name": "Lattice Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LTX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

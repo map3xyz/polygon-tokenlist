@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe15c40caE674a35Dcd0108E66383e6F483533b82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e8d9b483-36ad-4d9d-a4b2-68b018285e98",
+  "links": null,
+  "logo": {},
+  "name": "BONE SHIBASWAP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BONE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

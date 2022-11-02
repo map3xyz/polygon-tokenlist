@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xCBAb27B2D5b468Eea509Bd430100922341BC3f1A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4e80cd7-0d3d-4725-bcdb-c461c2cf0a5f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xCBAb27B2D5b468Eea509Bd430100922341BC3f1A/logo.svg"
+  },
+  "name": "WePower Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WPR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

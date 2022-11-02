@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF88fc6b493eda7650E4bcf7A290E8d108F677CfE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a9be98aa-31c6-4839-a9f6-7daa8ac886e6",
+  "links": null,
+  "logo": {},
+  "name": "Gods Unchained",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GODS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7b9c2d37fc0B45A5Ec022D2023F18685FdA832e7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1036098f-ab8a-472a-9fed-9d5a1ee93e59",
+  "links": null,
+  "logo": {},
+  "name": "Centaurify",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CENT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

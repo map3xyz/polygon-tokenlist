@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa83D20E7B0e5c3483bbF65091c3591cEB7f75D97",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83245fe6-3873-4e6b-bb7a-b60ed4d4b81f",
+  "links": null,
+  "logo": {},
+  "name": "Atlas Rising",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "rising",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

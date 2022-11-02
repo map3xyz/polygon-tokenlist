@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b8f5f869-292c-45b5-8e83-99093fb97ed1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3/logo.svg"
+  },
+  "name": "Mysterium",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MYST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57d4d8ff-9b9b-4a2f-962d-3fe51dcedb70",
+  "links": null,
+  "logo": {},
+  "name": "iFARM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "iFARM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

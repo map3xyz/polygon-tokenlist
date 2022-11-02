@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3F9b2dF1e7F28E046F32aC97F6bdC2e1eEE5CB6a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7aebc9c2-bf9e-4931-8588-e1258a62200a",
+  "links": null,
+  "logo": {},
+  "name": "FREEDOMX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FRDMX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

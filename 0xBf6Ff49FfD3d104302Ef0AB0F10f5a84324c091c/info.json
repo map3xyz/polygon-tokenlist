@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33430f01-672b-44a6-a3cb-48b2da6db164",
+  "links": null,
+  "logo": {},
+  "name": "Nftfy Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFTFY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2fBB41B5Bb01cbFa1cf14473B136666a08Db4AdF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7abbaaf-d4d9-4c03-81c3-cf594e1fc242",
+  "links": null,
+  "logo": {},
+  "name": "validator-Eth2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "vETH2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

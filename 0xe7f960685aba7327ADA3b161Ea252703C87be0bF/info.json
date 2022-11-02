@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xe7f960685aba7327ADA3b161Ea252703C87be0bF",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ff64454b-359b-44a1-a817-9bf6edb13442",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xe7f960685aba7327ADA3b161Ea252703C87be0bF/logo.svg"
+  },
+  "name": "Ethereum Blue",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLUE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

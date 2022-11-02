@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0079569-689b-49f5-9069-5eb5c55e354a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e/logo.svg"
+  },
+  "name": "Cryptocurrency Top Tokens Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CC10",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

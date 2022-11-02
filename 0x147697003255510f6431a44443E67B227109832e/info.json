@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x147697003255510f6431a44443E67B227109832e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0c6d2f9-b4b3-45ef-9543-35de51080966",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x147697003255510f6431a44443E67B227109832e/logo.svg"
+  },
+  "name": "Rio Fuel Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RFuel",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

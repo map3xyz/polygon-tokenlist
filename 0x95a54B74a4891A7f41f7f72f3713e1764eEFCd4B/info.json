@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x95a54B74a4891A7f41f7f72f3713e1764eEFCd4B",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "2375811f-ebcb-46e3-912f-50d3dd6bc921",
+  "links": null,
+  "logo": {},
+  "name": "indaHash Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IDH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

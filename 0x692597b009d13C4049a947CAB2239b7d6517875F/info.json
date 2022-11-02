@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a0cecfe-2fa6-41c5-9802-f9c72d7d91b2",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped UST Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

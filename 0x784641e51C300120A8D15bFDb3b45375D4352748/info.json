@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x784641e51C300120A8D15bFDb3b45375D4352748",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1840f2ec-eca7-4566-8696-ab7bb1adcdc4",
+  "links": null,
+  "logo": {},
+  "name": "WIVA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WIVA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xBE6159775a9050E5c4CBF81718390818702bf801",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "10a0ae29-3ef1-4c7a-9489-3c6b9ce97a1c",
+  "links": null,
+  "logo": {},
+  "name": "Materia",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GIL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

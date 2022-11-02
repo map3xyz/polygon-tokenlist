@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAddFFb740019dDF9318699e9fd1BE138a311F584",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53616828-d800-4ca8-9bf6-4219f767e689",
+  "links": null,
+  "logo": {},
+  "name": "Democracy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x99aB67C6D0b9BF4201cd9AAd66F84F5F524e0018",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8e6a2272-f878-4654-9286-981ae4be400b",
+  "links": null,
+  "logo": {},
+  "name": "GeroWallet",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GERO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

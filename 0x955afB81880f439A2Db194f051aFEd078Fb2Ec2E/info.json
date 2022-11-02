@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x955afB81880f439A2Db194f051aFEd078Fb2Ec2E",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "03be5c18-e1e1-471b-ab69-fe29febea935",
+  "links": null,
+  "logo": {},
+  "name": "BitcoinSoV",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BSOV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

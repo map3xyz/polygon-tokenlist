@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7A7B94F18EF6AD056CDa648588181CDA84800f94",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5cf9b36-b54b-4026-9023-c21175a0895b",
+  "links": null,
+  "logo": {},
+  "name": "StaFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FIS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

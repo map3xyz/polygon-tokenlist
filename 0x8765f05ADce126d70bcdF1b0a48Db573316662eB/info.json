@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8765f05ADce126d70bcdF1b0a48Db573316662eB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6b30a8b9-5cf1-421e-86fa-ffe419be4660",
+  "links": null,
+  "logo": {},
+  "name": "PlayDapp Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

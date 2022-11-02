@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xF689E85988d3a7921E852867CE49F53388985E6d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15cd0600-794d-4f85-8252-362315917c4e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF689E85988d3a7921E852867CE49F53388985E6d/logo.svg"
+  },
+  "name": "MobiFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MoFi",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

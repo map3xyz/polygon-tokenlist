@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8dfe9e53F920D43C2D59133804Aff6540B4e05fF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ade62f1-c44b-4d1c-afb5-bc315c2d38d4",
+  "links": null,
+  "logo": {},
+  "name": "Gnarcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GNAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

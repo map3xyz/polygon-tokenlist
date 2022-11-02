@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc54FF1b09Ab25B01275cD1093c2Ba311A18c00Eb",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "079c4bfc-83c8-4d7f-b45b-c2fa802d7574",
+  "links": null,
+  "logo": {},
+  "name": "e-Money",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NGM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

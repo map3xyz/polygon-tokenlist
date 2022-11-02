@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3D6C5c1a66e7B43342FcA37827B7Faf3bD074dD3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6b2bc7b-fead-4a71-b2e2-93013de3436b",
+  "links": null,
+  "logo": {},
+  "name": "YearnSecure",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YSEC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

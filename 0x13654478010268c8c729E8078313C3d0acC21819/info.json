@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x13654478010268c8c729E8078313C3d0acC21819",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c11e6c2-ef5c-4149-9bc4-2e5522f38688",
+  "links": null,
+  "logo": {},
+  "name": "Street Cred",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CRED",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

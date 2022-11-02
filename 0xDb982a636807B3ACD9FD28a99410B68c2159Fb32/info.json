@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDb982a636807B3ACD9FD28a99410B68c2159Fb32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5aa03764-2c08-40ff-8e68-dc1aecb35ec8",
+  "links": null,
+  "logo": {},
+  "name": "THEOS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "THEOS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

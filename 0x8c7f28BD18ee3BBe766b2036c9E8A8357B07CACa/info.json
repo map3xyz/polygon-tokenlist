@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8c7f28BD18ee3BBe766b2036c9E8A8357B07CACa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "970a0217-c6a6-4109-bc6c-4cbff0c8c90f",
+  "links": null,
+  "logo": {},
+  "name": "ChilliTest Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHLITEST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

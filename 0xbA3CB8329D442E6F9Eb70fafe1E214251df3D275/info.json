@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a383b25-4a06-4c5f-a4ca-eea35bfac55d",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275/logo.png"
+  },
+  "name": "Swash Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWASH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

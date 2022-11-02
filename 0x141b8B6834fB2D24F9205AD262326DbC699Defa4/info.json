@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x141b8B6834fB2D24F9205AD262326DbC699Defa4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e68b6008-a893-4d6e-baeb-620a15168987",
+  "links": null,
+  "logo": {},
+  "name": "ShibaCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHIBA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

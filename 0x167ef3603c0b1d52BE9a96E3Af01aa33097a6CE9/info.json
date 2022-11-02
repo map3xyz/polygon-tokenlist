@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x167ef3603c0b1d52BE9a96E3Af01aa33097a6CE9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f1c0d9c4-970d-410f-8890-32c0dff1b0da",
+  "links": null,
+  "logo": {},
+  "name": "DUST Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DUST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

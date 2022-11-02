@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xD07A7FAc2857901E4bEC0D89bBDAe764723AAB86",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f1dde02-8572-4bf7-8b77-756b71d57594",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xD07A7FAc2857901E4bEC0D89bBDAe764723AAB86/logo.svg"
+  },
+  "name": "USDK",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "USDK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

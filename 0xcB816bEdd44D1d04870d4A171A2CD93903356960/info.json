@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcB816bEdd44D1d04870d4A171A2CD93903356960",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3bb3ed69-8ff6-46f8-80f1-9e7b68f241fb",
+  "links": null,
+  "logo": {},
+  "name": "Andy Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANDY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

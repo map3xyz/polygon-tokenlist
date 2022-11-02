@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "78074825-1f20-4a9c-ada5-b958be65fe09",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369/logo.svg"
+  },
+  "name": "DefiPulse Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DPI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

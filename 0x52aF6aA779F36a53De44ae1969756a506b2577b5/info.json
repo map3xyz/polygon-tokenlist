@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x52aF6aA779F36a53De44ae1969756a506b2577b5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb9e60d3-c6fb-4f0d-acd5-24f2183ab3a9",
+  "links": null,
+  "logo": {},
+  "name": "ERNE finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ERNE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6Cb02C92611F001F605C891FBFdE7D1a26dE54B9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1512bf9f-91da-4c03-acbd-61196861477f",
+  "links": null,
+  "logo": {},
+  "name": "VitaDAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VITA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFFb89d7637Cf4860884ED48b57Ae5562bF64e10F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dcd1a40e-324a-4df6-ab6d-05f88fb8c25e",
+  "links": null,
+  "logo": {},
+  "name": "PIKA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PIKA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

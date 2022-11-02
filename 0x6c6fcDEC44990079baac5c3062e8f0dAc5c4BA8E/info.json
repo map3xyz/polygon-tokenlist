@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6c6fcDEC44990079baac5c3062e8f0dAc5c4BA8E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "92523a66-b842-4545-bab2-8921125734eb",
+  "links": null,
+  "logo": {},
+  "name": "Guzzler",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GZLR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

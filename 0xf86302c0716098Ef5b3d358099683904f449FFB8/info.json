@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf86302c0716098Ef5b3d358099683904f449FFB8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "302f3165-8c1c-4834-8d1c-26aae8901e9d",
+  "links": null,
+  "logo": {},
+  "name": "ZEN Exchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZCX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

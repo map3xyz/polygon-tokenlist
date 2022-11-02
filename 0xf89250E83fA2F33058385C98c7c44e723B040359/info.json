@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xf89250E83fA2F33058385C98c7c44e723B040359",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac429fec-8b0b-4047-a0d5-e697c17f6794",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xf89250E83fA2F33058385C98c7c44e723B040359/logo.svg"
+  },
+  "name": "HASHGARD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GARD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

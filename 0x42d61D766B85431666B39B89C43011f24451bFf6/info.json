@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "067988f8-1649-411d-92c8-d477ea936e06",
+  "links": null,
+  "logo": {},
+  "name": "ParaSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PSP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf1938Ce12400f9a761084E7A80d37e732a4dA056",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4fef67f6-5069-4146-86ec-3f600bbc598b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xf1938Ce12400f9a761084E7A80d37e732a4dA056/logo.svg"
+  },
+  "name": "CHZ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

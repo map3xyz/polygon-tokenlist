@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x77777FDFaac9FAbCdb0851EF574b84C2B7777777",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "57397a61-5b54-4e83-84aa-73b5c9da19c9",
+  "links": null,
+  "logo": {},
+  "name": "ramen.bet",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RMN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

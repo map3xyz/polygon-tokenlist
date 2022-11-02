@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc3C604F1943B8C619c5D65cd11A876e9C8eDCF10",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "91499f65-1c85-4929-97e3-d1e25e16bfb0",
+  "links": null,
+  "logo": {},
+  "name": "the metaverse game hub",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MGH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

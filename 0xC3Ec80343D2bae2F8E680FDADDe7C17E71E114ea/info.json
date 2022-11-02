@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b87638f6-5c8f-4019-b02d-c07bd409211b",
+  "links": null,
+  "logo": {},
+  "name": "MANTRA DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

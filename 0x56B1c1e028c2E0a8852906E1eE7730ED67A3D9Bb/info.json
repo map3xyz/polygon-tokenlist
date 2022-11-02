@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x56B1c1e028c2E0a8852906E1eE7730ED67A3D9Bb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58f7f77d-5b72-48ba-8135-62c6efd18b20",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x56B1c1e028c2E0a8852906E1eE7730ED67A3D9Bb/logo.svg"
+  },
+  "name": "E-RADIX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "eXRD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

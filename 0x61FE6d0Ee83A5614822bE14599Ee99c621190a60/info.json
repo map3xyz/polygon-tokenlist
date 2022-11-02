@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x61FE6d0Ee83A5614822bE14599Ee99c621190a60",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fe115690-079c-45ea-9ab0-4613f7e19bcc",
+  "links": null,
+  "logo": {},
+  "name": "penny",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PENNY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

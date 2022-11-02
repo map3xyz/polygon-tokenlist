@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCE59e5c0F130Da0796509a0d32f44B0a6C81B9de",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "8afabdbd-55bb-474b-ad54-0a9505883644",
+  "links": null,
+  "logo": {},
+  "name": "Labra",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LABRA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

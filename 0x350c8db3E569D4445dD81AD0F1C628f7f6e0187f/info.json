@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x350c8db3E569D4445dD81AD0F1C628f7f6e0187f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ba41b97-0363-4de6-b15c-65f083bea50f",
+  "links": null,
+  "logo": {},
+  "name": "Nolly Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NOLLY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

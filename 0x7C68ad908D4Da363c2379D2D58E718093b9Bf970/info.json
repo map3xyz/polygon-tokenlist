@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7C68ad908D4Da363c2379D2D58E718093b9Bf970",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e8c2a52-f2a6-4ab5-9959-27c2fffab9f1",
+  "links": null,
+  "logo": {},
+  "name": "Collateral",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COLL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

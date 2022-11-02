@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x057097bD91aA32Aa10F5A42ba49637480963dc31",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "065be654-0ddc-4bd7-80d1-d95e343c6684",
+  "links": null,
+  "logo": {},
+  "name": "OnX Ethereum Stablecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "onETH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

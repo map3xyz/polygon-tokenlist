@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbDe7EEF06Fa6Cb25883268207eed61b29C9B9fC6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3608a081-bcc2-425b-8571-3f47634f0fc9",
+  "links": null,
+  "logo": {},
+  "name": "Lunar Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LUNAR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

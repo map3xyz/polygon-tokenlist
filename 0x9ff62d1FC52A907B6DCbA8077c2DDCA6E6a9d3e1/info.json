@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9ff62d1FC52A907B6DCbA8077c2DDCA6E6a9d3e1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "40353556-d721-4243-9c4a-16b999a56851",
+  "links": null,
+  "logo": {},
+  "name": "Forta",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FORT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

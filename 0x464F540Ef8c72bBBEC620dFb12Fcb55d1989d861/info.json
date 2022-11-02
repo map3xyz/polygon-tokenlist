@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x464F540Ef8c72bBBEC620dFb12Fcb55d1989d861",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e3fd8c18-7e0b-4526-b9ec-ce061a353867",
+  "links": null,
+  "logo": {},
+  "name": "Bird.Money",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BIRD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

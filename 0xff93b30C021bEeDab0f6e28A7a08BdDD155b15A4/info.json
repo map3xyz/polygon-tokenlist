@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xff93b30C021bEeDab0f6e28A7a08BdDD155b15A4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "579bb7cd-2c00-4c24-8651-f6044ca392f3",
+  "links": null,
+  "logo": {},
+  "name": "Doge Pixel (239, 375)",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOGPIX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

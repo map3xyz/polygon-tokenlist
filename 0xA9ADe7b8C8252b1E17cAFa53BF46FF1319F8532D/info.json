@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA9ADe7b8C8252b1E17cAFa53BF46FF1319F8532D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "412544f5-6b8f-4751-b364-7bccbb703d1e",
+  "links": null,
+  "logo": {},
+  "name": "Liquidity Dividends Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LID",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

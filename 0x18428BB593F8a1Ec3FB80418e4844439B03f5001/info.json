@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x18428BB593F8a1Ec3FB80418e4844439B03f5001",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b569e47a-ec34-4164-825a-004773d02be4",
+  "links": null,
+  "logo": {},
+  "name": "SENATE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SENATE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

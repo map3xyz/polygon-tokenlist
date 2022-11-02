@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x72bba3Aa59a1cCB1591D7CDDB714d8e4D5597E96",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88f29bfd-f077-4fb8-837f-8e1d237ad9de",
+  "links": null,
+  "logo": {},
+  "name": "CompliFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COMFI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

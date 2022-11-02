@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x908435624Fc23130fDA2d07b10C91cA2B6A57abA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f471a0a7-3f9f-4882-bd0b-f59e7e206b01",
+  "links": null,
+  "logo": {},
+  "name": "CRYPTOPUNT Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PUN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

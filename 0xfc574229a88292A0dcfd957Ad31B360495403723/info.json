@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfc574229a88292A0dcfd957Ad31B360495403723",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87a61ba9-6f3b-4f6c-b30f-f63d54c47159",
+  "links": null,
+  "logo": {},
+  "name": "SPANK",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPANK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

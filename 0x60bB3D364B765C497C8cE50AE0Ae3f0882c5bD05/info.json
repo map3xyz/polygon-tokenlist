@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x60bB3D364B765C497C8cE50AE0Ae3f0882c5bD05",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e69376be-483b-499e-b390-8f01e9df5aad",
+  "links": null,
+  "logo": {},
+  "name": "Impermax",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IMX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

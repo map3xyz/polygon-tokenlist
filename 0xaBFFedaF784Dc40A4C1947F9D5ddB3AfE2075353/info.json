@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaBFFedaF784Dc40A4C1947F9D5ddB3AfE2075353",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2dd18ce9-b64b-4eff-99b8-3e17bb0133fd",
+  "links": null,
+  "logo": {},
+  "name": "BRIX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BRIX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

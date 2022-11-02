@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5545f56e-7e00-40dc-bc93-786a41f7a272",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC/logo.png"
+  },
+  "name": "BTU Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

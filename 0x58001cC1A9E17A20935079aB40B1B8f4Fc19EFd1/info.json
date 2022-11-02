@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x58001cC1A9E17A20935079aB40B1B8f4Fc19EFd1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7571ea06-6bad-4122-b2f7-b7ae9f6dd08b",
+  "links": null,
+  "logo": {},
+  "name": "\"Ethereum Push Notification Service",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PUSH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

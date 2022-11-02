@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x211F4e76fcB811ed2B310A232a24B3445d95E3bC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f438d138-5122-49b6-af53-6f9ab1464618",
+  "links": null,
+  "logo": {},
+  "name": "MatrixSwapToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MATRIX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

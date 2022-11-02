@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc059a4777279E30C5238Da786384700cD14d8f47",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bbbbfd63-b9f8-4e82-bde0-c50a34572095",
+  "links": null,
+  "logo": {},
+  "name": "CHONKER FINANCE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHONK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

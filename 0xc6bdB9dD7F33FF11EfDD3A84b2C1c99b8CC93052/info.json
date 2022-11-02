@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc6bdB9dD7F33FF11EfDD3A84b2C1c99b8CC93052",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "3efe0e30-9426-4374-ac2a-6a8f521b66da",
+  "links": null,
+  "logo": {},
+  "name": "Junø",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JUNO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

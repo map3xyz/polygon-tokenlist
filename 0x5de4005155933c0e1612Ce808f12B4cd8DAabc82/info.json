@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5de4005155933c0e1612Ce808f12B4cd8DAabc82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db80718f-caaf-4fe3-9c8e-1c3ed82616f2",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x5de4005155933c0e1612Ce808f12B4cd8DAabc82/logo.svg"
+  },
+  "name": "Armor",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARMOR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

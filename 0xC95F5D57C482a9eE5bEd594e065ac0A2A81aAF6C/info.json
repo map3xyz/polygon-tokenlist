@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC95F5D57C482a9eE5bEd594e065ac0A2A81aAF6C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6774d12b-879b-467a-81b7-5c765cb1ddca",
+  "links": null,
+  "logo": {},
+  "name": "infinite peace protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "----------",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

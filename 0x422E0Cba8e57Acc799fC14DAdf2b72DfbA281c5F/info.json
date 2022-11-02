@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x422E0Cba8e57Acc799fC14DAdf2b72DfbA281c5F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eda21e9f-0964-4153-a80c-7b16a363fb7b",
+  "links": null,
+  "logo": {},
+  "name": "Firebird DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FBIRD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

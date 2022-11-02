@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3EcE64186c05f47e41657ccBf3F9419F76505377",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "35e1cabd-3ab7-4b55-8480-82d0ffe10b29",
+  "links": null,
+  "logo": {},
+  "name": "Floki Kishu Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLOKII",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

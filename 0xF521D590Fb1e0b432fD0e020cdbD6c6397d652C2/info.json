@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e6b7f720-f730-419f-836d-09eccce075ff",
+  "links": null,
+  "logo": {},
+  "name": "Parachute",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

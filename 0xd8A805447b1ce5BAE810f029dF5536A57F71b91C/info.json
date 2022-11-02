@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd8A805447b1ce5BAE810f029dF5536A57F71b91C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6312cb09-e30c-443c-81e7-e3391c163275",
+  "links": null,
+  "logo": {},
+  "name": "Adaptech Design Co",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ADCO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

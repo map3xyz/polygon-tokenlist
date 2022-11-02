@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x32e10B5Ae57c9eeC97bF5e67e243bf29993c9E71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4ad0478a-42ed-4a43-9dd8-7547910e221b",
+  "links": null,
+  "logo": {},
+  "name": "tokenpartners",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TOE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

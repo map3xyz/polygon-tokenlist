@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd6d8fFC109a3EE48b0c1163a062eaD5Fcc83416e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21677895-2e35-4237-80f3-64021111061f",
+  "links": null,
+  "logo": {},
+  "name": "ASSY Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ASSY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAd356BF748b9c320A5dDd4baAfFa3F323Eeb5546",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3b704b3c-7a9c-4f12-9ac5-091c2cfab622",
+  "links": null,
+  "logo": {},
+  "name": "B21 Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "B21",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

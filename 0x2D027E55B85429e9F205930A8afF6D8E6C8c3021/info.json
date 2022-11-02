@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2D027E55B85429e9F205930A8afF6D8E6C8c3021",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c960ffc5-3e9a-4ea8-b4f2-2ce1f67fc734",
+  "links": null,
+  "logo": {},
+  "name": "RAYS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAYS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

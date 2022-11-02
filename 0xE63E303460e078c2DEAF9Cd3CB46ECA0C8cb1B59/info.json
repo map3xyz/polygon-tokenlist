@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE63E303460e078c2DEAF9Cd3CB46ECA0C8cb1B59",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "75af7b8e-83c0-4e63-88a8-f670d31f1067",
+  "links": null,
+  "logo": {},
+  "name": "Penis",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PNS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAAF165e75B4C9370d22b971AF08c630e76Bfa70c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "104a16c9-5416-4663-a14c-284fd1c3ea6f",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped OMI Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wOMI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

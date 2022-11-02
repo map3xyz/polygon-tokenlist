@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5d1245ad0e4f118186042040bB092ABa59bE4167",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "63b2fd36-47da-4740-8b73-de944a2ca164",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped STOR",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WSTOR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

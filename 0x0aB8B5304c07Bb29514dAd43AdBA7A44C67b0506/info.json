@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x0aB8B5304c07Bb29514dAd43AdBA7A44C67b0506",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "363f6ec5-5bab-4f25-84d7-5b52f7f33064",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x0aB8B5304c07Bb29514dAd43AdBA7A44C67b0506/logo.svg"
+  },
+  "name": "santa.investments",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SANTA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

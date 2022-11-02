@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA16EbA3b7562FC92597579A80Fe53a92DCab7122",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "3c851237-d409-4e88-b4a4-442ae032c448",
+  "links": null,
+  "logo": {},
+  "name": "Bytom minted",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mBTM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

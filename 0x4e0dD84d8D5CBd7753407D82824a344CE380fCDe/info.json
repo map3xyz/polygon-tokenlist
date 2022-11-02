@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4e0dD84d8D5CBd7753407D82824a344CE380fCDe",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a595fb8b-7c6b-4625-8bf1-9fb46468cd77",
+  "links": null,
+  "logo": {},
+  "name": "Dugg",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DUGG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaEF7E3Da2bb3438D8540A6AbE27095EA89f3B3B0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "837fe0f8-7279-41b4-b265-d39ff8a52306",
+  "links": null,
+  "logo": {},
+  "name": "Sniper Squad 16",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SS16",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

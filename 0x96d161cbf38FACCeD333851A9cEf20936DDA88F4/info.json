@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x96d161cbf38FACCeD333851A9cEf20936DDA88F4",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b1c6a7e7-1a56-48eb-82c8-0e979e0e858e",
+  "links": null,
+  "logo": {},
+  "name": "Pod USD Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "pUSDC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2492e3626b7136be7afB67483A87d716925a61E5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a50f1a7-f131-4283-b5bb-024b1e0fc5f4",
+  "links": null,
+  "logo": {},
+  "name": "Presearch",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PRE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

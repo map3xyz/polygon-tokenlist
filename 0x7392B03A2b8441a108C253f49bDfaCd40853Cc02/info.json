@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7392B03A2b8441a108C253f49bDfaCd40853Cc02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2fe5b4b-7944-4067-bbbe-83e4e392b67b",
+  "links": null,
+  "logo": {},
+  "name": "Options.Market",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OSM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

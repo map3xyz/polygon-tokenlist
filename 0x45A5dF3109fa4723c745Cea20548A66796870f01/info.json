@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x45A5dF3109fa4723c745Cea20548A66796870f01",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ea3bd8f-79a4-4070-8cb8-a47f0e67ce67",
+  "links": null,
+  "logo": {},
+  "name": "YGGDRASH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YEED",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

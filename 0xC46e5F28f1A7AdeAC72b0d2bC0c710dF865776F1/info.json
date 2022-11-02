@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC46e5F28f1A7AdeAC72b0d2bC0c710dF865776F1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67272719-b7ad-4a11-9eb9-836c5aa7089e",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Mirror AMZN Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mAMZN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x73580A2416A57f1C4b6391DBA688A9e4f7DBECE0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f526d38a-40c2-4f09-8164-f472578eee4d",
+  "links": null,
+  "logo": {},
+  "name": "Marlin POND",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POND",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xdfeEB5661ef760A1c565Caf07A50aCa182EaFceE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5f1f3af8-e301-42ca-a5fb-6bac184b4011",
+  "links": null,
+  "logo": {},
+  "name": "MUAN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MUA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

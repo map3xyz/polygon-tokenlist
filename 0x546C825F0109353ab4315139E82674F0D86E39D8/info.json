@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x546C825F0109353ab4315139E82674F0D86E39D8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35cfc6eb-a997-4b43-9ce7-1807e3781928",
+  "links": null,
+  "logo": {},
+  "name": "UniCandy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UCD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

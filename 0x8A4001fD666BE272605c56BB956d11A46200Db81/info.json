@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8A4001fD666BE272605c56BB956d11A46200Db81",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f110b9c4-0b58-44ac-bea9-7677334dd2b8",
+  "links": null,
+  "logo": {},
+  "name": "Green Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GREEN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

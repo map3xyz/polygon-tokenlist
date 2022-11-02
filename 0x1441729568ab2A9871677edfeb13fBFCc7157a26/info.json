@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1441729568ab2A9871677edfeb13fBFCc7157a26",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b602b81b-1bf0-48c0-b74c-96b476c2aa5e",
+  "links": null,
+  "logo": {},
+  "name": "Proxy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PRXY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x51738017Dc69F23DeB5Db8dE97685cf3b7001e79",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4adf4a3-240b-49f3-8261-ae9a5b6ecd6e",
+  "links": null,
+  "logo": {},
+  "name": "VAIOT Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VAI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

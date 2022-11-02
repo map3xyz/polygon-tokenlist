@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x04bEa9FCE76943E90520489cCAb84E84C0198E29",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "09079f3e-df6e-4359-95d8-9a7d38b6d540",
+  "links": null,
+  "logo": {},
+  "name": "AirSwap Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

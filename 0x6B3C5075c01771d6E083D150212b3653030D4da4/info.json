@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6B3C5075c01771d6E083D150212b3653030D4da4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75d37963-4205-42f7-8d0b-549a0dff342a",
+  "links": null,
+  "logo": {},
+  "name": "ZKCHAOS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHAOS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x293b3B56cCf37FCE9bd4d8A3E276ff6c24Bc72B4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f88ad1a-155f-4a2c-8619-82ed1c2a47d2",
+  "links": null,
+  "logo": {},
+  "name": "BitDegree Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BDG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

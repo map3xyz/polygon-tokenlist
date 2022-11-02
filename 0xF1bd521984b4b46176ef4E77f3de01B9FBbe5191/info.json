@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xF1bd521984b4b46176ef4E77f3de01B9FBbe5191",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3729ff8-aac6-4060-86f9-0e9ef3f191b3",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF1bd521984b4b46176ef4E77f3de01B9FBbe5191/logo.svg"
+  },
+  "name": "CARD.STARTER",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CARDS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

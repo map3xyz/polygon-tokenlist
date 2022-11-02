@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xea9D32bf641ee72bA1f301512891fBc96d39e6B2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a24e4e66-e34c-44a1-aece-d4d909930e57",
+  "links": null,
+  "logo": {},
+  "name": "SAUNALAND",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SAUNA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

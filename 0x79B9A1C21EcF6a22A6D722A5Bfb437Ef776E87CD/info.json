@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x79B9A1C21EcF6a22A6D722A5Bfb437Ef776E87CD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d129ede-7482-435b-95e4-c59ab70273d5",
+  "links": null,
+  "logo": {},
+  "name": "PUSSY token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PUSSY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xE8A51D0dD1b4525189ddA2187F90ddF0932b5482",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d8a91d0-8a28-4b14-9272-b7bf69de1334",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xE8A51D0dD1b4525189ddA2187F90ddF0932b5482/logo.svg"
+  },
+  "name": "LCX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LCX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

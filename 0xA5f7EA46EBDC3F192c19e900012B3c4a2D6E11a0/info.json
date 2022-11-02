@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA5f7EA46EBDC3F192c19e900012B3c4a2D6E11a0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c3204621-7188-4df0-85f0-09a749c3cef5",
+  "links": null,
+  "logo": {},
+  "name": "super veggie burrito",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SVB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bdda9612-6730-45c6-b649-6a52674ff212",
+  "links": null,
+  "logo": {},
+  "name": "IQ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IQ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

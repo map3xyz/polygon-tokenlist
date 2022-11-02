@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfb65ef42F7c8A70ff73F627DB6E9ba2Aff1F20fa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1b9b10f-603f-43b9-aa28-6a40fffbedfc",
+  "links": null,
+  "logo": {},
+  "name": "NodeRunners",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NDR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

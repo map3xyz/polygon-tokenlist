@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6a6bD53d677F8632631662C48bD47b1D4D6524ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83f10ef0-b7bc-4a0a-94ed-987b4bc09356",
+  "links": null,
+  "logo": {},
+  "name": "Adventure Gold",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGLD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe7C83848aD3d46B002E6F0DFA135aeFC16D8A30f",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "6ec742c7-7a06-4d51-b466-404d82183aad",
+  "links": null,
+  "logo": {},
+  "name": "CatNorris Revenge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$CATNORRIS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

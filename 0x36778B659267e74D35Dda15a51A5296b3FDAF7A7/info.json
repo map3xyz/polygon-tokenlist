@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x36778B659267e74D35Dda15a51A5296b3FDAF7A7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb588ada-41ee-4179-aef9-bd5d25b09992",
+  "links": null,
+  "logo": {},
+  "name": "Charge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHARGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

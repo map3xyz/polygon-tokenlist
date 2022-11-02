@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xce6bF09e5c7A3E65B84F88DcC6475c88d38BA5eF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9892a9f-56b5-47a9-a478-952d8979c6d4",
+  "links": null,
+  "logo": {},
+  "name": "Opacity",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OPCT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

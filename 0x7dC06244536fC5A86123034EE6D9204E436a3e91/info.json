@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7dC06244536fC5A86123034EE6D9204E436a3e91",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "70feeb75-092b-4993-9be8-d0552b4d29a7",
+  "links": null,
+  "logo": {},
+  "name": "CRIPTORO COIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CTRO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

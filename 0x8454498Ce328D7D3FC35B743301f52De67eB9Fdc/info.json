@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8454498Ce328D7D3FC35B743301f52De67eB9Fdc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e98af44-75f7-4855-b36d-c2ef3c8f6589",
+  "links": null,
+  "logo": {},
+  "name": "Kilroy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KROY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1771f94e-1a90-4b31-8159-a6ee3b98b275",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x3e121107F6F22DA4911079845a470757aF4e1A1b/logo.svg"
+  },
+  "name": "Frax Share",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FXS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

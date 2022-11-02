@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x37C6656CD3882A422d87bD15aC547c5515C0Df1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aba815ee-1e3f-4ae5-9b6a-5443ce2652be",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x37C6656CD3882A422d87bD15aC547c5515C0Df1C/logo.svg"
+  },
+  "name": "BAB",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BAB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

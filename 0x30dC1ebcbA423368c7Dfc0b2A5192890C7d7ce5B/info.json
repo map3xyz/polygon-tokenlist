@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x30dC1ebcbA423368c7Dfc0b2A5192890C7d7ce5B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "35b3b918-49a5-401e-824a-495389cf23be",
+  "links": null,
+  "logo": {},
+  "name": "Alligator + Fractal Set",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GATOR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

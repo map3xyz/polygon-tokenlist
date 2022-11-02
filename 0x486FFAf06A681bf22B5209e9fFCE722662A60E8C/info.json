@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x486FFAf06A681bf22B5209e9fFCE722662A60E8C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8afe5d5-8ba1-4930-93ef-9a2db2888125",
+  "links": null,
+  "logo": {},
+  "name": "FlyCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

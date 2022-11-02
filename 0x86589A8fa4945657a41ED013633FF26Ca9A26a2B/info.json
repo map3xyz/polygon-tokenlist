@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x86589A8fa4945657a41ED013633FF26Ca9A26a2B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5640460-4f11-48dd-9461-eeadb67578f7",
+  "links": null,
+  "logo": {},
+  "name": "Polylend Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PCOIN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

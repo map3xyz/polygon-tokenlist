@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE368e30C2b0F58EF216e12073141E07a875fbA6d",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "4914e5d0-ef61-4c83-9c5c-793ee0e68d57",
+  "links": null,
+  "logo": {},
+  "name": "HK Monetary Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HKMT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

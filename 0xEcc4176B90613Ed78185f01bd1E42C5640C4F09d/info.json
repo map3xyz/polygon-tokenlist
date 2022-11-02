@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xEcc4176B90613Ed78185f01bd1E42C5640C4F09d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d039033-e7f7-4bd2-9b7b-feb021542494",
+  "links": null,
+  "logo": {},
+  "name": "Animal Concerts Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANML",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

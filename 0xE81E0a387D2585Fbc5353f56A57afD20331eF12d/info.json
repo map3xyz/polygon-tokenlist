@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE81E0a387D2585Fbc5353f56A57afD20331eF12d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83fb88dd-a074-4938-97d8-3f8fd0f14ff1",
+  "links": null,
+  "logo": {},
+  "name": "Carchain Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CCC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1997FC07b67E7962cddD6E4db84E3C7315Bf4EB0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ef64ad68-9b49-409e-a23a-c335b31848c9",
+  "links": null,
+  "logo": {},
+  "name": "OT Compound Dai 29DEC2022",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OT-cDAI-29DEC2022",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

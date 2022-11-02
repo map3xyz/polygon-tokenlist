@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd9ce16aC93B783e069353a57220bf0E9C5315daf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d0cfc4a-fc34-4925-a91a-60218aaac557",
+  "links": null,
+  "logo": {},
+  "name": "PAWER Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAWR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6C222361B1407c196F740c1BfFC17d1770BFD55c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "abb2117e-5f6e-4ffb-b7a4-8627e81285d9",
+  "links": null,
+  "logo": {},
+  "name": "CORD.Finance Bridge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CORDBRIDGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

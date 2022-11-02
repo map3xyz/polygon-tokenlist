@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x91c5A5488c0dEcde1Eacd8a4F10e0942fb925067",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "163abd50-23c7-43e2-8224-b5fd7961e304",
+  "links": null,
+  "logo": {},
+  "name": "Auditchain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AUDT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0c59ea20-f892-442c-91e8-89b7f5fb18c7",
+  "links": null,
+  "logo": {},
+  "name": "NFT Worlds",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WRLD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

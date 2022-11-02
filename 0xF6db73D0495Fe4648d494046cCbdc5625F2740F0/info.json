@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xF6db73D0495Fe4648d494046cCbdc5625F2740F0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "404bcf26-b2d7-4eb2-a8ea-eeaa47abacbe",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF6db73D0495Fe4648d494046cCbdc5625F2740F0/logo.png"
+  },
+  "name": "Gistcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GIST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

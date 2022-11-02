@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x288e8AD3D61e6F931290A5DF1Ae31f16B8274770",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "856c7de5-f302-4416-9d68-d09b564f5948",
+  "links": null,
+  "logo": {},
+  "name": "BANX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BANX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

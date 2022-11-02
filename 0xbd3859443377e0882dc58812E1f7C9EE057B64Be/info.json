@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xbd3859443377e0882dc58812E1f7C9EE057B64Be",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "45a1276b-f601-4bb2-899b-4343b93d1666",
+  "links": null,
+  "logo": {},
+  "name": "+Blockchain Cuties Universe Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BCUG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

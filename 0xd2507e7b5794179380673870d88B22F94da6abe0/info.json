@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd2507e7b5794179380673870d88B22F94da6abe0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa64af0e-286e-4dc1-961c-7196a59a90cf",
+  "links": null,
+  "logo": {},
+  "name": "XY Oracle",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XYO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

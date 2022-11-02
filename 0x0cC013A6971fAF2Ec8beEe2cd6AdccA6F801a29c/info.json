@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0cC013A6971fAF2Ec8beEe2cd6AdccA6F801a29c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82d846d1-3ba3-4f98-a1f5-4371166cbc31",
+  "links": null,
+  "logo": {},
+  "name": "QuiverX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "QRX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x18C4315847Cf73D5028c8A98EAd16e862450E618",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecf97b01-2ee6-43dc-aa23-be2fe892c582",
+  "links": null,
+  "logo": {},
+  "name": "Pod Dai Stablecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "pDAI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

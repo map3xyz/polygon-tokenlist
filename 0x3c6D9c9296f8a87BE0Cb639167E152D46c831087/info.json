@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3c6D9c9296f8a87BE0Cb639167E152D46c831087",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d8900485-9887-4300-b895-9b98c07a6124",
+  "links": null,
+  "logo": {},
+  "name": "BlueSparrowToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BlueSparrow",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

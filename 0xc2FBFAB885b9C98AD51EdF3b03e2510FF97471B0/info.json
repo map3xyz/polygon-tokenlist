@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc2FBFAB885b9C98AD51EdF3b03e2510FF97471B0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13eaedaa-cf37-4291-b1da-41c2872c6873",
+  "links": null,
+  "logo": {},
+  "name": "Orbler",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORBR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

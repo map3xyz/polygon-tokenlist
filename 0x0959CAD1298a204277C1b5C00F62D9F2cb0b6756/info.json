@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0959CAD1298a204277C1b5C00F62D9F2cb0b6756",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2fd78de-b6ce-426b-bd72-44bb04ef2d7b",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Mirror BABA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mBABA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

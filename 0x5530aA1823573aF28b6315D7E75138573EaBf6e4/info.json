@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5530aA1823573aF28b6315D7E75138573EaBf6e4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "052585a4-c0f3-4dc0-8439-b89b4fdcb425",
+  "links": null,
+  "logo": {},
+  "name": "Vufi.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VUFI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

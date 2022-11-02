@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7FB27EE135dB455de5Ab1CcEC66a24cBC82E712D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e23ec66-eace-45e3-bfb4-788d04d9101b",
+  "links": null,
+  "logo": {},
+  "name": "Bankless DeFi Innovation Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GMI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

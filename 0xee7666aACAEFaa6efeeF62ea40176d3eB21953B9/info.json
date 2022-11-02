@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "70c69064-5aa0-4973-a584-d1db845464f3",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9/logo.svg"
+  },
+  "name": "MCHCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MCHC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

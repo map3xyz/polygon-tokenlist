@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2c763b519eCE33bb2C57e63c40E09465DBe7637b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47b8d69f-e938-49d3-9c2a-cc17336f792a",
+  "links": null,
+  "logo": {},
+  "name": "Biznek",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BIZN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

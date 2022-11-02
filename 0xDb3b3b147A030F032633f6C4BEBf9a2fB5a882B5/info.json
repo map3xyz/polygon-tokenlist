@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDb3b3b147A030F032633f6C4BEBf9a2fB5a882B5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6f6a8e5-d107-4818-9dd5-fead14a0eab0",
+  "links": null,
+  "logo": {},
+  "name": "EASY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EASY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

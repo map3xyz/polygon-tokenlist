@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c31a07d0-286e-4658-94ae-7e1259bb0a38",
+  "links": null,
+  "logo": {},
+  "name": "SWARM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

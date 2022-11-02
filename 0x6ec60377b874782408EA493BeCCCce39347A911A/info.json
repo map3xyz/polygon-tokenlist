@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6ec60377b874782408EA493BeCCCce39347A911A",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "eef6603c-4a1a-4dc6-8a2b-41f4df78c837",
+  "links": null,
+  "logo": {},
+  "name": "Starname",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IOV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

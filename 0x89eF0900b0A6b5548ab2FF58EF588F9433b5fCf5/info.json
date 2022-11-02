@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x89eF0900b0A6b5548ab2FF58EF588F9433b5fCf5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52b36aef-cb85-40fd-96ee-e5ad91643b50",
+  "links": null,
+  "logo": {},
+  "name": "Carbon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CRBN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

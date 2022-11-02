@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4934a86e-459e-4b97-94b4-15341267ae6d",
+  "links": null,
+  "logo": {},
+  "name": "Swirge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

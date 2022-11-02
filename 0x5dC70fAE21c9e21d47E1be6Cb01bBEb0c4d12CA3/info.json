@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5dC70fAE21c9e21d47E1be6Cb01bBEb0c4d12CA3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86509216-14b6-40ff-94f7-dd529eb5c977",
+  "links": null,
+  "logo": {},
+  "name": "Crypto Excellence",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

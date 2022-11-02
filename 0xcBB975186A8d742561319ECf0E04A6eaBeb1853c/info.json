@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xcBB975186A8d742561319ECf0E04A6eaBeb1853c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25b83a1c-cab9-4e60-89d2-cef358d27eb0",
+  "links": null,
+  "logo": {},
+  "name": "Test137",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Test137",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

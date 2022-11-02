@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5667dcC0ab74D1b1355C3b2061893399331B57e2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "12394122-cdce-406c-9204-137e6b23cca3",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x5667dcC0ab74D1b1355C3b2061893399331B57e2/logo.svg"
+  },
+  "name": "Terra Virtua Kolect",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TVK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

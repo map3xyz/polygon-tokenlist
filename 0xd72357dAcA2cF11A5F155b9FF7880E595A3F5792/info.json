@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd72357dAcA2cF11A5F155b9FF7880E595A3F5792",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "cf0ee406-11f1-40e7-ab07-f57ceb120ec3",
+  "links": null,
+  "logo": {},
+  "name": "StorjToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STORJ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

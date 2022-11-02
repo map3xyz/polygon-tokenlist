@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x08C15FA26E519A78a666D19CE5C646D55047e0a3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b458d265-8694-4d3c-8ef6-caec72dd3858",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x08C15FA26E519A78a666D19CE5C646D55047e0a3/logo.svg"
+  },
+  "name": "dForce",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

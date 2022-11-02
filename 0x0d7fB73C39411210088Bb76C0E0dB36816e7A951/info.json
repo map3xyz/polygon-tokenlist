@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0d7fB73C39411210088Bb76C0E0dB36816e7A951",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ec978567-12d4-4cf7-8463-e921e68928b9",
+  "links": null,
+  "logo": {},
+  "name": "CryptoCat",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEOW",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

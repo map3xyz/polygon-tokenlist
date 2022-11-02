@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xF88332547c680F755481Bf489D890426248BB275",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d95a702e-cfce-4bca-8069-a1c0a4dabf33",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF88332547c680F755481Bf489D890426248BB275/logo.png"
+  },
+  "name": "inSure DeFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SURE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfBdb45075Fb73ca4CC8b83FD6fdB4F9B696B1BA1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f70c4502-da6f-4b4b-a234-7d2000d74c16",
+  "links": null,
+  "logo": {},
+  "name": "stake dao Curve.fi EURS/sEUR",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "sdeursCRV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x078f0cD6ec0BeD408E9244EecE9fAc05bb4052a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "61b104be-c872-479a-80b4-6e42dfa0fb52",
+  "links": null,
+  "logo": {},
+  "name": "Media Licensing Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MLT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

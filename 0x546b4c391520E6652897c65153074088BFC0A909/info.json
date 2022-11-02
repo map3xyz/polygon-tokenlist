@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x546b4c391520E6652897c65153074088BFC0A909",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3880d778-2ca3-445b-b615-134811849cf1",
+  "links": null,
+  "logo": {},
+  "name": "The Force Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FOR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xcB059C5573646047D6d88dDdb87B745C18161d3b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2cd0c29-1bd3-46f2-aae9-3630fb49405d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xcB059C5573646047D6d88dDdb87B745C18161d3b/logo.svg"
+  },
+  "name": "Polymath",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POLY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

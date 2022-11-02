@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCBEa86af7581594d85d44469429bC6A273F9B562",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "35661cf9-9dc8-4c7e-b5de-bb4f0eede2cd",
+  "links": null,
+  "logo": {},
+  "name": "Kitty Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "kitty",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

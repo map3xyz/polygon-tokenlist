@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x9d7313E23C29e6d314A160A3fF345a2f7Ab0f3f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1187b08b-4a97-4163-b497-9d72afd21c20",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x9d7313E23C29e6d314A160A3fF345a2f7Ab0f3f5/logo.png"
+  },
+  "name": "Cityroots",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNITY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x52eDe6bbA83B7b4Ba1D738Df0dF713D6A2036B71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "38a5c09a-cf2c-42b3-92f5-25419239db06",
+  "links": null,
+  "logo": {},
+  "name": "0xMonero",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "0xMR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xBEd23818D193B3573CFe651792ED6AD484dCC629",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0444084f-f8ef-43b4-89b0-02c8b0eb28f7",
+  "links": null,
+  "logo": {},
+  "name": "Taraxa Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TARA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

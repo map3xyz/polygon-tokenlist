@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6362Bd3Bd1a217bbf6Afa810eaA63f2d55620e2e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21bbfb17-5c62-4306-b4da-26ff5c573f0d",
+  "links": null,
+  "logo": {},
+  "name": "DeHive.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DHV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

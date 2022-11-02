@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b4c3efee-1e8f-4cb9-876a-72db73e06fe0",
+  "links": null,
+  "logo": {},
+  "name": "Banana",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BANANA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

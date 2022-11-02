@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6c4024b-9f17-4212-832b-d6195516e20a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x59E9261255644c411AfDd00bD89162d09D862e38/logo.svg"
+  },
+  "name": "ETHA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETHA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

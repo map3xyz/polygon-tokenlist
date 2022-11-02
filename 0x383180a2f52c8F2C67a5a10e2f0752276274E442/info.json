@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x383180a2f52c8F2C67a5a10e2f0752276274E442",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4fb93cef-2c42-4e47-b494-15ac8ed625ad",
+  "links": null,
+  "logo": {},
+  "name": "SRSC Chiz Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHIZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

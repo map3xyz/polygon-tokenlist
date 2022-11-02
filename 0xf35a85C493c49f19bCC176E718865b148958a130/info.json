@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf35a85C493c49f19bCC176E718865b148958a130",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7895632c-3169-4958-ba34-f9091cbf2790",
+  "links": null,
+  "logo": {},
+  "name": "CherryBlossom",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CBL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

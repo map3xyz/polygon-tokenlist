@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x69377cC6f2929bd19039E88A54103FBC10BC4fA9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d02fb5a-952f-4150-9e34-6527b13315d1",
+  "links": null,
+  "logo": {},
+  "name": "Pudgy Penguin #4815",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PENG4815",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

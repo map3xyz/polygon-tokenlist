@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x0AaB8DC887D34f00D50E19aee48371a941390d14",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b7062c3d-a398-414f-bd83-6b02c582aed8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x0AaB8DC887D34f00D50E19aee48371a941390d14/logo.svg"
+  },
+  "name": "PowerLedger",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POWR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

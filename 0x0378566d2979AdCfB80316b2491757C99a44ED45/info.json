@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0378566d2979AdCfB80316b2491757C99a44ED45",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22bb8446-a3cc-440e-9d66-75ccf0a65dbe",
+  "links": null,
+  "logo": {},
+  "name": "extraDNA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "xDNA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

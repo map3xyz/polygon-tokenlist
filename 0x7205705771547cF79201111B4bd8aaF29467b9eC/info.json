@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7205705771547cF79201111B4bd8aaF29467b9eC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3e40fc6b-e941-4712-84c8-c194488b7874",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7205705771547cF79201111B4bd8aaF29467b9eC/logo.svg"
+  },
+  "name": "Rocket Pool",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RPL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

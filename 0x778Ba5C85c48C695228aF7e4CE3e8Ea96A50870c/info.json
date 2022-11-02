@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x778Ba5C85c48C695228aF7e4CE3e8Ea96A50870c",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "d08e987c-f41f-4fbe-a140-5e61e1969acf",
+  "links": null,
+  "logo": {},
+  "name": "OT Aave interest bearing USDC 29DEC2022",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OT-aUSDC-29DEC2022",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

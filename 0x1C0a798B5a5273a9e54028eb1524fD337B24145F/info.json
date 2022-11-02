@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1C0a798B5a5273a9e54028eb1524fD337B24145F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b188f0f-7b04-4f60-a543-39ccd7e5d56d",
+  "links": null,
+  "logo": {},
+  "name": "loser coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "lowb",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

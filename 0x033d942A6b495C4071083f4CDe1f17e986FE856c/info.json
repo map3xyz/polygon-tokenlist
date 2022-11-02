@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2d4d585b-aed8-4e0c-98c7-2626aa5ec9a1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x033d942A6b495C4071083f4CDe1f17e986FE856c/logo.svg"
+  },
+  "name": "AGA Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

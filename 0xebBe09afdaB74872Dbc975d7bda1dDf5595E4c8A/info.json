@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xebBe09afdaB74872Dbc975d7bda1dDf5595E4c8A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5524391c-d93b-45d6-a718-db2d96cb83c1",
+  "links": null,
+  "logo": {},
+  "name": "CubToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CUBT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

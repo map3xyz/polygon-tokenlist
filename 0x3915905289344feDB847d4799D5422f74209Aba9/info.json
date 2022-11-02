@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3915905289344feDB847d4799D5422f74209Aba9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4f4d810-a2c3-4637-9652-0be5a737e76d",
+  "links": null,
+  "logo": {},
+  "name": "ETH Price Action Candlestick Set",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETHPA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

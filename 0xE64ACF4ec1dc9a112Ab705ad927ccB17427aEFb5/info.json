@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE64ACF4ec1dc9a112Ab705ad927ccB17427aEFb5",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "9afb7692-5c4a-4ec4-baf7-c2314c1e9f5f",
+  "links": null,
+  "logo": {},
+  "name": "KickToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KICK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

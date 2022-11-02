@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea0e2eb6-4440-47d1-9fd4-f0a7e6be0ad0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x8d1566569d5b695d44a9a234540f68D393cDC40D/logo.svg"
+  },
+  "name": "GAME Credits",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GAME",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0e857076EA922630C844A047f4bB7342f2ED59e2",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "8768737a-7ceb-4588-95c6-00fc734dab5a",
+  "links": null,
+  "logo": {},
+  "name": "Mononoke Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Mononoke-Inu",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

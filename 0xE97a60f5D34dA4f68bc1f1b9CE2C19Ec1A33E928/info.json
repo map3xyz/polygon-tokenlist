@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE97a60f5D34dA4f68bc1f1b9CE2C19Ec1A33E928",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60ed0e9d-002f-4d2b-aad0-1853ec42f031",
+  "links": null,
+  "logo": {},
+  "name": "Matic Mike Juice",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HGH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

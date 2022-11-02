@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5c1A50c4Cd26AD2a3A156c2F4B1A8826E7f3a4e0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73ef1be3-f6de-4e2f-83f2-4e98cc157bed",
+  "links": null,
+  "logo": {},
+  "name": "BITE POINT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BITEPT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

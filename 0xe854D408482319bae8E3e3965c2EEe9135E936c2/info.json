@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe854D408482319bae8E3e3965c2EEe9135E936c2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eadf003f-e593-4c3a-b3de-cf9af3c19c8a",
+  "links": null,
+  "logo": {},
+  "name": "DePo Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEPO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x314338767151e6Ed23DB8A41c6F6943c1958Ee56",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a37cba6c-4368-4451-9412-fc8fef1e1658",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x314338767151e6Ed23DB8A41c6F6943c1958Ee56/logo.svg"
+  },
+  "name": "Decentr ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

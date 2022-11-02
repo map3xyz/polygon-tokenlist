@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x82Ea80b9E021E8CB4a2b20e1BE60fe2CA04c9621",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c5deb5fd-0f93-4767-ae42-4e344063c78f",
+  "links": null,
+  "logo": {},
+  "name": "Matching Cards",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MATCH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xebf9B87583C284F0a1b7aF72371F84D2A7567285",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "dad655b0-a7d5-4eac-b7d6-de0a7af1854c",
+  "links": null,
+  "logo": {},
+  "name": "Cryptotipsfr Token V2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CRTS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

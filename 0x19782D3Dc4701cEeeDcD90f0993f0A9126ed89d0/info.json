@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x19782D3Dc4701cEeeDcD90f0993f0A9126ed89d0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "972622f9-4831-4043-8728-daf35897e14e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x19782D3Dc4701cEeeDcD90f0993f0A9126ed89d0/logo.svg"
+  },
+  "name": "REN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

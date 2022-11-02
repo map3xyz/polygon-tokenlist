@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF4310Adb83694Bc4808e0C5ca8F7027C6127921D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0dbc191-8046-413d-823f-bef4629c6c0a",
+  "links": null,
+  "logo": {},
+  "name": "Oraichain Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORAI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

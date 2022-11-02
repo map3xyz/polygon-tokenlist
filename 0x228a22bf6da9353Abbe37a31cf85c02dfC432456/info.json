@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x228a22bf6da9353Abbe37a31cf85c02dfC432456",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7b4fd49d-5734-450f-bbc1-f2e5729c881e",
+  "links": null,
+  "logo": {},
+  "name": "Afrofuture",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AFTR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

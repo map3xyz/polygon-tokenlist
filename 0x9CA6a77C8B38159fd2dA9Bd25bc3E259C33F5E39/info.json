@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9CA6a77C8B38159fd2dA9Bd25bc3E259C33F5E39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4bec5faf-0ef9-47a2-ab45-35cab6778cb1",
+  "links": null,
+  "logo": {},
+  "name": "The SporkDAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPORK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

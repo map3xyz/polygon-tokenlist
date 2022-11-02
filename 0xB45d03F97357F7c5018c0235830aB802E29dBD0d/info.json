@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB45d03F97357F7c5018c0235830aB802E29dBD0d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c5925598-d3b8-422d-a9ab-ea63f583d427",
+  "links": null,
+  "logo": {},
+  "name": "PIKA TOKEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PKAT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

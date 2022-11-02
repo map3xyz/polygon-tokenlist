@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xfdc99999c4139F953A3Af41dE986687275bD4F4B",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3f91c6cd-47bc-4938-9d0f-a20a2fd18c6c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xfdc99999c4139F953A3Af41dE986687275bD4F4B/logo.svg"
+  },
+  "name": "SOAR.FI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

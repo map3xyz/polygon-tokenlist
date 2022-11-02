@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1A5C71dDF3d71CBB0C0Bc312ff712a52cBe29cD2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60f453f2-402f-4e6d-bfae-b320944a0ae2",
+  "links": null,
+  "logo": {},
+  "name": "TAIYAKI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TAIYAKI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

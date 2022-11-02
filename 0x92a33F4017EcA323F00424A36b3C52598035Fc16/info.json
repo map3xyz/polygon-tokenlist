@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x92a33F4017EcA323F00424A36b3C52598035Fc16",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d267447-40bb-4383-bde7-e0df6be4bd2f",
+  "links": null,
+  "logo": {},
+  "name": "NOIIRE COIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NOIIRE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

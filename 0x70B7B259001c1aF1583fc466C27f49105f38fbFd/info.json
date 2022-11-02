@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x70B7B259001c1aF1583fc466C27f49105f38fbFd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "062d686e-9ef1-4e75-848d-2a1f4e799177",
+  "links": null,
+  "logo": {},
+  "name": "Zks",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZKS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

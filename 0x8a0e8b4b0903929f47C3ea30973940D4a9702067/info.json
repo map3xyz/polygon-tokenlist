@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8a0e8b4b0903929f47C3ea30973940D4a9702067",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c412b2d7-590e-46bc-91f6-36a26787e092",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x8a0e8b4b0903929f47C3ea30973940D4a9702067/logo.png"
+  },
+  "name": "InsurAce",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INSUR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

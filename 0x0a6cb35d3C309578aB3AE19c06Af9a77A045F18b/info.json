@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0a6cb35d3C309578aB3AE19c06Af9a77A045F18b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7d199fc3-73b2-4a9c-95b8-2d267b2a3fb6",
+  "links": null,
+  "logo": {},
+  "name": "ReillyCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REILLY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "422be0c4-da35-4cb9-a8a4-5080881543cc",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x72d6066F486bd0052eefB9114B66ae40e0A6031a/logo.svg"
+  },
+  "name": "Binance Wrapped WRX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BWRX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

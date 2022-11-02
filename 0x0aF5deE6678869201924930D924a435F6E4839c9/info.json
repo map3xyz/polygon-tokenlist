@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0aF5deE6678869201924930D924a435F6E4839c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59048f21-4111-4aa3-9761-11a5704b78d8",
+  "links": null,
+  "logo": {},
+  "name": "PreKlima",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "pKLIMA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

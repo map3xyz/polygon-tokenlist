@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa06657B69bD9462a468ad6533B4B819CAeE8B29E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b588bf67-39ad-4dd0-af04-d9752fd8631b",
+  "links": null,
+  "logo": {},
+  "name": "CANDI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CANDI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x01288e04435bFcd4718FF203D6eD18146C17Cd4b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e1d92d90-003d-4101-9612-eaf4e3758489",
+  "links": null,
+  "logo": {},
+  "name": "Magic Internet Money",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MIM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

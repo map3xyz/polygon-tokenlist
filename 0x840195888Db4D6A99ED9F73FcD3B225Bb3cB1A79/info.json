@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f5ab05fb-945f-4893-94d8-57117f451815",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79/logo.svg"
+  },
+  "name": "SportX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

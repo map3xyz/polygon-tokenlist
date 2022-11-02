@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xef3943736181F259A4e94D9D6D8658996fB9F785",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94879147-9c21-4d3b-b62f-ebe17b79d961",
+  "links": null,
+  "logo": {},
+  "name": "bUKHI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "bUKH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

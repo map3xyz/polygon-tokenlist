@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x24F8A7bB3190039b4Cf0F96Cd72e2EA3a2D82256",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f5659a0-c8e2-46a5-a262-690e8d1f0c06",
+  "links": null,
+  "logo": {},
+  "name": "EdgeTest",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EDGT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

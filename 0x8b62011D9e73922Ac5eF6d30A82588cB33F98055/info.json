@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8b62011D9e73922Ac5eF6d30A82588cB33F98055",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e6076371-3b5c-4307-b53c-42ae492d1f36",
+  "links": null,
+  "logo": {},
+  "name": "FingerPrint",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FGP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

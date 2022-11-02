@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA15a8e5743D15ba1B2fD857C4E1937Dbf1727bd6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f3b817c-b8ca-4e85-8a8a-5ccc84238e7a",
+  "links": null,
+  "logo": {},
+  "name": "USDT-LP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "USDT-LP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

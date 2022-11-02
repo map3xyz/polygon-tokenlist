@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x0f40D69Ff494a9e74b1F20A89EfF299B2A05918F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f0ed8661-9214-4b4f-900e-3b608052f362",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x0f40D69Ff494a9e74b1F20A89EfF299B2A05918F/logo.svg"
+  },
+  "name": "Bounty0x Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BNTY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

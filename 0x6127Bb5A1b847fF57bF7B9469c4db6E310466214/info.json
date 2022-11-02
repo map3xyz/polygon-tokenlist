@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6127Bb5A1b847fF57bF7B9469c4db6E310466214",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96029f50-aae2-48f8-a263-4d0b1b1a2d71",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6127Bb5A1b847fF57bF7B9469c4db6E310466214/logo.svg"
+  },
+  "name": "SakeToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SAKE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

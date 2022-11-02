@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa65d74f1f047596b2DaFedFdfA327Ccbd499Aa9e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c26f0a0-c7d5-4e50-87cc-42bbf04519ac",
+  "links": null,
+  "logo": {},
+  "name": "TREKS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TREKS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

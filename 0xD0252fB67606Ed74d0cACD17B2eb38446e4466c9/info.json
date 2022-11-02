@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD0252fB67606Ed74d0cACD17B2eb38446e4466c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "626164f7-893e-4539-9aec-f86bc0df84cb",
+  "links": null,
+  "logo": {},
+  "name": "ArGo Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARGO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

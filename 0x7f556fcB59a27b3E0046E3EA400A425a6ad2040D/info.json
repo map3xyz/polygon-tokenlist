@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7f556fcB59a27b3E0046E3EA400A425a6ad2040D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ecc0b450-0b90-4607-bfbe-622d3537bee7",
+  "links": null,
+  "logo": {},
+  "name": "The Crowd",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CROWD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

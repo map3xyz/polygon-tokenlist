@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xfAf25C39eA29c3Aa4A0bFbdbcf2dd99845192695",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb3eabc4-0301-4bce-b8f7-2dad9fd12558",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Kagra",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WKGR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

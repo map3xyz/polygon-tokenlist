@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6484117FBDc339C99C973bDe96650039f3469c09",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "576223c5-5d2c-4ee7-9143-3d47f0b03b4a",
+  "links": null,
+  "logo": {},
+  "name": "Chase",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Chase",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

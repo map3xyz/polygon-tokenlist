@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x322584098Ea29e2127A81322b417eBba356d8f22",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed4c2442-26dd-4f33-9f4f-3bf8c828026a",
+  "links": null,
+  "logo": {},
+  "name": "PhunToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PHTK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

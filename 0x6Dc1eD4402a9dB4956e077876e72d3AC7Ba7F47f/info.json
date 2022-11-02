@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6Dc1eD4402a9dB4956e077876e72d3AC7Ba7F47f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "56c83321-d50e-4462-b970-c5d4ea88270f",
+  "links": null,
+  "logo": {},
+  "name": "Menlo One",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ONE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

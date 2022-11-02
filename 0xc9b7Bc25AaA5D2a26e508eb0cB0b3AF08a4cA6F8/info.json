@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc9b7Bc25AaA5D2a26e508eb0cB0b3AF08a4cA6F8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9593963-0cf4-4b07-8822-3bf6e59d7bba",
+  "links": null,
+  "logo": {},
+  "name": "FastArgmag20L1N",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FastArgmag20L1S",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

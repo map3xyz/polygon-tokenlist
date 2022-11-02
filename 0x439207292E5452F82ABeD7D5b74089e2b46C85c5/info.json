@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x439207292E5452F82ABeD7D5b74089e2b46C85c5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "21a980c8-91b4-4fca-8f99-fb63ddb40711",
+  "links": null,
+  "logo": {},
+  "name": "Edge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EDGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

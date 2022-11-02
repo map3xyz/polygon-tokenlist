@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xeFfdCB49C2D0EF813764B709Ca3c6fe71f230E3e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96f1abcd-ab67-4ced-ba1a-4c9201c2f51d",
+  "links": null,
+  "logo": {},
+  "name": "Dummy ERC20",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DERC20",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

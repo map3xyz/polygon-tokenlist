@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE499140A7362927bB23889c4D60A6B9b3347F8ca",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "8d5af76c-ad13-443a-8728-5493fb00eec3",
+  "links": null,
+  "logo": {},
+  "name": "MultiChainCapital",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MCC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

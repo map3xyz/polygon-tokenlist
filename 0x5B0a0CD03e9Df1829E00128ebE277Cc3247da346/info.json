@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5B0a0CD03e9Df1829E00128ebE277Cc3247da346",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "81db2067-b3b3-4444-8c4b-3bbc5c9787e6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x5B0a0CD03e9Df1829E00128ebE277Cc3247da346/logo.svg"
+  },
+  "name": "Butterfly Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BFLY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

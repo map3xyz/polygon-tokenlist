@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xECD3c4f21DcEebC8F308aF7c3A7f1A4265BB52E9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4967963-07f3-4389-9a20-5f8d892d052b",
+  "links": null,
+  "logo": {},
+  "name": "MetaBillionaireUtilityCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MBUC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x38332D8671961aE13d0BDe040d536eB336495eEA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "df3127d8-b4a8-46c2-8741-c149b454df03",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x38332D8671961aE13d0BDe040d536eB336495eEA/logo.svg"
+  },
+  "name": "Ruletka",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RTK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

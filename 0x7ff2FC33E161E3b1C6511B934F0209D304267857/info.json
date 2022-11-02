@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6094bbab-3aa9-4c84-aa99-60ca7c54fd15",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7ff2FC33E161E3b1C6511B934F0209D304267857/logo.svg"
+  },
+  "name": "Opu Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OPU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

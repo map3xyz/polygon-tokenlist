@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xeC97734Ed00D65D05D10316D1641c09D1DaaB96f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2faf3fa2-a478-4bec-9222-b4c819ec3492",
+  "links": null,
+  "logo": {},
+  "name": "Cryptoodles Toodle Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TODL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

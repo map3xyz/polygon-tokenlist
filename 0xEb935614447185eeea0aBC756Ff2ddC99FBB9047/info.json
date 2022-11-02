@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xEb935614447185eeea0aBC756Ff2ddC99FBB9047",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b3c81802-0485-46e7-8c0f-69ec51786f53",
+  "links": null,
+  "logo": {},
+  "name": "AlphaKlima",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "aKLIMA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

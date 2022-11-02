@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x80387Ff8b58c82FbAF385a3380d4627234763659",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8562fdd-5767-4b84-b203-e4981093b1dc",
+  "links": null,
+  "logo": {},
+  "name": "CannaSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NOID",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

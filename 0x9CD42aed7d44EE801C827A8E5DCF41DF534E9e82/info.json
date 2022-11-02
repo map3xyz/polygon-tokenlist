@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9CD42aed7d44EE801C827A8E5DCF41DF534E9e82",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "42da09e2-3269-47ac-a5f6-0253ff261865",
+  "links": null,
+  "logo": {},
+  "name": "OMI Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OMI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

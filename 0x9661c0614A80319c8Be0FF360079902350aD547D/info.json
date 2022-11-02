@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9661c0614A80319c8Be0FF360079902350aD547D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60cdf370-b11c-4d7f-a5b4-b127c39c9321",
+  "links": null,
+  "logo": {},
+  "name": "Wolves Of Wall Street",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WOWS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

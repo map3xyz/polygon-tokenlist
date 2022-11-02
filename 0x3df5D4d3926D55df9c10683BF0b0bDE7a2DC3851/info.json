@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3df5D4d3926D55df9c10683BF0b0bDE7a2DC3851",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8761acab-a920-4951-a29f-a1ae2a67594e",
+  "links": null,
+  "logo": {},
+  "name": "Bay Area Excitement",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BAE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xCd150B1F528F326f5194c012f32Eb30135C7C2c9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "707d498e-3fe0-4916-a239-3fc3b2e6e919",
+  "links": null,
+  "logo": {},
+  "name": "Ooki Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OOKI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

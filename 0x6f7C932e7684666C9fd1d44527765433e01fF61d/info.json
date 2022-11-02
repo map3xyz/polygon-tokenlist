@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43db9004-27a0-4d03-961b-6b30740df1a9",
+  "links": null,
+  "logo": {},
+  "name": "MAKER",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MKR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

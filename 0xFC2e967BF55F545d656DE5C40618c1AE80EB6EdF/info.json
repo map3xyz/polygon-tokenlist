@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFC2e967BF55F545d656DE5C40618c1AE80EB6EdF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "95a9bdb2-0e18-451d-983a-0423b4c334f7",
+  "links": null,
+  "logo": {},
+  "name": "Float Bank",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BANK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

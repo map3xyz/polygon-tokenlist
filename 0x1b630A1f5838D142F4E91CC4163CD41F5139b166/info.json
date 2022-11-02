@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1b630A1f5838D142F4E91CC4163CD41F5139b166",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3df40c93-063a-4de2-809e-80c2366018a8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1b630A1f5838D142F4E91CC4163CD41F5139b166/logo.svg"
+  },
+  "name": "Neutrino USD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "USDN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

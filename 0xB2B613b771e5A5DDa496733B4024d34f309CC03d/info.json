@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB2B613b771e5A5DDa496733B4024d34f309CC03d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a57a148-a293-4159-9b1b-88f85ca56c8a",
+  "links": null,
+  "logo": {},
+  "name": "NXM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NXM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

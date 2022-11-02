@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa0715b961daabafCb7a8A2Bc1146541a21aa56C1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "51f2e46d-825e-4df5-8c44-0f81cb98433c",
+  "links": null,
+  "logo": {},
+  "name": "VIQYY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VIQYY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

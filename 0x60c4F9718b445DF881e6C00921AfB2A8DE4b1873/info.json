@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x60c4F9718b445DF881e6C00921AfB2A8DE4b1873",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d44011ab-a42c-4bba-b487-4acb7465bc6c",
+  "links": null,
+  "logo": {},
+  "name": "FORCE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FORCE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

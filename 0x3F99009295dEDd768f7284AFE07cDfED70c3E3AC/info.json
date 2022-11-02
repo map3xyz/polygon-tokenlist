@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x3F99009295dEDd768f7284AFE07cDfED70c3E3AC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1663e762-af41-4987-a0ec-145d101ddd7b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x3F99009295dEDd768f7284AFE07cDfED70c3E3AC/logo.svg"
+  },
+  "name": "DarkToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DARK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

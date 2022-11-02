@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6d470424afaf9cC6476ce8A5d709B7b35F7Cc790",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f03353b7-16eb-475c-b256-9f597b84e00b",
+  "links": null,
+  "logo": {},
+  "name": "JustBet",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WINR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

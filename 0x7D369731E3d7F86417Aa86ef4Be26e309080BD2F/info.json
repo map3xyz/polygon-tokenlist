@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7D369731E3d7F86417Aa86ef4Be26e309080BD2F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5a24ab09-1494-4ada-ab73-6267d1aada8f",
+  "links": null,
+  "logo": {},
+  "name": "Kitty Party Reward Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KPT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

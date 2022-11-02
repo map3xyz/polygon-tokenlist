@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xff88434E29d1E2333aD6baa08D358b436196da6b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "388a082c-94ec-4f17-b218-68a1f7dd6e98",
+  "links": null,
+  "logo": {},
+  "name": "BoringDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BORING",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

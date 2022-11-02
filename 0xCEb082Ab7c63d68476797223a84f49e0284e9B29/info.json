@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCEb082Ab7c63d68476797223a84f49e0284e9B29",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c04b48b8-ded8-4ff9-b1a2-8df5a38bfc7d",
+  "links": null,
+  "logo": {},
+  "name": "brotDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BROT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

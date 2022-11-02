@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "5e4d68a2-8241-4e53-bd57-6736456f310a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE/logo.svg"
+  },
+  "name": "IG Gold",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IGG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

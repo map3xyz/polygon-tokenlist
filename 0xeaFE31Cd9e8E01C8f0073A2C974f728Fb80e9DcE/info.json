@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeaFE31Cd9e8E01C8f0073A2C974f728Fb80e9DcE",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "fe673a91-61b2-48f1-9dd3-b544154c3023",
+  "links": null,
+  "logo": {},
+  "name": "NZD Stablecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NZDS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

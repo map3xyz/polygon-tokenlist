@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4A63428963E18CC2411f43D49826ED09D1BFa0da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "98eed828-6869-4405-8107-f30426462879",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Hachiko",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WHachiko",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

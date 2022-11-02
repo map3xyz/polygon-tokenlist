@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaFBb5E3873dE55dB4f2708A08A90677c7a685a6E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "478defcd-d2f6-4f55-868a-cffab237a221",
+  "links": null,
+  "logo": {},
+  "name": "Token for Television",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TTV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

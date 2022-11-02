@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x83A6DA342099835bCAA9C219DD76a5033c837de5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3542a317-cd8f-4faa-b3ed-7ceab52f0189",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x83A6DA342099835bCAA9C219DD76a5033c837de5/logo.svg"
+  },
+  "name": "BASv2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BASv2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

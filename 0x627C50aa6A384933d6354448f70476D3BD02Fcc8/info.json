@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x627C50aa6A384933d6354448f70476D3BD02Fcc8",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "99be9669-6474-4973-aba4-2f232d06a5c8",
+  "links": null,
+  "logo": {},
+  "name": "renBCH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "renBCH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

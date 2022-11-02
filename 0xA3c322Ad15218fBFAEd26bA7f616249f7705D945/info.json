@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b2e7df6-c2ba-478d-a851-9ce99009d0d5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945/logo.svg"
+  },
+  "name": "Metaverse",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

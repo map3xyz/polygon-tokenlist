@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x656010c92127623AD59991b392F9b9CF1D5B4C7a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b230792-4169-4748-94ed-30c4bf2d3cda",
+  "links": null,
+  "logo": {},
+  "name": "Fight Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FIGHT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

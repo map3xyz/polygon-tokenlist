@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc748B2A084F8eFc47E086ccdDD9b7e67aEb571BF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63050776-d56e-4380-a423-63b1bb815115",
+  "links": null,
+  "logo": {},
+  "name": "Human Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HMT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

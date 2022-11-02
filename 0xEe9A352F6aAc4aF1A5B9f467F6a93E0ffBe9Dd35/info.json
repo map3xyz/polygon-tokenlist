@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08550ef8-8b2d-4958-b659-897c1451b6d0",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35/logo.png"
+  },
+  "name": "MASQ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MASQ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

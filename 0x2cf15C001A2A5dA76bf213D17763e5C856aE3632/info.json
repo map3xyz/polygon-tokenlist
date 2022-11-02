@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2cf15C001A2A5dA76bf213D17763e5C856aE3632",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6b68239f-ceff-4fc2-8018-aec47aaf7f1c",
+  "links": null,
+  "logo": {},
+  "name": "Tartarus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

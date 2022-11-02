@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4C6B65fe93fc9DaF413498b88195FAfFF36dD960",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd99e3e9-6cab-4afe-bf8d-157c540f30b9",
+  "links": null,
+  "logo": {},
+  "name": "Liquid staked Ether 2.0",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "stETH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

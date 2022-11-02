@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1cE4A2C355F0DcC24E32A9Af19F1836D6F4f98ae",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33f72dcb-ac2a-421d-8631-f7bbac8a002e",
+  "links": null,
+  "logo": {},
+  "name": "Coinspaid",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CPD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

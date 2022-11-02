@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x12919A30447fF59947740507362A05B8BEA9A6e7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce6e64f0-69e2-495d-b2fe-fd921e6186d3",
+  "links": null,
+  "logo": {},
+  "name": "StableDark",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SDARK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

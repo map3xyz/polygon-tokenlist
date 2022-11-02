@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74626712-9d3a-48aa-a2e5-0b3f0e93793a",
+  "links": null,
+  "logo": {},
+  "name": "Lido DAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LDO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

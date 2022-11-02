@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe0B4Af6c2E9cb2E43DFe5A357a00CED16da4547b",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "2092ba18-82ef-456e-8864-a263f0bfaba7",
+  "links": null,
+  "logo": {},
+  "name": "Cashpayz Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CPC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

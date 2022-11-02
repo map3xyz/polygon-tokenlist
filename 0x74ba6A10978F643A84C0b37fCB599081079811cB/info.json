@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x74ba6A10978F643A84C0b37fCB599081079811cB",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "e334b6ce-6953-4357-ab8c-eff3ace75d77",
+  "links": null,
+  "logo": {},
+  "name": "Diabolo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DCASH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

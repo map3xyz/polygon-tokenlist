@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEBd0E6B73a0e0D231DA8C91bdD60c09C9C0875c3",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "36b69e99-d678-4a31-8b64-b58564703b88",
+  "links": null,
+  "logo": {},
+  "name": "BracebridgeGolfClub",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BGC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

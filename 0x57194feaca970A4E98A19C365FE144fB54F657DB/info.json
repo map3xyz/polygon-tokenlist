@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x57194feaca970A4E98A19C365FE144fB54F657DB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cc3dcde0-7d6d-49f6-a408-85453f46033a",
+  "links": null,
+  "logo": {},
+  "name": "THE TRUTH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UFO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

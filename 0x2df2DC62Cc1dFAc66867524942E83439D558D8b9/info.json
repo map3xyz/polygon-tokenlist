@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2df2DC62Cc1dFAc66867524942E83439D558D8b9",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "43eff310-6462-4ead-a5dc-9f2865b8a10e",
+  "links": null,
+  "logo": {},
+  "name": "ELDORADO TOKEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ERD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

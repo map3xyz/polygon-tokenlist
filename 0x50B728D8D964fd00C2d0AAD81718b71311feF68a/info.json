@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4e05e1e1-b2a6-49ec-bcff-ea0555d9044a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.svg"
+  },
+  "name": "Synthetix Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SNX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
