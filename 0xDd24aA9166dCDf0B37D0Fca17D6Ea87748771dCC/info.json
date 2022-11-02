@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDd24aA9166dCDf0B37D0Fca17D6Ea87748771dCC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "967656f8-f582-48b5-b811-4e94886b82f5",
+  "links": null,
+  "logo": {},
+  "name": "Metaverse NFT Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLAY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

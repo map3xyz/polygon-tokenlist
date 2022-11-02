@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xdd0fDc648a9dbC9be5A735FE4561893a13399Da2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "48210b93-1d4e-4432-9150-a46eefc5d8aa",
+  "links": null,
+  "logo": {},
+  "name": "PGF500 Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PGF7T",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

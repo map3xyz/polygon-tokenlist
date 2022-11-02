@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7348565F0A5077252D310392C3CeCD8dB87a7704",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52c519a1-4f47-472f-95a9-60ee750a9e5f",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7348565F0A5077252D310392C3CeCD8dB87a7704/logo.png"
+  },
+  "name": "Cryptopia Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CRT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

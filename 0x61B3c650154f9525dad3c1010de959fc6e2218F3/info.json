@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x61B3c650154f9525dad3c1010de959fc6e2218F3",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4c736ce3-da20-4371-bbcb-eb85b24c2824",
+  "links": null,
+  "logo": {},
+  "name": "Compound USDT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cUSDT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

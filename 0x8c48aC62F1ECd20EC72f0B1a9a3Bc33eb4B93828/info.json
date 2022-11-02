@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8c48aC62F1ECd20EC72f0B1a9a3Bc33eb4B93828",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "36eb2e9f-f075-4bf2-a496-bef7e1364452",
+  "links": null,
+  "logo": {},
+  "name": "ethbox Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EBOX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

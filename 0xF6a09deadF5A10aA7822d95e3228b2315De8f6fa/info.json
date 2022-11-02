@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xF6a09deadF5A10aA7822d95e3228b2315De8f6fa",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9b1eeb5c-14ec-4865-8a76-b04b19e8faaa",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xF6a09deadF5A10aA7822d95e3228b2315De8f6fa/logo.png"
+  },
+  "name": "Mintopoly Money",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

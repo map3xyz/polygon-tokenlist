@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xB090B6310970DD028a007981a24C1a492568a816",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a6c5a86-434e-47c5-a132-417f1d8c75e4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB090B6310970DD028a007981a24C1a492568a816/logo.svg"
+  },
+  "name": "VISOR",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VISR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x44a57De864dD580c3A1FE44Cfa8E39e25170c156",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6fb79fc3-d5cc-424b-80b0-117934a90274",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x44a57De864dD580c3A1FE44Cfa8E39e25170c156/logo.svg"
+  },
+  "name": "mushrooming ChainLink Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mLINK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

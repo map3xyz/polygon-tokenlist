@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1683767B3e3a40a61D9faa94CF86E5788F0a834a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a86a195-c52d-43ad-92b9-2ddd3908a93c",
+  "links": null,
+  "logo": {},
+  "name": "Brand Tokens",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BRND",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb7403EdAA4Ff25Fd05E5b8ee83DeE53F15C4DB39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b6d024f6-cc44-4d7a-90b1-8c15b0c8d87f",
+  "links": null,
+  "logo": {},
+  "name": "UnoRe",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xff4b04163E530d763010171358E7e1f70c1AbbD1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e88982b-4f32-438e-ae68-8e4222fde26e",
+  "links": null,
+  "logo": {},
+  "name": "COOS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COOS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

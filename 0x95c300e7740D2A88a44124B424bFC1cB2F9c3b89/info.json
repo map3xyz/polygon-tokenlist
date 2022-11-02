@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7d3c9b3-f657-45a6-9b04-7f1aeb8fd65d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89/logo.svg"
+  },
+  "name": "Alchemix",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALCX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

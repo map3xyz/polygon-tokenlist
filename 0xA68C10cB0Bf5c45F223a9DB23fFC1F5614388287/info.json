@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA68C10cB0Bf5c45F223a9DB23fFC1F5614388287",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b781a9c7-32d8-4682-b65f-ecd9177c1ea5",
+  "links": null,
+  "logo": {},
+  "name": "Aquest Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AQU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

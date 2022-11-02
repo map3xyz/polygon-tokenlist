@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80160401-98fb-4611-a58e-89ea51bf7d0a",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B/logo.png"
+  },
+  "name": "BOB",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BOB",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

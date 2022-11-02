@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB044d04c406952c0927579e153C49C222EF2C870",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b29148e-7f1c-4691-8949-2da4e01e2ffd",
+  "links": null,
+  "logo": {},
+  "name": "MetaBrands",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MAGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

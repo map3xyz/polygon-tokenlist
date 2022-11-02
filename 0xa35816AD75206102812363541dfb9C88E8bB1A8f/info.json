@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa35816AD75206102812363541dfb9C88E8bB1A8f",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "fa9ddfef-73ae-4fc5-9fb4-aa5485a710bf",
+  "links": null,
+  "logo": {},
+  "name": "Daniel Token 2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAN2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

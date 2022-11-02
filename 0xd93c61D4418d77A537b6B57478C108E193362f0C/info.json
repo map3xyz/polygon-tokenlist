@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xd93c61D4418d77A537b6B57478C108E193362f0C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b884a7c3-7c9f-4ebd-9e01-62e5b4618436",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xd93c61D4418d77A537b6B57478C108E193362f0C/logo.svg"
+  },
+  "name": "megaBONK",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mBONK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

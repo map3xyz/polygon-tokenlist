@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE439273659B86e33716BCF7Ad22408B541df50B1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6801898a-b508-47bf-ad0f-d2ae3662d68c",
+  "links": null,
+  "logo": {},
+  "name": "BankSocial",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BSL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

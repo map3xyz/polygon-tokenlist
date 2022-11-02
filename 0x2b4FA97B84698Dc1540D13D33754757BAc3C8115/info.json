@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x2b4FA97B84698Dc1540D13D33754757BAc3C8115",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab41fa8f-d727-43e8-9ffd-89af816a946b",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x2b4FA97B84698Dc1540D13D33754757BAc3C8115/logo.png"
+  },
+  "name": "PlannerDAO Opportunity Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PDAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

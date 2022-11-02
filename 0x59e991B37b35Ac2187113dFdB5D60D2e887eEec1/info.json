@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x59e991B37b35Ac2187113dFdB5D60D2e887eEec1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9299f36a-2652-423c-aca2-a20f053b1f16",
+  "links": null,
+  "logo": {},
+  "name": "Singularity Dao",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SDAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

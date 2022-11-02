@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6181dEdD5D6aa117716cc385A0184C709b1263F3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "baf24846-75a5-4d03-92f7-8359dc59f5e8",
+  "links": null,
+  "logo": {},
+  "name": "wMBX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wMBX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

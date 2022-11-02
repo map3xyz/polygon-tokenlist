@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c644e0e-0f1a-434f-8d6a-6e81f84a69df",
+  "links": null,
+  "logo": {},
+  "name": "DODO bird",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DODO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x032F85b8FbF8540a92B986d953e4C3A61C76d39E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "53c3a496-cc1d-4872-9129-2ac04ac95937",
+  "links": null,
+  "logo": {},
+  "name": "The Crypto Prophecies",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TCP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

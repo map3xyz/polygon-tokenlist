@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7E4e3923005aC2942745480D96751Ca9DEc5C9B6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1fde7cd9-9954-4bc0-be5a-698bddfaff7b",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Mirror AAPL Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mAAPL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

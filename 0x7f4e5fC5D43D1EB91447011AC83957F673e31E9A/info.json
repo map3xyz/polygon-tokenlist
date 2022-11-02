@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7f4e5fC5D43D1EB91447011AC83957F673e31E9A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6f54ba56-52f7-41f1-9ae3-eeae6d5ce1aa",
+  "links": null,
+  "logo": {},
+  "name": "Cindicator Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CND",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

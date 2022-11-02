@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x708CCa2f9EdED49918865Fd45442eF733155CAcb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "518dbaeb-b37d-4d80-bbc8-bfa5216ab039",
+  "links": null,
+  "logo": {},
+  "name": "Cover Protocol Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COVER",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

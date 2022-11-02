@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc54a5024b6c5e565772729b783021f60a8f9139c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23d482bf-7c2c-4f1a-8994-a5affe2503a2",
+  "links": null,
+  "logo": {},
+  "name": "Smoke",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SMOKE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

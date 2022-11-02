@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xef8480105b325D4bB7df87fC9a665Cf9bFC3807b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "274b314e-b88f-4725-a231-507ff2fa2f6d",
+  "links": null,
+  "logo": {},
+  "name": "EthereumPay",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EPAY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

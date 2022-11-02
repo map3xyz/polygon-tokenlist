@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF2cEd5F137e27f68E6A01Cc6C4198729e200e457",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "462a4d31-532f-4035-a917-8526c8b9afb5",
+  "links": null,
+  "logo": {},
+  "name": "CocktailBar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

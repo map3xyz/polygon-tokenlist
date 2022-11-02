@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6B0a55D19Af4F16F98965A5B85a308383D8bE55f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb61be4e-8c19-4d6b-ac6b-ef465a44a185",
+  "links": null,
+  "logo": {},
+  "name": "Value Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VALUE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

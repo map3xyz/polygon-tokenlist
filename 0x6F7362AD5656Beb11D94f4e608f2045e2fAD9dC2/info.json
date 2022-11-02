@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6F7362AD5656Beb11D94f4e608f2045e2fAD9dC2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a24d42c8-4e14-4e19-95d9-0080aec74912",
+  "links": null,
+  "logo": {},
+  "name": "MoonTools.io",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOONS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

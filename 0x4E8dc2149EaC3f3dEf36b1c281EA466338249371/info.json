@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x4E8dc2149EaC3f3dEf36b1c281EA466338249371",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04c73bd0-ae13-4990-a8b7-f023f409f73a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4E8dc2149EaC3f3dEf36b1c281EA466338249371/logo.svg"
+  },
+  "name": "Injective Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INJ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

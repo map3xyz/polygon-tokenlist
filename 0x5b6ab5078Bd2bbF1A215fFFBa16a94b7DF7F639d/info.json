@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5b6ab5078Bd2bbF1A215fFFBa16a94b7DF7F639d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a51544cb-9434-4636-a759-8d87d9e0030d",
+  "links": null,
+  "logo": {},
+  "name": "PieDAO DEFI++",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEFI++",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4349D5464203F1Da44513C1fEAb502839e69DBF8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4bd52e92-9360-4475-a2e3-6bf2a73e6152",
+  "links": null,
+  "logo": {},
+  "name": "Work Quest Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WQT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF6a38Ce301700e28e0d0a3b021BaE6D4Fa1b5d1b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5abe612c-2b4e-46b8-9b5a-740a7eff6f49",
+  "links": null,
+  "logo": {},
+  "name": "BASENJI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BSJ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

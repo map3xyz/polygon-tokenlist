@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x28F4F063C2405922d8792B04fF24983d6eE7a4b4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6028d234-d5a6-431b-9aa1-4cd2be669553",
+  "links": null,
+  "logo": {},
+  "name": "VUSD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VUSD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xCC12201E4b21B2ad0071b729F2dCC2f1E95977C5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b940f1e3-55bd-41f9-bfb1-3dcde8e01cac",
+  "links": null,
+  "logo": {},
+  "name": "NFTMart Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NMT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x26F10028C105501678531A19Fe025b93Ae055a9f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37329114-6c2d-4344-9f82-75fc71030ee6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x26F10028C105501678531A19Fe025b93Ae055a9f/logo.svg"
+  },
+  "name": "coin_artist",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

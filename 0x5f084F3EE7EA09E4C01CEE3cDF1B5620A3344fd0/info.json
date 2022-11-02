@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5f084F3EE7EA09E4C01CEE3cDF1B5620A3344fd0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff73e525-d3aa-44b0-acb2-6b833cfa35b0",
+  "links": null,
+  "logo": {},
+  "name": "KittenFinance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KIF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

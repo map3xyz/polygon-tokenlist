@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5Adf17a97Ef5DB18ad4cFC4B3F05128b922E0a58",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6425313b-43cb-4732-8255-99007cefddf7",
+  "links": null,
+  "logo": {},
+  "name": "Ether Stone",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETHS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

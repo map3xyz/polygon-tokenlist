@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x96f99063ECF25B72cEf4ed1473438AA623D27b82",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "32b85233-12c8-4fcc-8fd4-2114112af1a3",
+  "links": null,
+  "logo": {},
+  "name": "Ethereum Money",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETHMNY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

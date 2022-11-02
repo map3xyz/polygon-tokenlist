@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8A95d35dF832F03e99ED8Ee86E9d5F6Dd2641e81",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "12e1a053-eabb-4f59-af82-225c9b765dfc",
+  "links": null,
+  "logo": {},
+  "name": "ExoPlanets",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XPL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

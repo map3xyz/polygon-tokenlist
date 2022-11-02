@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "79137afc-208b-4a71-af75-41b6d23ad317",
+  "links": null,
+  "logo": {},
+  "name": "Memecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

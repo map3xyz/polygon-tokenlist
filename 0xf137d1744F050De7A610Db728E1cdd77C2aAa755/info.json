@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf137d1744F050De7A610Db728E1cdd77C2aAa755",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "debb646b-212f-4d13-8fb6-b038fc350cf7",
+  "links": null,
+  "logo": {},
+  "name": "Klee Kai",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KLEE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

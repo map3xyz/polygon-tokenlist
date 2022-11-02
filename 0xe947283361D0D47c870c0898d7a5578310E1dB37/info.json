@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe947283361D0D47c870c0898d7a5578310E1dB37",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "758c0107-1fc0-4be6-af17-b7ebeb00d279",
+  "links": null,
+  "logo": {},
+  "name": "HotLove",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7A9568aE827CD28Bf8365fD51BAA2dbcd7D3F465",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a8fa5a8-9c67-4e12-9a01-1be99f720915",
+  "links": null,
+  "logo": {},
+  "name": "Gas DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GAS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

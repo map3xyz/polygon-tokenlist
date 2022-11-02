@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd4c1E34187EDc72Fb6EBf3c4011dee50CAbF89c2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "74ae01b9-61a3-460e-9454-45a786678df6",
+  "links": null,
+  "logo": {},
+  "name": "EASYX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EASYX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

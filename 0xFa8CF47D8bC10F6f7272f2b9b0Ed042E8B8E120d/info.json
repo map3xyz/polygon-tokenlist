@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFa8CF47D8bC10F6f7272f2b9b0Ed042E8B8E120d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1f17e0e-3b6f-494b-9f5e-d73e1a154807",
+  "links": null,
+  "logo": {},
+  "name": "Matic-PTY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MPTY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

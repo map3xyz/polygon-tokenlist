@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4287F07CBE6954f9F0DecD91d0705C926d8d03A4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b9e0eca-e29c-4b91-8a94-1b40f60da91a",
+  "links": null,
+  "logo": {},
+  "name": "Trace Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRACE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

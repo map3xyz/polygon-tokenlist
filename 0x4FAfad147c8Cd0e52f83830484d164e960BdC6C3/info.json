@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4FAfad147c8Cd0e52f83830484d164e960BdC6C3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96d8972a-b650-4965-b078-1971b9699ab7",
+  "links": null,
+  "logo": {},
+  "name": "Qawalla Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "QWLA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x103308793661879166464cD0d0370Ac3b8A2A1cB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "c32bb897-d564-44d5-8f68-ee63e4c7042c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x103308793661879166464cD0d0370Ac3b8A2A1cB/logo.svg"
+  },
+  "name": "YOP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YOP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

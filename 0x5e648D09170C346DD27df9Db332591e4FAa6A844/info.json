@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x5e648D09170C346DD27df9Db332591e4FAa6A844",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2381cc2b-7961-4ccd-87b4-e386be556a18",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x5e648D09170C346DD27df9Db332591e4FAa6A844/logo.svg"
+  },
+  "name": "Sync Network ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SYNC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

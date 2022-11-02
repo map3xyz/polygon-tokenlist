@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x955CE23f20217a6Aa205620b40EdE4C9E83d325f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e30793a8-9dcf-4f98-96e4-ead48168fda1",
+  "links": null,
+  "logo": {},
+  "name": "Dreamr Platform Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DMR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

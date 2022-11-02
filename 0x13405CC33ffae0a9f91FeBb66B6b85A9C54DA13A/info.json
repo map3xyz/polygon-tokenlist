@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x13405CC33ffae0a9f91FeBb66B6b85A9C54DA13A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "505e694e-2d3f-4a42-8806-02d81c45723b",
+  "links": null,
+  "logo": {},
+  "name": "DOGEFI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOGEFI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

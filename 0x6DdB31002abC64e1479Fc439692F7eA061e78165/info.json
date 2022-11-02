@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6DdB31002abC64e1479Fc439692F7eA061e78165",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23ac0769-b3d7-4095-9cab-cc4bf59a0d61",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6DdB31002abC64e1479Fc439692F7eA061e78165/logo.png"
+  },
+  "name": "Furucombo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COMBO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

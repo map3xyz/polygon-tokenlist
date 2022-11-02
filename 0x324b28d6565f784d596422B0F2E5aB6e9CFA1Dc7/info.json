@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x324b28d6565f784d596422B0F2E5aB6e9CFA1Dc7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da8c2a5d-dfa3-4c8b-b2b0-0d52fdb9a691",
+  "links": null,
+  "logo": {},
+  "name": "Kyber Network Crystal",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KNC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

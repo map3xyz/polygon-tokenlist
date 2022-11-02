@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xCA69C315B644A45A35B25fe23FBaf6620599A063",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7f6fceb-3730-4c79-8f18-791ed17adfd3",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Whales",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wWH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

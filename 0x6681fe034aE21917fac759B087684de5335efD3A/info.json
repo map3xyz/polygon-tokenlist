@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6681fe034aE21917fac759B087684de5335efD3A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4a9b7961-d37e-4026-817b-c0cd6062b2dd",
+  "links": null,
+  "logo": {},
+  "name": "DeFi SISMO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SISMO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

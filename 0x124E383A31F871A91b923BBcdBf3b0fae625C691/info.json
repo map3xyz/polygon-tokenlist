@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x124E383A31F871A91b923BBcdBf3b0fae625C691",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13bb52a5-5de2-4419-8a17-e1bc9922d2b0",
+  "links": null,
+  "logo": {},
+  "name": "TiqCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TIQ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

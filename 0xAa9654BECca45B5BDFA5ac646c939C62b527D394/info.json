@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7daf060b-2976-4df0-b4cd-2cd13817057c",
+  "links": null,
+  "logo": {},
+  "name": "DinoSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DINO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x4EaC4c4e9050464067D673102F8E24b2FccEB350",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "78373bab-298c-4de0-88f6-1e8a6e1c4301",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4EaC4c4e9050464067D673102F8E24b2FccEB350/logo.svg"
+  },
+  "name": "Interest-Bearing BTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ibBTC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

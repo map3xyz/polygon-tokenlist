@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f5b5301-7362-40b6-8cdc-0918458f01da",
+  "links": null,
+  "logo": {},
+  "name": "APWine Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "APW",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x481791e5c37cF831Ed03742C7C5B5cFFA83A27D4",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "ff7e2044-c705-4e2b-80d2-d8e10bd05a54",
+  "links": null,
+  "logo": {},
+  "name": "Simarglum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GLUM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

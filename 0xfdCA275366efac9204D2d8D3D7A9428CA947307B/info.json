@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xfdCA275366efac9204D2d8D3D7A9428CA947307B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "261cd9a4-79d5-4489-b213-2b78f77eb916",
+  "links": null,
+  "logo": {},
+  "name": "XinFin XDCE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XDCE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

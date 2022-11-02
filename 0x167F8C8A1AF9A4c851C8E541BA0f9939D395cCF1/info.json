@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x167F8C8A1AF9A4c851C8E541BA0f9939D395cCF1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "374c0cdf-bd94-4493-b5e1-4e5df3ccfe5d",
+  "links": null,
+  "logo": {},
+  "name": "Wasabi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WASABI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

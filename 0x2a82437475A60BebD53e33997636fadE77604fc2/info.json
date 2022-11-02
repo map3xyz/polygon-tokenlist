@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2a82437475A60BebD53e33997636fadE77604fc2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7e87ec2-450d-42e0-8002-cc6804ab530e",
+  "links": null,
+  "logo": {},
+  "name": "Cirus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CIRUS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

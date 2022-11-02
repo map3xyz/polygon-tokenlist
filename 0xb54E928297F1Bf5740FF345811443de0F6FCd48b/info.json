@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb54E928297F1Bf5740FF345811443de0F6FCd48b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d2baf219-d5de-461a-a9cd-7b0b271135c3",
+  "links": null,
+  "logo": {},
+  "name": "Hegic",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HEGIC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd871B40646E1a6dbDED6290B6B696459a69C68A0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e4551595-cc4d-48cc-8f26-695d54c18c8b",
+  "links": null,
+  "logo": {},
+  "name": "Compound USD Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cUSDC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA3860f969075045D82de85B06bB665f93c4BAE32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94d9123b-5c06-45f4-98c8-e6f5f5046741",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xA3860f969075045D82de85B06bB665f93c4BAE32/logo.svg"
+  },
+  "name": "SuperBid",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SUPERBID",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

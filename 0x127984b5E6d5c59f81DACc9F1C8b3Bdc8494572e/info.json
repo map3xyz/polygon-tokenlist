@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x127984b5E6d5c59f81DACc9F1C8b3Bdc8494572e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "faba0130-83f4-4bc8-94a3-76c0d69cb649",
+  "links": null,
+  "logo": {},
+  "name": "Pepedex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PPDEX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

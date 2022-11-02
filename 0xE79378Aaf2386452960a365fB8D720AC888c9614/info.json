@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE79378Aaf2386452960a365fB8D720AC888c9614",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "99df9981-2c14-4a5f-83c6-951d8cc688d5",
+  "links": null,
+  "logo": {},
+  "name": "Phantasma Stake",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOUL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

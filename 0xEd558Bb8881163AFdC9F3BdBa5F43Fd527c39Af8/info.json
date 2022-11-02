@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xEd558Bb8881163AFdC9F3BdBa5F43Fd527c39Af8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3745ab4-d182-4c8a-a5f4-fb437aa7f812",
+  "links": null,
+  "logo": {},
+  "name": "JUMP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$JUMP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

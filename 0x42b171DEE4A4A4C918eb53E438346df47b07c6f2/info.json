@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x42b171DEE4A4A4C918eb53E438346df47b07c6f2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9cc5fcc2-ab6c-4453-9deb-8888776d59ab",
+  "links": null,
+  "logo": {},
+  "name": "MOI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeB4a74e9882273B7D9d985098d7b7C7512001c31",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3c78fee8-4a69-47f9-90da-acb6808688ae",
+  "links": null,
+  "logo": {},
+  "name": "LeftHouse",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LEFT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

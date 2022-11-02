@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x00A49A868d3FB149483A69045e1Ed01e8C812FF0",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "90ce1a5e-af8c-47fd-9d48-02cd8ce86a51",
+  "links": null,
+  "logo": {},
+  "name": "Healthcare Administration Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOLVE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

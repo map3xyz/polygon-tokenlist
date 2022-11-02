@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3FC98379bB51bBefDfb882bE2Bb928D118a1990A",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "b42c4c09-4bf4-490c-8b6e-d4a3a5cdd91f",
+  "links": null,
+  "logo": {},
+  "name": "Tuo Luo BlockChain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TLBC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

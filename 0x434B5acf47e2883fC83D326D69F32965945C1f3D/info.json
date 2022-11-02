@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x434B5acf47e2883fC83D326D69F32965945C1f3D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e83074e4-25b5-4979-a1a0-44fa3cdd04cd",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x434B5acf47e2883fC83D326D69F32965945C1f3D/logo.svg"
+  },
+  "name": "Social Rocket",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROCKS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

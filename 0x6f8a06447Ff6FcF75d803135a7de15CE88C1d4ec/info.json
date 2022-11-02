@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4425e86-cb5f-4ceb-8934-be197fbbe211",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec/logo.svg"
+  },
+  "name": "SHIBA INU",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHIB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

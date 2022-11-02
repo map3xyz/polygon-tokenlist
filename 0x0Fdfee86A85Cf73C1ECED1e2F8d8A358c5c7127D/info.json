@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0Fdfee86A85Cf73C1ECED1e2F8d8A358c5c7127D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da35724c-d30e-49fa-b6fa-0d18e0aeb728",
+  "links": null,
+  "logo": {},
+  "name": "YourGamify Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GAM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9138c6cf-3143-4e58-8617-7f8b36c907ba",
+  "links": null,
+  "logo": {},
+  "name": "Fear NFTs",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FEAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

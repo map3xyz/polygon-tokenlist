@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb070d0166A4CE2D47d8af1178847886aA240895D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4eed38ac-41a5-435d-981c-6e86988fd27b",
+  "links": null,
+  "logo": {},
+  "name": "DIGITAL FITNESS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEFIT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

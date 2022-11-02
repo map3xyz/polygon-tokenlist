@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x69f240eD3456A098f2D0D898566597E7551a7C81",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "37f1c350-8d90-469c-a03b-c643288dbc3d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x69f240eD3456A098f2D0D898566597E7551a7C81/logo.svg"
+  },
+  "name": "ProjectSenpai",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SENPAI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

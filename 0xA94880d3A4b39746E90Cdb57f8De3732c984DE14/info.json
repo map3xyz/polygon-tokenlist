@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA94880d3A4b39746E90Cdb57f8De3732c984DE14",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "18ec7f06-3600-4e7c-8abb-75bd4c5496c3",
+  "links": null,
+  "logo": {},
+  "name": "UCASH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UCASH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

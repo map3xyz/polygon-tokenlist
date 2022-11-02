@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x68de9750059Aed98c9A200Ee661A5316b5C7F941",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "482b0956-0884-4651-a31a-7114594823e6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x68de9750059Aed98c9A200Ee661A5316b5C7F941/logo.svg"
+  },
+  "name": "Nimbus Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GNBU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

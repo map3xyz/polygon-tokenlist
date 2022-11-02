@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8ac36b10-d09d-4935-8291-0eb8250b1b6c",
+  "links": null,
+  "logo": {},
+  "name": "decentral.games",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$DG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

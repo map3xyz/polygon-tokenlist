@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf862E6a988d0B7B7Bf2f87b8E28454fAfc5A4237",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a949b67c-ef45-4403-b4ed-71435c321056",
+  "links": null,
+  "logo": {},
+  "name": "yffi.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YFFI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

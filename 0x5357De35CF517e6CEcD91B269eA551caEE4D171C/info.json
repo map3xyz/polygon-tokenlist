@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5357De35CF517e6CEcD91B269eA551caEE4D171C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6a6c1f91-a182-4b0a-9a78-56ca6ae68f4b",
+  "links": null,
+  "logo": {},
+  "name": "superkittens",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SKITS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

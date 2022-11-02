@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xC8Ed802a2CB6240b05B8C310137086BF4BC11b55",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f713c231-7478-4982-a90b-bc443c9fe0dd",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xC8Ed802a2CB6240b05B8C310137086BF4BC11b55/logo.svg"
+  },
+  "name": "Polkamon",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PMON",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

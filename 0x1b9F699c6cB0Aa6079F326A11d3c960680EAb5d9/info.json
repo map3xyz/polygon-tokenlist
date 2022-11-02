@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1b9F699c6cB0Aa6079F326A11d3c960680EAb5d9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8717f434-3053-4647-822f-adb08499d321",
+  "links": null,
+  "logo": {},
+  "name": "WGMI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WGMI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD74CE620dDF70E7c143aF75519712e8eaDA541f3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2167c765-d8fb-478d-8696-70e842ca8ebc",
+  "links": null,
+  "logo": {},
+  "name": "Amongus.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AMONG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

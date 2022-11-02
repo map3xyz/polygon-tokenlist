@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb6dd51D3852A174D4Dbe045e77DF2ED84942ae6f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f0d5dcab-e597-454d-b450-f4d8d6daacf4",
+  "links": null,
+  "logo": {},
+  "name": "Delta Exchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DETO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

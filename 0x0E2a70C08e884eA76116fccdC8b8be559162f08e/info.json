@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0E2a70C08e884eA76116fccdC8b8be559162f08e",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "02284bec-2e92-4bef-8a55-f89dfb2cd018",
+  "links": null,
+  "logo": {},
+  "name": "Cfoforum Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CFO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

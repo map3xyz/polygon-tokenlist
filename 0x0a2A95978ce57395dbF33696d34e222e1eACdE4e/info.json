@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0a2A95978ce57395dbF33696d34e222e1eACdE4e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c9e3289-5e6a-4bd8-bd5d-64732afef471",
+  "links": null,
+  "logo": {},
+  "name": "Terrapass Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TPSC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

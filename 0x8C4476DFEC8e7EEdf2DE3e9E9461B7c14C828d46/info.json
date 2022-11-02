@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8C4476DFEC8e7EEdf2DE3e9E9461B7c14C828d46",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "24733641-dcb0-4cf8-b17f-58162bde1762",
+  "links": null,
+  "logo": {},
+  "name": "UniX Gaming",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNIX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

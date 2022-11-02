@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f159878f-495c-46b4-a524-ad2d0f90992e",
+  "links": null,
+  "logo": {},
+  "name": "Snook",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SNK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

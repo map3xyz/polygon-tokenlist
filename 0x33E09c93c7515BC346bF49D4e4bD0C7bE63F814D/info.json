@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x33E09c93c7515BC346bF49D4e4bD0C7bE63F814D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b0faaca-ec57-4d63-95ac-dc66fa8e39b3",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x33E09c93c7515BC346bF49D4e4bD0C7bE63F814D/logo.svg"
+  },
+  "name": "dfohub",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "buidl",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

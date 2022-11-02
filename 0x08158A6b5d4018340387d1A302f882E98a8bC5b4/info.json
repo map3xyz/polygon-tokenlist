@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x08158A6b5d4018340387d1A302f882E98a8bC5b4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7e99af93-d05f-4458-bcf0-d1c4b1cf9497",
+  "links": null,
+  "logo": {},
+  "name": "Plasma",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PPAY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

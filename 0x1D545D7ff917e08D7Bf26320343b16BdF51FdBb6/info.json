@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1D545D7ff917e08D7Bf26320343b16BdF51FdBb6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fcdaeb31-12c5-4ab8-9e4f-758ce97696d5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1D545D7ff917e08D7Bf26320343b16BdF51FdBb6/logo.svg"
+  },
+  "name": "Cellframe Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CELL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

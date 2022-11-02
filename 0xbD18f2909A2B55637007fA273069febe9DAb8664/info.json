@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xbD18f2909A2B55637007fA273069febe9DAb8664",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "006a92a4-6062-49c5-917b-ebb766a5245c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xbD18f2909A2B55637007fA273069febe9DAb8664/logo.svg"
+  },
+  "name": "Wrapped Gen 0",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WG0",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x95f3B277b5A688f78Ab0047bD298f09fB263E089",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "8ab509dd-b445-42c4-a5c4-3c4289deafdf",
+  "links": null,
+  "logo": {},
+  "name": "Blastoise Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLAST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

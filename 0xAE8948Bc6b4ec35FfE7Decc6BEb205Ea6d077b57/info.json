@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAE8948Bc6b4ec35FfE7Decc6BEb205Ea6d077b57",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5608f4aa-3dcf-4e1c-b6e0-60b78e0c03e4",
+  "links": null,
+  "logo": {},
+  "name": "Sheesha Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHEESHA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

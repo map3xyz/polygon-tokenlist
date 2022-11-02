@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2C1084a041B976b96B769d1C250562864317c1Aa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a03c5e74-2c4b-455b-81cd-e7f2de27ef33",
+  "links": null,
+  "logo": {},
+  "name": "BlockTV",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLTV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

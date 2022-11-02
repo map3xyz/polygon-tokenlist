@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa810289DAA9235aFF550Fbacc68703c2ffc3cd80",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8c0bd109-8f5d-4586-ac6b-d299b882270c",
+  "links": null,
+  "logo": {},
+  "name": "EnkronosToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ENK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

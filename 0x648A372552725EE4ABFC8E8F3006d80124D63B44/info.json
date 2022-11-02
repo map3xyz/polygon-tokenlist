@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x648A372552725EE4ABFC8E8F3006d80124D63B44",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "23c5cfa1-9b6a-4dc5-881a-e29c2bf13c4b",
+  "links": null,
+  "logo": {},
+  "name": "RUNCOIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RUN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

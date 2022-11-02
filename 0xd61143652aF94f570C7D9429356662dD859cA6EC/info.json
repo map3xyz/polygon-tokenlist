@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd61143652aF94f570C7D9429356662dD859cA6EC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cbf9465e-c8d2-4d35-9cca-0d1f26285d87",
+  "links": null,
+  "logo": {},
+  "name": "Fintropy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FINT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4C2C04E6f0ec30EbD60b2fFbE11814C3d59910f7",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "9e6f2a85-f311-48e5-8e95-043274cb6d9c",
+  "links": null,
+  "logo": {},
+  "name": "Crypto Nijigen",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NGN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

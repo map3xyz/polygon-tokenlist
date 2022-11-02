@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x990F860968714c2D16e91Ec0cd9709A94264Cf64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab6f33e3-6d4a-42ba-ae25-9dc0b97fa2ae",
+  "links": null,
+  "logo": {},
+  "name": "PieDAO DOUGH v2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOUGH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

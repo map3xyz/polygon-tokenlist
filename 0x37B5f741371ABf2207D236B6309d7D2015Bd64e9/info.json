@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x37B5f741371ABf2207D236B6309d7D2015Bd64e9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c640656-e194-4764-96b3-60bf8a455426",
+  "links": null,
+  "logo": {},
+  "name": "Octett",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OCTT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

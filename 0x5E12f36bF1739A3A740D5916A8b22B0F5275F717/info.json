@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5E12f36bF1739A3A740D5916A8b22B0F5275F717",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fad2f004-633b-4ae6-8e1f-dad2520c930a",
+  "links": null,
+  "logo": {},
+  "name": "DeFiPIE Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PIE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

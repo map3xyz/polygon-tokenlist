@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x87c830b6d732C3209dB97f61B379F359570d6A49",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87e6d251-5046-45bf-a2eb-40690d41fdf8",
+  "links": null,
+  "logo": {},
+  "name": "Sapiency",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPCY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

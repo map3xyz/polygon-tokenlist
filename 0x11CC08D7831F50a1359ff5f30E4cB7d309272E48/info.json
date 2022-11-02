@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x11CC08D7831F50a1359ff5f30E4cB7d309272E48",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "fa8f8075-3095-41e9-9088-5e9344891f80",
+  "links": null,
+  "logo": {},
+  "name": "BCLTjack",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "jack",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

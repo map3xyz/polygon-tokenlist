@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9fDC23fe295104Ac55fef09363c56451D0E37CFA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3dd0f426-0679-487c-9fad-34b6c61a7d05",
+  "links": null,
+  "logo": {},
+  "name": "Rickle",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "rkl",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

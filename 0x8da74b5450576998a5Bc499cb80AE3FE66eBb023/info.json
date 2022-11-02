@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8da74b5450576998a5Bc499cb80AE3FE66eBb023",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce01d682-7016-4fd6-a4b7-78c1ab111dd4",
+  "links": null,
+  "logo": {},
+  "name": "GateChainToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

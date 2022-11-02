@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xdEE1ebd2a9F6fE069a045601ebeE7C42572ABD5F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6dc7df2-b189-46fc-babb-e49e13206327",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xdEE1ebd2a9F6fE069a045601ebeE7C42572ABD5F/logo.svg"
+  },
+  "name": "Waifu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WAIF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

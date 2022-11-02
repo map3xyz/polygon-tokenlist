@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xff835562C761205659939B64583dd381a6AA4D92",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "12ee81a6-22b5-48f6-81ea-70d8d31c9ffc",
+  "links": null,
+  "logo": {},
+  "name": "DEXTools",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEXT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

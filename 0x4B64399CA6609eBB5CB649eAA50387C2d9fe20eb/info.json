@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4B64399CA6609eBB5CB649eAA50387C2d9fe20eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "47e05b2e-c9d4-48f4-9545-e6742983aa76",
+  "links": null,
+  "logo": {},
+  "name": "Chai",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHAI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

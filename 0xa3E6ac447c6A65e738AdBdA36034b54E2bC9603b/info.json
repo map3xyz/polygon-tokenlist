@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa3E6ac447c6A65e738AdBdA36034b54E2bC9603b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "51dc13eb-8cb0-41a8-8e2a-a01cad10c06a",
+  "links": null,
+  "logo": {},
+  "name": "Aurox Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "URUS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

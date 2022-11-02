@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x40077808B346681C7032Cdf6a2920ab9980eAb91",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "549cc777-8d56-457c-b542-02b73e027bb0",
+  "links": null,
+  "logo": {},
+  "name": "DogeDao",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DogeDao",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

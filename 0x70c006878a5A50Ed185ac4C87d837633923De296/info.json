@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "068ac0a2-26df-4d21-8f00-594b663575d2",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x70c006878a5A50Ed185ac4C87d837633923De296/logo.png"
+  },
+  "name": "Revv",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REVV",
+  "tags": [
+    "pos",
+    "erc20",
+    "customWithdrawEventSig",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

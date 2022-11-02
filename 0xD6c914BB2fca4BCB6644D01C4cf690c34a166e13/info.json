@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xD6c914BB2fca4BCB6644D01C4cf690c34a166e13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3c67109-e8cc-4a16-9d16-1cea6b7950da",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xD6c914BB2fca4BCB6644D01C4cf690c34a166e13/logo.svg"
+  },
+  "name": "Vibrant Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ViFi",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

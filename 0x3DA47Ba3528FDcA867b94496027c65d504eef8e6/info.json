@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3DA47Ba3528FDcA867b94496027c65d504eef8e6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "201416e9-da51-4610-a0e5-7dc16f09ea9f",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Ether IOU",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "iWETH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

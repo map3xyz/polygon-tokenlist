@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x421E0acEa8cD9D4aa2bcEdB407726b6A4Bffb664",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8a93f9e4-37be-4342-8a54-b9f75f0119e9",
+  "links": null,
+  "logo": {},
+  "name": "DoTx Uniswap V2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DoTxUNI-V2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

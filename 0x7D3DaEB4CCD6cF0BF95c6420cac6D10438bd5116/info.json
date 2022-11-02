@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7D3DaEB4CCD6cF0BF95c6420cac6D10438bd5116",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28a02fd5-7743-47f8-8b73-8b77c0f220cc",
+  "links": null,
+  "logo": {},
+  "name": "Zipmex Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZMT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

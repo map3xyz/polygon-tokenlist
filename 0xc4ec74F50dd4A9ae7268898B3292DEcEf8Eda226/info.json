@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc4ec74F50dd4A9ae7268898B3292DEcEf8Eda226",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "af5e5155-d236-48a1-8be8-2aed0a281285",
+  "links": null,
+  "logo": {},
+  "name": "Kagra",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KGR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

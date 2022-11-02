@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6E5BCf069213676e4E3C75aEb60Eaab0C41ff1CE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "99b6f899-e541-42bf-bff3-15fbb600032f",
+  "links": null,
+  "logo": {},
+  "name": "mushrooming Curve DAI/USDC/USDT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "m3Crv",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

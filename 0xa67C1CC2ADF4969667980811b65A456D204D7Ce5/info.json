@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa67C1CC2ADF4969667980811b65A456D204D7Ce5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c2a370b-9e3f-4515-8819-755573a9ad58",
+  "links": null,
+  "logo": {},
+  "name": "Verse",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VERSE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

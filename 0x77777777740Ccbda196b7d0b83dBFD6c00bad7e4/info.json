@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x77777777740Ccbda196b7d0b83dBFD6c00bad7e4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "22b55187-edc8-4304-be4b-669d2d329749",
+  "links": null,
+  "logo": {},
+  "name": "ramen.bet Trial",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RMNT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5A98291b9A7643448f5366Fe4a4918f7cb566912",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9b851b78-874c-4ebe-9338-a3952c7a087b",
+  "links": null,
+  "logo": {},
+  "name": "Mobilum Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MBM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6A3E4008aF5DCFc416e1B17130783dAEE13AB694",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "f63abcef-f191-4699-b420-1777f9e12293",
+  "links": null,
+  "logo": {},
+  "name": "yfii Tether USD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "iUSDT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

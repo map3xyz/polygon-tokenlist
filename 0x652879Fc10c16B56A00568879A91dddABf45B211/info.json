@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x652879Fc10c16B56A00568879A91dddABf45B211",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "86d7f2fa-fa15-4db4-8028-410f7ec0776a",
+  "links": null,
+  "logo": {},
+  "name": "DoggittyDoGG",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOGG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

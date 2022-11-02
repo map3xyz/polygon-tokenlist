@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1dce4a8b459A50F450EE91Fb5e6c86d161aA22f8",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "63a90da4-33ae-4469-9cb9-224847b5a9d7",
+  "links": null,
+  "logo": {},
+  "name": "Ultra Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UOS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

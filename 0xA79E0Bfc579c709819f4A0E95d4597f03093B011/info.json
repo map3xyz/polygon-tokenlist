@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA79E0Bfc579c709819f4A0E95d4597f03093B011",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b820438a-b295-4601-98d9-8ed1b3a6c4cb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xA79E0Bfc579c709819f4A0E95d4597f03093B011/logo.svg"
+  },
+  "name": "Stater",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

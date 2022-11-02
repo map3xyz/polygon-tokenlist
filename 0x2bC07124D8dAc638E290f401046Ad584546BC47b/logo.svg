@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="60" height="60"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g id="logo-tower" clip-path="url(#SVGID_2_)">
+		<circle id="Ellipse_254" fill="#FFFFFF" cx="30" cy="30" r="30"/>
+		<g>
+			<polygon points="39.32,13.475 38.564,17.244 33.127,17.244 32.373,13.475 27.824,13.475 27.07,17.244 22.289,17.244 
+				21.534,13.475 16.125,13.475 17.104,23.426 42.889,23.426 43.875,13.45 			"/>
+			<path d="M17.398,25.346l0.132,1.919l0.504,5.466l0.021,0.247l0.001-0.004l0.914,9.914l11.01,9.662L30,52.439l0.02,0.111
+				l11.012-9.662l1.439-15.624l0.127-1.824l0.033-0.095H17.398z M20.816,29.27h6.766v16.98l-5.75-5.238L20.816,29.27z
+				 M32.623,46.064V29.27h6.562l-1.018,11.742L32.623,46.064z"/>
+		</g>
+	</g>
+</g>
+</svg>

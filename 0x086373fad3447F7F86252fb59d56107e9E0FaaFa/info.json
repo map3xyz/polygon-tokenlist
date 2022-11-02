@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x086373fad3447F7F86252fb59d56107e9E0FaaFa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5c4e9926-2c86-43be-b232-932d2745890d",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x086373fad3447F7F86252fb59d56107e9E0FaaFa/logo.png"
+  },
+  "name": "Yup",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YUP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

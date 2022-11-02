@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF30355BA14B2d3b31597EC71a4542f57e902Cb80",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "be538c99-09ac-47e7-b71c-c10e9182b728",
+  "links": null,
+  "logo": {},
+  "name": "OCC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OCC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

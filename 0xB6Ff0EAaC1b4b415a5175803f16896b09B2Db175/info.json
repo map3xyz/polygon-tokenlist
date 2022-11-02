@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB6Ff0EAaC1b4b415a5175803f16896b09B2Db175",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ce085b5-3eb4-49d2-9a05-5de68dc9f94b",
+  "links": null,
+  "logo": {},
+  "name": "gameswap.org",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GSWAP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

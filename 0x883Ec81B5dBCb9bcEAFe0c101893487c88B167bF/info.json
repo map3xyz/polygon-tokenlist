@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x883Ec81B5dBCb9bcEAFe0c101893487c88B167bF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d29f4d46-9f86-40a8-8e84-d11b36c65c3b",
+  "links": null,
+  "logo": {},
+  "name": "INDI CORPS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "INDI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

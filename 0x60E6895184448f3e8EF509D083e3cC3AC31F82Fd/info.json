@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x60E6895184448f3e8EF509D083e3cC3AC31F82Fd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "afd03169-fb17-468d-98b2-c703481c3ebe",
+  "links": null,
+  "logo": {},
+  "name": "KwikTrust",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KTX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

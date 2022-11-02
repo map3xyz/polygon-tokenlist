@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x62A3C5d6346A842d24053D871Ebe908A78cb46ab",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "27029054-5bac-4671-a964-3c8c124d66e1",
+  "links": null,
+  "logo": {},
+  "name": "EVER META",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EVEM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

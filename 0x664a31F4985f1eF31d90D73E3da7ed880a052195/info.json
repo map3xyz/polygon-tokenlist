@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x664a31F4985f1eF31d90D73E3da7ed880a052195",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c71724d2-19ee-44f7-84f0-b5c1e99bec44",
+  "links": null,
+  "logo": {},
+  "name": "Linear Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LINA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

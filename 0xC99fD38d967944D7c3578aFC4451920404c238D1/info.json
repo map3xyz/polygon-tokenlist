@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC99fD38d967944D7c3578aFC4451920404c238D1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f3ef2c38-e00c-48f6-9d84-6724e76c655b",
+  "links": null,
+  "logo": {},
+  "name": "REVV Motorsport Shard",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHRD",
+  "tags": [
+    "pos",
+    "erc20",
+    "customWithdrawEventSig"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

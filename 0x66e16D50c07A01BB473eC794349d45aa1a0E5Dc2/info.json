@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x66e16D50c07A01BB473eC794349d45aa1a0E5Dc2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6ed7348d-df3f-4621-b601-5c560e996d85",
+  "links": null,
+  "logo": {},
+  "name": "FOAM Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FOAM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

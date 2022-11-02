@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "393eb665-034c-4d17-92a6-c2e1444d55bb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC/logo.svg"
+  },
+  "name": "Ethernity Chain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ERN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

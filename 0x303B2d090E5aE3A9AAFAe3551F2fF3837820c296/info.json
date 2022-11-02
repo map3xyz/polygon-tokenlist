@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x303B2d090E5aE3A9AAFAe3551F2fF3837820c296",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ad7bb9fc-0f29-466d-99a5-385c6025344d",
+  "links": null,
+  "logo": {},
+  "name": "EtherDoge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EDOGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

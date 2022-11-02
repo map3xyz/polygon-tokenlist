@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59815cd4-5bb9-4cc7-8da5-b16bd5ffcaa3",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a/logo.svg"
+  },
+  "name": "Wise Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WISE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

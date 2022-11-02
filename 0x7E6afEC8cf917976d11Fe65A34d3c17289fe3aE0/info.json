@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7E6afEC8cf917976d11Fe65A34d3c17289fe3aE0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c71334cd-984d-4081-a8c4-bc4549061a93",
+  "links": null,
+  "logo": {},
+  "name": "Pikachu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Pikachu",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

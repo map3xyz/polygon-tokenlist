@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x688AB7562301b3B58B67bEB614986B51ad3698eB",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "ed5abdf9-1c6d-4e3c-ac27-9b7825cc01ea",
+  "links": null,
+  "logo": {},
+  "name": "Ampleforth",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AMPL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

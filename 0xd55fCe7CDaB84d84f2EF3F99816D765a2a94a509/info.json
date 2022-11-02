@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "69f193c8-4efa-4a3f-b60a-655fa3ce17c1",
+  "links": null,
+  "logo": {},
+  "name": "Chain Games",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHAIN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

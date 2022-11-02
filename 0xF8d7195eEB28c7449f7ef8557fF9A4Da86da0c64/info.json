@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF8d7195eEB28c7449f7ef8557fF9A4Da86da0c64",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ac5ee7a-e0ed-4b08-ad3c-1e554e8d0033",
+  "links": null,
+  "logo": {},
+  "name": "IMPULSEVEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "i7",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

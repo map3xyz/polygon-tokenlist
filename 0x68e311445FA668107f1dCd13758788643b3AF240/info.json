@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x68e311445FA668107f1dCd13758788643b3AF240",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e19dea7-844d-43c3-90ae-88aa48ca9a9f",
+  "links": null,
+  "logo": {},
+  "name": "Dickels",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "8=D",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

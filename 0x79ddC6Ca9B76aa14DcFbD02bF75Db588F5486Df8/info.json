@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x79ddC6Ca9B76aa14DcFbD02bF75Db588F5486Df8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1ce381f9-9ca9-4e91-9ea7-2467c780c8f4",
+  "links": null,
+  "logo": {},
+  "name": "TitanSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Titan",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

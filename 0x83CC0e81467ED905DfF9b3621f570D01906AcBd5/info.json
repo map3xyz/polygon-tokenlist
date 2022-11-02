@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x83CC0e81467ED905DfF9b3621f570D01906AcBd5",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "59c24b5d-4c32-478e-bb95-12725fffe27c",
+  "links": null,
+  "logo": {},
+  "name": "Hokage Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HOKAGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

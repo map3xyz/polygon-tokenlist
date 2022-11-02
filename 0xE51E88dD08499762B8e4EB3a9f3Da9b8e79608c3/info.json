@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE51E88dD08499762B8e4EB3a9f3Da9b8e79608c3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08186c8d-2a01-4c94-9998-4f3e6b83273c",
+  "links": null,
+  "logo": {},
+  "name": "Sekuritance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SKRT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

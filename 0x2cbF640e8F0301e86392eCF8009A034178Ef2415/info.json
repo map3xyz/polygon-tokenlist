@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2cbF640e8F0301e86392eCF8009A034178Ef2415",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6a2a755-a408-4c56-9cbf-6c22c3f94b1c",
+  "links": null,
+  "logo": {},
+  "name": "Pupper",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PUP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

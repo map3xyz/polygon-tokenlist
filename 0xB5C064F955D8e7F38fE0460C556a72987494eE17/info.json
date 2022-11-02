@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "44d5bf2a-d583-4ac6-a1a2-0c2fb041ebb0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xB5C064F955D8e7F38fE0460C556a72987494eE17/logo.svg"
+  },
+  "name": "QuickSwap - new",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "QUICK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

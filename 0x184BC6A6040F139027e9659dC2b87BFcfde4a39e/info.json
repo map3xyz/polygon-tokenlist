@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x184BC6A6040F139027e9659dC2b87BFcfde4a39e",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "713e2616-319a-4b38-9259-0468c54608e7",
+  "links": null,
+  "logo": {},
+  "name": "Shibnobi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHINJA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

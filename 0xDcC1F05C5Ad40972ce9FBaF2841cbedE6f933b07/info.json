@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDcC1F05C5Ad40972ce9FBaF2841cbedE6f933b07",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "19c2b02d-f287-4b15-a2f5-d47774334474",
+  "links": null,
+  "logo": {},
+  "name": "MYCE PLATFORM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MYCE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE50C778924604B2AA3e66Fb5C2D378D5FC15FcD5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9188b009-dfae-4c54-82de-1ea84f6c33f5",
+  "links": null,
+  "logo": {},
+  "name": "Ember NFT Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ENFTI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

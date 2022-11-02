@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x654f82124A885AF03d2DA6b53c004343920aE189",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9677bdff-85ca-4d77-8f66-a5eb4b484288",
+  "links": null,
+  "logo": {},
+  "name": "88mph.app",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MPH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

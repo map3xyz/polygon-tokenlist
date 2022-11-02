@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7Dadd73F6AE9e4cE0bA50d8818ebd8A7eC578b11",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "92986819-0475-472e-a62f-9513b097db0d",
+  "links": null,
+  "logo": {},
+  "name": "Etherdieum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ED",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

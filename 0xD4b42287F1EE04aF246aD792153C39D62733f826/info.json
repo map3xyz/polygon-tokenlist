@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xD4b42287F1EE04aF246aD792153C39D62733f826",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0f75b21-2b61-4115-8dc7-957eb71404a3",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xD4b42287F1EE04aF246aD792153C39D62733f826/logo.png"
+  },
+  "name": "UCT Cash",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UCTC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6f57Ec3C983a04C9Bf9958C9E908c39a3cD0870d",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "20032bd4-64cb-4bf2-966d-a9f41ca6149c",
+  "links": null,
+  "logo": {},
+  "name": "AMIS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AMIS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe7789178ddC4Edb3b038115B1826c66640C57Ecc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6cace495-64d5-4a3d-b5cc-9aa08c6fb5d6",
+  "links": null,
+  "logo": {},
+  "name": "Blockchain Certified Data Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BCDT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

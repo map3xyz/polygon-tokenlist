@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b95dc51b-7663-4f82-b8f7-adea6c4658e5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x553d3D295e0f695B9228246232eDF400ed3560B5/logo.svg"
+  },
+  "name": "Paxos Gold",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PAXG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

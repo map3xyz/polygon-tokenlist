@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x67BcDE6a52BE923D3223fCae927aB16B352768Bb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d89f357f-1f83-4dbd-87eb-4f317604e47a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x67BcDE6a52BE923D3223fCae927aB16B352768Bb/logo.svg"
+  },
+  "name": "TCAP Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TCAP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

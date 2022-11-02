@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0361BdEAB89DF6BBcc52c43589FABba5143d19dD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4de25e6b-4048-4f9d-ba74-33a33cbfeef3",
+  "links": null,
+  "logo": {},
+  "name": "dHEDGE Top Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "dTOP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

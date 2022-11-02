@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x19334A0E0A6089D4014f82E9077Ec1a27e27bfa1",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "d7f3863c-de1f-4185-b15c-4c219d4d7597",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x19334A0E0A6089D4014f82E9077Ec1a27e27bfa1/logo.svg"
+  },
+  "name": "Shiba Cosmos",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHIBCO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x540EBA0ab20E9d77998f9a26e75079317703D76d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4cf8b471-b13b-4d78-a368-599894f32708",
+  "links": null,
+  "logo": {},
+  "name": "MetaFactory",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROBOT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

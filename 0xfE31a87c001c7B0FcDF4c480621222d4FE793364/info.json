@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xfE31a87c001c7B0FcDF4c480621222d4FE793364",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bf5f329c-35c8-4d72-9859-5d1955e6de04",
+  "links": null,
+  "logo": {},
+  "name": "Toshi Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TOSHI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

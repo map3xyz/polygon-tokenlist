@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "ecdd517f-32f3-4cc7-a632-701e9afc6cb3",
+  "links": null,
+  "logo": {},
+  "name": "Global Coin Research",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GCR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

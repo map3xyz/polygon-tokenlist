@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7aa2e6a5-f864-4f5c-aa6d-50c6e61eb4de",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x554f074d9cCda8F483d1812d4874cBebD682644E/logo.svg"
+  },
+  "name": "AnRKey X",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$ANRX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x134D934Bc4C05C11e19B03342E5E01aBC4C5f27C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ea7dd49-1590-41b7-9c13-11eaeb72ec06",
+  "links": null,
+  "logo": {},
+  "name": "Chad Link Set",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHADLINK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

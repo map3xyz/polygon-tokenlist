@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE2aFF5409F0a5d66879f6905dFc832cbdb59919F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72f7900f-0578-4fb5-bbfb-bb703e445ada",
+  "links": null,
+  "logo": {},
+  "name": "BaoBoShiCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BBSC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

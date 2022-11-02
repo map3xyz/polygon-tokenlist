@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x01d35cbC2070a3B76693Ce2b6364Eae24eb88591",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "facc6156-b0f6-403b-b142-26a40dd7ffff",
+  "links": null,
+  "logo": {},
+  "name": "Polygen",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PGEN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

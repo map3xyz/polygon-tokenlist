@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7f36C54Da31b2Dd355CAfFEC0249F26Da41e3fcD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "237b5de7-70ab-4f83-b21b-e894c7020a55",
+  "links": null,
+  "logo": {},
+  "name": "EnoToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ENO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

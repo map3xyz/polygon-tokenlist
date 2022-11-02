@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8B0180f2101c8260d49339abfEe87927412494B4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7703cc9f-34fe-4488-a915-997f99a85187",
+  "links": null,
+  "logo": {},
+  "name": "NFTicket Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NTT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

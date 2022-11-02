@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8Cd9524406e9571EF524DBE8dFaCC7743fA72507",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f9d15e5-847c-4888-b27e-8e54c12fdf76",
+  "links": null,
+  "logo": {},
+  "name": "WIPcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WIPC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

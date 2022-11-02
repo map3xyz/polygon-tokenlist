@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x349f96F489ed4e73e6C118Ed2D568343C9ee7cEc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "28361fc9-c8ad-4b2a-8eb3-7f3db6bbd344",
+  "links": null,
+  "logo": {},
+  "name": "Omniunit Cash",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OMCH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

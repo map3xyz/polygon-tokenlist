@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3C7681320cc5d558480A8FF2f19A01c312535364",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ac3cef7f-60d1-41e3-9250-954c2c92b8b1",
+  "links": null,
+  "logo": {},
+  "name": "wxBTRFLY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wxBTRFLY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

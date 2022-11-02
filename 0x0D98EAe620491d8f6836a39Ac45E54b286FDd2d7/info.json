@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0D98EAe620491d8f6836a39Ac45E54b286FDd2d7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1972a825-be7a-4426-9edb-23eff693150a",
+  "links": null,
+  "logo": {},
+  "name": "Sprocket",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPROCKET",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

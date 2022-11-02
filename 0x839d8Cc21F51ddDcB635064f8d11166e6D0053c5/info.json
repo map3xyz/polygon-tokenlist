@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x839d8Cc21F51ddDcB635064f8d11166e6D0053c5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d04e6987-4b10-4d64-b367-78e7e306829c",
+  "links": null,
+  "logo": {},
+  "name": "DeepGo Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DGT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

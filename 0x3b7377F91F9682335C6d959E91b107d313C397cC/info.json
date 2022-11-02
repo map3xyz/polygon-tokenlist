@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3b7377F91F9682335C6d959E91b107d313C397cC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a3c0e83b-86c1-4206-97ca-6a3fcdd1b8a0",
+  "links": null,
+  "logo": {},
+  "name": "Happy Monkey  🐵🐵🐵🐵🐵🐵🐵🐵",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HAPPY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

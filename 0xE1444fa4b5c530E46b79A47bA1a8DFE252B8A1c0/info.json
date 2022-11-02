@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE1444fa4b5c530E46b79A47bA1a8DFE252B8A1c0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cef77e0a-f5bb-4423-a569-bbe60dce170e",
+  "links": null,
+  "logo": {},
+  "name": "Reserve",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RSV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

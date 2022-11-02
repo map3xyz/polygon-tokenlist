@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8eb98502-5aa5-4989-9ddb-a54982d8209b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8/logo.svg"
+  },
+  "name": "YfDAI.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Yf-DAI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

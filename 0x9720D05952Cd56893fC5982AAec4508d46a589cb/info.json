@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9720D05952Cd56893fC5982AAec4508d46a589cb",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "c2997562-e7f1-4c40-bcfb-9164bd9e5277",
+  "links": null,
+  "logo": {},
+  "name": "Kevin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KEVIN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

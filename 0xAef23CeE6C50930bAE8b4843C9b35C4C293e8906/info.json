@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAef23CeE6C50930bAE8b4843C9b35C4C293e8906",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9eee64e0-4305-4e8b-be38-fd4bf900a885",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped XRP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WXRP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

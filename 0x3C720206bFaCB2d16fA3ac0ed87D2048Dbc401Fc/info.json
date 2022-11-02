@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3C720206bFaCB2d16fA3ac0ed87D2048Dbc401Fc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e52df0e-670e-4fdb-9ea7-85eb279449e1",
+  "links": null,
+  "logo": {},
+  "name": "UnirisToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UCO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

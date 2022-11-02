@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3b82319eF9e45c16621CC6F6b588324f5719a882",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c04a24e7-20e0-45ff-a5f9-a6954f74f65e",
+  "links": null,
+  "logo": {},
+  "name": "TknERC721Name",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TknERC721Sym",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

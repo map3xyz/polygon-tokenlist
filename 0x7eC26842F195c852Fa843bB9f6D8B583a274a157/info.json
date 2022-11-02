@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7eC26842F195c852Fa843bB9f6D8B583a274a157",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff1fd01a-e643-47d1-98fc-15eb051762e3",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x7eC26842F195c852Fa843bB9f6D8B583a274a157/logo.svg"
+  },
+  "name": "Enjin Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ENJ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x482bc619eE7662759CDc0685B4E78f464Da39C73",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "38e172e1-8ccd-45b8-b680-e761151c00e1",
+  "links": null,
+  "logo": {},
+  "name": "GMO JPY",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GYEN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xb371248Dd0f9E4061ccf8850E9223Ca48Aa7CA4b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bb514f3c-35d1-425d-b620-77a669437337",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xb371248Dd0f9E4061ccf8850E9223Ca48Aa7CA4b/logo.svg"
+  },
+  "name": "Honey",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HNY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

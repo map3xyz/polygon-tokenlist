@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x868547EB48e0Ed2Fd3dB52Db9818ab9496EA4ef1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "9ce59799-23a9-4564-8bc2-6343f091f58e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x868547EB48e0Ed2Fd3dB52Db9818ab9496EA4ef1/logo.svg"
+  },
+  "name": "NANJCOIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NANJ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

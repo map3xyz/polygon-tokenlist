@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB272B6D99858B0EfB079946942006727fe105201",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c27dcca4-79cd-42bb-9313-de702e69e3b7",
+  "links": null,
+  "logo": {},
+  "name": "Lead Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XPb",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

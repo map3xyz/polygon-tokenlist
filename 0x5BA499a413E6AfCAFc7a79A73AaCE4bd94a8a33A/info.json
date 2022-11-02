@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5BA499a413E6AfCAFc7a79A73AaCE4bd94a8a33A",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "5dd79e5f-5c27-4bb7-9397-6231f0008b12",
+  "links": null,
+  "logo": {},
+  "name": "Aidi Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AIDI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

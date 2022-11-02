@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x6acA77CF3BaB0C4E8210A09B57B07854a995289a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "87ebfeea-2b63-47a8-96dc-27e81d644e45",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6acA77CF3BaB0C4E8210A09B57B07854a995289a/logo.png"
+  },
+  "name": "Meeds",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEED",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

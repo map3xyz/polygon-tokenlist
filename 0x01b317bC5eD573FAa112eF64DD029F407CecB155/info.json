@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x01b317bC5eD573FAa112eF64DD029F407CecB155",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed479133-3ee9-4047-8367-0df7a1b61fdf",
+  "links": null,
+  "logo": {},
+  "name": "Charged Particles - IONX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IONX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

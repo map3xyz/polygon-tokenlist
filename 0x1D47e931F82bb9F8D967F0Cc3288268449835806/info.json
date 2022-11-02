@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1D47e931F82bb9F8D967F0Cc3288268449835806",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "52f941a3-9080-4bb4-82aa-18cc67d60662",
+  "links": null,
+  "logo": {},
+  "name": "Pendle",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PENDLE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

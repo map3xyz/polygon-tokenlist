@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8Db0B3ee49348be4e6F3eaaB952De2aA7106f7ec",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "94ef78c6-22fe-4c37-87c8-3d9200498080",
+  "links": null,
+  "logo": {},
+  "name": "!IdleCDO BB Tranche - idleDAIYield",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BB_idleDAIYield",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

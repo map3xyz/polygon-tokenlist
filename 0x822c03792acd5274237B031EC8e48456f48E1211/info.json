@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x822c03792acd5274237B031EC8e48456f48E1211",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8e734547-4248-400a-a475-f7040dace934",
+  "links": null,
+  "logo": {},
+  "name": "#The Wanderers — Down The Wormhole",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WDW",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

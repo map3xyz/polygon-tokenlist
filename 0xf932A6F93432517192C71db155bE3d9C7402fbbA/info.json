@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf932A6F93432517192C71db155bE3d9C7402fbbA",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "7cf71ad1-8bc2-47b8-b0e9-7c8a79701db8",
+  "links": null,
+  "logo": {},
+  "name": "MovieBizCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MBZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

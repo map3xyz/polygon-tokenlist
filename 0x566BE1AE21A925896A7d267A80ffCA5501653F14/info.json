@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x566BE1AE21A925896A7d267A80ffCA5501653F14",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "712eb03b-82a1-4ea5-8ae2-fa22521918ea",
+  "links": null,
+  "logo": {},
+  "name": "Presail",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PRESAIL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

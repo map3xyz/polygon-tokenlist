@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd116d8EA4dE1225D3F903FdA43493E93eb4b1D54",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef87a7f4-072a-4a68-bad8-852c99449368",
+  "links": null,
+  "logo": {},
+  "name": "VENT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VENT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

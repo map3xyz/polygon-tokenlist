@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+  "color": null,
+  "decimals": 12,
+  "description": null,
+  "id": "c4457110-4ea9-4756-a99f-5c751816fd98",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xD0660cD418a64a1d44E9214ad8e459324D8157f1/logo.svg"
+  },
+  "name": "Woofy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WOOFY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

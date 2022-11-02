@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCc0EF74aE3Ef3d2C0139558Ba2BdAfAB98aDE3Ed",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2a6db440-45bd-451a-885e-b5617cb35b5a",
+  "links": null,
+  "logo": {},
+  "name": "Hotpot Funds",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HPT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

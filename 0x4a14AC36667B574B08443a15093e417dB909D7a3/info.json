@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4a14AC36667B574B08443a15093e417dB909D7a3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60698eab-e5ee-4016-8d13-c566b1d646b2",
+  "links": null,
+  "logo": {},
+  "name": "Fweb3",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FWEB3",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

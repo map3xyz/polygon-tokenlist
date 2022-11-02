@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x83Ce0b442Ec51CfA62310Aa1789210CFE2c5556E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4a9616f6-168e-4588-86a5-3e79f1ac53cd",
+  "links": null,
+  "logo": {},
+  "name": "AXIA COIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AXC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

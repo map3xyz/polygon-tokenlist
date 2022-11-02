@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x602C6690A6cb2D2Fce95AD50Fe81d731dF0AD6ed",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ff3abf52-1408-418a-92db-7a6c771e0928",
+  "links": null,
+  "logo": {},
+  "name": "10Set Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "10SET",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

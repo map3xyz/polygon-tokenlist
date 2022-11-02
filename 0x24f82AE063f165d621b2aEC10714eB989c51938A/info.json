@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x24f82AE063f165d621b2aEC10714eB989c51938A",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "3e4ce7bb-8615-42e0-89f7-7a2230aca4b2",
+  "links": null,
+  "logo": {},
+  "name": "Pixel",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PIXEL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

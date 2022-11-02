@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x438B28C5AA5F00a817b7Def7cE2Fb3d5d1970974",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c946d86d-7c1f-4dc1-be6e-0f9b22b3d60b",
+  "links": null,
+  "logo": {},
+  "name": "Bluzelle Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BLZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

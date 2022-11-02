@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x733726968Ae55dC58c26dBDc193FEa256a704ba4",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "1db7db91-683f-4832-b853-50bdd9f96cea",
+  "links": null,
+  "logo": {},
+  "name": "Grumpy Cat",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GRUMPY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

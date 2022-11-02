@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5362dAf94A6bd0E9078aC3070f575861F12A2E77",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d77c2952-c0dd-43a2-baff-8eece8311d3c",
+  "links": null,
+  "logo": {},
+  "name": "Empty Set Share",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ESS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

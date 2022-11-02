@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5c7d670637CBAc5Cd71ddF3DF7DECee2A46dbFE2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fb080f4b-ac7a-4817-b977-c30e66de3c41",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Mirror TWTR Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mTWTR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

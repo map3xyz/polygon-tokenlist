@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB121FCD122DAAa153bB8a102754127b2682645CB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c15c52ac-5e07-4177-a323-53e40a23d70e",
+  "links": null,
+  "logo": {},
+  "name": "Perlin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PERL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

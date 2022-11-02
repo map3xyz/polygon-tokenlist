@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6BD9da80D6A7AA03D739353096df36Ec18738C99",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "62c5b10d-efe8-4092-aa3c-1efe657b8cb5",
+  "links": null,
+  "logo": {},
+  "name": "sUKHI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "sUKH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

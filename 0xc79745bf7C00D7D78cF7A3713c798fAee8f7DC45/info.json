@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc79745bf7C00D7D78cF7A3713c798fAee8f7DC45",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "122751b9-7e53-4ce7-ac0d-a1e548966f49",
+  "links": null,
+  "logo": {},
+  "name": "Tiger King",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TKING",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

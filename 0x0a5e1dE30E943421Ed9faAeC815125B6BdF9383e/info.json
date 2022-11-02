@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0a5e1dE30E943421Ed9faAeC815125B6BdF9383e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41822cc7-1b02-4390-a7b3-472dd208ba14",
+  "links": null,
+  "logo": {},
+  "name": "DuckDaoDime",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DDIM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

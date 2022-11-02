@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x89606fA5d084edA5E9949F7b8F750c65c609eB46",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "409ad82e-85e4-4a2f-9f79-c4dda96bbd8c",
+  "links": null,
+  "logo": {},
+  "name": "Epicenter Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ECR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

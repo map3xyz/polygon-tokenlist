@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6aBB753C1893194DE4a83c6e8B4EadFc105Fd5f5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8e9a9f9a-c4de-4cc0-8a5e-a0ffff075067",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6aBB753C1893194DE4a83c6e8B4EadFc105Fd5f5/logo.svg"
+  },
+  "name": "Swipe",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SXP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE8A05E85883F9663b18a38d7aa89853deaba56e3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c0c8105-f890-43a7-8feb-366ac63a4c37",
+  "links": null,
+  "logo": {},
+  "name": "Voltage",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VOLT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

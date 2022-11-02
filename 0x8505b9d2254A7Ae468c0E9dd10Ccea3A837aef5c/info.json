@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "125ae099-5091-4879-81cf-c7f88659e997",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c/logo.svg"
+  },
+  "name": "Compound",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COMP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6220D3d80020a4023EB29a9F9e206100F7bB581E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0b908f4f-d80a-462e-856b-63ea5881e5ae",
+  "links": null,
+  "logo": {},
+  "name": "Convex CRV",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cvxCRV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

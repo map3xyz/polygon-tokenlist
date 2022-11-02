@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6Bf2eb299E51Fc5DF30Dec81D9445dDe70e3F185",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "38f113e9-bdad-420f-90a1-41fb237541aa",
+  "links": null,
+  "logo": {},
+  "name": "Serum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SRM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

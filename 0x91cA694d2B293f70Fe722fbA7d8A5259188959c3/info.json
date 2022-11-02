@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72d1102f-1d38-48da-9bfb-28ec83cd15e8",
+  "links": null,
+  "logo": {},
+  "name": "Mainframe Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MFT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7cb810ecBFd6125E65f451cFBd8Ae657dFFDd6b4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "db8f17a3-3739-47df-8141-c7a711657c06",
+  "links": null,
+  "logo": {},
+  "name": "Rai.Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOFI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xCf46c5Bf01deAE14a272f89A7b6c9E96A48f5546",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9266ad6-54c9-4995-b754-4b9736694f18",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xCf46c5Bf01deAE14a272f89A7b6c9E96A48f5546/logo.svg"
+  },
+  "name": "MCDEX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MCB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

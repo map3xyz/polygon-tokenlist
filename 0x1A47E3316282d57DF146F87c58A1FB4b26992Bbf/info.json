@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1A47E3316282d57DF146F87c58A1FB4b26992Bbf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0e840076-1065-4773-bffb-5bc61f344ccd",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1A47E3316282d57DF146F87c58A1FB4b26992Bbf/logo.svg"
+  },
+  "name": "Bridge Mutual",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BMI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

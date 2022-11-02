@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeEDa694439C6FB56CbAA011cC849650b7273285B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43c5ea77-21ff-497c-8980-49fbfd597bca",
+  "links": null,
+  "logo": {},
+  "name": "Bankless BED Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BED",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

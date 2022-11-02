@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4E6A6cE59Ca7AA0CBc52dbD81aB2dEA89D7ECcF2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "17302c17-09c5-4488-90f0-ff871a89b2ca",
+  "links": null,
+  "logo": {},
+  "name": "Nexen",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NXN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

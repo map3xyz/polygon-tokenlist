@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x638Df98Ad8069a15569dA5a6b01181804c47e34c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "25e1a78f-d8d3-4e28-bccc-be6489edd833",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x638Df98Ad8069a15569dA5a6b01181804c47e34c/logo.svg"
+  },
+  "name": "DAFI Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAFI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

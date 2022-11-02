@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF11de26883EB2EBF9877a01703DDC1eB619094E6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "43339648-66df-4eea-b6ca-2ddca308bd2e",
+  "links": null,
+  "logo": {},
+  "name": "TradeStars TSX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TSX",
+  "tags": [
+    "pos",
+    "erc20",
+    "noDeposit"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

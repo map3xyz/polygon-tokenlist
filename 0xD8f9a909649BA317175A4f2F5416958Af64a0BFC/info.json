@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD8f9a909649BA317175A4f2F5416958Af64a0BFC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "818cd270-d73d-4d9e-be2a-0774c14c988d",
+  "links": null,
+  "logo": {},
+  "name": "Tuschay Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TSHY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

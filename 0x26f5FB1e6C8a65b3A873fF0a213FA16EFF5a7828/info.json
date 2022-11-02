@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x26f5FB1e6C8a65b3A873fF0a213FA16EFF5a7828",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "156ec598-3b39-44de-b4b2-b0a3d06ee481",
+  "links": null,
+  "logo": {},
+  "name": "DerivaDAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DDX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

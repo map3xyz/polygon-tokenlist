@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x701fD77F1B00547BE745957Ddf1cc92F9D088B6B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d3eadc27-d569-4ff8-a981-858fd803ea9e",
+  "links": null,
+  "logo": {},
+  "name": "Pozzle Planet",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

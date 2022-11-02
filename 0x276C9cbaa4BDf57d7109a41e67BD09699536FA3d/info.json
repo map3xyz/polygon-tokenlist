@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x276C9cbaa4BDf57d7109a41e67BD09699536FA3d",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4b42d216-0c14-4b2f-893c-d491561d841a",
+  "links": null,
+  "logo": {},
+  "name": "Somnium Space Cubes",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CUBE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

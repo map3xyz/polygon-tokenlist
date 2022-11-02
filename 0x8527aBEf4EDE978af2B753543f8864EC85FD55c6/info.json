@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8527aBEf4EDE978af2B753543f8864EC85FD55c6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d98b99d-dfe1-4fb5-8047-fdee87394fba",
+  "links": null,
+  "logo": {},
+  "name": "Gian Ferrer",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GIAN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

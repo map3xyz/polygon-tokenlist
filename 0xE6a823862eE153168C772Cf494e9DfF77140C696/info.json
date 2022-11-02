@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE6a823862eE153168C772Cf494e9DfF77140C696",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4f7c3b5c-9bed-420d-9de1-acbe12a7a7c1",
+  "links": null,
+  "logo": {},
+  "name": "Bailey Building & Loans",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BBL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1B2a3C1417C69DA16bb9193268d0AAbFe54b3b39",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "81afd3d9-eb1c-48c6-8c63-d567fd49929f",
+  "links": null,
+  "logo": {},
+  "name": "Roseon token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROSN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

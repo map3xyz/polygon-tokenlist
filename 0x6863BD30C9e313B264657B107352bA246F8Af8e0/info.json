@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6863BD30C9e313B264657B107352bA246F8Af8e0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14e8d9fd-130b-485d-a884-983a0797f01e",
+  "links": null,
+  "logo": {},
+  "name": "BlackPool Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BPT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8531121f-9ce6-4274-b4ce-d6925d43aa24",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xe86E8beb7340659DDDCE61727E500e3A5aD75a90/logo.svg"
+  },
+  "name": "ZeroUtility",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZUT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

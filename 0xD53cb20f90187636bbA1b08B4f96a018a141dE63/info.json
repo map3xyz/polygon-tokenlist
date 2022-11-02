@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD53cb20f90187636bbA1b08B4f96a018a141dE63",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "85fe87b9-1aad-4044-af52-c3505bb2c7ab",
+  "links": null,
+  "logo": {},
+  "name": "X Guardian Marks the Spot",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XGMTS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

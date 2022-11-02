@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3eBeB3f48F3A16B6a1e1e19B82C09bc8aae5D983",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d074bf51-f420-4d3a-bc4c-f6ddeb627eca",
+  "links": null,
+  "logo": {},
+  "name": "DC Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

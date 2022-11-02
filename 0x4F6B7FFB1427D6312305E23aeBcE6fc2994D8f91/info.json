@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4F6B7FFB1427D6312305E23aeBcE6fc2994D8f91",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3eaf47c9-098f-4d57-b78b-f335cc3e465c",
+  "links": null,
+  "logo": {},
+  "name": "PITCH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PITCH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

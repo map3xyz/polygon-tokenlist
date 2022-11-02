@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x15E5C5C8CeFa0AafebeF55B1A43Db5d2c9A4B6AE",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "409aa5cb-34a4-4071-9b8e-6d39f652d329",
+  "links": null,
+  "logo": {},
+  "name": "MCF token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MCF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x33c9f7C0Afe2722cb9e426360C261fB755B4483d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5cd8a2bd-bc31-4a79-aeba-612e10849069",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x33c9f7C0Afe2722cb9e426360C261fB755B4483d/logo.svg"
+  },
+  "name": "SnowSwap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SNOW",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

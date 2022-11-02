@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0f4044F4475B7eC4bdE170146ad02A9cD3ad4853",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aa4d98dc-907a-49c0-a5fd-8169a91a04cd",
+  "links": null,
+  "logo": {},
+  "name": "Fortune Cat Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FCAT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

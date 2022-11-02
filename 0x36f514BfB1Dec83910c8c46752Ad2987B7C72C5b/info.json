@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x36f514BfB1Dec83910c8c46752Ad2987B7C72C5b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "55c5753c-d60c-479e-ade6-a070b8b4cffd",
+  "links": null,
+  "logo": {},
+  "name": "!IdleCDO AA Tranche - idleDAIYield",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AA_idleDAIYield",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

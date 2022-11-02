@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2e8FaF0f7918c4914E890716E22A74E675115D52",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a0918607-746b-4ae0-a49a-d3c32a68a783",
+  "links": null,
+  "logo": {},
+  "name": "Global Digital Content",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GDC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

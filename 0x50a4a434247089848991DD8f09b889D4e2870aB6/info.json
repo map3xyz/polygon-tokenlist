@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x50a4a434247089848991DD8f09b889D4e2870aB6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1848f1d7-a375-4f16-a5fe-1c9dfbff1762",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x50a4a434247089848991DD8f09b889D4e2870aB6/logo.svg"
+  },
+  "name": "tBTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TBTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

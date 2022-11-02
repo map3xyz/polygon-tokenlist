@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC3f56d567E7663e8932E65d85ae4be7Eb5575cA7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5ee7d29d-3515-4488-9663-cbc395ceafc0",
+  "links": null,
+  "logo": {},
+  "name": "Faith Tribe",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FTRB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

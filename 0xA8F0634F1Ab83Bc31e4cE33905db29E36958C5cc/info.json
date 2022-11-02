@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA8F0634F1Ab83Bc31e4cE33905db29E36958C5cc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0903cccd-fa17-4005-bf6d-0199f016e6c5",
+  "links": null,
+  "logo": {},
+  "name": "Folder Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FOL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

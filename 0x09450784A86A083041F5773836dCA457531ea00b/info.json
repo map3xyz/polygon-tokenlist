@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x09450784A86A083041F5773836dCA457531ea00b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "69e91585-164e-4b4a-849f-6ac66a0bbd5a",
+  "links": null,
+  "logo": {},
+  "name": "Tacos",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TACO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

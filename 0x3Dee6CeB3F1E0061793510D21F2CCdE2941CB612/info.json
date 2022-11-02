@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3Dee6CeB3F1E0061793510D21F2CCdE2941CB612",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0171b85c-06da-4a4c-bf98-2cda1cf27f48",
+  "links": null,
+  "logo": {},
+  "name": "Phala",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PHA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

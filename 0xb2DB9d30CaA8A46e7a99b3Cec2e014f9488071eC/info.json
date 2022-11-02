@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb2DB9d30CaA8A46e7a99b3Cec2e014f9488071eC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "da643800-e771-40d6-944d-1c9209c05a01",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Litecoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WLTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

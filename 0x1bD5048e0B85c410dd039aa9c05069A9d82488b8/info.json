@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1bD5048e0B85c410dd039aa9c05069A9d82488b8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8dfb2949-b5b2-416b-a8c8-c9596bb65536",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x1bD5048e0B85c410dd039aa9c05069A9d82488b8/logo.svg"
+  },
+  "name": "Orbit Chain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

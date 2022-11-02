@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xc3cFFDAf8F3fdF07da6D5e3A89B8723D5E385ff8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9194dfd-288b-4faa-a8ad-f41ca3f1bb07",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xc3cFFDAf8F3fdF07da6D5e3A89B8723D5E385ff8/logo.svg"
+  },
+  "name": "Rubic",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RBC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

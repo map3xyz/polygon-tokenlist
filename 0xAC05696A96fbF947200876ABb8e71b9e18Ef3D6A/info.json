@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAC05696A96fbF947200876ABb8e71b9e18Ef3D6A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ed6693e8-92e0-450d-bcaf-e79a5af2e55c",
+  "links": null,
+  "logo": {},
+  "name": "Element 69",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EL69",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

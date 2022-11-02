@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8e92696-1993-434d-8721-505f1693b4fe",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639/logo.svg"
+  },
+  "name": "DSLA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DSLA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

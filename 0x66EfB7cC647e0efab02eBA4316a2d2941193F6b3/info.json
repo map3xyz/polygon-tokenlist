@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x66EfB7cC647e0efab02eBA4316a2d2941193F6b3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3d14ecdf-7ea2-4dff-8531-19ea964b7a54",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x66EfB7cC647e0efab02eBA4316a2d2941193F6b3/logo.svg"
+  },
+  "name": "LoomToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LOOM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

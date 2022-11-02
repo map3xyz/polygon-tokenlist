@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xc75ea0c71023C14952F3C7B9101ECbbAa14aA27A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f91fd249-715a-46bb-a7ff-03e27b348104",
+  "links": null,
+  "logo": {},
+  "name": "Scalara NFT Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NFTI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

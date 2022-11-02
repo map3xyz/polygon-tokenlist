@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3BE6601208c404A022612d06Bfc8DB5C88c8217c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59373f76-bbdb-42ca-9184-03c76c1c9352",
+  "links": null,
+  "logo": {},
+  "name": "MOE Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

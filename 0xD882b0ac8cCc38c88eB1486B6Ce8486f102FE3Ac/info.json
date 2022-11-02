@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD882b0ac8cCc38c88eB1486B6Ce8486f102FE3Ac",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "41328b4b-65a9-45d7-9d2b-97d826145b53",
+  "links": null,
+  "logo": {},
+  "name": "BitSpawn Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPWN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

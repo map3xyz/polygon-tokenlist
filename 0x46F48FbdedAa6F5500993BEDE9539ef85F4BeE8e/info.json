@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5376da97-eed2-4550-baab-928f0deae426",
+  "links": null,
+  "logo": {},
+  "name": "ARIANEE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARIA20",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

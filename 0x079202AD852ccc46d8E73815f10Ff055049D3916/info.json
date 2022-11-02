@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x079202AD852ccc46d8E73815f10Ff055049D3916",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c4c60644-828c-4c14-bc56-202870df7973",
+  "links": null,
+  "logo": {},
+  "name": "CRE8R DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CRE8R",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

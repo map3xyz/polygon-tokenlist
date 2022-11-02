@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x142107a65D5c29c35129100BF386Ba54f67a8668",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0a91cf46-f478-44fd-97bd-8004aa3d8000",
+  "links": null,
+  "logo": {},
+  "name": "Definitex",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DFX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

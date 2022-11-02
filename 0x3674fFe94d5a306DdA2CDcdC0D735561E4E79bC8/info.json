@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3674fFe94d5a306DdA2CDcdC0D735561E4E79bC8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3f005f47-9149-4206-915d-bc1b92264e89",
+  "links": null,
+  "logo": {},
+  "name": "wLitiCapital",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wLITI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1bb35f8-e08e-4d84-9fbc-b276aedb0d54",
+  "links": null,
+  "logo": {},
+  "name": "Must",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MUST",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

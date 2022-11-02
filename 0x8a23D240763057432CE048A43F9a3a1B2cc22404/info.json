@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8a23D240763057432CE048A43F9a3a1B2cc22404",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "61977008-826f-4fbc-8230-229d2ad71a22",
+  "links": null,
+  "logo": {},
+  "name": "Citizen Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CDAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

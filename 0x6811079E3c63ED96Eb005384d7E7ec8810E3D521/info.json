@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6811079E3c63ED96Eb005384d7E7ec8810E3D521",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16a87be6-3d9d-4374-954c-79e2fcc4c201",
+  "links": null,
+  "logo": {},
+  "name": "SushiBar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "xSUSHI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

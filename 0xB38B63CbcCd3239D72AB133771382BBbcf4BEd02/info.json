@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB38B63CbcCd3239D72AB133771382BBbcf4BEd02",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f76d82e-56d2-434f-9fc4-edce0480da86",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Mirror IAU Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mIAU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

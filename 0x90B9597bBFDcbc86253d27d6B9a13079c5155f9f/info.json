@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x90B9597bBFDcbc86253d27d6B9a13079c5155f9f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "441c40fe-f027-47d2-8c32-45aaf0a9bb75",
+  "links": null,
+  "logo": {},
+  "name": "ECX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ECX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

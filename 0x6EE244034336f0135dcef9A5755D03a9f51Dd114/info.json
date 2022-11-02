@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6EE244034336f0135dcef9A5755D03a9f51Dd114",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72683486-d127-4812-9752-30cc15fc4dcc",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x6EE244034336f0135dcef9A5755D03a9f51Dd114/logo.svg"
+  },
+  "name": "Tixl Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TXL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

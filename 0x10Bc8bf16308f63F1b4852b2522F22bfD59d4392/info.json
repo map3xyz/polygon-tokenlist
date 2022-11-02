@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x10Bc8bf16308f63F1b4852b2522F22bfD59d4392",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e939e951-5b32-438f-b96d-d14002f83580",
+  "links": null,
+  "logo": {},
+  "name": "Trism",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRISM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

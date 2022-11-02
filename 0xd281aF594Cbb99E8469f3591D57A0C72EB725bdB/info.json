@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd281aF594Cbb99E8469f3591D57A0C72EB725bdB",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "62d866b5-4327-45db-a12c-a11aa0475957",
+  "links": null,
+  "logo": {},
+  "name": "MarvelousNFT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MNFT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

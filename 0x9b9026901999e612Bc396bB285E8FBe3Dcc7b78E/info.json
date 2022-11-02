@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9b9026901999e612Bc396bB285E8FBe3Dcc7b78E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd667a6f-5c70-4ff3-ad30-8798c939792b",
+  "links": null,
+  "logo": {},
+  "name": "SatoMotive Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SV2X",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

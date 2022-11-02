@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDa6f81C2426131337B0CF73768B94c2004390b0E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88fe2957-9cec-42aa-9a45-c8ad58d74970",
+  "links": null,
+  "logo": {},
+  "name": "LMAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LMAO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

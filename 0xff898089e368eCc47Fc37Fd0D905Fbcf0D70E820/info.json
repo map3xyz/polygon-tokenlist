@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xff898089e368eCc47Fc37Fd0D905Fbcf0D70E820",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "419fc220-a562-4f2c-8088-21767a9645aa",
+  "links": null,
+  "logo": {},
+  "name": "B.20",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "B20",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

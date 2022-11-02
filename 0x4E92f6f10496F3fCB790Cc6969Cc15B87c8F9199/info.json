@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x4E92f6f10496F3fCB790Cc6969Cc15B87c8F9199",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e5917a7f-6cde-44fb-a6e5-d3678fbdb756",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x4E92f6f10496F3fCB790Cc6969Cc15B87c8F9199/logo.svg"
+  },
+  "name": "Pinknode Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PNODE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

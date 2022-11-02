@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x04f3C4cF2e806da6DF31e80E8A5D121F98eDD61d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "96067fb7-602d-4532-b0a4-0f445c78d16c",
+  "links": null,
+  "logo": {},
+  "name": "Cream",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CREAM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

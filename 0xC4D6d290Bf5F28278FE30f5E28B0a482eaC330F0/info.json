@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC4D6d290Bf5F28278FE30f5E28B0a482eaC330F0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cb0f7a2d-e5ae-4c5c-aea3-0cd83bca88fa",
+  "links": null,
+  "logo": {},
+  "name": "Amasa Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AMAS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

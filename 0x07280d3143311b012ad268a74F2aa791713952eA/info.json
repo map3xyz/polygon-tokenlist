@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x07280d3143311b012ad268a74F2aa791713952eA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "920f5b7c-ae39-4e6d-a9c0-fdd53414b882",
+  "links": null,
+  "logo": {},
+  "name": "Yieldly",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YLDY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

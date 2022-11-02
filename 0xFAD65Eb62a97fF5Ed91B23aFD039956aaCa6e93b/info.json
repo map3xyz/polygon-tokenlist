@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFAD65Eb62a97fF5Ed91B23aFD039956aaCa6e93b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1c178f8f-0dcf-4e24-9728-18f9578cd3f8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xFAD65Eb62a97fF5Ed91B23aFD039956aaCa6e93b/logo.svg"
+  },
+  "name": "HuobiToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

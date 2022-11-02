@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFB8A07e99450d1dC566Da18A8f0E630aDDefDD3e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9006b789-a106-4e56-8711-baa561937efd",
+  "links": null,
+  "logo": {},
+  "name": "Stone Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

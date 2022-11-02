@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf89887862538cE8eFBdbAdD5d483AE4A09dD9688",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "06904ea8-0c47-4220-8932-6905b9020749",
+  "links": null,
+  "logo": {},
+  "name": "Strudel Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$TRDL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

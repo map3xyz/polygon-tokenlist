@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x56a25375e6930114Fe0B428df5CCDc753db99898",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1fe2fb06-2166-4587-b5a1-1d50b856a45d",
+  "links": null,
+  "logo": {},
+  "name": "Forsan Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FORS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

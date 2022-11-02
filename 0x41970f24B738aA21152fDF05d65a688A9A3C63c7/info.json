@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x41970f24B738aA21152fDF05d65a688A9A3C63c7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "344b1efb-3c4d-4a3e-97f6-e864a19ee486",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Mirror GOOGL Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mGOOGL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

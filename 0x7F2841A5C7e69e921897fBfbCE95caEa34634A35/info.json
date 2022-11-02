@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7F2841A5C7e69e921897fBfbCE95caEa34634A35",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0fac31ab-4d2d-4398-b68b-4a5493c5e1e1",
+  "links": null,
+  "logo": {},
+  "name": "NFT WARS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

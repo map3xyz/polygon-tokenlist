@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xB5CEdF3a2aD0aad7cf43F6cF4Cb9FBE01130d684",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "f469f1e5-8c32-4241-8713-970bf21e9652",
+  "links": null,
+  "logo": {},
+  "name": "BIRB",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BRB",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

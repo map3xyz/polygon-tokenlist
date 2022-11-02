@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xE31C6667537bBC819B1Fd7017eD6703CFA8f1871",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1d0a799d-f779-4cd7-bea0-7bdc8dfb8095",
+  "links": null,
+  "logo": {},
+  "name": "Kollect",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KOL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

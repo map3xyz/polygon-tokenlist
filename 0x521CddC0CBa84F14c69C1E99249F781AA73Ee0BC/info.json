@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "73361fad-1a7a-4a59-adc8-dc645b491771",
+  "links": null,
+  "logo": {},
+  "name": "Move",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOVE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

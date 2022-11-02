@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xDC0E17eAE3B9651875030244b971fa0223a1764f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b0d5a2a3-06bb-41da-bfbe-0dfcb6194c2c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0xDC0E17eAE3B9651875030244b971fa0223a1764f/logo.svg"
+  },
+  "name": "Peri Finance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PERI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4F38008D9E2b6F1374199B29d6610021f70F174b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7a95500a-615a-4d60-9040-d8b362e2f24d",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped ZEC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WZEC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

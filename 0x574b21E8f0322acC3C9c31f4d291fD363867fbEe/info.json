@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x574b21E8f0322acC3C9c31f4d291fD363867fbEe",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "0d474cf6-3468-4ca6-bb08-3e26caa7b790",
+  "links": null,
+  "logo": {},
+  "name": "Osinachi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OSINA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3AE490db48d74B1bC626400135d4616377D0109f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3447683e-6bca-4f9c-a794-f5b4e45eccce",
+  "links": null,
+  "logo": {},
+  "name": "AlphaToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALPHA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x432167928d23C378B316B78Dfa378Baa4a84F25a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7f777ed-270e-4601-a694-8e217bc9645c",
+  "links": null,
+  "logo": {},
+  "name": "Dollar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOLLAR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

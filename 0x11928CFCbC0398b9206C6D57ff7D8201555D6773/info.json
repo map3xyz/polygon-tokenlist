@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x11928CFCbC0398b9206C6D57ff7D8201555D6773",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "618a263a-8f84-4586-8e86-86c9b06dc102",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/assets/polygon-tokenlist/0x11928CFCbC0398b9206C6D57ff7D8201555D6773/logo.png"
+  },
+  "name": "ExSports",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EXS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
