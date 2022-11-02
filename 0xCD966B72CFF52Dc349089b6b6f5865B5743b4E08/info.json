@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "71ec173a-d923-43d9-983f-4723639bad4a",
+  "identifiers": {
+    "coinmarketcap": 12103
+  },
   "links": null,
   "logo": {},
   "name": "TOMI",

@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "1cbf3b5f-33da-478d-ade2-5454393d61d0",
+  "identifiers": {
+    "coinmarketcap": 10134
+  },
   "links": null,
   "logo": {
     "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"

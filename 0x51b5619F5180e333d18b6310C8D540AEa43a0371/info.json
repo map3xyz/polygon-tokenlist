@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "211a295c-b528-42bd-bd74-d1ba6047a561",
+  "identifiers": {
+    "coinmarketcap": 16752
+  },
   "links": null,
   "logo": {},
   "name": "Vault Hill City",

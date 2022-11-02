@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "0f2b601a-5e8e-404c-bc20-99889200b680",
+  "identifiers": {
+    "coinmarketcap": 18645
+  },
   "links": null,
   "logo": {},
   "name": "Mytrade Token",

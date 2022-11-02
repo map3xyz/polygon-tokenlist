@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "3d60fd50-0839-4649-a498-69c34dfccc1b",
+  "identifiers": {
+    "coinmarketcap": 15169
+  },
   "links": null,
   "logo": {},
   "name": "GenomesDAO",

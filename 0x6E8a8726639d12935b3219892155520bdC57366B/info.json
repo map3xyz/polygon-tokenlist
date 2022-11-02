@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "fd2eccd9-ef92-428c-93d4-ee07e7713b54",
+  "identifiers": {
+    "coinmarketcap": 15176
+  },
   "links": null,
   "logo": {},
   "name": "GenomesDAO Governance",

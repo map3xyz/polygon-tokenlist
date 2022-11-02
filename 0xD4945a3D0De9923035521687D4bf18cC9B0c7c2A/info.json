@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "f2c95884-2709-48a0-adc8-7d0b8b0e451c",
+  "identifiers": {
+    "coinmarketcap": 15476
+  },
   "links": null,
   "logo": {},
   "name": "LUXY",

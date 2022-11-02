@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "42377bbe-2cf6-4204-a059-6cf65bbc8181",
+  "identifiers": {
+    "coinmarketcap": 10777
+  },
   "links": null,
   "logo": {},
   "name": "DinoSwap",

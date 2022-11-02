@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "fe346d41-fe1b-4b37-ae9d-4a8311fa3ce2",
+  "identifiers": {
+    "coinmarketcap": 16464
+  },
   "links": null,
   "logo": {},
   "name": "GAMESTA",
