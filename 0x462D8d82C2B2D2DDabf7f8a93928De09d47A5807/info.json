@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x462D8d82C2B2D2DDabf7f8a93928De09d47A5807",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a670486d-fc8e-4de3-8d8f-e55351a63e9f",
+  "links": null,
+  "logo": {},
+  "name": "BlazarBits",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BzB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

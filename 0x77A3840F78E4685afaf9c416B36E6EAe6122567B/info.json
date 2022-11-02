@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x77A3840F78E4685afaf9c416B36E6EAe6122567B",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "bb94eed7-6bcc-44c6-8700-6dd2608d40b6",
+  "links": null,
+  "logo": {},
+  "name": "unification.com/xfund",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "xFUND",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

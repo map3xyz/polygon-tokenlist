@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x35BB0DB8210a2A6A333EF81aF92E9ebe4AAdC456",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14c50598-bd4a-41e0-be8a-a4643f8b5e0d",
+  "links": null,
+  "logo": {},
+  "name": "Cook Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "COOK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

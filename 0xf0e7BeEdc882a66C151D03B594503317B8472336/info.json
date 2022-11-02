@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xf0e7BeEdc882a66C151D03B594503317B8472336",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3395279b-48e2-4d85-9df0-a64b51048af4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xf0e7BeEdc882a66C151D03B594503317B8472336/logo.svg"
+  },
+  "name": "Nuggets",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NUG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

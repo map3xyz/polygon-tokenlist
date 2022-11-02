@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xb75bBd79985a8092B05224f62D7fED25924B075d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8b4b0be8-49a0-4e8e-83ea-9fd2adcee47c",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xb75bBd79985a8092B05224f62D7fED25924B075d/logo.svg"
+  },
+  "name": "Datamine",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

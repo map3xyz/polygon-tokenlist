@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9aCeB6f749396d1930aBc9e263eFc449E5e82c13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c461d5a-9235-4ad4-984f-9f494badb7bb",
+  "links": null,
+  "logo": {},
+  "name": "Future of Finance Fund",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FFF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

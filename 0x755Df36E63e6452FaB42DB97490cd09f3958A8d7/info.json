@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x755Df36E63e6452FaB42DB97490cd09f3958A8d7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "229f03fe-d341-42d4-aee7-c354a0d93f36",
+  "links": null,
+  "logo": {},
+  "name": "NFT Zoo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZOOBY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

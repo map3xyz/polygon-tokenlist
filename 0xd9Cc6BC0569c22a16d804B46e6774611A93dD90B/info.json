@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xd9Cc6BC0569c22a16d804B46e6774611A93dD90B",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "2eff843a-e6cb-4a40-bb91-c0b15dcb4090",
+  "links": null,
+  "logo": {},
+  "name": "Hue",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HUE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

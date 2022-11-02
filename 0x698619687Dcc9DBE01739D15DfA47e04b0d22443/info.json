@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x698619687Dcc9DBE01739D15DfA47e04b0d22443",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "ce848ca7-4c7a-4ea9-b4b0-ae5631a5ac61",
+  "links": null,
+  "logo": {},
+  "name": "Zoo Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZOOT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

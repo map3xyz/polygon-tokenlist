@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xe2341718c6C0CbFa8e6686102DD8FbF4047a9e9B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a1b3ebab-c61c-45d6-a3f9-dc9941d6e844",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe2341718c6C0CbFa8e6686102DD8FbF4047a9e9B/logo.svg"
+  },
+  "name": "AIOZ Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AIOZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

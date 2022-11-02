@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5cf6e36dcf6E6132E251ca0f5590bB7C8055bb3d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "88da1046-d258-47d8-b832-2acd7b6f4844",
+  "links": null,
+  "logo": {},
+  "name": "hyfi.token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HyFi",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

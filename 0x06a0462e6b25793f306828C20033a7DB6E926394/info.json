@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x06a0462e6b25793f306828C20033a7DB6E926394",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab13f260-30cb-4073-8765-0de80c11fa43",
+  "links": null,
+  "logo": {},
+  "name": "IPv6Token.com",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IPV6",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

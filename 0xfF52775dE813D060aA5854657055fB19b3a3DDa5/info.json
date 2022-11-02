@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xfF52775dE813D060aA5854657055fB19b3a3DDa5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb481423-9bc3-43de-a445-9a53e7cfdd53",
+  "links": null,
+  "logo": {},
+  "name": "xIMX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Staked IMX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

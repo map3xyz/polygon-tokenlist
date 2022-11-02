@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x95Bbe8fbD32088bC13E67b05c7E783AD6CA854D8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9142bfab-5b69-48ba-ba35-b4ec2a0731d1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x95Bbe8fbD32088bC13E67b05c7E783AD6CA854D8/logo.svg"
+  },
+  "name": "Convergence",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CONV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

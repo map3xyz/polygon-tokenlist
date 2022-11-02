@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7467afa7C48132e8f8C90A919fC2ebA041207195",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c5b3a9f4-76e8-4449-a8a7-af73a6328471",
+  "links": null,
+  "logo": {},
+  "name": "AqarChain",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AQR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

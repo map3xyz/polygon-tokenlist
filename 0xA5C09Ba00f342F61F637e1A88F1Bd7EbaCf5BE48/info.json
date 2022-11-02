@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA5C09Ba00f342F61F637e1A88F1Bd7EbaCf5BE48",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5d715f61-e51f-43b0-9fd1-7bbb895a9cbc",
+  "links": null,
+  "logo": {},
+  "name": "Corn",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CORN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

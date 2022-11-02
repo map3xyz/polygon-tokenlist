@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x083BdF826F6A7419d3Cef30B9E338316224c8e8B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4c0e9f33-a56f-441f-bff8-2be6b8348a39",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x083BdF826F6A7419d3Cef30B9E338316224c8e8B/logo.svg"
+  },
+  "name": "DAOfi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAOfi",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

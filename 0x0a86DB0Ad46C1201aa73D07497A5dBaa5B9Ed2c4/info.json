@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0a86DB0Ad46C1201aa73D07497A5dBaa5B9Ed2c4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2f05d44e-4b2a-4fff-807c-761c65ded50e",
+  "links": null,
+  "logo": {},
+  "name": "Nocturne",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XNOCT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

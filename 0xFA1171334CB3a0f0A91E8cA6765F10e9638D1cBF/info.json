@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xFA1171334CB3a0f0A91E8cA6765F10e9638D1cBF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "052e4297-d5ff-40d8-8924-16591629bd93",
+  "links": null,
+  "logo": {},
+  "name": "Fusion Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FSN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1E42EDbe5376e717C1B22904C59e406426E8173F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d94f8345-2cde-4364-8287-4b2d7194c08a",
+  "links": null,
+  "logo": {},
+  "name": "SURF.Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SURF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

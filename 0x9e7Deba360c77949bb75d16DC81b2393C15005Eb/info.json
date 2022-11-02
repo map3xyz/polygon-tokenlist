@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x9e7Deba360c77949bb75d16DC81b2393C15005Eb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eb71b96a-7fc4-45f7-98bf-d90fa7cfd0bf",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9e7Deba360c77949bb75d16DC81b2393C15005Eb/logo.svg"
+  },
+  "name": "Launchpool token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LPOOL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

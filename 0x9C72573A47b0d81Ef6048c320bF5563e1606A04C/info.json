@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9C72573A47b0d81Ef6048c320bF5563e1606A04C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd779279-d5bc-48ed-bd63-510d05b1f932",
+  "links": null,
+  "logo": {},
+  "name": "Ammunition",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AMMO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

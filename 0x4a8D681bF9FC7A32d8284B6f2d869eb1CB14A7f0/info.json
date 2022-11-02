@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4a8D681bF9FC7A32d8284B6f2d869eb1CB14A7f0",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "c7489e5d-e87a-4fef-b3c3-b207ed71b2fc",
+  "links": null,
+  "logo": {},
+  "name": "ixo",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IXO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

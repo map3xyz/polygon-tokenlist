@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xA01749C95b876148c47A6F1FfB7Ea88C8e72903c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5ba64ca-3f3f-43d8-aa73-eeb7f64f3f07",
+  "links": null,
+  "logo": {},
+  "name": "NOAH DECENTRALIZED STATE COIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NOAHP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

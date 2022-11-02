@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x498E0A753840075c4925442D4d8863eEe49D61E2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6417b73-2090-4a6c-9d37-b7f4e8f4fc7c",
+  "links": null,
+  "logo": {},
+  "name": "Solid",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Solid",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

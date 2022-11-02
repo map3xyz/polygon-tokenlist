@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xa09E1BF2205CDb1FBf57023258f3e731c5311b4d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0210ed2f-80ce-490c-a5e9-e8ba2a588c39",
+  "links": null,
+  "logo": {},
+  "name": "ChartEx",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHART",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

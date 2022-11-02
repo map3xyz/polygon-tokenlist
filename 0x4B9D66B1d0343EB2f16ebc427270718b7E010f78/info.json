@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x4B9D66B1d0343EB2f16ebc427270718b7E010f78",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a231e284-217e-4f6d-967e-0db0a702b58e",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4B9D66B1d0343EB2f16ebc427270718b7E010f78/logo.png"
+  },
+  "name": "Miguel Piedrafita",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MIGUEL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

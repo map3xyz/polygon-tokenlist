@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xb8cb8a7F4C2885C03e57E973C74827909Fdc2032",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9f5eedc8-6878-4e2c-ada1-85c72dc1aa62",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xb8cb8a7F4C2885C03e57E973C74827909Fdc2032/logo.svg"
+  },
+  "name": "YFII.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YFII",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

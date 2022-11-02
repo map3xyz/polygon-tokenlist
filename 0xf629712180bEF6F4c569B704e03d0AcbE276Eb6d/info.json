@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xf629712180bEF6F4c569B704e03d0AcbE276Eb6d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ce038ff7-d42a-488b-9e32-6ecf11e0d963",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xf629712180bEF6F4c569B704e03d0AcbE276Eb6d/logo.svg"
+  },
+  "name": "Wrapped STA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WSTA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

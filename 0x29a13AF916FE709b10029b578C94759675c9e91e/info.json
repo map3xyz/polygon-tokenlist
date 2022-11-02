@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x29a13AF916FE709b10029b578C94759675c9e91e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cd0539ac-ddb9-4723-bf37-0846b5e7c331",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x29a13AF916FE709b10029b578C94759675c9e91e/logo.svg"
+  },
+  "name": "OptionRoom",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROOM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

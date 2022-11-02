@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xdb95f9188479575F3F718a245EcA1B3BF74567EC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "afbda89c-3a1b-444e-b13c-731c3e9df75e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xdb95f9188479575F3F718a245EcA1B3BF74567EC/logo.svg"
+  },
+  "name": "Gitcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GTC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

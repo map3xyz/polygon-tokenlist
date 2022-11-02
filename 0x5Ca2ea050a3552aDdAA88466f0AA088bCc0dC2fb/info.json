@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5Ca2ea050a3552aDdAA88466f0AA088bCc0dC2fb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a6eb3e09-eeb9-416c-b5f6-0658b8f385a4",
+  "links": null,
+  "logo": {},
+  "name": "Jejudoge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JEJUDOGE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0191297c4Bf40B31031152c06FE804ba5af5fEc1",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e8e0db07-86e4-49df-87c8-047b99ad9191",
+  "links": null,
+  "logo": {},
+  "name": "Zum Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZUM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

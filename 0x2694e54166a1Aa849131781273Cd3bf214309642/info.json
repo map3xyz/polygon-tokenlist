@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2694e54166a1Aa849131781273Cd3bf214309642",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ee865648-e001-4f06-a441-16123988321a",
+  "links": null,
+  "logo": {},
+  "name": "VMart Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VMC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

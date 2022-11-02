@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x06D02e9D62A13fC76BB229373FB3BBBD1101D2fC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "145dba53-1abf-4e84-9c98-ae52684f6ac1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x06D02e9D62A13fC76BB229373FB3BBBD1101D2fC/logo.svg"
+  },
+  "name": "Bitfinex LEO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LEO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x01aE14B9643a720Dc3181abfA05e65c528b5A30F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e7f9b071-9ff6-4713-8f1c-9428743740b7",
+  "links": null,
+  "logo": {},
+  "name": "SW Capital",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7BDF330f423Ea880FF95fC41A280fD5eCFD3D09f",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "9357a722-4187-4ac4-9a4a-fa3c478c0d16",
+  "links": null,
+  "logo": {},
+  "name": "Euro Tether",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EURT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

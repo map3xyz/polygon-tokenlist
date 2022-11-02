@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xf6372cDb9c1d3674E83842e3800F2A62aC9F3C66",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6d1194b1-02a1-4ef7-81a7-dad635127cc0",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xf6372cDb9c1d3674E83842e3800F2A62aC9F3C66/logo.svg"
+  },
+  "name": "IoTeX Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IOTX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

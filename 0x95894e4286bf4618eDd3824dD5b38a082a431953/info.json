@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x95894e4286bf4618eDd3824dD5b38a082a431953",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0f88695c-c795-4d75-adae-db368c6d7d96",
+  "links": null,
+  "logo": {},
+  "name": "Golden Pineapple 🍍🪙🍍🪙🍍🪙",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GOLDENPINE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x0E0ffc562d72316b783E887bbAAe1FD794ADb530",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6da55ca5-3ec7-441c-ab6f-1c09d63a3c9f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0E0ffc562d72316b783E887bbAAe1FD794ADb530/logo.svg"
+  },
+  "name": "DOVU",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

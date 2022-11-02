@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7B9FD890072508f66978e1cb9D4F802DCC2C4fDf",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "8db66ac1-3d22-452d-812c-3bdd0073e5c7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7B9FD890072508f66978e1cb9D4F802DCC2C4fDf/logo.svg"
+  },
+  "name": "Maps.me Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MAPS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

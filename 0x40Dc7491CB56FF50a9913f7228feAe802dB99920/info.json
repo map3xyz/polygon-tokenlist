@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x40Dc7491CB56FF50a9913f7228feAe802dB99920",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "16d20586-88c4-4920-8e2d-ab5d9463f154",
+  "links": null,
+  "logo": {},
+  "name": "President Brandon Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XLVI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

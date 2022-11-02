@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "808439a6-eb05-4001-bf57-2cc1430e8902",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c/logo.svg"
+  },
+  "name": "DexKit",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KIT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

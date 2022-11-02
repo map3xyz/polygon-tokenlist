@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD762d38220751F84aE5dC3fb67C8d971c08A638a",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "b9d62d7c-9c82-4729-b805-2f7343b17fb4",
+  "links": null,
+  "logo": {},
+  "name": "Silver Fifty Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SLX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

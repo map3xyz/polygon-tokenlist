@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x76D431cCC4A1696996C4F282284e8998f7315eD8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bdd609f4-fb55-4aba-add2-0d4db2607f99",
+  "links": null,
+  "logo": {},
+  "name": "Aegis",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "aDAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

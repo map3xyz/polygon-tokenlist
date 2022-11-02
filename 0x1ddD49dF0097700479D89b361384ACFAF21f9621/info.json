@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1ddD49dF0097700479D89b361384ACFAF21f9621",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "3b9d7f67-34dc-4063-9607-6317540ae7a3",
+  "links": null,
+  "logo": {},
+  "name": "Yuán 猿",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YUAN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

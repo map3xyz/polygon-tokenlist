@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63f7f9c1-c824-4f5b-b669-8f0050a3b521",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2bC07124D8dAc638E290f401046Ad584546BC47b/logo.svg"
+  },
+  "name": "Tower Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TOWER",
+  "tags": [
+    "pos",
+    "erc20",
+    "customWithdrawEventSig",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

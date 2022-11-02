@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x1a6872038B633Bc9EbD2ea36df3f81eAcd9b8823",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "02029cac-fdc2-4674-b883-30862306809b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x1a6872038B633Bc9EbD2ea36df3f81eAcd9b8823/logo.svg"
+  },
+  "name": "Wrapped Navcoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WNAV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "aed2baf2-0c63-4683-913a-4e2ad1d7c056",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xf0f9D895aCa5c8678f706FB8216fa22957685A13/logo.png"
+  },
+  "name": "Revolt 2 Earn",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RVLT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

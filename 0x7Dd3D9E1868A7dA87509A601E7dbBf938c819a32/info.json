@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7Dd3D9E1868A7dA87509A601E7dbBf938c819a32",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "669207c7-1f4f-484b-aba6-fd89e42933aa",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7Dd3D9E1868A7dA87509A601E7dbBf938c819a32/logo.svg"
+  },
+  "name": "Vox.Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VOX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

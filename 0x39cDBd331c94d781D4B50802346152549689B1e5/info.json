@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x39cDBd331c94d781D4B50802346152549689B1e5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8ac4eda-ae6e-47ea-9383-3d91ad6bf06a",
+  "links": null,
+  "logo": {},
+  "name": "Inverse ETH Volatility Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "iETHV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xAe740d42E4ff0C5086b2b5b5d149eB2F9e1A754F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "536ef772-3143-4370-8430-563285fa6469",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Ether",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WETH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

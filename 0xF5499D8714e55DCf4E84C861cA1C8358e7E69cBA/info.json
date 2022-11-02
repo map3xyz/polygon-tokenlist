@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF5499D8714e55DCf4E84C861cA1C8358e7E69cBA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a270d33b-c9e3-4885-879d-d3a43271c641",
+  "links": null,
+  "logo": {},
+  "name": "\"Silicon Valley Entrepreneurs Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SVET",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

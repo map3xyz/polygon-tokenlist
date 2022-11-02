@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3b9dB434F08003A89554CDB43b3e0b1f8734BdE7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "606821b4-524a-404e-9f56-d3cd3ec235ba",
+  "links": null,
+  "logo": {},
+  "name": "Rari Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RGT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

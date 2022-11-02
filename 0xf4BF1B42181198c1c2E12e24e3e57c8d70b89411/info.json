@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf4BF1B42181198c1c2E12e24e3e57c8d70b89411",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e50350a8-1bac-4972-9db4-ce115f3df458",
+  "links": null,
+  "logo": {},
+  "name": "Tanks",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TANKS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

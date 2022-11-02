@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d5fa02c8-7166-47dc-a60c-6a52cd290a62",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a/logo.png"
+  },
+  "name": "EthermonToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EMON",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable",
+    "metaTx"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x48D3a72230e65380f63a05eE41A7BE31773c44b4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a60404f4-98ef-4b35-b7a1-12c9f45df5ef",
+  "links": null,
+  "logo": {},
+  "name": "Foundry Logistics Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FRY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

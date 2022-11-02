@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x280724409b288dE06C6D66c05965D3d456e2283a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54911b72-f6ff-4d7f-ace9-461c18399559",
+  "links": null,
+  "logo": {},
+  "name": "DragonBite",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BITE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

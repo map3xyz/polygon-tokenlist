@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x01fA5b3A5d77BcF705DD505bBcBb34bce310E7FE",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "648245a7-5379-485a-9ed7-4acc05a578f7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x01fA5b3A5d77BcF705DD505bBcBb34bce310E7FE/logo.svg"
+  },
+  "name": "Axioms",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AXI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

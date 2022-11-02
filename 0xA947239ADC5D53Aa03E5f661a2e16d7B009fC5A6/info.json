@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA947239ADC5D53Aa03E5f661a2e16d7B009fC5A6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "049b11c0-4abb-4dc9-b78e-e8231edbb4d1",
+  "links": null,
+  "logo": {},
+  "name": "Raze Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAZE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8a06bF3FAA72f7dcf796608d4Fd54ABb83461eC3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "49acb47d-66c6-493c-92c1-73b917977237",
+  "links": null,
+  "logo": {},
+  "name": "I HOUSE TOKEN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IHT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

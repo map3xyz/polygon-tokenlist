@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xbE624349C80576f6b5714BFb6DF0b5Be526719f6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8ce24d4-4b34-4b0b-94e6-abb8b598a9b7",
+  "links": null,
+  "logo": {},
+  "name": "Ethereum Meta",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETHM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

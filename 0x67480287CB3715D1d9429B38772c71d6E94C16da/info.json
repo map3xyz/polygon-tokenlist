@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x67480287CB3715D1d9429B38772c71d6E94C16da",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "61b8cb5a-2be3-4472-a31b-2590e17a6d30",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x67480287CB3715D1d9429B38772c71d6E94C16da/logo.svg"
+  },
+  "name": "UNION Protocol Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UNN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

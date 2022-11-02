@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDe08FF1Df4CB0bEfcF85E3802490CAeeF10aF60B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d97674e2-31c5-4765-8867-04f7f26f232c",
+  "links": null,
+  "logo": {},
+  "name": "BTC RSI Crossover Yield Set",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTCRSIAPY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

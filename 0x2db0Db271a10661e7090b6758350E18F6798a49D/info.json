@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "16d57765-67bd-4702-9016-f5f091baec79",
+  "links": null,
+  "logo": {},
+  "name": "Mobius Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

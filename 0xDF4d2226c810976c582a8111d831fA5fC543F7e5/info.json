@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDF4d2226c810976c582a8111d831fA5fC543F7e5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58f95b53-4b25-414e-a503-70455fd1646b",
+  "links": null,
+  "logo": {},
+  "name": "Force DAO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FORCE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

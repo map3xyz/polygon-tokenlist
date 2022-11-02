@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3F3190628AaEEa6C329559B37e60C6AB471E0A6A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "48daa75e-7d2b-4e6f-8fd9-83d009603ddf",
+  "links": null,
+  "logo": {},
+  "name": "Bronze TOWER Chest",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TWR.BRNZ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

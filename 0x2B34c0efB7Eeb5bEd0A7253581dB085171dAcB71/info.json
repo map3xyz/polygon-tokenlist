@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2B34c0efB7Eeb5bEd0A7253581dB085171dAcB71",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c21ac0b9-757d-4cfa-b516-1f671e869dae",
+  "links": null,
+  "logo": {},
+  "name": "DLP Duck Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DUCK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

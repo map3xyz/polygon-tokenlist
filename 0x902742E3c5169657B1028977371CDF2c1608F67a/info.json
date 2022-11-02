@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x902742E3c5169657B1028977371CDF2c1608F67a",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "19b7560b-6d78-4936-a2f4-b27e08674db8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x902742E3c5169657B1028977371CDF2c1608F67a/logo.svg"
+  },
+  "name": "HYDRO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HYDRO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

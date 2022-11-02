@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc10aAcff41Af60BfCfaba3A03099c4AEdB113E15",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "e87b78f9-aa9c-4bda-bd8c-b66e032e7484",
+  "links": null,
+  "logo": {},
+  "name": "Galactican Founders Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GFT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

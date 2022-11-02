@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7dcee9b6-0fbc-4be2-ae0c-c1a97523097d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5/logo.svg"
+  },
+  "name": "Neos Credits",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NCR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6393c0a63712601e3Dda577dc5Bfaf0189e89169",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "ff2242c1-5dca-414f-abed-2e4e6ce47c0e",
+  "links": null,
+  "logo": {},
+  "name": "Bored Banana Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "$BANANA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

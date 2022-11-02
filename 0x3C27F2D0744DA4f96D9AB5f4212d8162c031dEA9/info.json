@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x3C27F2D0744DA4f96D9AB5f4212d8162c031dEA9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fd512603-abc9-4719-ae1c-35a45948b9e5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3C27F2D0744DA4f96D9AB5f4212d8162c031dEA9/logo.svg"
+  },
+  "name": "Deeper Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DPR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

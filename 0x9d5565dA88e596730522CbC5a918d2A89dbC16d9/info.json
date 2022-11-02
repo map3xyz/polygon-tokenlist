@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x9d5565dA88e596730522CbC5a918d2A89dbC16d9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "10780162-047a-41b5-8e97-3c73b78ccac6",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9d5565dA88e596730522CbC5a918d2A89dbC16d9/logo.svg"
+  },
+  "name": "OpenOcean",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OOE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

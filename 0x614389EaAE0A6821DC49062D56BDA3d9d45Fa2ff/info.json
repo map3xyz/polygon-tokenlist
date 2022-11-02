@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c599c92-e455-4af2-8db3-32c3fecf46fb",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff/logo.png"
+  },
+  "name": "Orbs Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORBS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

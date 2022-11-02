@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3Dbd2A88627566306AE9f5F5FB466B498535aF21",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2c6b624b-9d19-4bb1-a450-29da7e224e1b",
+  "links": null,
+  "logo": {},
+  "name": "ETH Volatility Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ETHV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

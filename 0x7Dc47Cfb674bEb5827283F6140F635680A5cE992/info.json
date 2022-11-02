@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7Dc47Cfb674bEb5827283F6140F635680A5cE992",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72fff3a1-a4ef-4856-aa38-fb69276b5440",
+  "links": null,
+  "logo": {},
+  "name": "Bollycoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BOLLY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

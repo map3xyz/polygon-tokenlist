@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x29198A281fe6ED6a49AbE32A5d6864aDcCD7E89e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6111c469-ec5a-411b-8311-0d41bd1f7adb",
+  "links": null,
+  "logo": {},
+  "name": "DOGZ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOGZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

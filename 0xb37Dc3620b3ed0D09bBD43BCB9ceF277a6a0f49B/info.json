@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb37Dc3620b3ed0D09bBD43BCB9ceF277a6a0f49B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e69700c-4f2f-402e-a2b1-5d7dd3a0302b",
+  "links": null,
+  "logo": {},
+  "name": "SIRIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SRN",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

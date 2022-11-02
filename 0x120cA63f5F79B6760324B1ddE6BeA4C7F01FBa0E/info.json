@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x120cA63f5F79B6760324B1ddE6BeA4C7F01FBa0E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "32dd2ce2-df0e-4002-a5be-7ed326201a89",
+  "links": null,
+  "logo": {},
+  "name": "RevolutionPopuli ERC20 Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RVP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

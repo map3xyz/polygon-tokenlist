@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe5703ad34D2b5BCB5c1fEeb64d4b7572B857D6c0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e16ee761-a2f6-4d2e-b847-400ffe81b750",
+  "links": null,
+  "logo": {},
+  "name": "Global Scan Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GST",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

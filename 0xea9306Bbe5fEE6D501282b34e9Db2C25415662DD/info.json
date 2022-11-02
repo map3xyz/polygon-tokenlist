@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xea9306Bbe5fEE6D501282b34e9Db2C25415662DD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dfb59b6b-4fac-4597-b5d3-4e454ebded46",
+  "links": null,
+  "logo": {},
+  "name": "rainbowpuffpuff",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RPP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2D0b6b0C7468C7cFb716e9Cf0ff24F45A239a3A0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f29e094b-ad63-439f-beec-aa5cf2be7e0d",
+  "links": null,
+  "logo": {},
+  "name": "Betbeetle",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BTL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

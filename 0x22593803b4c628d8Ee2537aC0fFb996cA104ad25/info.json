@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x22593803b4c628d8Ee2537aC0fFb996cA104ad25",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e011cb7d-a2c6-424b-a482-7bc8863949ef",
+  "links": null,
+  "logo": {},
+  "name": "FLIP Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FLP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

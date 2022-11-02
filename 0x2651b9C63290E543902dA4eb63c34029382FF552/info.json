@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2651b9C63290E543902dA4eb63c34029382FF552",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "58c1219a-0547-44ea-8446-602a93b48244",
+  "links": null,
+  "logo": {},
+  "name": "ORO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

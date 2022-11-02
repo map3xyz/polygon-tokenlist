@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x5736df66b4f8401d639Ffa915a46B4c548C09Ac1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54be28d2-a223-4f79-81b5-d710a2cf71b2",
+  "links": null,
+  "logo": {},
+  "name": "StaFi",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "rETH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

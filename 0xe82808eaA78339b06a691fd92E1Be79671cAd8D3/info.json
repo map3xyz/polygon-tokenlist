@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "432f39b3-e8df-44fb-8606-f3d2669228fc",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xe82808eaA78339b06a691fd92E1Be79671cAd8D3/logo.svg"
+  },
+  "name": "PLOT",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLOT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

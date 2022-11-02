@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4c1705a7dDaA68FE187363487898705E040dD77e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08eb1256-e930-48bb-96dc-af64a23e3bc3",
+  "links": null,
+  "logo": {},
+  "name": "WILD Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WILD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

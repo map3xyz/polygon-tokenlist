@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xDD24E07c3C840ae6435e7C9F98E6eE6ce168D788",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9273f29d-7104-4554-9928-ef6eb3e917f1",
+  "links": null,
+  "logo": {},
+  "name": "UpBots",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UBXT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

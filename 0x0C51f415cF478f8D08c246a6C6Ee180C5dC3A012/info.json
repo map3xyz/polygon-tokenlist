@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "880c18c6-e8cd-4972-9f20-a55b5af693d1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012/logo.svg"
+  },
+  "name": "HOLO",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HOT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

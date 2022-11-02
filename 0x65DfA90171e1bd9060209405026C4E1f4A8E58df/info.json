@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x65DfA90171e1bd9060209405026C4E1f4A8E58df",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6fb2c9b1-638f-47ad-a221-08661251b75a",
+  "links": null,
+  "logo": {},
+  "name": "Oiler",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OIL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

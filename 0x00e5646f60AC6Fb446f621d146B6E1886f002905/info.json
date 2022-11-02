@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2caf4520-d87e-4933-bd63-243967d45fde",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x00e5646f60AC6Fb446f621d146B6E1886f002905/logo.svg"
+  },
+  "name": "Rai Reflex Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RAI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

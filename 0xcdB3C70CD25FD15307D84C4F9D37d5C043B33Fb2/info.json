@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xcdB3C70CD25FD15307D84C4F9D37d5C043B33Fb2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9edf47c-1924-4b06-83a5-9577f8117b37",
+  "links": null,
+  "logo": {},
+  "name": "Spell Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPELL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

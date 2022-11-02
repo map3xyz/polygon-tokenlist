@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xE8F157E041Df3B28151B667364e9c90789Da7923",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "18ed4b3f-942d-480f-b93d-3260e44bb3fe",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE8F157E041Df3B28151B667364e9c90789Da7923/logo.svg"
+  },
+  "name": "Opium Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OPIUM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

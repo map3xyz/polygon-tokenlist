@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2Ecf35111DC4894f43FEab1683a9845cd1b4E0C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a974ab9f-f5ab-4190-9886-234722ad7e50",
+  "links": null,
+  "logo": {},
+  "name": "URANIUM",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "URANIUM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

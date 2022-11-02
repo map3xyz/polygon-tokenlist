@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xCaE54386449C0A7CE2d680982E3D08250dc3ec3b",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "89e18ed3-5db5-4d31-acc5-33dc19685257",
+  "links": null,
+  "logo": {},
+  "name": "Doge of Woof Street",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "WSDOGE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

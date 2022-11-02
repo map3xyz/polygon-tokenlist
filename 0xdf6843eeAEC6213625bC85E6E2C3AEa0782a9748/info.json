@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xdf6843eeAEC6213625bC85E6E2C3AEa0782a9748",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7dd115dd-9720-4f01-b0cb-5c34c6757581",
+  "links": null,
+  "logo": {},
+  "name": "Knit Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KFT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb257De22059cd200e34139d27CE0e415E173cE49",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75edc290-5f75-4b3f-a9d3-455bd73a9c06",
+  "links": null,
+  "logo": {},
+  "name": "ICOStart Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ICH",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xb9Abdd78a153B8B59D09DfC196254718145f3A20",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f6979193-d9b3-4b38-8dc3-fd7d5322d5b1",
+  "links": null,
+  "logo": {},
+  "name": "Rotharium",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RTH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

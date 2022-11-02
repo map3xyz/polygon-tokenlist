@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xf3681947a43F180ea68a8b949F5E7A18df946a09",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3728e300-739c-4ff0-825b-5fb2a63a4fef",
+  "links": null,
+  "logo": {},
+  "name": "Shadows Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOWS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

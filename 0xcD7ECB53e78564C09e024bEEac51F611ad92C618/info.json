@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xcD7ECB53e78564C09e024bEEac51F611ad92C618",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "46fdb105-a739-435b-a2c9-88e16f23d7b1",
+  "links": null,
+  "logo": {},
+  "name": "PANDA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PANDA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x81C88f5CFF4fd506df906cb32F8b02218701b0C7",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e6f2c163-1b5f-42c2-b870-5e8b97bcc687",
+  "links": null,
+  "logo": {},
+  "name": "LOAD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LOAD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD43Be54C1aedf7Ee4099104f2DaE4eA88B18A249",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "98665c85-179b-4ac7-b155-865dae141201",
+  "links": null,
+  "logo": {},
+  "name": "TRAXX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRAXX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x34cba1561424b192F263883ba2b8CcBBc12bb13F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a10e1775-6c6d-45d1-8cae-9b2713c308f4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x34cba1561424b192F263883ba2b8CcBBc12bb13F/logo.svg"
+  },
+  "name": "MOAR Finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MOAR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

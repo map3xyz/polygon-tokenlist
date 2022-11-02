@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3B538469d94cDa1387c473F408C833c2208bcEd7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2513e6bf-f6bf-47a3-931c-9181d91a90f3",
+  "links": null,
+  "logo": {},
+  "name": "Mutt Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MUTT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

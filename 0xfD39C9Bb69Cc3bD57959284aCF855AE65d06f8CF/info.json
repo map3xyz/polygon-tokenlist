@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xfD39C9Bb69Cc3bD57959284aCF855AE65d06f8CF",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9e3e6ec2-5d02-4d85-953a-7e7d56a03939",
+  "links": null,
+  "logo": {},
+  "name": "Truebit",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRUtru",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

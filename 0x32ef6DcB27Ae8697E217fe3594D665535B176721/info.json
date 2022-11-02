@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x32ef6DcB27Ae8697E217fe3594D665535B176721",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "54d6589c-ec34-4ecd-8664-24314c6bf55e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x32ef6DcB27Ae8697E217fe3594D665535B176721/logo.svg"
+  },
+  "name": "KardiaChain Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KAI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

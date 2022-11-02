@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x106035DEDcA635d75d6Ff05F98F25916829eDB77",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "95138693-01d1-4b36-874a-6a3c58009653",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x106035DEDcA635d75d6Ff05F98F25916829eDB77/logo.svg"
+  },
+  "name": "NapoleonX Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NPX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

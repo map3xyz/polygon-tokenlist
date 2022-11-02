@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x1Ac417f1dD23504aAC2076D854581f03196403Fd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c7f285c5-9aa7-4268-8c85-838cfee0c11b",
+  "links": null,
+  "logo": {},
+  "name": "Endor Protocol Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EDR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

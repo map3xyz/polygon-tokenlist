@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xc844e334cC96435e71869Fb2F7AD26961A010821",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3a1ceead-d803-4247-b4b8-233f7e5ccd30",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc844e334cC96435e71869Fb2F7AD26961A010821/logo.svg"
+  },
+  "name": "Pteria",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PTERIA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

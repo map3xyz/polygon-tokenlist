@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "03614b80-7d3d-4984-bbac-9eadd170b287",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B/logo.svg"
+  },
+  "name": "Cartesi Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CTSI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

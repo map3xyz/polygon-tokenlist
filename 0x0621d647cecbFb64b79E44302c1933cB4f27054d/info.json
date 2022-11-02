@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "074a62e9-ead5-45d5-84e2-84beb30ec8de",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0621d647cecbFb64b79E44302c1933cB4f27054d/logo.svg"
+  },
+  "name": "Amp Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AMP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

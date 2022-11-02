@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "20534a98-d1e1-4a45-a27c-5a4e2134272e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x361A5a4993493cE00f61C32d4EcCA5512b82CE90/logo.svg"
+  },
+  "name": "Stake DAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SDT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

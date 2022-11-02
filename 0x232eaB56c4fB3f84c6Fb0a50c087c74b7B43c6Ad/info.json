@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x232eaB56c4fB3f84c6Fb0a50c087c74b7B43c6Ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "de3be54e-41e1-489e-869c-44ff75d028fd",
+  "links": null,
+  "logo": {},
+  "name": "Zeus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZUZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

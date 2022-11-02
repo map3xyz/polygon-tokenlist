@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8f6196901a4a153d8eE8F3fa779A042F6092D908",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "59074be6-33a5-44e5-b89b-f6a4a7deb752",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f6196901a4a153d8eE8F3fa779A042F6092D908/logo.svg"
+  },
+  "name": "DxSale.Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SALE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

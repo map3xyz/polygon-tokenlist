@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "13d1aef6-784d-47fb-8b10-7e38c0c9fc4a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c/logo.svg"
+  },
+  "name": "JPY Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JPYC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

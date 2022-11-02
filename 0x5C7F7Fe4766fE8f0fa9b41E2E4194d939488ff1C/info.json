@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a4a75923-f481-4fbb-9708-2b3347bef48b",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C/logo.svg"
+  },
+  "name": "DokiDokiFinance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOKI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

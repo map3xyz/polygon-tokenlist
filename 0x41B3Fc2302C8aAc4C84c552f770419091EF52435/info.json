@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x41B3Fc2302C8aAc4C84c552f770419091EF52435",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cdf140f9-9871-406a-b309-9905d31f928f",
+  "links": null,
+  "logo": {},
+  "name": "MAXXToken.com",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MAXX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

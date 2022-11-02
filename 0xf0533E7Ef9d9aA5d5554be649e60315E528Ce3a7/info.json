@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf0533E7Ef9d9aA5d5554be649e60315E528Ce3a7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1f571c67-a28c-409e-8e3e-674fbe2cdbcd",
+  "links": null,
+  "logo": {},
+  "name": "Vufi Shares",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VUFIS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

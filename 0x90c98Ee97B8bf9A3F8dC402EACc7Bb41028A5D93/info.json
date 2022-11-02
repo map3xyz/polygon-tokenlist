@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x90c98Ee97B8bf9A3F8dC402EACc7Bb41028A5D93",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9ad0eaf0-be53-493e-a21f-33b20055a4fc",
+  "links": null,
+  "logo": {},
+  "name": "KatanaToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KATANA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

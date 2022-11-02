@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x4B2Dc203D164702d6E453aB2AbEcCBcAE95eE36b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8f743087-3aa8-4bc6-819f-0ec96b9ef1fa",
+  "links": null,
+  "logo": {},
+  "name": "AssaultToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ASLT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

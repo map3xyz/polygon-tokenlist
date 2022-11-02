@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d9d52055-7a75-419f-ab4d-d2a6340cc181",
+  "links": null,
+  "logo": {},
+  "name": "ANGLE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANGLE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

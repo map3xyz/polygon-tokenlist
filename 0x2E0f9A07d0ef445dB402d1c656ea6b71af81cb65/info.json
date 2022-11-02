@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2E0f9A07d0ef445dB402d1c656ea6b71af81cb65",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "033bda8c-bd00-4c91-958c-b55a4b1f0680",
+  "links": null,
+  "logo": {},
+  "name": "Signata",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SATA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

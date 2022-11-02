@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD6C23852b94FEde6AB571e4b4cFdb745b49Dc9EB",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "bc0d1900-6463-41c9-85fb-9d4bd701799d",
+  "links": null,
+  "logo": {},
+  "name": "renBTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "renBTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

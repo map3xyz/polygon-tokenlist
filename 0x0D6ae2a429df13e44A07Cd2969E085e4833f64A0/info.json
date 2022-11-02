@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6c74c75-6cc9-46e3-a6aa-f979bee0a48a",
+  "links": null,
+  "logo": {},
+  "name": "PolkaBridge",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PBR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

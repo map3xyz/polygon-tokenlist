@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x179a16D33E4c08Dd773B002f475ca36Ce22Fa169",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "83874017-561f-44bf-bb87-106ccbdc5d30",
+  "links": null,
+  "logo": {},
+  "name": "SOCIALBI DEFI",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SBI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

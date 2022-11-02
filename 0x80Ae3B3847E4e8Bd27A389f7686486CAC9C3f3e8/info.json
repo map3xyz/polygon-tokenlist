@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x80Ae3B3847E4e8Bd27A389f7686486CAC9C3f3e8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "11157e85-c55e-46fd-8e90-f792bbedf882",
+  "links": null,
+  "logo": {},
+  "name": "Sarcophagus",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SARCO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

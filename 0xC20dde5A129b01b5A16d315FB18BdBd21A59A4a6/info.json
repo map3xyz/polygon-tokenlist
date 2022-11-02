@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xC20dde5A129b01b5A16d315FB18BdBd21A59A4a6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4d55c23-1231-4de7-a9d8-9bcc3d93e7e8",
+  "links": null,
+  "logo": {},
+  "name": "Bone",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Bone",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

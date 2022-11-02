@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "940fc3f1-969c-4075-bc5c-44b8b77753ab",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1/logo.svg"
+  },
+  "name": "LoopringCoin V2",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LRC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

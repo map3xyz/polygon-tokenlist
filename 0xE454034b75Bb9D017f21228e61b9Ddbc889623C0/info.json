@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE454034b75Bb9D017f21228e61b9Ddbc889623C0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f926ee83-1447-4324-a754-b1093b0d73ff",
+  "links": null,
+  "logo": {},
+  "name": "Neonious Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MDSIM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

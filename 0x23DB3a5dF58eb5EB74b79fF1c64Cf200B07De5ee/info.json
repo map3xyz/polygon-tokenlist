@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x23DB3a5dF58eb5EB74b79fF1c64Cf200B07De5ee",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cceccd97-2310-4599-a0d6-d580449cb3e9",
+  "links": null,
+  "logo": {},
+  "name": "EMotiveToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EMOT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

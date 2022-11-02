@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x77F0F7d657f362C4b703417B800B83B989a288a2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc0f790c-5a54-4946-a8e3-7f79f8d66624",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x77F0F7d657f362C4b703417B800B83B989a288a2/logo.png"
+  },
+  "name": "Trips",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TRIPS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

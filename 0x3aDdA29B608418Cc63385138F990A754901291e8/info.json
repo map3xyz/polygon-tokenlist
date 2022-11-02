@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3aDdA29B608418Cc63385138F990A754901291e8",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a0ea783b-e670-40f7-b008-1a6ec9061abb",
+  "links": null,
+  "logo": {},
+  "name": "BRL Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BRLC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

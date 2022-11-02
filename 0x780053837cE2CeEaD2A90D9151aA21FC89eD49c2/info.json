@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x780053837cE2CeEaD2A90D9151aA21FC89eD49c2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c1c24c3-edda-447c-a985-03496aed7c0a",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x780053837cE2CeEaD2A90D9151aA21FC89eD49c2/logo.svg"
+  },
+  "name": "Rarible",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RARI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

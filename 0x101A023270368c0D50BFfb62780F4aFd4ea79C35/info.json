@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "826bb56a-891c-4b59-a7c0-b7ba89661772",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x101A023270368c0D50BFfb62780F4aFd4ea79C35/logo.svg"
+  },
+  "name": "Ankr",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANKR",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3c711f725272B05336b44C5c9dcCb9FE2FF42Ef4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4ba9468c-71b9-43c1-bca1-d2da4ff755a9",
+  "links": null,
+  "logo": {},
+  "name": "CheerMedal",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHML",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

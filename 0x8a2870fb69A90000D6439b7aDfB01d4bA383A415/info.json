@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2272e88b-3ef8-47f5-b2db-1b4b4a5547c7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8a2870fb69A90000D6439b7aDfB01d4bA383A415/logo.svg"
+  },
+  "name": "DEGEN Index",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEGEN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

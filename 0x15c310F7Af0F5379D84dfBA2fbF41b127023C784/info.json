@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x15c310F7Af0F5379D84dfBA2fbF41b127023C784",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5be46eeb-a984-4934-a48f-38fbe693540f",
+  "links": null,
+  "logo": {},
+  "name": "Archer DAO Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ARCH",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

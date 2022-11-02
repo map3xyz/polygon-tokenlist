@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe38eb5a707d9A09757246DC37dF11b35E47ba782",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ae5cfb10-624a-4b00-a5a3-d3958d0277f8",
+  "links": null,
+  "logo": {},
+  "name": " SPACE HOGE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SOGE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xD9E658CAEd24fB0486E92F0F1702f77A712790DA",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "39c528ac-0b16-4166-9e56-250ac3784ce7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD9E658CAEd24fB0486E92F0F1702f77A712790DA/logo.svg"
+  },
+  "name": "Dentacoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "٨",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

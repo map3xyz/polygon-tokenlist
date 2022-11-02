@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0cdf14B01692c57fD8d066A053B3A0FA0Aa2Fc11",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1ab4ce80-9e80-4f50-942f-6672ad5b7fd1",
+  "links": null,
+  "logo": {},
+  "name": "Ferrum Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FRM",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

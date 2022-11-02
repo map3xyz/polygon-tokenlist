@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe4eF793a4bFe292D7eb229dF804FAb5BDc2c51E8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "798a178d-bb9c-46b7-93bf-56d90cbc9fde",
+  "links": null,
+  "logo": {},
+  "name": "NETVRK",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NTVRK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

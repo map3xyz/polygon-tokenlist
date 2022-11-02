@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ab228c20-c4d3-4ca1-9b86-2190c0a629b5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8/logo.svg"
+  },
+  "name": "Gnosis Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GNO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

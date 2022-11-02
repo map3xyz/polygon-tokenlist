@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x885b6e6DBb84148f98c806800Bc19c9A9DB4cFeb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "67f457b0-89a6-4d6c-b07e-1006b4181ac7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x885b6e6DBb84148f98c806800Bc19c9A9DB4cFeb/logo.svg"
+  },
+  "name": "MultiVAC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MTV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

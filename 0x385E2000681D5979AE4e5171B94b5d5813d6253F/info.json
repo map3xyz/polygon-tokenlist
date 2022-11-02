@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x385E2000681D5979AE4e5171B94b5d5813d6253F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "33774541-77f8-4e85-98c9-e761df27ac62",
+  "links": null,
+  "logo": {},
+  "name": "Virtual Dollar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DV",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

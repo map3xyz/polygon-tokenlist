@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xEF6B7E511c18B5fC0099e680f17AE5C3b7601d26",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "a6bc2865-2a05-4989-a355-69aeba029086",
+  "links": null,
+  "logo": {},
+  "name": "Tyrannical",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TIN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

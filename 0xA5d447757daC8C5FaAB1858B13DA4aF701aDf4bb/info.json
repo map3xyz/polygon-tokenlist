@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA5d447757daC8C5FaAB1858B13DA4aF701aDf4bb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7906ca6f-b371-4af2-b524-486f856aa7b2",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped Ribbits",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "wRBT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

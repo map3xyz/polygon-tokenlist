@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF95c5f961CF676ae927DfF05342a0741b99E3564",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f0bafe51-9b54-40a6-bf85-b26d15754b3d",
+  "links": null,
+  "logo": {},
+  "name": "Gold Fever Native Gold",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "NGL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

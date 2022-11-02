@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x7886A4EBDda9f1861d6a081cD794b3e79c375011",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1a39ed8f-ab7a-46db-ac96-68727b8e9f68",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7886A4EBDda9f1861d6a081cD794b3e79c375011/logo.svg"
+  },
+  "name": "SPLYT SHOPX",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHOPX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

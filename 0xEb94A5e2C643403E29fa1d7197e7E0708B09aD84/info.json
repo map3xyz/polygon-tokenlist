@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xEb94A5e2C643403E29fa1d7197e7E0708B09aD84",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8be0f3f6-168b-41b7-9f4b-609c4038d2bc",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xEb94A5e2C643403E29fa1d7197e7E0708B09aD84/logo.svg"
+  },
+  "name": "OnX.finance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ONX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

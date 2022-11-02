@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x7582a64734f40c1eAa23144Fc43cA1a748723527",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "726968f2-5197-4575-9506-a8f5c4e3cbfb",
+  "links": null,
+  "logo": {},
+  "name": "Saitama Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SAITAMA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

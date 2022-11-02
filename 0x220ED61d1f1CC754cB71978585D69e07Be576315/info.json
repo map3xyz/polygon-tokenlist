@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x220ED61d1f1CC754cB71978585D69e07Be576315",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "25ad39f9-1218-4b86-8bf2-bb987b678643",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x220ED61d1f1CC754cB71978585D69e07Be576315/logo.svg"
+  },
+  "name": "LADZ",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LADZ",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xeEEdf2960cdDA52cf2a5B3477B171B9F8b13d700",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "60a9d43d-90b9-41c2-be39-2012cf3916b3",
+  "links": null,
+  "logo": {},
+  "name": "Party Of The Living Dead",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEAD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

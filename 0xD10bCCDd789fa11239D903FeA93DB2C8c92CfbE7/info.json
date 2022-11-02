@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD10bCCDd789fa11239D903FeA93DB2C8c92CfbE7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ccbf0c19-4de6-49b9-97fe-d18b4b4188a2",
+  "links": null,
+  "logo": {},
+  "name": "GP",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

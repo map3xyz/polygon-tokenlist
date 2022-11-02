@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xC518edFB9667214Be3559B86E73777d1C4789163",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "174b1e84-3874-47e9-a8c9-d044dc7232eb",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC518edFB9667214Be3559B86E73777d1C4789163/logo.svg"
+  },
+  "name": "Sanshu Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SANSHU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

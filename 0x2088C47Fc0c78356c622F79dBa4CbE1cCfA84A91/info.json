@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2088C47Fc0c78356c622F79dBa4CbE1cCfA84A91",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "6c44fcb7-dea3-4559-a7e0-898abfa46610",
+  "links": null,
+  "logo": {},
+  "name": "HUSD",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "HUSD",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

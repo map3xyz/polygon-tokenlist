@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5a2fdF906ada9353eBe496Fa5D351B39f8908d19",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "b23e6d1d-b785-42fd-8124-7bd7c4067961",
+  "links": null,
+  "logo": {},
+  "name": "IG Orb",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ORB",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

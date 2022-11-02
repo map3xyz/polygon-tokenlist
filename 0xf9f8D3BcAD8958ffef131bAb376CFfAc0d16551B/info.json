@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xf9f8D3BcAD8958ffef131bAb376CFfAc0d16551B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd3a425d-fbd9-4cec-af74-71a298478596",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xf9f8D3BcAD8958ffef131bAb376CFfAc0d16551B/logo.svg"
+  },
+  "name": "BoringDAO LTC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "oLTC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

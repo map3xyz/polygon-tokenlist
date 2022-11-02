@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x49B1bE61A8Ca3f9A9F178d6550e41E00D9162159",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "09e1c747-9adc-471d-965f-eae1e2ff3e17",
+  "links": null,
+  "logo": {},
+  "name": "GGToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GGTK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

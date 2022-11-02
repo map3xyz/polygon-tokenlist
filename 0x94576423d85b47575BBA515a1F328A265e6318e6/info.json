@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x94576423d85b47575BBA515a1F328A265e6318e6",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "51ba9cb4-106d-4d0f-ab14-b9a800689d20",
+  "links": null,
+  "logo": {},
+  "name": "LEEDO Project ERC20",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LEEDO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

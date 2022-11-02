@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x7DF231024F80Ca7f63032c25B6232B1cc655dF77",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "d1b7313f-420e-47e4-8e0e-9df886a66e8e",
+  "links": null,
+  "logo": {},
+  "name": "iNTROVERSE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "iNTRO",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

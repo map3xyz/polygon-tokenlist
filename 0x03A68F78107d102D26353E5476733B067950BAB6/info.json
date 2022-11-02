@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x03A68F78107d102D26353E5476733B067950BAB6",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "b49cba48-8c0d-495a-afa9-aa135bdc02ee",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x03A68F78107d102D26353E5476733B067950BAB6/logo.png"
+  },
+  "name": "Germoney",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GER",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8da41a3bC942b19a44d6BdF0e30f058Df3ab8bA9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "05b6630c-7ffd-4d61-b242-b1044d756ff5",
+  "links": null,
+  "logo": {},
+  "name": "Dataphora",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DATAPHORA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

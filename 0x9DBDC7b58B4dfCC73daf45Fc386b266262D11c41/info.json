@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9DBDC7b58B4dfCC73daf45Fc386b266262D11c41",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "08441052-821b-457e-92fd-f3d27ae20f3d",
+  "links": null,
+  "logo": {},
+  "name": "BOBL",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BOBL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

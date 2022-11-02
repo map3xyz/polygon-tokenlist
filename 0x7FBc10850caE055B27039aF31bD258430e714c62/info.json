@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "b9837917-5c09-4746-a7c2-84bcaea092db",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7FBc10850caE055B27039aF31bD258430e714c62/logo.svg"
+  },
+  "name": "Unibright",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "UBT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

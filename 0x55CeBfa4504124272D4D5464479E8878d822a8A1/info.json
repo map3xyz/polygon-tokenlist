@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x55CeBfa4504124272D4D5464479E8878d822a8A1",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d6cb527b-73a9-4c68-a93f-433762896f88",
+  "links": null,
+  "logo": {},
+  "name": "DegenVC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DGVC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x10635bF5c17F5E4c0Ed9012aEf7C12f96a57a4Dd",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b2571573-de43-4424-94d9-31349677c260",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x10635bF5c17F5E4c0Ed9012aEf7C12f96a57a4Dd/logo.svg"
+  },
+  "name": "Tapmydata",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "TAP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

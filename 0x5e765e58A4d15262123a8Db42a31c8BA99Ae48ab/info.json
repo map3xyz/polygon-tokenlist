@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x5e765e58A4d15262123a8Db42a31c8BA99Ae48ab",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "227e6e82-68b1-4fc2-8d96-55547c75269a",
+  "links": null,
+  "logo": {},
+  "name": "Bsit Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BSIT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

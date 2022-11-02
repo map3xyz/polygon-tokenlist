@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x9880e3dDA13c8e7D4804691A45160102d31F6060",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80460b22-06b8-4f13-bf42-a7a4c1291885",
+  "links": null,
+  "logo": {},
+  "name": "Orchid",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OXT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

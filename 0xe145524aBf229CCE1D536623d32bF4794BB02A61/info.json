@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe145524aBf229CCE1D536623d32bF4794BB02A61",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "75038f99-fcca-4447-a6d1-0aa372c5a7e3",
+  "links": null,
+  "logo": {},
+  "name": "Convex FXS",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "cvxFXS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

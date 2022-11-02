@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x598e49f01bEfeB1753737934a5b11fea9119C796",
+  "color": null,
+  "decimals": 11,
+  "description": null,
+  "id": "38b641ee-6944-4451-96b0-572506b7ea2b",
+  "links": null,
+  "logo": {},
+  "name": "Adshares",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ADS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

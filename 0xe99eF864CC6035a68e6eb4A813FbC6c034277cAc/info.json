@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xe99eF864CC6035a68e6eb4A813FbC6c034277cAc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a28688df-a06a-49ff-83e9-35f80be81e63",
+  "links": null,
+  "logo": {},
+  "name": "Scam Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SINU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

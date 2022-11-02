@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x048c83a1176A1d3d12cb8C305179D360B1E4C958",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8d9bfb03-7fd0-472b-9d10-f1e7054b8ae4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x048c83a1176A1d3d12cb8C305179D360B1E4C958/logo.svg"
+  },
+  "name": "DAO Maker",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DAO",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

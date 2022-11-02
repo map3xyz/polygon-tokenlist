@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x26361cFC497021ecc366ec11cAFa27290f3c055c",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "de274b56-6362-4e20-9649-f79b89aa628f",
+  "links": null,
+  "logo": {},
+  "name": "Corgi Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CORGI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x059eb35959B5Ad5A37Ce9198726CAB84824fd690",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ea05f408-703b-47ff-95d7-892d0f039da9",
+  "links": null,
+  "logo": {},
+  "name": "I Bet You",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "IBY",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

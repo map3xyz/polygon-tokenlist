@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x0f92D459B20D21F6bf9E02056EA9165d3f78bA62",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f89effcd-bdb3-452e-ac5b-6f9d6a6e1f5d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0f92D459B20D21F6bf9E02056EA9165d3f78bA62/logo.svg"
+  },
+  "name": "CumCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CUM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

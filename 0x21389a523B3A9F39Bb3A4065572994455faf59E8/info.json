@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x21389a523B3A9F39Bb3A4065572994455faf59E8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9beb1ebe-584f-49d6-8676-bc7db8a8dc34",
+  "links": null,
+  "logo": {},
+  "name": "RottenToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ROT",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x6f83Ffedfd8774d09329D92bF3647654Ee171dfA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b9b003ff-2a5d-4243-8dcc-5431f908416f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x6f83Ffedfd8774d09329D92bF3647654Ee171dfA/logo.svg"
+  },
+  "name": "Polkalokr",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LKR",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

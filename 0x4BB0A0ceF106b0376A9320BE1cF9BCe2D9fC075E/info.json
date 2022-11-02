@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x4BB0A0ceF106b0376A9320BE1cF9BCe2D9fC075E",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f94847b4-11cf-4494-baf6-ccbcfb8f1915",
+  "links": null,
+  "logo": {},
+  "name": "PeetyCoin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PTC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

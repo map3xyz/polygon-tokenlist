@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xD87958D9Cc146aBe382Ee20D1EF278321E61ADe9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04e84aa9-1967-4e0d-9fe1-603bb2100dff",
+  "links": null,
+  "logo": {},
+  "name": "Megaverse",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEGA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

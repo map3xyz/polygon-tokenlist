@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xb9784E05C7af6068FC82A80730a599fE17Ca2aDf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e0301401-6cba-4fb2-8287-1eb48798a8e9",
+  "links": null,
+  "logo": {},
+  "name": "Melalie",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MEL",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

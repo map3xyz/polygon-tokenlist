@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xE117837c0c8A53765cb6b4A16eBc84B3a71DD0BD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "faa434fa-fae6-43c0-84cd-9a73aaa08bb1",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE117837c0c8A53765cb6b4A16eBc84B3a71DD0BD/logo.svg"
+  },
+  "name": "Zenfuse",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ZEFU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

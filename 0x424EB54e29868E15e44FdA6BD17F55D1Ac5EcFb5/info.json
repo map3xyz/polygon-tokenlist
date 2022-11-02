@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x424EB54e29868E15e44FdA6BD17F55D1Ac5EcFb5",
+  "color": null,
+  "decimals": 10,
+  "description": null,
+  "id": "96249212-d598-4b65-aef6-e8a9edbc61ec",
+  "links": null,
+  "logo": {},
+  "name": "Mia Neko",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MIA",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

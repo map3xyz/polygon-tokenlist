@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x266aF96fece1C3dd4B8a0A6DE9aE7a3bD5408eE9",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "e2ab6ba4-2535-49e4-80dd-d33398b7a54e",
+  "links": null,
+  "logo": {},
+  "name": "Generation of Yield",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "YGY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

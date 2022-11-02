@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x62414D03084EeB269E18C970a21f45D2967F0170",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "8958d22f-fc87-4f05-aaf7-9bb6c595c852",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x62414D03084EeB269E18C970a21f45D2967F0170/logo.svg"
+  },
+  "name": "OMGToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OMG",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x58743AAbeD5Bb772845D1A779f7EA592aC744023",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "104c1554-3753-455f-911a-b2d880146aba",
+  "links": null,
+  "logo": {},
+  "name": "bHome",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "bHOME",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

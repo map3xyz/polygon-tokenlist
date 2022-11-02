@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xB2C63830D4478cB331142FAc075A39671a5541dC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4fb33dd0-dcb4-45db-a5e9-e1b21c9e9c2a",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xB2C63830D4478cB331142FAc075A39671a5541dC/logo.png"
+  },
+  "name": "Bombcrypto Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BOMB",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x94C18174840F80D49d59DC3a1742aF0B884A8184",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c61246d-b2e7-4ae3-8c71-ce197ee58098",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x94C18174840F80D49d59DC3a1742aF0B884A8184/logo.svg"
+  },
+  "name": "SwapMatic Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SWAM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

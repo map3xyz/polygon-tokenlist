@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x75EB9Fd8608E2ff9418821062398E4F4B8d53644",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "763c0921-054c-4451-a647-c8f3dd27c44a",
+  "links": null,
+  "logo": {},
+  "name": "Agave",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGVE",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

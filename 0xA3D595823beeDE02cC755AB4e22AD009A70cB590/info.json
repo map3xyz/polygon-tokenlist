@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xA3D595823beeDE02cC755AB4e22AD009A70cB590",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "81b7fb0e-6392-41c5-91db-23bb31a060ca",
+  "links": null,
+  "logo": {},
+  "name": "Kishu Inu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KISHU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

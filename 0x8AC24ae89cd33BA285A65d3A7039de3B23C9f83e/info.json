@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x8AC24ae89cd33BA285A65d3A7039de3B23C9f83e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "0ed7451d-26b5-44a0-99fc-1e13ffc4dbc4",
+  "links": null,
+  "logo": {},
+  "name": "Fair Trader",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FTP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

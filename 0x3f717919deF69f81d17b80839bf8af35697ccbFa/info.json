@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x3f717919deF69f81d17b80839bf8af35697ccbFa",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b19cb850-bd91-47c5-a5f1-c60a60800dfe",
+  "links": null,
+  "logo": {},
+  "name": "DaTa eXchange Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DTX",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

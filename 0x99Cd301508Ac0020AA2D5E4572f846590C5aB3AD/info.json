@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x99Cd301508Ac0020AA2D5E4572f846590C5aB3AD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "af8b4c7e-c1f8-400b-80d8-0e69d888ec1c",
+  "links": null,
+  "logo": {},
+  "name": "Anyswap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x60E68D032deB4c238c2ba580EC0F22516ebcbc13",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9474f2b1-3209-4129-9326-fae19e460cff",
+  "links": null,
+  "logo": {},
+  "name": "Wrapped ANC Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

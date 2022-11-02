@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x65E4Fc43404569998e7cb8E74e785943581f758F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b95e844-ae35-448b-ac1e-53bc43bcc315",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x65E4Fc43404569998e7cb8E74e785943581f758F/logo.svg"
+  },
+  "name": "mushrooming Uniswap",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mUNI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xAdf2F2Ed91755eA3f4bcC9107a494879f633ae7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2b8d7ff6-85c1-4480-b1eb-1c4c69a6bbaa",
+  "links": null,
+  "logo": {},
+  "name": "Request Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REQ",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

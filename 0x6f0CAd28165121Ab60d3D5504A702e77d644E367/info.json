@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6f0CAd28165121Ab60d3D5504A702e77d644E367",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "70449bea-f155-4f56-8fe2-7d55ba42901d",
+  "links": null,
+  "logo": {},
+  "name": "renZEC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "renZEC",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

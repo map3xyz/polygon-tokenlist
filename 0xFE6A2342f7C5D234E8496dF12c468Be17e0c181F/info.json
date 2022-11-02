@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xFE6A2342f7C5D234E8496dF12c468Be17e0c181F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e5d0f15e-3f46-43d7-91dd-ebd95e6414b4",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xFE6A2342f7C5D234E8496dF12c468Be17e0c181F/logo.svg"
+  },
+  "name": "Defiville Island Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ISLA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

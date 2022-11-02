@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x049f12F5a27132d06DE128D48a914F6D82D33D23",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "3064270e-50dc-4605-8ef5-11e657a2ada6",
+  "links": null,
+  "logo": {},
+  "name": "JulSwap on ETH",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "JulD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

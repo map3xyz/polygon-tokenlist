@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xD0ee109352c6116dB0f17F4Aa8519CdBfc7e7887",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f4a92408-17ea-4efc-a519-5a359651060d",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD0ee109352c6116dB0f17F4Aa8519CdBfc7e7887/logo.svg"
+  },
+  "name": "DEAPCOIN",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DEP",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

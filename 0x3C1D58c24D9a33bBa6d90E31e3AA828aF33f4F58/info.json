@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x3C1D58c24D9a33bBa6d90E31e3AA828aF33f4F58",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "faf2604d-d330-432e-bebf-2b3ff73f7236",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3C1D58c24D9a33bBa6d90E31e3AA828aF33f4F58/logo.svg"
+  },
+  "name": "Finally Usable Crypto Karma",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "FUCK",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

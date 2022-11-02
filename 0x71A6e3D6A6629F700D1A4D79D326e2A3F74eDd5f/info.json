@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x71A6e3D6A6629F700D1A4D79D326e2A3F74eDd5f",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1975c28-6bdc-4eb2-a830-c3b02e6673ea",
+  "links": null,
+  "logo": {},
+  "name": "Enjinstarter",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "EJS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

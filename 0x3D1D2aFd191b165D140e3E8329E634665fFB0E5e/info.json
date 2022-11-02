@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x3D1D2aFd191b165D140e3E8329E634665fFB0E5e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6e7450b3-2847-4302-9a6b-19ebb8a0d016",
+  "links": null,
+  "logo": {},
+  "name": "Deri",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DERI",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

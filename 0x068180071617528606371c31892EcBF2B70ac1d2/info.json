@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x068180071617528606371c31892EcBF2B70ac1d2",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ffdb7eab-5d9f-4ec3-9086-b038496626b5",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x068180071617528606371c31892EcBF2B70ac1d2/logo.svg"
+  },
+  "name": "Shopping.io",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SPI",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

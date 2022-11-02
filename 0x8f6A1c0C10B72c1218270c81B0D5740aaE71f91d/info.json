@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x8f6A1c0C10B72c1218270c81B0D5740aaE71f91d",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "e53334b5-2aaf-4e4b-a70a-8d387338ab61",
+  "links": null,
+  "logo": {},
+  "name": "BOWIE",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BOWIE",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

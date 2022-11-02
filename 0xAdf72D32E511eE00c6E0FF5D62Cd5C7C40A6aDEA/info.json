@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xAdf72D32E511eE00c6E0FF5D62Cd5C7C40A6aDEA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "2e951655-5180-4557-9231-b53b2e436e50",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xAdf72D32E511eE00c6E0FF5D62Cd5C7C40A6aDEA/logo.png"
+  },
+  "name": "PRUF",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PRUF",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xcD0D64C971AF8B477042130c5e6cD2A6f7842869",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5bf3bbe9-6a71-41fb-a620-d8c8cd585416",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xcD0D64C971AF8B477042130c5e6cD2A6f7842869/logo.svg"
+  },
+  "name": "Benzene",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BZN",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

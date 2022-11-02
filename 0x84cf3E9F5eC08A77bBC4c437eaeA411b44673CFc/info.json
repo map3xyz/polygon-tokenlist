@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x84cf3E9F5eC08A77bBC4c437eaeA411b44673CFc",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ebe2fe37-94da-41f4-9954-8f50524c8dbb",
+  "links": null,
+  "logo": {},
+  "name": "BoneShards",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BONESHARDS",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

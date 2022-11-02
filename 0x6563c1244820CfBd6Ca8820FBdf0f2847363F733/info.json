@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x6563c1244820CfBd6Ca8820FBdf0f2847363F733",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "763659a1-4f3f-4a5a-92af-042b2587f104",
+  "links": null,
+  "logo": {},
+  "name": "Reputation",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REPv2",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

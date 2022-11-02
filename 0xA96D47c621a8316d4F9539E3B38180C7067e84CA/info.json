@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xA96D47c621a8316d4F9539E3B38180C7067e84CA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f455f733-7b92-4fcf-a5d0-a76f3cc0baaf",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xA96D47c621a8316d4F9539E3B38180C7067e84CA/logo.svg"
+  },
+  "name": "AurusSILVER",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AWS",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

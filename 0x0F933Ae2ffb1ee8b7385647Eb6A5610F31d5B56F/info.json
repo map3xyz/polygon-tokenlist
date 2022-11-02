@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0F933Ae2ffb1ee8b7385647Eb6A5610F31d5B56F",
+  "color": null,
+  "decimals": 4,
+  "description": null,
+  "id": "5c0f1076-4c6d-41cc-a354-6eb08c0cef92",
+  "links": null,
+  "logo": {},
+  "name": "AutoChainTokenCandy",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ATCx",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

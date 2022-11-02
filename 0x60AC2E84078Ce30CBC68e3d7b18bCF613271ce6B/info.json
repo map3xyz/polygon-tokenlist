@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x60AC2E84078Ce30CBC68e3d7b18bCF613271ce6B",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "80dcf811-fe86-45ff-8f8a-ffc1ae9cd5ce",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x60AC2E84078Ce30CBC68e3d7b18bCF613271ce6B/logo.svg"
+  },
+  "name": "ALOHA",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ALOHA",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

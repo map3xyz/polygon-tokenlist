@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xFEFF6c1643D38B13a198cfe1d76505701c380aF0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "eeae7700-dc02-4ded-8b52-0b5aa6d732b3",
+  "links": null,
+  "logo": {},
+  "name": "Decentralized Insurance Protocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DIP",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

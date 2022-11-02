@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x3d32a7Dc8B0C62A73639BF0D4FE8D229a2431EC8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6a39fff5-1ace-4196-a205-156a6ed65f9f",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x3d32a7Dc8B0C62A73639BF0D4FE8D229a2431EC8/logo.svg"
+  },
+  "name": "PolkaFoundry",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PKF",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

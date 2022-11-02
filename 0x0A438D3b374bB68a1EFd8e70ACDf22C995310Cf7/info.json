@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x0A438D3b374bB68a1EFd8e70ACDf22C995310Cf7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cce343a5-a1e9-4f5f-8fdd-5c90c5ca4501",
+  "links": null,
+  "logo": {},
+  "name": "CoinDev.io",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ANAL",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

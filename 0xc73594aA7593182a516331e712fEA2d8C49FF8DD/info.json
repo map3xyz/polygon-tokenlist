@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xc73594aA7593182a516331e712fEA2d8C49FF8DD",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9d74c415-94e6-444e-babe-a8be3fc5cb31",
+  "links": null,
+  "logo": {},
+  "name": "CHARLI3",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "C3",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

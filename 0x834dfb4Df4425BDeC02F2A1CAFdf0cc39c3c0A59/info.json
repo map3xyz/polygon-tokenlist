@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x834dfb4Df4425BDeC02F2A1CAFdf0cc39c3c0A59",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "48cee65d-d561-4b42-b0e7-b8f6326c43b5",
+  "links": null,
+  "logo": {},
+  "name": "LGCY Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "LGCY",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

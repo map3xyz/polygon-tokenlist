@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF0AF7795765273aEbfd8A908460b728BdC3fc937",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d0aa2fdf-e6e5-4673-bb2e-4a1714ad9f2c",
+  "links": null,
+  "logo": {},
+  "name": "Akiverse Governance",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AKV",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

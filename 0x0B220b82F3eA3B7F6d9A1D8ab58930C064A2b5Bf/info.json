@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0B220b82F3eA3B7F6d9A1D8ab58930C064A2b5Bf",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fde45bd4-7a2e-4351-9e17-d4c278355b58",
+  "links": null,
+  "logo": {},
+  "name": "Golem Network Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GLM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x7dc0cb65EC6019330a6841e9c274f2EE57A6CA6C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "63d8ca76-2a75-4dee-aa6e-df031fd1cba8",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x7dc0cb65EC6019330a6841e9c274f2EE57A6CA6C/logo.svg"
+  },
+  "name": "Pluton",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PLU",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

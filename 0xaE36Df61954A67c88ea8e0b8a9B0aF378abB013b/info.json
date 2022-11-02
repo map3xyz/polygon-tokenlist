@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xaE36Df61954A67c88ea8e0b8a9B0aF378abB013b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7c1c9671-56ab-4cd7-b56f-5358d159e091",
+  "links": null,
+  "logo": {},
+  "name": "Sunder Goverance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Sunder",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

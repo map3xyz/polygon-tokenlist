@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xa1D6Cd1a37f82813Ac9852cd7E96f909cbccEa06",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "842f0c1a-95c8-4442-ab17-a21048dcda83",
+  "links": null,
+  "logo": {},
+  "name": "EtherCats.io",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ECAT",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

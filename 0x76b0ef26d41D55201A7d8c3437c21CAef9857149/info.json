@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x76b0ef26d41D55201A7d8c3437c21CAef9857149",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e164666d-f720-446d-816e-67b030b5808b",
+  "links": null,
+  "logo": {},
+  "name": "CLIK",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CLIK",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xe1e516Ed179E8f448f5ebD5eca4F2A892368b78b",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d412f085-e5f1-4411-aaf0-7a3e44e5e999",
+  "links": null,
+  "logo": {},
+  "name": "Ripio Coin",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "RPC",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

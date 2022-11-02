@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xDAB625853c2B35D0a9C6bD8e5a097a664ef4CcFb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b77ce75c-27a9-4552-9976-1dcafc5bfa91",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xDAB625853c2B35D0a9C6bD8e5a097a664ef4CcFb/logo.svg"
+  },
+  "name": "QuadrantProtocol",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "eQUAD",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

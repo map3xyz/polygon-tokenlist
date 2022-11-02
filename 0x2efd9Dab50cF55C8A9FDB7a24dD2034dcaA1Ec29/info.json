@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x2efd9Dab50cF55C8A9FDB7a24dD2034dcaA1Ec29",
+  "color": null,
+  "decimals": 9,
+  "description": null,
+  "id": "807ad33f-913d-4b87-b637-714175fb3636",
+  "links": null,
+  "logo": {},
+  "name": "Myōbu",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "MYOBU",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

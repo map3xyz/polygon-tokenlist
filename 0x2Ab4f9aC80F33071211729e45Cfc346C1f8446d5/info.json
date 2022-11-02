@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "1e886088-bb63-4501-b455-53cac79a0c0e",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5/logo.svg"
+  },
+  "name": "ChainGuardians Governance Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CGG",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

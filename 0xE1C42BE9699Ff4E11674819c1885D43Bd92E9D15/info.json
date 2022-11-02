@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE1C42BE9699Ff4E11674819c1885D43Bd92E9D15",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a8fd5713-3b1f-42f1-93ff-c47e49a3b7c1",
+  "links": null,
+  "logo": {},
+  "name": "Torum",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "XTM",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

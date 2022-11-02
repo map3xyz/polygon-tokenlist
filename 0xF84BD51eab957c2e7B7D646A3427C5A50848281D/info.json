@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "4add6ba7-42bb-4a1c-9b74-86358b7f61c0",
+  "links": null,
+  "logo": {},
+  "name": "AGA Rewards",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AGAr",
+  "tags": [
+    "pos",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

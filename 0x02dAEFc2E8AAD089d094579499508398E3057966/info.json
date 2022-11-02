@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0x02dAEFc2E8AAD089d094579499508398E3057966",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8908bd1-cc1a-4d45-9f66-5b9eeef7ac2a",
+  "links": null,
+  "logo": {},
+  "name": "SHIP20T5",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "SHIP20T5",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
