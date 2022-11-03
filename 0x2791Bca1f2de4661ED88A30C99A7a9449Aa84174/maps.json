@@ -1,10 +1,26 @@
 [
-    {
-        "fromAsset": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-        "fromNetwork": "polygon",
-        "toAsset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "toNetwork": "ethereum",
-        "type": "direct_issuance",
-        "verifications": []
-    }
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromNetwork": "polygon",
+    "toNetwork": "ethereum",
+    "type": "direct_issuance"
+  },
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "fromNetwork": "polygon",
+    "toAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  }
 ]
