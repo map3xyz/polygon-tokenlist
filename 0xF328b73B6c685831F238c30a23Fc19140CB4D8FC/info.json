@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "address": "0xF328b73B6c685831F238c30a23Fc19140CB4D8FC",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9c3e28f4-6147-4377-815b-ad907a644267",
+  "links": null,
+  "logo": {},
+  "name": "Across Protocol Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ACX",
+  "tags": [
+    "pos",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

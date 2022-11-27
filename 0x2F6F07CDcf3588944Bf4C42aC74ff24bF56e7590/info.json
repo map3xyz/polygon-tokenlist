@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a70bf465-cbd3-41c7-89ad-47a8b2d7b1ea",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
+  },
+  "name": "StargateToken",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "STG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

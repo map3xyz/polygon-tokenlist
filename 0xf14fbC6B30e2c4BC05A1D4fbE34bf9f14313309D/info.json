@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xf14fbC6B30e2c4BC05A1D4fbE34bf9f14313309D",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "17f949a9-0643-49fd-ad72-cf3ded375093",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xf14fbC6B30e2c4BC05A1D4fbE34bf9f14313309D/logo.png"
+  },
+  "name": "Akash Network (PoS)",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AKT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

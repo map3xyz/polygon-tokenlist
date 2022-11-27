@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xC1543024DC71247888a7e139c644F44E75E96d38",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "04e747ea-c9f5-4468-8a34-76847424a6d6",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xC1543024DC71247888a7e139c644F44E75E96d38/logo.png"
+  },
+  "name": "Battle World",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "BWO",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

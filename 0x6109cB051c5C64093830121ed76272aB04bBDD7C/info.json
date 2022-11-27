@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x6109cB051c5C64093830121ed76272aB04bBDD7C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "cf8e7f69-b338-4e80-96ac-219e935e41f6",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x6109cB051c5C64093830121ed76272aB04bBDD7C/logo.png"
+  },
+  "name": "Prosper",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "PROS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

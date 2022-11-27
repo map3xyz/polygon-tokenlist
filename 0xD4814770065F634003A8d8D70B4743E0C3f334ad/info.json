@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xD4814770065F634003A8d8D70B4743E0C3f334ad",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "207c0d0e-395f-47ce-aed6-3793e28379f9",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xD4814770065F634003A8d8D70B4743E0C3f334ad/logo.png"
+  },
+  "name": "Poly Ontology Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ONT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
