@@ -6,7 +6,9 @@
   "description": null,
   "id": "caefaa0d-9833-45cf-a657-39db95e25745",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x430EF9263E76DAE63c84292C3409D61c598E9682/logo.png"
+  },
   "name": "PYR Token",
   "networkCode": "polygon",
   "spam": false,
