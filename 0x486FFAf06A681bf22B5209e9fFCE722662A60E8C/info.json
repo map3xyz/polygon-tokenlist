@@ -6,7 +6,9 @@
   "description": null,
   "id": "391f7c12-d2b7-4b82-9be7-92cac421fc29",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x486FFAf06A681bf22B5209e9fFCE722662A60E8C/logo.png"
+  },
   "name": "FlyCoin",
   "networkCode": "polygon",
   "spam": false,

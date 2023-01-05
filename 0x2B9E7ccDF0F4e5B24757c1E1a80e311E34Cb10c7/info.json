@@ -6,7 +6,9 @@
   "description": null,
   "id": "bcc15c42-cbc8-4aad-bbb8-1f9f99510566",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7/logo.png"
+  },
   "name": "Mask Network",
   "networkCode": "polygon",
   "spam": false,
