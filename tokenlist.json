@@ -1,6 +1,6 @@
 {
   "name": "@Map3/polygon-tokenlist",
-  "timestamp": "2022-11-02T10:33:34.017Z",
+  "timestamp": "2023-01-05T14:59:45.892Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -3423,6 +3423,15 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "name": "StargateToken",
+      "decimals": 18,
+      "symbol": "STG",
+      "tags": [
+        "defi"
       ]
     },
     {
@@ -7337,6 +7346,13 @@
       ]
     },
     {
+      "address": "0x6109cB051c5C64093830121ed76272aB04bBDD7C",
+      "name": "Prosper",
+      "decimals": 18,
+      "symbol": "PROS",
+      "tags": []
+    },
+    {
       "address": "0x6127Bb5A1b847fF57bF7B9469c4db6E310466214",
       "name": "SakeToken",
       "decimals": 18,
@@ -8426,6 +8442,15 @@
       ]
     },
     {
+      "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+      "name": "Axelar",
+      "decimals": 6,
+      "symbol": "AXL",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
       "address": "0x6ec60377b874782408EA493BeCCCce39347A911A",
       "name": "Starname",
       "decimals": 6,
@@ -8835,6 +8860,16 @@
         "pos",
         "erc20",
         "swapable"
+      ]
+    },
+    {
+      "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+      "name": "Axelar Wrapped USDC",
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "tags": [
+        "stablecoin",
+        "wrapped"
       ]
     },
     {
@@ -10756,6 +10791,16 @@
       ]
     },
     {
+      "address": "0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C",
+      "name": "Cherry Token",
+      "decimals": 18,
+      "symbol": "CHER",
+      "tags": [
+        "staking-native",
+        "wrapped"
+      ]
+    },
+    {
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
       "name": "Dai - PoS",
       "decimals": 18,
@@ -10829,6 +10874,15 @@
         "pos",
         "erc20",
         "swapable"
+      ]
+    },
+    {
+      "address": "0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
+      "name": "OWL",
+      "decimals": 18,
+      "symbol": "OWL",
+      "tags": [
+        "defi"
       ]
     },
     {
@@ -12603,6 +12657,15 @@
       ]
     },
     {
+      "address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+      "name": "Request",
+      "decimals": 18,
+      "symbol": "REQ",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xB261387f5188c81DdD543e2A75c89309aB1bfD2C",
       "name": "Wrapped Mirror NFLX Token",
       "decimals": 18,
@@ -13029,6 +13092,15 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0xC1543024DC71247888a7e139c644F44E75E96d38",
+      "name": "Battle World",
+      "decimals": 18,
+      "symbol": "BWO",
+      "tags": [
+        "gamefi"
       ]
     },
     {
@@ -13558,6 +13630,15 @@
         "pos",
         "erc20",
         "swapable"
+      ]
+    },
+    {
+      "address": "0xD4814770065F634003A8d8D70B4743E0C3f334ad",
+      "name": "Poly Ontology Token",
+      "decimals": 18,
+      "symbol": "ONT",
+      "tags": [
+        "defi"
       ]
     },
     {
@@ -14454,6 +14535,15 @@
       ]
     },
     {
+      "address": "0xE7879BaFa6A41F919f145a97207e54839d34c9bA",
+      "name": "Matic-Peg Stream",
+      "decimals": 18,
+      "symbol": "MSTRM",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0xE79378Aaf2386452960a365fB8D720AC888c9614",
       "name": "Phantasma Stake",
       "decimals": 8,
@@ -14891,6 +14981,16 @@
       "name": "OCC",
       "decimals": 18,
       "symbol": "OCC",
+      "tags": [
+        "pos",
+        "erc20"
+      ]
+    },
+    {
+      "address": "0xF328b73B6c685831F238c30a23Fc19140CB4D8FC",
+      "name": "Across Protocol Token",
+      "decimals": 18,
+      "symbol": "ACX",
       "tags": [
         "pos",
         "erc20"
@@ -17075,6 +17175,15 @@
       ]
     },
     {
+      "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+      "name": "VOXEL Token",
+      "decimals": 18,
+      "symbol": "VOXEL",
+      "tags": [
+        "gamefi"
+      ]
+    },
+    {
       "address": "0xd0e9c8f5Fae381459cf07Ec506C1d2896E8b5df6",
       "name": "Internet of Energy Network",
       "decimals": 18,
@@ -18317,6 +18426,15 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0xf14fbC6B30e2c4BC05A1D4fbE34bf9f14313309D",
+      "name": "Akash Network (PoS)",
+      "decimals": 6,
+      "symbol": "AKT",
+      "tags": [
+        "defi"
       ]
     },
     {

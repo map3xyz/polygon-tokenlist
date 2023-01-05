@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "4457ca45-138e-4317-993f-4d1c5a0a656b",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19/logo.png"
+  },
+  "name": "OWL",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OWL",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
