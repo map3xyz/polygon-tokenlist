@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5bf3a803-1d3f-469d-8dcd-a1e88d00b07b",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762/logo.png"
+  },
+  "name": "Request",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "REQ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

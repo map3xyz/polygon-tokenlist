@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "1760bcf0-7305-4380-93c4-8df7fcd9258c",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed/logo.png"
+  },
+  "name": "Axelar Wrapped USDC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "axlUSDC",
+  "tags": [
+    "stablecoin",
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

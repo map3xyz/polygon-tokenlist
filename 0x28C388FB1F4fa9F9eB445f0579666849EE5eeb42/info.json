@@ -6,7 +6,9 @@
   "description": null,
   "id": "7fc34c59-e76c-4e45-bb03-9174962e1932",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x28C388FB1F4fa9F9eB445f0579666849EE5eeb42/logo.png"
+  },
   "name": "Bella",
   "networkCode": "polygon",
   "spam": false,

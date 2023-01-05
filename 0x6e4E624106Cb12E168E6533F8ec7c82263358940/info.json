@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x6e4E624106Cb12E168E6533F8ec7c82263358940",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "b4b96245-2176-4e0e-b78c-ca715b4db6e0",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x6e4E624106Cb12E168E6533F8ec7c82263358940/logo.png"
+  },
+  "name": "Axelar",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "AXL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

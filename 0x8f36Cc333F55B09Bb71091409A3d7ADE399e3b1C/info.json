@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "417182b3-3d8e-4df4-976f-27e2c63cdc21",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C/logo.png"
+  },
+  "name": "Cherry Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHER",
+  "tags": [
+    "staking-native",
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

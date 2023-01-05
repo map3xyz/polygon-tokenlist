@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a09a33ce-4ace-437a-bf4f-5158a3bdaf5b",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F/logo.png"
+  },
+  "name": "VOXEL Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "VOXEL",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
