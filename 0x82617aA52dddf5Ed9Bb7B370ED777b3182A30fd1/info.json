@@ -6,7 +6,9 @@
   "description": null,
   "id": "b8f46ea9-5441-47aa-803b-c9ba3bace30f",
   "links": null,
-  "logo": {},
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1/logo.png"
+  },
   "name": "Yield Guild Games Token",
   "networkCode": "polygon",
   "spam": false,
