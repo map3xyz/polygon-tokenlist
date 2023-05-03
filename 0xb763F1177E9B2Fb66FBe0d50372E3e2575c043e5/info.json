@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c8fed1ba-6ecd-4f1c-b244-78ff6c7a1cc2",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5/logo.png"
+  },
+  "name": "Karmaverse",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KNOT",
+  "tags": [
+    "pos",
+    "erc20",
+    "noDeposit",
+    "noWithdraw",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

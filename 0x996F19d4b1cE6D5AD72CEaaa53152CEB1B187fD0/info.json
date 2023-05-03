@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x996F19d4b1cE6D5AD72CEaaa53152CEB1B187fD0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "15d03035-3181-4760-8213-0322175fbff7",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x996F19d4b1cE6D5AD72CEaaa53152CEB1B187fD0/logo.svg"
+  },
+  "name": "Polkamarkets",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "POLK",
+  "tags": [
+    "fx",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "b1b148f8-7718-4945-87fe-3e5a8a64e4cd",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189/logo.png"
+  },
+  "name": "Okcash",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "OK",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

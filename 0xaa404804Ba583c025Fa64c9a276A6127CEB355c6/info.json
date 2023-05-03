@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xaa404804Ba583c025Fa64c9a276A6127CEB355c6",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "8ce21e10-74d1-486f-9421-fc3eadbb71b4",
+  "links": null,
+  "logo": {},
+  "name": "CIPHER",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CPR",
+  "tags": [
+    "pos",
+    "erc20",
+    "noDeposit",
+    "noWithdraw"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

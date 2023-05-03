@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xbC2b48BC930Ddc4E5cFb2e87a45c379Aab3aac5C",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ffd0ea3b-7d36-412c-a652-a752d62bbe20",
+  "links": null,
+  "logo": {
+    "svg": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xbC2b48BC930Ddc4E5cFb2e87a45c379Aab3aac5C/logo.svg"
+  },
+  "name": "Dola",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "DOLA",
+  "tags": [
+    "fx",
+    "erc20"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

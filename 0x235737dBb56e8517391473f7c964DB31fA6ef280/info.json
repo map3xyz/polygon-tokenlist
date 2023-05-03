@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x235737dBb56e8517391473f7c964DB31fA6ef280",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "545b7acc-2859-4ff6-b6fd-e7dc8e7a2c01",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x235737dBb56e8517391473f7c964DB31fA6ef280/logo.png"
+  },
+  "name": "Kasta",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KASTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,6 +1,6 @@
 {
   "name": "@Map3/polygon-tokenlist",
-  "timestamp": "2023-01-05T14:59:45.892Z",
+  "timestamp": "2023-05-03T13:38:38.379Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -983,6 +983,15 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+      "name": "Ankr Staked MATIC",
+      "decimals": 18,
+      "symbol": "ankrMATIC",
+      "tags": [
+        "staking"
       ]
     },
     {
@@ -2725,6 +2734,13 @@
       ]
     },
     {
+      "address": "0x235737dBb56e8517391473f7c964DB31fA6ef280",
+      "name": "Kasta",
+      "decimals": 18,
+      "symbol": "KASTA",
+      "tags": []
+    },
+    {
       "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
       "name": "HEX",
       "decimals": 8,
@@ -3227,6 +3243,13 @@
         "pos",
         "erc20"
       ]
+    },
+    {
+      "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+      "name": "XEN Crypto",
+      "decimals": 18,
+      "symbol": "mXEN",
+      "tags": []
     },
     {
       "address": "0x2AE0e530CA7857b0E40078C43bA7158ce424838a",
@@ -7457,6 +7480,19 @@
       ]
     },
     {
+      "address": "0x623a1350f6B749575F92Ea54D0F745f9F07D3665",
+      "name": "Karmaverse Zombie",
+      "decimals": 0,
+      "symbol": "Serum",
+      "tags": [
+        "pos",
+        "erc20",
+        "noDeposit",
+        "noWithdraw",
+        "swapable"
+      ]
+    },
+    {
       "address": "0x62414D03084EeB269E18C970a21f45D2967F0170",
       "name": "OMGToken",
       "decimals": 18,
@@ -10753,6 +10789,17 @@
       ]
     },
     {
+      "address": "0x8e26032650a389BF9cf16C17C4cd605742f1ef8D",
+      "name": "Kapital DAO Token",
+      "decimals": 18,
+      "symbol": "KAP",
+      "tags": [
+        "fx",
+        "erc20",
+        "swapable"
+      ]
+    },
+    {
       "address": "0x8e600198218AEAEb6a4B4F84771dF8b38930ddcE",
       "name": "Mireneum token",
       "decimals": 8,
@@ -10956,6 +11003,18 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
+      "name": "WrappedPeercoin",
+      "decimals": 6,
+      "symbol": "wPPC",
+      "tags": [
+        "pos",
+        "erc20",
+        "noDeposit",
+        "noWithdraw"
       ]
     },
     {
@@ -11471,6 +11530,17 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0x996F19d4b1cE6D5AD72CEaaa53152CEB1B187fD0",
+      "name": "Polkamarkets",
+      "decimals": 18,
+      "symbol": "POLK",
+      "tags": [
+        "fx",
+        "erc20",
+        "swapable"
       ]
     },
     {
@@ -14422,6 +14492,15 @@
       ]
     },
     {
+      "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+      "name": "Gains Network",
+      "decimals": 18,
+      "symbol": "GNS",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xE5d6364efCDCb90eD92cf6F776dD0B6165168a7e",
       "name": "FullDex",
       "decimals": 16,
@@ -14744,6 +14823,16 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0xED755dBa6Ec1eb520076Cec051a582A6d81A8253",
+      "name": "Ultimate Champions Token",
+      "decimals": 18,
+      "symbol": "CHAMP",
+      "tags": [
+        "nft",
+        "gamefi"
       ]
     },
     {
@@ -15983,6 +16072,18 @@
       ]
     },
     {
+      "address": "0xaa404804Ba583c025Fa64c9a276A6127CEB355c6",
+      "name": "CIPHER",
+      "decimals": 2,
+      "symbol": "CPR",
+      "tags": [
+        "pos",
+        "erc20",
+        "noDeposit",
+        "noWithdraw"
+      ]
+    },
+    {
       "address": "0xaa5eD3C460C38eB71fba089B853d0a91C0e71DD5",
       "name": "DAOventuresDeFi",
       "decimals": 18,
@@ -16312,6 +16413,19 @@
       ]
     },
     {
+      "address": "0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
+      "name": "Karmaverse",
+      "decimals": 18,
+      "symbol": "KNOT",
+      "tags": [
+        "pos",
+        "erc20",
+        "noDeposit",
+        "noWithdraw",
+        "swapable"
+      ]
+    },
+    {
       "address": "0xb8218785cb4d14dBdD94Bf314F361542579b4815",
       "name": "WhaleStreet $hrimp Token",
       "decimals": 18,
@@ -16447,6 +16561,16 @@
         "staking",
         "nft",
         "deflationary"
+      ]
+    },
+    {
+      "address": "0xbC2b48BC930Ddc4E5cFb2e87a45c379Aab3aac5C",
+      "name": "Dola",
+      "decimals": 18,
+      "symbol": "DOLA",
+      "tags": [
+        "fx",
+        "erc20"
       ]
     },
     {
@@ -16741,6 +16865,17 @@
       "tags": [
         "pos",
         "erc20"
+      ]
+    },
+    {
+      "address": "0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA",
+      "name": "Giveth Token",
+      "decimals": 18,
+      "symbol": "GIV",
+      "tags": [
+        "fx",
+        "erc20",
+        "swapable"
       ]
     },
     {
@@ -17265,6 +17400,15 @@
         "pos",
         "erc20",
         "swapable"
+      ]
+    },
+    {
+      "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+      "name": "Okcash",
+      "decimals": 18,
+      "symbol": "OK",
+      "tags": [
+        "defi"
       ]
     },
     {
