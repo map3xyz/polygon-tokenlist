@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e2819c5e-ed00-4628-a862-ec2b4563bd38",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xE5417Af564e4bFDA1c483642db72007871397896/logo.png"
+  },
+  "name": "Gains Network",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GNS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

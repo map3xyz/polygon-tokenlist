@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e9476801-3339-463a-bdee-01c7b6f1bbe8",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA/logo.png"
+  },
+  "name": "Giveth Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "GIV",
+  "tags": [
+    "fx",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "e48c23c3-95b2-4253-a5fa-d32a7c3a1476",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e/logo.png"
+  },
+  "name": "XEN Crypto",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "mXEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x623a1350f6B749575F92Ea54D0F745f9F07D3665",
+  "color": null,
+  "decimals": 0,
+  "description": null,
+  "id": "60b84e59-7ef6-45d7-a36c-e1d1beb124a7",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x623a1350f6B749575F92Ea54D0F745f9F07D3665/logo.png"
+  },
+  "name": "Karmaverse Zombie",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "Serum",
+  "tags": [
+    "pos",
+    "erc20",
+    "noDeposit",
+    "noWithdraw",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

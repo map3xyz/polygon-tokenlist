@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xED755dBa6Ec1eb520076Cec051a582A6d81A8253",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "584e4618-1df7-4fd2-bd08-a5548f9f76ad",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0xED755dBa6Ec1eb520076Cec051a582A6d81A8253/logo.png"
+  },
+  "name": "Ultimate Champions Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "CHAMP",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

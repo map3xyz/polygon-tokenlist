@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "6c3c073d-04d7-4d9e-bbb1-1ac87fc64270",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58/logo.png"
+  },
+  "name": "Ankr Staked MATIC",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "ankrMATIC",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

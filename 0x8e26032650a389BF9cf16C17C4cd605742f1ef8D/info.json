@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "address": "0x8e26032650a389BF9cf16C17C4cd605742f1ef8D",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "d8607fa4-3ddc-4ed9-961b-39d16c0cfacd",
+  "links": null,
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/polygon-tokenlist/master/0x8e26032650a389BF9cf16C17C4cd605742f1ef8D/logo.png"
+  },
+  "name": "Kapital DAO Token",
+  "networkCode": "polygon",
+  "spam": false,
+  "symbol": "KAP",
+  "tags": [
+    "fx",
+    "erc20",
+    "swapable"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
